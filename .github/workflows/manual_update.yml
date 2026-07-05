@@ -6,7 +6,6 @@ on:
 jobs:
   update-files:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
