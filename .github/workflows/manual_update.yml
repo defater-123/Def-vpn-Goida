@@ -12,14 +12,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
-        with:
-          token: ${{ secrets.MY_TOKEN }}
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.10"
 
       - name: Configure git
         run: |
@@ -33,6 +31,4 @@ jobs:
         run: cd source && pip install --no-cache-dir -r requirements.txt
 
       - name: Run script
-        env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: cd source && python main.py
