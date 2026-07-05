@@ -1,0 +1,53 @@
+name: VPN Деплой
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:  # Возможность запустить вручную с кнопки
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Загрузка кода"
+        uses: actions/checkout@v4
+
+      - name: "🔑 Подготовка VPN ключей"
+        run: |
+          echo "Создание директории /etc/openvpn..."
+          sudo mkdir -p /etc/openvpn
+          echo "Запись конфига из секретов..."
+          echo "${{ secrets.VPN_CONFIG }}" | sudo tee /etc/openvpn/client.conf > /dev/null
+          echo "Ключи сохранены"
+
+      - name: "🌐 Установка OpenVPN"
+        run: |
+          echo "Обновление пакетов..."
+          sudo apt-get update -qq
+          echo "Установка OpenVPN..."
+          sudo apt-get install -y openvpn -qq
+          echo "OpenVPN установлен"
+
+      - name: "🔗 Подключение к VPN"
+        run: |
+          echo "Запуск OpenVPN в фоне..."
+          sudo openvpn --config /etc/openvpn/client.conf --daemon
+          echo "Ожидание подключения (10 сек)..."
+          sleep 10
+          echo "Проверка IP..."
+          curl -s ifconfig.me
+          echo ""
+          echo "VPN подключен"
+
+      - name: "🚀 Основные задачи"
+        run: |
+          echo "Выполнение деплоя..."
+          echo "Ваши команды здесь"
+          # Например: docker build, npm deploy, rsync и т.д.
+
+      - name: "🧹 Отключение VPN"
+        if: always()
+        run: |
+          echo "Завершение OpenVPN..."
+          sudo pkill openvpn || true
+          echo "VPN отключен"
