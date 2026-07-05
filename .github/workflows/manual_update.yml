@@ -1,33 +1,138 @@
-name: Manual Update
+name: 🚀 Обновление VPN-ключей
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"      # Автоматически: каждый час
+  workflow_dispatch:          # Вручную: через кнопку "Run workflow"
 
 jobs:
-  update-files:
+  update-keys:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
+      # ========== ШАГ 1 ==========
+      - name: 📥 Загрузка репозитория
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      # ========== ШАГ 2 ==========
+      - name: 🐍 Подготовка Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Configure git
+      # ========== ШАГ 3 ==========
+      - name: 📦 Установка зависимостей
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "⏳ Устанавливаю необходимые библиотеки..."
+          cd source
+          pip install --no-cache-dir -r requirements.txt
+          echo "✅ Зависимости установлены"
 
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
+      # ========== ШАГ 4 ==========
+      - name: 🔍 Скачивание ключей из источников
+        run: |
+          echo "⏳ Получаю свежие ключи из 26 источников..."
+          cd source
+          python -c "from src.file_manager import download_and_save; [download_and_save(i) for i in range(26)]"
+          echo "✅ Ключи успешно загружены"
 
-      - name: Install dependencies
-        run: cd source && pip install --no-cache-dir -r requirements.txt
+      # ========== ШАГ 5 ==========
+      - name: 🧹 Объединение и фильтрация ключей
+        run: |
+          echo "⏳ Объединяю все ключи в один файл..."
+          cd source
+          python -c "
+import os
+from src.file_manager import read_file, write_file
 
-      - name: Run script
-        run: cd source && python main.py
+all_keys = []
+for i in range(1, 27):
+    file_path = f'../githubmirror/{i}.txt'
+    if os.path.exists(file_path):
+        keys = read_file(file_path).splitlines()
+        all_keys.extend(keys)
+        print(f'  ✅ Добавлено {len(keys)} ключей из {i}.txt')
+
+if all_keys:
+    write_file('../githubmirror/all.txt', '\n'.join(all_keys))
+    print(f'✅ Всего ключей: {len(all_keys)}')
+"
+          echo "✅ Объединение завершено"
+
+      # ========== ШАГ 6 ==========
+      - name: ⚡ Проверка ключей (топ-50)
+        run: |
+          echo "⏳ Проверяю ключи и ищу лучшие 50..."
+          cd source
+          python -c "
+import re
+import subprocess
+from src.file_manager import read_file, write_file
+
+def check_key(key):
+    match = re.search(r'@([^:]+):([0-9]+)', key)
+    if not match:
+        return False
+    ip, port = match.group(1), match.group(2)
+    try:
+        result = subprocess.run(['timeout', '2', 'nc', '-zv', ip, port], 
+                              capture_output=True, timeout=3)
+        return result.returncode == 0
+    except:
+        return False
+
+keys = read_file('../githubmirror/all.txt').splitlines()
+alive = []
+for i, key in enumerate(keys, 1):
+    if check_key(key):
+        alive.append(key)
+        print(f'  ✅ Найден живой ключ #{i}')
+    if len(alive) >= 50:
+        break
+
+write_file('../githubmirror/top_50.txt', '\n'.join(alive))
+print(f'✅ Найдено {len(alive)} живых ключей')
+"
+          echo "✅ Проверка завершена"
+
+      # ========== ШАГ 7 ==========
+      - name: 📊 Сохранение результатов
+        run: |
+          echo "⏳ Сохраняю результаты..."
+          echo "📁 Созданы файлы:"
+          echo "  • githubmirror/all.txt     — все ключи"
+          echo "  • githubmirror/top_50.txt  — 50 лучших живых ключей"
+          
+          echo ""
+          echo "📊 Статистика:"
+          echo "  Всего ключей: $(wc -l < githubmirror/all.txt)"
+          echo "  Лучших 50: $(wc -l < githubmirror/top_50.txt)"
+          echo "✅ Результаты сохранены"
+
+      # ========== ШАГ 8 ==========
+      - name: 📤 Отправка обновлений в репозиторий
+        run: |
+          echo "⏳ Отправляю обновления..."
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add githubmirror/
+          git diff --staged --quiet || git commit -m "🔄 Обновление ключей $(date '+%d.%m.%Y %H:%M')"
+          git push
+          echo "✅ Обновления отправлены"
+
+      # ========== ШАГ 9 ==========
+      - name: 🎉 Завершение
+        run: |
+          echo ""
+          echo "========================================="
+          echo "✅  ВСЕ ШАГИ ЗАВЕРШЕНЫ УСПЕШНО!"
+          echo "========================================="
+          echo ""
+          echo "📋 Что создано:"
+          echo "  📄 githubmirror/all.txt     — все ключи"
+          echo "  📄 githubmirror/top_50.txt  — 50 лучших живых ключей"
+          echo ""
+          echo "⏰ Автообновление: каждый час"
+          echo "========================================="
