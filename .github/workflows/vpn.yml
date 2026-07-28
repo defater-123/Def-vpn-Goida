@@ -20,14 +20,16 @@ jobs:
         id: keys
         run: |
           KEYS=$(./xray x25519)
-          PRIVATE_KEY=$(echo "$KEYS" | grep "Private key" | awk '{print $3}')
-          PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}')
-          UUID=$(uuidgen)
-          SHORT_ID=$(openssl rand -hex 8)
+          PRIVATE_KEY=$(echo "$KEYS" | grep "Private key" | awk '{print $3}' | tr -d '[:space:]')
+          PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}' | tr -d '[:space:]')
+          UUID=$(uuidgen | tr -d '[:space:]')
+          SHORT_ID=$(openssl rand -hex 8 | tr -d '[:space:]')
           echo "PRIVATE_KEY=$PRIVATE_KEY" >> $GITHUB_ENV
           echo "PUBLIC_KEY=$PUBLIC_KEY" >> $GITHUB_ENV
           echo "UUID=$UUID" >> $GITHUB_ENV
           echo "SHORT_ID=$SHORT_ID" >> $GITHUB_ENV
+          echo "📌 Public key: $PUBLIC_KEY (длина ${#PUBLIC_KEY})"
+          echo "📌 Private key: $PRIVATE_KEY"
 
       - name: Выбор тоннеля (ngrok, bore или serveo)
         run: |
@@ -143,6 +145,8 @@ jobs:
           echo "$CLIENT_LINK" > key.txt
           echo "🔑 Готовый ключ:"
           cat key.txt
+          echo ""
+          echo "Публичный ключ в ссылке: $PUBLIC_KEY"
         env:
           REMOTE_HOST: ${{ env.REMOTE_HOST }}
           REMOTE_PORT: ${{ env.REMOTE_PORT }}
