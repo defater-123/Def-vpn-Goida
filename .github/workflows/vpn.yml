@@ -22,11 +22,8 @@ jobs:
           KEYS=$(./xray x25519)
           echo "=== Вывод xray x25519 ==="
           echo "$KEYS"
-          # Универсальное извлечение: последнее слово в строке, содержащей 'private' (без учёта регистра)
           PRIVATE_KEY=$(echo "$KEYS" | grep -i 'private' | awk '{print $NF}' | tr -d '[:space:]')
-          # Публичный ключ – строка, содержащая 'public'
           PUBLIC_KEY=$(echo "$KEYS" | grep -i 'public' | awk '{print $NF}' | tr -d '[:space:]')
-          # Если публичный ключ не извлёкся (например, строка "Password (PublicKey)"), пробуем альтернативу: grep 'PublicKey'
           if [ -z "$PUBLIC_KEY" ]; then
             PUBLIC_KEY=$(echo "$KEYS" | grep -oP 'PublicKey:\s*\K\S+' | tr -d '[:space:]')
           fi
@@ -47,9 +44,6 @@ jobs:
           if [ -z "$PRIVATE_KEY" ] || [ -z "$PUBLIC_KEY" ]; then
             echo "❌ Не удалось извлечь ключи!"
             exit 1
-          fi
-          if [ ${#PUBLIC_KEY} -ne 43 ]; then
-            echo "⚠️ Внимание: длина публичного ключа ${#PUBLIC_KEY}, ожидалось 43. Но это может быть допустимо в новой версии."
           fi
 
       - name: Выбор тоннеля (ngrok, bore или serveo)
@@ -107,23 +101,6 @@ jobs:
           echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
           echo "✅ bore.pub туннель: bore.pub:$REMOTE_PORT"
 
-      - name: Запасной serveo (если bore не взлетел, но ты поменял TUNNEL)
-        if: env.TUNNEL == 'serveo'
-        run: |
-          ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:8443 serveo.net > /tmp/serveo.log 2>&1 &
-          sleep 5
-          TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/serveo.log | head -1)
-          if [ -z "$TUNNEL_LINE" ]; then sleep 5; TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/serveo.log | head -1); fi
-          if [ -z "$TUNNEL_LINE" ]; then
-            echo "❌ serveo недоступен"
-            exit 1
-          fi
-          REMOTE_HOST="serveo.net"
-          REMOTE_PORT=$(echo "$TUNNEL_LINE" | cut -d: -f2)
-          echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
-          echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
-          echo "✅ serveo: $REMOTE_HOST:$REMOTE_PORT"
-
       - name: Конфигурация и запуск Xray
         run: |
           cat > server.json << EOF
@@ -156,8 +133,12 @@ jobs:
             "outbounds": [{"protocol": "freedom"}]
           }
           EOF
-          sudo ./xray run -config server.json &
+          # Запуск БЕЗ sudo — порт 8443 непривилегированный
+          ./xray run -config server.json &
           sleep 2
+          # Обеспечим, чтобы логи были доступны runner'у
+          touch /tmp/access.log /tmp/error.log
+          chmod 644 /tmp/access.log /tmp/error.log
           echo "✅ Xray запущен"
 
       - name: Клиентский ключ и артефакт
