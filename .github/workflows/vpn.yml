@@ -24,6 +24,12 @@ jobs:
           PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}' | tr -d '[:space:]')
           UUID=$(uuidgen | tr -d '[:space:]')
           SHORT_ID=$(openssl rand -hex 8 | tr -d '[:space:]')
+          # Проверка длины ключа (должно быть 43)
+          if [ ${#PUBLIC_KEY} -ne 43 ]; then
+            echo "❌ Ошибка: длина публичного ключа ${#PUBLIC_KEY}, ожидалось 43"
+            echo "Сгенерированные ключи: $KEYS"
+            exit 1
+          fi
           echo "PRIVATE_KEY=$PRIVATE_KEY" >> $GITHUB_ENV
           echo "PUBLIC_KEY=$PUBLIC_KEY" >> $GITHUB_ENV
           echo "UUID=$UUID" >> $GITHUB_ENV
@@ -140,16 +146,26 @@ jobs:
           echo "✅ Xray запущен"
 
       - name: Клиентский ключ и артефакт
+        env:
+          UUID: ${{ env.UUID }}
+          PUBLIC_KEY: ${{ env.PUBLIC_KEY }}
+          SHORT_ID: ${{ env.SHORT_ID }}
+          REMOTE_HOST: ${{ env.REMOTE_HOST }}
+          REMOTE_PORT: ${{ env.REMOTE_PORT }}
         run: |
-          CLIENT_LINK="vless://$UUID@$REMOTE_HOST:$REMOTE_PORT?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=$PUBLIC_KEY&sid=$SHORT_ID#GitHubVPN"
+          # Дополнительная очистка переменных окружения
+          UUID=$(echo "$UUID" | tr -d '[:space:]')
+          PUBLIC_KEY=$(echo "$PUBLIC_KEY" | tr -d '[:space:]')
+          SHORT_ID=$(echo "$SHORT_ID" | tr -d '[:space:]')
+          REMOTE_HOST=$(echo "$REMOTE_HOST" | tr -d '[:space:]')
+          REMOTE_PORT=$(echo "$REMOTE_PORT" | tr -d '[:space:]')
+
+          CLIENT_LINK="vless://${UUID}@${REMOTE_HOST}:${REMOTE_PORT}?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=${PUBLIC_KEY}&sid=${SHORT_ID}#GitHubVPN"
           echo "$CLIENT_LINK" > key.txt
           echo "🔑 Готовый ключ:"
           cat key.txt
           echo ""
-          echo "Публичный ключ в ссылке: $PUBLIC_KEY"
-        env:
-          REMOTE_HOST: ${{ env.REMOTE_HOST }}
-          REMOTE_PORT: ${{ env.REMOTE_PORT }}
+          echo "Публичный ключ в ссылке: $PUBLIC_KEY (длина ${#PUBLIC_KEY})"
 
       - name: Сохранить ключ и логи
         uses: actions/upload-artifact@v4
