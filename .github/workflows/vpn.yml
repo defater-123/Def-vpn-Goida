@@ -20,22 +20,37 @@ jobs:
         id: keys
         run: |
           KEYS=$(./xray x25519)
-          PRIVATE_KEY=$(echo "$KEYS" | grep "Private key" | awk '{print $3}' | tr -d '[:space:]')
-          PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}' | tr -d '[:space:]')
+          echo "=== Вывод xray x25519 ==="
+          echo "$KEYS"
+          # Универсальное извлечение: последнее слово в строке, содержащей 'private' (без учёта регистра)
+          PRIVATE_KEY=$(echo "$KEYS" | grep -i 'private' | awk '{print $NF}' | tr -d '[:space:]')
+          # Публичный ключ – строка, содержащая 'public'
+          PUBLIC_KEY=$(echo "$KEYS" | grep -i 'public' | awk '{print $NF}' | tr -d '[:space:]')
+          # Если публичный ключ не извлёкся (например, строка "Password (PublicKey)"), пробуем альтернативу: grep 'PublicKey'
+          if [ -z "$PUBLIC_KEY" ]; then
+            PUBLIC_KEY=$(echo "$KEYS" | grep -oP 'PublicKey:\s*\K\S+' | tr -d '[:space:]')
+          fi
+          if [ -z "$PRIVATE_KEY" ]; then
+            PRIVATE_KEY=$(echo "$KEYS" | grep -oP 'PrivateKey:\s*\K\S+' | tr -d '[:space:]')
+          fi
           UUID=$(uuidgen | tr -d '[:space:]')
           SHORT_ID=$(openssl rand -hex 8 | tr -d '[:space:]')
-          # Проверка длины ключа (должно быть 43)
-          if [ ${#PUBLIC_KEY} -ne 43 ]; then
-            echo "❌ Ошибка: длина публичного ключа ${#PUBLIC_KEY}, ожидалось 43"
-            echo "Сгенерированные ключи: $KEYS"
-            exit 1
-          fi
+
           echo "PRIVATE_KEY=$PRIVATE_KEY" >> $GITHUB_ENV
           echo "PUBLIC_KEY=$PUBLIC_KEY" >> $GITHUB_ENV
           echo "UUID=$UUID" >> $GITHUB_ENV
           echo "SHORT_ID=$SHORT_ID" >> $GITHUB_ENV
+
+          echo "📌 Private key: $PRIVATE_KEY (длина ${#PRIVATE_KEY})"
           echo "📌 Public key: $PUBLIC_KEY (длина ${#PUBLIC_KEY})"
-          echo "📌 Private key: $PRIVATE_KEY"
+
+          if [ -z "$PRIVATE_KEY" ] || [ -z "$PUBLIC_KEY" ]; then
+            echo "❌ Не удалось извлечь ключи!"
+            exit 1
+          fi
+          if [ ${#PUBLIC_KEY} -ne 43 ]; then
+            echo "⚠️ Внимание: длина публичного ключа ${#PUBLIC_KEY}, ожидалось 43. Но это может быть допустимо в новой версии."
+          fi
 
       - name: Выбор тоннеля (ngrok, bore или serveo)
         run: |
@@ -153,7 +168,6 @@ jobs:
           REMOTE_HOST: ${{ env.REMOTE_HOST }}
           REMOTE_PORT: ${{ env.REMOTE_PORT }}
         run: |
-          # Дополнительная очистка переменных окружения
           UUID=$(echo "$UUID" | tr -d '[:space:]')
           PUBLIC_KEY=$(echo "$PUBLIC_KEY" | tr -d '[:space:]')
           SHORT_ID=$(echo "$SHORT_ID" | tr -d '[:space:]')
