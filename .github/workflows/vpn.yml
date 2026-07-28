@@ -1,4 +1,4 @@
-name: Xray VPN Server
+name: Xray VPN Server (with logs)
 
 on:
   workflow_dispatch:
@@ -9,29 +9,91 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - name: Setup Xray and tunnel
+      - name: Setup Xray
         run: |
-          # ----------------- Установка Xray -----------------
           wget -qO xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
           unzip -qo xray.zip
           chmod +x xray
-          
-          # ----------------- Генерация ключей Reality -----------------
+          mkdir -p logs
+
+      - name: Generate Reality keys
+        id: keys
+        run: |
           KEYS=$(./xray x25519)
           PRIVATE_KEY=$(echo "$KEYS" | grep "Private key" | awk '{print $3}')
           PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}')
           UUID=$(uuidgen)
           SHORT_ID=$(openssl rand -hex 8)
-          
           echo "PRIVATE_KEY=$PRIVATE_KEY" >> $GITHUB_ENV
           echo "PUBLIC_KEY=$PUBLIC_KEY" >> $GITHUB_ENV
           echo "UUID=$UUID" >> $GITHUB_ENV
           echo "SHORT_ID=$SHORT_ID" >> $GITHUB_ENV
-          
-          # ----------------- Конфиг сервера -----------------
+
+      - name: Decide tunnel method
+        id: tunnel_choice
+        run: |
+          if [ -n "${{ secrets.NGROK_AUTH_TOKEN }}" ]; then
+            echo "USE_NGROK=true" >> $GITHUB_ENV
+          else
+            echo "USE_NGROK=false" >> $GITHUB_ENV
+          fi
+
+      - name: Start ngrok tunnel (if token present)
+        if: env.USE_NGROK == 'true'
+        run: |
+          wget -qO ngrok.zip https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip
+          unzip -qo ngrok.zip
+          ./ngrok authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
+          ./ngrok tcp 8443 --log=stdout > /tmp/ngrok.log 2>&1 &
+          sleep 3
+          # Ждём появления публичного адреса
+          for i in {1..20}; do
+            TUNNEL_URL=$(curl -s localhost:4040/api/tunnels | jq -r '.tunnels[0].public_url' 2>/dev/null)
+            if [ -n "$TUNNEL_URL" ]; then
+              break
+            fi
+            sleep 1
+          done
+          if [ -z "$TUNNEL_URL" ]; then
+            echo "❌ Не удалось получить адрес ngrok"
+            exit 1
+          fi
+          REMOTE_HOST=$(echo "$TUNNEL_URL" | sed -E 's|tcp://([^:]+):([0-9]+)|\1|')
+          REMOTE_PORT=$(echo "$TUNNEL_URL" | sed -E 's|tcp://([^:]+):([0-9]+)|\2|')
+          echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
+          echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
+          echo "✅ ngrok туннель: $REMOTE_HOST:$REMOTE_PORT"
+
+      - name: Start serveo tunnel (if no token)
+        if: env.USE_NGROK != 'true'
+        run: |
+          ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:8443 serveo.net > /tmp/serveo.log 2>&1 &
+          sleep 5
+          TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/serveo.log | head -1)
+          if [ -z "$TUNNEL_LINE" ]; then
+            sleep 5
+            TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/serveo.log | head -1)
+          fi
+          if [ -z "$TUNNEL_LINE" ]; then
+            echo "❌ Не удалось получить порт serveo (возможно, сервис недоступен). Попробуй использовать ngrok или повтори позже."
+            cat /tmp/serveo.log
+            exit 1
+          fi
+          REMOTE_HOST="serveo.net"
+          REMOTE_PORT=$(echo "$TUNNEL_LINE" | cut -d: -f2)
+          echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
+          echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
+          echo "✅ serveo туннель: $REMOTE_HOST:$REMOTE_PORT"
+
+      - name: Configure and start Xray
+        run: |
           cat > server.json << EOF
           {
-            "log": {"loglevel": "warning"},
+            "log": {
+              "access": "/tmp/access.log",
+              "error": "/tmp/error.log",
+              "loglevel": "info"
+            },
             "inbounds": [{
               "port": 8443,
               "protocol": "vless",
@@ -55,40 +117,41 @@ jobs:
             "outbounds": [{"protocol": "freedom"}]
           }
           EOF
-          
-          # ----------------- Запуск Xray -----------------
           sudo ./xray run -config server.json &
           sleep 2
-          
-          # ----------------- Туннель serveo -----------------
-          ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:8443 serveo.net > /tmp/tunnel.log 2>&1 &
-          sleep 5
-          TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/tunnel.log | head -1)
-          if [ -z "$TUNNEL_LINE" ]; then
-            # Иногда вывод запаздывает — пробуем ещё раз
-            sleep 5
-            TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/tunnel.log | head -1)
-          fi
-          REMOTE_HOST="serveo.net"
-          REMOTE_PORT=$(echo "$TUNNEL_LINE" | cut -d: -f2)
-          echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
-          echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
-          
-          # ----------------- Клиентская ссылка -----------------
+          echo "✅ Xray запущен"
+
+      - name: Test internet access from runner
+        run: |
+          echo "Проверка доступа в интернет (если этот запрос успешен, серверная часть работает)..."
+          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" http://ip-api.com/json || echo "⚠️ Прямой доступ в интернет ограничен, но VPN-тоннель может работать."
+
+      - name: Generate client link and save
+        run: |
           CLIENT_LINK="vless://$UUID@$REMOTE_HOST:$REMOTE_PORT?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=$PUBLIC_KEY&sid=$SHORT_ID#GitHubVPN"
           echo "$CLIENT_LINK" > key.txt
           echo "CLIENT_LINK=$CLIENT_LINK" >> $GITHUB_ENV
-          
-          echo "✅ VPN готов! Ссылка сохранена в key.txt"
+          echo "🔑 Ключ готов:"
           cat key.txt
 
-      - name: Upload key artifact
+      - name: Upload key and logs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: vpn-key
-          path: key.txt
+          name: vpn-data
+          path: |
+            key.txt
+            /tmp/access.log
+            /tmp/error.log
 
-      - name: Keep VPN alive (6 hours max)
+      - name: Keep alive & show recent connections
         run: |
-          echo "VPN активен, сервер не выключается..."
-          sleep 21600
+          echo "🎯 VPN активен. Логи будут обновляться здесь каждые 30 секунд."
+          echo "----------------------------------------"
+          while true; do
+            if [ -f /tmp/access.log ]; then
+              echo "--- Последние запросы (access.log) ---"
+              tail -n 10 /tmp/access.log 2>/dev/null || echo "(пока пусто)"
+            fi
+            sleep 30
+          done
+        timeout-minutes: 350
