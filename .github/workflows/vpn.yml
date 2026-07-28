@@ -46,7 +46,7 @@ jobs:
             exit 1
           fi
 
-      - name: Выбор тоннеля (ngrok, bore или serveo)
+      - name: Выбор тоннеля (ngrok, bore)
         run: |
           if [ -n "${{ secrets.NGROK_AUTH_TOKEN }}" ]; then
             echo "TUNNEL=ngrok" >> $GITHUB_ENV
@@ -76,8 +76,11 @@ jobs:
           echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
           echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
           echo "✅ ngrok: $REMOTE_HOST:$REMOTE_PORT"
+          # Проверка доступности
+          sleep 2
+          nc -zv $REMOTE_HOST $REMOTE_PORT && echo "✅ Тоннель доступен снаружи" || echo "⚠️ Тоннель может быть недоступен"
 
-      - name: Запуск bore (публичный, РФ‑дружелюбный)
+      - name: Запуск bore (публичный)
         if: env.TUNNEL == 'bore'
         run: |
           wget -qO bore.tar.gz https://github.com/ekzhang/bore/releases/download/v0.5.2/bore-v0.5.2-x86_64-unknown-linux-musl.tar.gz
@@ -100,6 +103,9 @@ jobs:
           echo "REMOTE_HOST=bore.pub" >> $GITHUB_ENV
           echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
           echo "✅ bore.pub туннель: bore.pub:$REMOTE_PORT"
+          # Проверка доступности (может не работать, если bore.pub не отвечает на nc)
+          sleep 2
+          timeout 5 nc -zv bore.pub $REMOTE_PORT && echo "✅ Тоннель доступен снаружи" || echo "⚠️ Тоннель bore.pub может быть недоступен (проверьте вручную)"
 
       - name: Конфигурация и запуск Xray
         run: |
@@ -108,7 +114,7 @@ jobs:
             "log": {
               "access": "/tmp/access.log",
               "error": "/tmp/error.log",
-              "loglevel": "info"
+              "loglevel": "debug"
             },
             "inbounds": [{
               "port": 8443,
@@ -133,13 +139,11 @@ jobs:
             "outbounds": [{"protocol": "freedom"}]
           }
           EOF
-          # Запуск БЕЗ sudo — порт 8443 непривилегированный
           ./xray run -config server.json &
           sleep 2
-          # Обеспечим, чтобы логи были доступны runner'у
           touch /tmp/access.log /tmp/error.log
           chmod 644 /tmp/access.log /tmp/error.log
-          echo "✅ Xray запущен"
+          echo "✅ Xray запущен (логи в /tmp/access.log и /tmp/error.log)"
 
       - name: Клиентский ключ и артефакт
         env:
