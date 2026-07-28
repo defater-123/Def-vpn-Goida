@@ -1,134 +1,94 @@
-name: VLESS+REALITY VPN Server
+name: Xray VPN Server
 
 on:
-  workflow_dispatch:  # Ручной запуск
-  schedule:
-    - cron: '55 */5 * * *'  # Каждые 5 часов 55 минут
+  workflow_dispatch:
 
 jobs:
   vpn:
     runs-on: ubuntu-latest
-    timeout-minutes: 350  # 5 часов 50 минут (запас)
-    
+    timeout-minutes: 360
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Get server IP
-        id: ip
+      - name: Setup Xray and tunnel
         run: |
-          SERVER_IP=$(curl -s ifconfig.me)
-          echo "IP=$SERVER_IP" >> $GITHUB_OUTPUT
-          echo "✅ Server IP: $SERVER_IP"
-
-      - name: Install Xray-core
-        run: |
-          bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install
-          echo "✅ Xray installed"
-
-      - name: Configure VLESS+REALITY Server
-        id: xray
-        run: |
-          # Генерация ключей
-          UUID=$(cat /proc/sys/kernel/random/uuid)
-          PRIVATE_KEY=$(/usr/local/bin/xray x25519 | head -1 | awk '{print $3}')
-          PUBLIC_KEY=$(/usr/local/bin/xray x25519 | head -1 | awk '{print $3}')
+          # ----------------- Установка Xray -----------------
+          wget -qO xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -qo xray.zip
+          chmod +x xray
           
-          # Сохраняем в переменные для следующего шага
-          echo "UUID=$UUID" >> $GITHUB_ENV
+          # ----------------- Генерация ключей Reality -----------------
+          KEYS=$(./xray x25519)
+          PRIVATE_KEY=$(echo "$KEYS" | grep "Private key" | awk '{print $3}')
+          PUBLIC_KEY=$(echo "$KEYS" | grep "Public key" | awk '{print $3}')
+          UUID=$(uuidgen)
+          SHORT_ID=$(openssl rand -hex 8)
+          
+          echo "PRIVATE_KEY=$PRIVATE_KEY" >> $GITHUB_ENV
           echo "PUBLIC_KEY=$PUBLIC_KEY" >> $GITHUB_ENV
+          echo "UUID=$UUID" >> $GITHUB_ENV
+          echo "SHORT_ID=$SHORT_ID" >> $GITHUB_ENV
           
-          # Домен для маскировки (замените на свой)
-          DOMAIN="your-domain.com"  # <-- ИЗМЕНИТЕ НА ВАШ ДОМЕН
-          
-          # Создаем конфиг Xray
-          sudo bash -c "cat > /usr/local/etc/xray/config.json <<EOF
+          # ----------------- Конфиг сервера -----------------
+          cat > server.json << EOF
           {
-            \"log\": {
-              \"loglevel\": \"warning\"
-            },
-            \"inbounds\": [
-              {
-                \"port\": 443,
-                \"protocol\": \"vless\",
-                \"settings\": {
-                  \"clients\": [
-                    {
-                      \"id\": \"$UUID\",
-                      \"flow\": \"xtls-rprx-vision\"
-                    }
-                  ],
-                  \"decryption\": \"none\"
-                },
-                \"streamSettings\": {
-                  \"network\": \"tcp\",
-                  \"security\": \"reality\",
-                  \"realitySettings\": {
-                    \"dest\": \"$DOMAIN:443\",
-                    \"serverNames\": [\"$DOMAIN\"],
-                    \"privateKey\": \"$PRIVATE_KEY\",
-                    \"shortIds\": [\"6ba85179e30d4fc2\"]
-                  }
+            "log": {"loglevel": "warning"},
+            "inbounds": [{
+              "port": 8443,
+              "protocol": "vless",
+              "settings": {
+                "clients": [{"id": "$UUID", "flow": "xtls-rprx-vision"}],
+                "decryption": "none"
+              },
+              "streamSettings": {
+                "network": "tcp",
+                "security": "reality",
+                "realitySettings": {
+                  "show": false,
+                  "dest": "www.microsoft.com:443",
+                  "xver": 0,
+                  "serverNames": ["www.microsoft.com"],
+                  "privateKey": "$PRIVATE_KEY",
+                  "shortIds": ["$SHORT_ID"]
                 }
               }
-            ],
-            \"outbounds\": [
-              {
-                \"protocol\": \"freedom\",
-                \"tag\": \"direct\"
-              }
-            ]
+            }],
+            "outbounds": [{"protocol": "freedom"}]
           }
-          EOF"
+          EOF
           
-          # Запускаем Xray
-          sudo systemctl restart xray
-          sudo systemctl enable xray
-          echo "✅ Xray configured and started"
+          # ----------------- Запуск Xray -----------------
+          sudo ./xray run -config server.json &
+          sleep 2
+          
+          # ----------------- Туннель serveo -----------------
+          ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 0:localhost:8443 serveo.net > /tmp/tunnel.log 2>&1 &
+          sleep 5
+          TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/tunnel.log | head -1)
+          if [ -z "$TUNNEL_LINE" ]; then
+            # Иногда вывод запаздывает — пробуем ещё раз
+            sleep 5
+            TUNNEL_LINE=$(grep -oP 'serveo\.net:\d+' /tmp/tunnel.log | head -1)
+          fi
+          REMOTE_HOST="serveo.net"
+          REMOTE_PORT=$(echo "$TUNNEL_LINE" | cut -d: -f2)
+          echo "REMOTE_HOST=$REMOTE_HOST" >> $GITHUB_ENV
+          echo "REMOTE_PORT=$REMOTE_PORT" >> $GITHUB_ENV
+          
+          # ----------------- Клиентская ссылка -----------------
+          CLIENT_LINK="vless://$UUID@$REMOTE_HOST:$REMOTE_PORT?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=$PUBLIC_KEY&sid=$SHORT_ID#GitHubVPN"
+          echo "$CLIENT_LINK" > key.txt
+          echo "CLIENT_LINK=$CLIENT_LINK" >> $GITHUB_ENV
+          
+          echo "✅ VPN готов! Ссылка сохранена в key.txt"
+          cat key.txt
 
-      - name: Generate VLESS link and subscription file
+      - name: Upload key artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: vpn-key
+          path: key.txt
+
+      - name: Keep VPN alive (6 hours max)
         run: |
-          DOMAIN="your-domain.com"  # <-- ИЗМЕНИТЕ НА ВАШ ДОМЕН
-          SERVER_IP="${{ steps.ip.outputs.IP }}"
-          
-          # Создаем VLESS ссылку
-          VLESS_LINK="vless://${{ env.UUID }}@$SERVER_IP:443?type=tcp&security=reality&fp=chrome&pbk=${{ env.PUBLIC_KEY }}&sni=$DOMAIN&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2#GitHubVPN"
-          
-          # Сохраняем ссылку в файл
-          echo "$VLESS_LINK" > key.txt
-          echo "✅ key.txt created"
-          
-          # Выводим для логов
-          echo "=================================================="
-          echo "✅ VLESS+REALITY SERVER IS RUNNING"
-          echo "=================================================="
-          echo "🌐 IP: $SERVER_IP"
-          echo "🔑 UUID: ${{ env.UUID }}"
-          echo "📄 VLESS Link:"
-          echo "$VLESS_LINK"
-          echo "=================================================="
-
-      - name: Push key to key-repo
-        env:
-          GH_PAT: ${{ secrets.KEY_REPO_PAT }}
-        run: |
-          # Клонируем репозиторий для ключей
-          git clone https://x-access-token:${GH_PAT}@github.com/ВАШ_АККАУНТ/key-repo.git key-repo
-          
-          # Копируем файл с ключом
-          cp key.txt key-repo/
-          
-          # Коммитим и пушим
-          cd key-repo
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add key.txt
-          git commit -m "Update VPN key $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
-          
-          echo "✅ key.txt pushed to key-repo"
-          echo "📎 Subscription URL:"
-          echo "https://raw.githubusercontent.com/ВАШ_АККАУНТ/key-repo/main/key.txt"
-
-      - name: Keep alive
-        run: sleep 21600  # 6 часов
+          echo "VPN активен, сервер не выключается..."
+          sleep 21600
