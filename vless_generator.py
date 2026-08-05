@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Генератор VLESS ключа для одного сервера
-Без бота, просто создает готовый ключ
+Генератор VLESS ключа через Serveo.net
+Создает публичный адрес вида: ваш-субдомен.serveo.net:порт
 """
 
 import os
@@ -9,36 +9,73 @@ import json
 import subprocess
 import uuid
 import time
-import socket
 import requests
+import threading
+import socket
+import random
+import string
 from datetime import datetime
 
 # ============================================
 # КОНФИГУРАЦИЯ
 # ============================================
 
-# ⚠️ ИЗМЕНИТЕ ЭТИ ПАРАМЕТРЫ:
-DOMAIN = "servisdlyaip.com"  # Ваш домен или IP
-PORT = 228  # Порт для подключения
-PORT_WS = 8443  # Порт для WebSocket (опционально)
+PORT = 228  # Порт для VLESS
+PORT_WS = 8443  # Порт для WebSocket
 
-# Автоматически определим IP
-def get_public_ip():
-    try:
-        response = requests.get('https://api.ipify.org?format=json', timeout=5)
-        return response.json()['ip']
-    except:
-        try:
-            response = requests.get('https://ifconfig.me/ip', timeout=5)
-            return response.text.strip()
-        except:
-            return "0.0.0.0"
+# Генерируем случайный субдомен
+def generate_subdomain():
+    """Генерирует случайный субдомен для Serveo"""
+    chars = string.ascii_lowercase + string.digits
+    return ''.join(random.choices(chars, k=10))
 
-SERVER_IP = get_public_ip()
-SERVER_DOMAIN = DOMAIN  # Используем домен, если есть
+SUBDOMAIN = generate_subdomain()
+SERVEO_DOMAIN = f"{SUBDOMAIN}.serveo.net"
 
 # Генерируем UUID
 SERVER_UUID = str(uuid.uuid4())
+
+# ============================================
+# ЗАПУСК SERVEO ТУННЕЛЯ
+# ============================================
+
+def start_serveo_tunnel():
+    """Запускает Serveo туннель для перенаправления трафика"""
+    print(f"🚀 Запуск Serveo туннеля на {SERVEO_DOMAIN}:{PORT}...")
+    
+    # Команда для создания туннеля с конкретным субдоменом
+    # Используем -R для перенаправления порта
+    cmd = f"ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R {SUBDOMAIN}:{PORT}:localhost:{PORT} serveo.net"
+    
+    # Запускаем в фоне
+    process = subprocess.Popen(
+        cmd,
+        shell=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+    
+    # Ждем, пока туннель установится
+    time.sleep(5)
+    
+    # Проверяем, что туннель работает
+    try:
+        # Пытаемся соединиться с Serveo
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(5)
+        result = sock.connect_ex(('serveo.net', 22))
+        sock.close()
+        
+        if result == 0:
+            print(f"✅ Serveo туннель запущен: {SERVEO_DOMAIN}:{PORT}")
+            return True
+        else:
+            print(f"⚠️ Ошибка подключения к Serveo")
+            return False
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
+        return False
 
 # ============================================
 # УСТАНОВКА XRAY
@@ -48,11 +85,15 @@ def install_xray():
     """Устанавливает Xray"""
     print("🚀 Установка Xray...")
     
-    # Скачиваем и устанавливаем Xray
-    install_cmd = 'bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install'
-    subprocess.run(install_cmd, shell=True, check=True)
-    
-    print("✅ Xray установлен")
+    try:
+        # Скачиваем и устанавливаем Xray
+        install_cmd = 'bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install'
+        subprocess.run(install_cmd, shell=True, check=True, capture_output=True)
+        print("✅ Xray установлен")
+        return True
+    except Exception as e:
+        print(f"⚠️ Ошибка установки Xray: {e}")
+        return False
 
 # ============================================
 # НАСТРОЙКА XRAY
@@ -145,72 +186,58 @@ def configure_xray():
     with open("/tmp/config.json", "w") as f:
         json.dump(config, f, indent=2)
     
-    # Перемещаем в системную папку
-    subprocess.run(f"sudo mv /tmp/config.json {config_path}", shell=True, check=True)
-    
-    # Запускаем Xray
-    subprocess.run("sudo systemctl restart xray", shell=True, check=True)
-    subprocess.run("sudo systemctl enable xray", shell=True, check=True)
-    
-    print(f"✅ Xray настроен на порту {PORT} (TCP) и {PORT_WS} (WS)")
-    
-    return config
+    try:
+        # Перемещаем в системную папку
+        subprocess.run(f"sudo mv /tmp/config.json {config_path}", shell=True, check=True)
+        
+        # Запускаем Xray
+        subprocess.run("sudo systemctl restart xray", shell=True, check=True)
+        subprocess.run("sudo systemctl enable xray", shell=True, check=True)
+        
+        print(f"✅ Xray настроен на порту {PORT} (TCP) и {PORT_WS} (WS)")
+        return True
+    except Exception as e:
+        print(f"⚠️ Ошибка настройки Xray: {e}")
+        return False
 
 # ============================================
 # ГЕНЕРАЦИЯ VLESS ССЫЛОК
 # ============================================
 
-def generate_vless_links(ip, uuid, port, domain=None):
-    """Генерирует VLESS ссылки"""
-    
-    # Используем домен или IP
-    host = domain if domain else ip
+def generate_vless_links(domain, uuid, port):
+    """Генерирует VLESS ссылки с доменом Serveo"""
     
     # VLESS TCP с TLS
     vless_tcp = (
-        f"vless://{uuid}@{host}:{port}"
+        f"vless://{uuid}@{domain}:{port}"
         f"?security=tls"
         f"&encryption=none"
         f"&flow=xtls-rprx-vision"
         f"&fp=chrome"
         f"&type=tcp"
-        f"&sni={host}"
-        f"#VLESS_TCP"
+        f"&sni={domain}"
+        f"#VLESS_SERVEO"
     )
     
-    # VLESS WebSocket (без TLS для простоты)
+    # VLESS WebSocket
     vless_ws = (
-        f"vless://{uuid}@{host}:{PORT_WS}"
+        f"vless://{uuid}@{domain}:{PORT_WS}"
         f"?encryption=none"
         f"&type=ws"
         f"&path=%2Fvless"
-        f"#VLESS_WS"
-    )
-    
-    # VLESS TCP с Reality (более безопасный)
-    vless_reality = (
-        f"vless://{uuid}@{host}:{port}"
-        f"?security=reality"
-        f"&encryption=none"
-        f"&pbk=Wrx6xXkFJqJiZrY2Q1QzY2MzA3NjE4MDk0MzU3NjE4"
-        f"&fp=chrome"
-        f"&type=tcp"
-        f"&sni=cloudflare.com"
-        f"&sid=6f1a"
-        f"#VLESS_REALITY"
+        f"#VLESS_SERVEO_WS"
     )
     
     return {
         "tcp": vless_tcp,
-        "ws": vless_ws,
-        "reality": vless_reality
+        "ws": vless_ws
     }
 
 # ============================================
 # СОЗДАНИЕ КОНФИГА ДЛЯ HAPP
 # ============================================
 
-def create_happ_config(ip, uuid, port):
+def create_happ_config(domain, uuid, port):
     """Создает конфиг для HAPP (V2Ray)"""
     
     config = {
@@ -239,7 +266,7 @@ def create_happ_config(ip, uuid, port):
                 "settings": {
                     "vnext": [
                         {
-                            "address": ip,
+                            "address": domain,
                             "port": port,
                             "users": [
                                 {
@@ -257,7 +284,7 @@ def create_happ_config(ip, uuid, port):
                     "security": "tls",
                     "tlsSettings": {
                         "allowInsecure": True,
-                        "serverName": ip
+                        "serverName": domain
                     }
                 },
                 "mux": {
@@ -318,7 +345,7 @@ def open_ports():
     
     for cmd in commands:
         try:
-            subprocess.run(cmd, shell=True, check=True)
+            subprocess.run(cmd, shell=True, check=True, capture_output=True)
         except:
             pass
     
@@ -330,58 +357,49 @@ def open_ports():
 
 def main():
     print("=" * 50)
-    print("🚀 ГЕНЕРАТОР VLESS VPN")
+    print("🚀 ГЕНЕРАТОР VLESS ЧЕРЕЗ SERVEO")
     print("=" * 50)
     print()
     
-    # Получаем информацию о сервере
-    ip = SERVER_IP
-    domain = SERVER_DOMAIN
-    
-    print(f"🌐 IP сервера: {ip}")
-    print(f"🏠 Домен: {domain}")
+    print(f"🌐 Домен: {SERVEO_DOMAIN}")
     print(f"🔑 UUID: {SERVER_UUID}")
     print(f"🔌 Порт: {PORT}")
     print()
     
+    # Открываем порты
+    open_ports()
+    
     # Устанавливаем Xray
-    try:
-        install_xray()
-    except Exception as e:
-        print(f"⚠️ Ошибка установки Xray: {e}")
-        print("Продолжаем...")
+    if not install_xray():
+        print("❌ Ошибка установки Xray")
+        return
     
     # Настраиваем Xray
-    try:
-        configure_xray()
-    except Exception as e:
-        print(f"⚠️ Ошибка настройки Xray: {e}")
-        print("Продолжаем...")
+    if not configure_xray():
+        print("❌ Ошибка настройки Xray")
+        return
     
-    # Открываем порты
-    try:
-        open_ports()
-    except Exception as e:
-        print(f"⚠️ Ошибка открытия портов: {e}")
+    # Запускаем Serveo туннель
+    if not start_serveo_tunnel():
+        print("⚠️ Проблема с Serveo, но продолжаем...")
     
     # Генерируем ссылки
-    links = generate_vless_links(domain, SERVER_UUID, PORT)
+    links = generate_vless_links(SERVEO_DOMAIN, SERVER_UUID, PORT)
     
     # Создаем конфиг для HAPP
-    happ_config = create_happ_config(domain, SERVER_UUID, PORT)
+    happ_config = create_happ_config(SERVEO_DOMAIN, SERVER_UUID, PORT)
     
     # Сохраняем результаты
     result_text = f"""
 ╔══════════════════════════════════════════════════════════════╗
-║              ✅ VLESS VPN ГОТОВ К ИСПОЛЬЗОВАНИЮ              ║
+║         ✅ VLESS VPN ЧЕРЕЗ SERVEO ГОТОВ К ИСПОЛЬЗОВАНИЮ      ║
 ╚══════════════════════════════════════════════════════════════╝
 
 📌 ИНФОРМАЦИЯ О СЕРВЕРЕ:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🌐 IP: {ip}
-  🏠 Домен: {domain}
+  🌐 Адрес: {SERVEO_DOMAIN}
   🔑 UUID: {SERVER_UUID}
-  🔌 Порт: {PORT}
+  🔌 Порт TCP: {PORT}
   📡 Порт WS: {PORT_WS}
   ⏰ Создан: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -398,11 +416,6 @@ def main():
 {links['ws']}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-3️⃣ Reality (экспериментальный):
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{links['reality']}
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 📱 КАК ИСПОЛЬЗОВАТЬ:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   • Android: V2RayNG → Import from clipboard
@@ -412,6 +425,7 @@ def main():
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⏰ СЕРВЕР БУДЕТ РАБОТАТЬ 6 ЧАСОВ
+💡 Адрес будет вида: {SUBDOMAIN}.serveo.net
 """
     
     # Сохраняем текст
@@ -425,7 +439,6 @@ def main():
     # Выводим результат
     print(result_text)
     
-    # Дополнительная информация
     print("\n" + "=" * 50)
     print("📁 Файлы сохранены:")
     print("  • vless_result.txt - VLESS ссылки")
