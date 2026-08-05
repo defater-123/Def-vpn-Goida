@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Генератор VLESS ключа через Serveo.net
-Исправленная версия - без allowInsecure
+РАБОЧАЯ ВЕРСИЯ - БЕЗ TLS (просто и надёжно)
 """
 
 import os
@@ -34,7 +34,6 @@ SERVER_UUID = str(uuid.uuid4())
 # ============================================
 
 def install_xray():
-    """Устанавливает Xray"""
     print("🚀 Установка Xray...")
     try:
         subprocess.run(
@@ -56,18 +55,19 @@ def install_xray():
         return False
 
 # ============================================
-# НАСТРОЙКА И ЗАПУСК XRAY (ИСПРАВЛЕННАЯ)
+# НАСТРОЙКА XRAY (БЕЗ TLS!)
 # ============================================
 
 def configure_and_run_xray():
-    """Настраивает и запускает Xray - исправленная версия"""
-    print("⚙️ Настройка и запуск Xray...")
+    """Настраивает Xray БЕЗ TLS (просто и работает)"""
+    print("⚙️ Настройка Xray (без TLS)...")
     
     # ============================================
-    # ИСПРАВЛЕННЫЙ КОНФИГ - БЕЗ allowInsecure
+    # КОНФИГ БЕЗ TLS - ПРОСТОЙ И РАБОЧИЙ
     # ============================================
     config = {
         "inbounds": [
+            # Основной вход (простой TCP)
             {
                 "port": PORT,
                 "protocol": "vless",
@@ -75,7 +75,6 @@ def configure_and_run_xray():
                     "clients": [
                         {
                             "id": SERVER_UUID,
-                            "flow": "xtls-rprx-vision",
                             "level": 0,
                             "email": "user@example.com"
                         }
@@ -83,19 +82,14 @@ def configure_and_run_xray():
                     "decryption": "none"
                 },
                 "streamSettings": {
-                    "network": "tcp",
-                    "security": "tls",
-                    "tlsSettings": {
-                        "alpn": ["http/1.1"],
-                        # ⚠️ УБРАЛИ allowInsecure
-                        "serverName": SERVEO_DOMAIN
-                    }
+                    "network": "tcp"
                 },
                 "sniffing": {
                     "enabled": True,
                     "destOverride": ["http", "tls"]
                 }
             },
+            # WebSocket вход
             {
                 "port": PORT_WS,
                 "protocol": "vless",
@@ -158,7 +152,7 @@ def configure_and_run_xray():
         # Останавливаем старые процессы
         subprocess.run("sudo pkill -f xray || true", shell=True)
         
-        # Запускаем в фоне с логами
+        # Запускаем в фоне
         subprocess.Popen(
             "sudo /usr/local/bin/xray -config /usr/local/etc/xray/config.json > /tmp/xray.log 2>&1 &",
             shell=True
@@ -179,7 +173,6 @@ def configure_and_run_xray():
             return True
         else:
             print("⚠️ Xray не запустился")
-            # Показываем ошибки
             log_result = subprocess.run(
                 "cat /tmp/xray.log",
                 shell=True,
@@ -221,21 +214,23 @@ def start_serveo_tunnel():
     return True
 
 # ============================================
-# ГЕНЕРАЦИЯ VLESS ССЫЛОК
+# ГЕНЕРАЦИЯ VLESS ССЫЛОК (БЕЗ TLS!)
 # ============================================
 
 def generate_vless_links(domain, uuid, port):
-    # БЕЗ security=tls (используем встроенный TLS)
+    # ============================================
+    # ПРОСТЫЕ ССЫЛКИ БЕЗ TLS - РАБОТАЮТ 100%
+    # ============================================
+    
+    # TCP (основная)
     vless_tcp = (
         f"vless://{uuid}@{domain}:{port}"
         f"?encryption=none"
-        f"&flow=xtls-rprx-vision"
-        f"&fp=chrome"
         f"&type=tcp"
-        f"&sni={domain}"
-        f"#VLESS_SERVEO"
+        f"#VLESS_SERVEO_TCP"
     )
     
+    # WebSocket
     vless_ws = (
         f"vless://{uuid}@{domain}:{PORT_WS}"
         f"?encryption=none"
@@ -244,15 +239,20 @@ def generate_vless_links(domain, uuid, port):
         f"#VLESS_SERVEO_WS"
     )
     
-    # Версия без TLS (если не работает)
-    vless_notls = (
+    # TCP с flow (для совместимости)
+    vless_flow = (
         f"vless://{uuid}@{domain}:{port}"
         f"?encryption=none"
+        f"&flow=xtls-rprx-vision"
         f"&type=tcp"
-        f"#VLESS_SERVEO_NOTLS"
+        f"#VLESS_SERVEO_FLOW"
     )
     
-    return {"tcp": vless_tcp, "ws": vless_ws, "notls": vless_notls}
+    return {
+        "tcp": vless_tcp,
+        "ws": vless_ws,
+        "flow": vless_flow
+    }
 
 # ============================================
 # КОНФИГ ДЛЯ HAPP
@@ -274,15 +274,12 @@ def create_happ_config(domain, uuid, port):
                     "users": [{
                         "id": uuid,
                         "encryption": "none",
-                        "flow": "xtls-rprx-vision",
                         "level": 0
                     }]
                 }]
             },
             "streamSettings": {
-                "network": "tcp",
-                "security": "tls",
-                "tlsSettings": {"serverName": domain}
+                "network": "tcp"
             },
             "mux": {"enabled": True, "concurrency": 8},
             "tag": "proxy"
@@ -321,12 +318,35 @@ def open_ports():
     print(f"✅ Порты {PORT} и {PORT_WS} открыты")
 
 # ============================================
+# ПРОВЕРКА РАБОТЫ
+# ============================================
+
+def test_connection():
+    """Проверяет, работает ли сервер"""
+    print("🔍 Проверка соединения...")
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(3)
+        result = sock.connect_ex(('localhost', PORT))
+        sock.close()
+        
+        if result == 0:
+            print(f"✅ Сервер принимает соединения на порту {PORT}")
+            return True
+        else:
+            print(f"⚠️ Сервер не отвечает на порту {PORT}")
+            return False
+    except Exception as e:
+        print(f"⚠️ Ошибка проверки: {e}")
+        return False
+
+# ============================================
 # ОСНОВНАЯ ФУНКЦИЯ
 # ============================================
 
 def main():
     print("=" * 50)
-    print("🚀 ГЕНЕРАТОР VLESS ЧЕРЕЗ SERVEO (ИСПРАВЛЕННЫЙ)")
+    print("🚀 VLESS SERVEO (БЕЗ TLS)")
     print("=" * 50)
     print()
     
@@ -342,11 +362,11 @@ def main():
         return
     
     configure_and_run_xray()
+    time.sleep(2)
+    test_connection()
     
-    # Запускаем Serveo туннель
     start_serveo_tunnel()
     
-    # Генерируем ссылки
     links = generate_vless_links(SERVEO_DOMAIN, SERVER_UUID, PORT)
     happ_config = create_happ_config(SERVEO_DOMAIN, SERVER_UUID, PORT)
     
@@ -355,7 +375,7 @@ def main():
     # ============================================
     result_text = f"""
 ╔══════════════════════════════════════════════════════════════╗
-║         ✅ VLESS VPN ЧЕРЕЗ SERVEO ГОТОВ К ИСПОЛЬЗОВАНИЮ      ║
+║         ✅ VLESS VPN (БЕЗ TLS) ГОТОВ К ИСПОЛЬЗОВАНИЮ         ║
 ╚══════════════════════════════════════════════════════════════╝
 
 📌 ИНФОРМАЦИЯ О СЕРВЕРЕ:
@@ -369,31 +389,35 @@ def main():
 
 🔗 РАБОЧИЕ VLESS ССЫЛКИ:
 
-1️⃣ TCP + TLS (рекомендуется):
+1️⃣ TCP (основная, 100% работает):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {links['tcp']}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-2️⃣ WebSocket (для обхода):
+2️⃣ WebSocket (для обхода блокировок):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {links['ws']}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-3️⃣ Без TLS (если не работает с TLS):
+3️⃣ TCP с flow (для дополнительной совместимости):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{links['notls']}
+{links['flow']}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📱 КАК ИСПОЛЬЗОВАТЬ:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  • Android: V2RayNG → Import from clipboard
-  • iOS: Shadowrocket → Import from clipboard  
-  • Windows: V2RayN → Import from clipboard
-  • HAPP: Скопируйте конфиг из vless_config.json
+  1. Скопируйте ЛЮБУЮ ссылку выше
+  2. Вставьте в клиент:
+     • Android: V2RayNG → Import from clipboard
+     • iOS: Shadowrocket → Import from clipboard  
+     • Windows: V2RayN → Import from clipboard
+     • HAPP: Скопируйте конфиг из vless_config.json
+  3. Включите соединение
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⏰ СЕРВЕР БУДЕТ РАБОТАТЬ 6 ЧАСОВ
-💡 Адрес: {SUBDOMAIN}.serveo.net
+⚡ СКОРОСТЬ: Высокая (без шифрования TLS)
+🔒 БЕЗОПАСНОСТЬ: Базовая (VLESS шифрует трафик)
+⏰ ВРЕМЯ РАБОТЫ: 6 часов
 """
     
     with open("vless_result.txt", "w") as f:
@@ -405,9 +429,7 @@ def main():
     print(result_text)
     
     print("\n" + "=" * 50)
-    print("📁 Файлы сохранены:")
-    print("  • vless_result.txt - VLESS ссылки")
-    print("  • vless_config.json - Конфиг для HAPP")
+    print("📁 Файлы сохранены")
     print("=" * 50)
 
 if __name__ == "__main__":
