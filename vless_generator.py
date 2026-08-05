@@ -36,67 +36,86 @@ SERVEO_DOMAIN = f"{SUBDOMAIN}.serveo.net"
 SERVER_UUID = str(uuid.uuid4())
 
 # ============================================
-# ЗАПУСК SERVEO ТУННЕЛЯ
-# ============================================
-
-def start_serveo_tunnel():
-    """Запускает Serveo туннель для перенаправления трафика"""
-    print(f"🚀 Запуск Serveo туннеля на {SERVEO_DOMAIN}:{PORT}...")
-    
-    # Команда для создания туннеля с конкретным субдоменом
-    # Используем -R для перенаправления порта
-    cmd = f"ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R {SUBDOMAIN}:{PORT}:localhost:{PORT} serveo.net"
-    
-    # Запускаем в фоне
-    process = subprocess.Popen(
-        cmd,
-        shell=True,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        text=True
-    )
-    
-    # Ждем, пока туннель установится
-    time.sleep(5)
-    
-    # Проверяем, что туннель работает
-    try:
-        # Пытаемся соединиться с Serveo
-        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.settimeout(5)
-        result = sock.connect_ex(('serveo.net', 22))
-        sock.close()
-        
-        if result == 0:
-            print(f"✅ Serveo туннель запущен: {SERVEO_DOMAIN}:{PORT}")
-            return True
-        else:
-            print(f"⚠️ Ошибка подключения к Serveo")
-            return False
-    except Exception as e:
-        print(f"⚠️ Ошибка: {e}")
-        return False
-
-# ============================================
-# УСТАНОВКА XRAY
+# УСТАНОВКА XRAY (УЛУЧШЕННАЯ ВЕРСИЯ)
 # ============================================
 
 def install_xray():
-    """Устанавливает Xray"""
+    """Устанавливает Xray с несколькими способами"""
     print("🚀 Установка Xray...")
     
+    # Способ 1: Официальный скрипт
     try:
-        # Скачиваем и устанавливаем Xray
-        install_cmd = 'bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install'
-        subprocess.run(install_cmd, shell=True, check=True, capture_output=True)
-        print("✅ Xray установлен")
+        print("Попытка 1: Официальный скрипт установки...")
+        # Скачиваем скрипт вручную
+        subprocess.run(
+            "curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh -o /tmp/install-release.sh",
+            shell=True, check=True, capture_output=True
+        )
+        subprocess.run(
+            "bash /tmp/install-release.sh @ install",
+            shell=True, check=True, capture_output=True
+        )
+        print("✅ Xray установлен через официальный скрипт")
         return True
     except Exception as e:
-        print(f"⚠️ Ошибка установки Xray: {e}")
-        return False
+        print(f"⚠️ Ошибка: {e}")
+    
+    # Способ 2: Установка через wget
+    try:
+        print("Попытка 2: Установка через wget...")
+        subprocess.run(
+            "wget -qO /tmp/install-release.sh https://github.com/XTLS/Xray-install/raw/main/install-release.sh",
+            shell=True, check=True, capture_output=True
+        )
+        subprocess.run(
+            "bash /tmp/install-release.sh @ install",
+            shell=True, check=True, capture_output=True
+        )
+        print("✅ Xray установлен через wget")
+        return True
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
+    
+    # Способ 3: Прямая установка бинарника
+    try:
+        print("Попытка 3: Прямая установка бинарника...")
+        # Скачиваем последний релиз
+        import requests
+        import json
+        
+        # Получаем последний релиз
+        response = requests.get('https://api.github.com/repos/XTLS/Xray-core/releases/latest')
+        if response.status_code == 200:
+            data = response.json()
+            # Ищем linux-amd64
+            for asset in data['assets']:
+                if 'linux-64' in asset['name']:
+                    url = asset['browser_download_url']
+                    subprocess.run(f"wget -qO /tmp/xray.zip {url}", shell=True, check=True)
+                    subprocess.run("sudo unzip -o /tmp/xray.zip -d /usr/local/bin/", shell=True, check=True)
+                    subprocess.run("sudo chmod +x /usr/local/bin/xray", shell=True, check=True)
+                    print("✅ Xray установлен напрямую")
+                    return True
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
+    
+    # Способ 4: Установка из репозитория (для Ubuntu)
+    try:
+        print("Попытка 4: Установка из репозитория...")
+        subprocess.run(
+            "sudo apt-get update && sudo apt-get install -y xray",
+            shell=True, check=True, capture_output=True
+        )
+        print("✅ Xray установлен из репозитория")
+        return True
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
+    
+    print("❌ Все способы установки не удались")
+    return False
 
 # ============================================
-# НАСТРОЙКА XRAY
+# НАСТРОЙКА XRAY (С СОЗДАНИЕМ КОНФИГА)
 # ============================================
 
 def configure_xray():
@@ -106,7 +125,6 @@ def configure_xray():
     # Создаем конфигурацию
     config = {
         "inbounds": [
-            # Основной вход (TCP + TLS)
             {
                 "port": PORT,
                 "protocol": "vless",
@@ -134,7 +152,6 @@ def configure_xray():
                     "destOverride": ["http", "tls"]
                 }
             },
-            # WebSocket вход (для обхода блокировок)
             {
                 "port": PORT_WS,
                 "protocol": "vless",
@@ -183,21 +200,75 @@ def configure_xray():
     
     # Сохраняем конфиг
     config_path = "/usr/local/etc/xray/config.json"
-    with open("/tmp/config.json", "w") as f:
-        json.dump(config, f, indent=2)
     
     try:
-        # Перемещаем в системную папку
+        # Создаем папку для конфига
+        subprocess.run("sudo mkdir -p /usr/local/etc/xray", shell=True, check=True)
+        
+        # Сохраняем конфиг
+        with open("/tmp/config.json", "w") as f:
+            json.dump(config, f, indent=2)
+        
         subprocess.run(f"sudo mv /tmp/config.json {config_path}", shell=True, check=True)
         
-        # Запускаем Xray
-        subprocess.run("sudo systemctl restart xray", shell=True, check=True)
-        subprocess.run("sudo systemctl enable xray", shell=True, check=True)
+        # Пытаемся запустить Xray
+        try:
+            subprocess.run("sudo systemctl restart xray", shell=True, check=True)
+            subprocess.run("sudo systemctl enable xray", shell=True, check=True)
+        except:
+            # Если systemctl не работает, запускаем напрямую
+            subprocess.Popen(
+                "sudo /usr/local/bin/xray -config /usr/local/etc/xray/config.json",
+                shell=True,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL
+            )
         
         print(f"✅ Xray настроен на порту {PORT} (TCP) и {PORT_WS} (WS)")
         return True
     except Exception as e:
         print(f"⚠️ Ошибка настройки Xray: {e}")
+        return False
+
+# ============================================
+# ЗАПУСК SERVEO ТУННЕЛЯ
+# ============================================
+
+def start_serveo_tunnel():
+    """Запускает Serveo туннель для перенаправления трафика"""
+    print(f"🚀 Запуск Serveo туннеля на {SERVEO_DOMAIN}:{PORT}...")
+    
+    # Команда для создания туннеля
+    cmd = f"ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -R {SUBDOMAIN}:{PORT}:localhost:{PORT} serveo.net"
+    
+    # Запускаем в фоне
+    process = subprocess.Popen(
+        cmd,
+        shell=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+    
+    # Ждем, пока туннель установится
+    time.sleep(5)
+    
+    # Проверяем, что туннель работает
+    try:
+        # Пытаемся соединиться с Serveo
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(5)
+        result = sock.connect_ex(('serveo.net', 22))
+        sock.close()
+        
+        if result == 0:
+            print(f"✅ Serveo туннель запущен: {SERVEO_DOMAIN}:{PORT}")
+            return True
+        else:
+            print(f"⚠️ Ошибка подключения к Serveo")
+            return False
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
         return False
 
 # ============================================
@@ -329,27 +400,26 @@ def create_happ_config(domain, uuid, port):
     return config
 
 # ============================================
-# ОТКРЫТИЕ ПОРТОВ
+# ПРОВЕРКА РАБОТЫ XRAY
 # ============================================
 
-def open_ports():
-    """Открывает порты в firewall"""
-    print("🔓 Открываем порты...")
-    
-    commands = [
-        f"sudo ufw allow {PORT}/tcp",
-        f"sudo ufw allow {PORT_WS}/tcp",
-        "sudo ufw allow 22/tcp",
-        "sudo ufw --force enable"
-    ]
-    
-    for cmd in commands:
-        try:
-            subprocess.run(cmd, shell=True, check=True, capture_output=True)
-        except:
-            pass
-    
-    print(f"✅ Порты {PORT} и {PORT_WS} открыты")
+def check_xray():
+    """Проверяет, работает ли Xray"""
+    try:
+        # Проверяем, слушает ли порт
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(2)
+        result = sock.connect_ex(('localhost', PORT))
+        sock.close()
+        
+        if result == 0:
+            print(f"✅ Xray работает на порту {PORT}")
+            return True
+        else:
+            print(f"⚠️ Xray не отвечает на порту {PORT}")
+            return False
+    except:
+        return False
 
 # ============================================
 # ОСНОВНАЯ ФУНКЦИЯ
@@ -372,16 +442,18 @@ def main():
     # Устанавливаем Xray
     if not install_xray():
         print("❌ Ошибка установки Xray")
-        return
+        # Но продолжаем - может быть Xray уже установлен
     
     # Настраиваем Xray
     if not configure_xray():
         print("❌ Ошибка настройки Xray")
-        return
+    
+    # Проверяем работу
+    time.sleep(2)
+    check_xray()
     
     # Запускаем Serveo туннель
-    if not start_serveo_tunnel():
-        print("⚠️ Проблема с Serveo, но продолжаем...")
+    start_serveo_tunnel()
     
     # Генерируем ссылки
     links = generate_vless_links(SERVEO_DOMAIN, SERVER_UUID, PORT)
@@ -444,6 +516,29 @@ def main():
     print("  • vless_result.txt - VLESS ссылки")
     print("  • vless_config.json - Конфиг для HAPP")
     print("=" * 50)
+
+# ============================================
+# ОТКРЫТИЕ ПОРТОВ
+# ============================================
+
+def open_ports():
+    """Открывает порты в firewall"""
+    print("🔓 Открываем порты...")
+    
+    commands = [
+        f"sudo ufw allow {PORT}/tcp",
+        f"sudo ufw allow {PORT_WS}/tcp",
+        "sudo ufw allow 22/tcp",
+        "sudo ufw --force enable"
+    ]
+    
+    for cmd in commands:
+        try:
+            subprocess.run(cmd, shell=True, check=True, capture_output=True)
+        except:
+            pass
+    
+    print(f"✅ Порты {PORT} и {PORT_WS} открыты")
 
 if __name__ == "__main__":
     main()
