@@ -1,14 +1,14 @@
-name: 🚀 VLESS VPN Generator
+name: 🚀 VLESS VPN via Serveo
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # Каждые 6 часов
+    - cron: '0 */6 * * *'
 
 jobs:
   vless:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 часов
+    timeout-minutes: 360
     
     steps:
       # ============================================
@@ -23,13 +23,13 @@ jobs:
       - name: Устанавливаем зависимости
         run: |
           sudo apt-get update
-          sudo apt-get install -y python3 python3-pip curl wget jq
+          sudo apt-get install -y python3 python3-pip curl wget jq openssh-client
           sudo pip3 install requests
       
       # ============================================
       # 3. ЗАПУСКАЕМ ГЕНЕРАТОР VLESS
       # ============================================
-      - name: Генерируем VLESS ключ
+      - name: Генерируем VLESS ключ через Serveo
         run: |
           python3 vless_generator.py
       
@@ -39,7 +39,7 @@ jobs:
       - name: Выводим информацию
         run: |
           echo "=================================================="
-          echo "         ✅ VLESS VPN ГОТОВ ✅"
+          echo "      ✅ VLESS VPN ЧЕРЕЗ SERVEO ГОТОВ ✅"
           echo "=================================================="
           echo ""
           cat vless_result.txt
@@ -52,7 +52,7 @@ jobs:
       # ============================================
       # 5. СОХРАНЯЕМ РЕЗУЛЬТАТ
       # ============================================
-      - name: Сохраняем результат в файл
+      - name: Сохраняем результат
         uses: actions/upload-artifact@v4
         with:
           name: vless-config
