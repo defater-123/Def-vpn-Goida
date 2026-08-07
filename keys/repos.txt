@@ -2,13 +2,4 @@
 # Формат: owner/repo|branch|path/to/keys.txt
 # Пример:
 
-user1/vpn-keys|main|keys.txt
-user2/xray-configs|master|servers.txt
-user3/v2ray-keys|main|config/keys.txt
-user4/free-vpn|main|data/keys.txt
-user5/public-servers|master|server-list.txt
-user6/vpn-pool|main|keys.txt
-user7/xray-nodes|main|nodes.txt
-user8/v2ray-servers|master|servers.txt
-user9/vpn-collection|main|keys.txt
-user10/free-nodes|main|nodes.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
