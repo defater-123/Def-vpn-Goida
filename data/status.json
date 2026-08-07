@@ -1,110 +1,10 @@
 {
-  "last_update": "2026-08-07T17:30:43.570158",
-  "total": 55,
+  "last_update": "2026-08-07T18:28:10.332097",
+  "total": 61,
   "up": 0,
-  "down": 55,
+  "down": 61,
   "results": {
-    "nl1.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.234.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anydesk.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.85.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt-async-webps-prod-centralus-0.chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.218.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.58.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.108.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ddc-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.241.98.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.105.163.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.202.211.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.30.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.217.222.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.65": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.208.121": {
+    "45.196.201.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.150.166.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.44": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,27 +36,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.19": {
+    "31.56.185.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.45": {
+    "188.164.248.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.80": {
+    "45.196.201.96": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,39 +56,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.22": {
+    "34.96.200.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-one.quiet-rogue.site": {
+    "45.196.201.194": {
       "status": "down",
       "rtt_ms": null
     },
-    "free02.tunnely.space": {
+    "45.196.201.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.riotvpn.eu": {
+    "95.85.224.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.86.60.162": {
+    "45.196.201.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl2-akn.astralweb.tech": {
+    "45.196.201.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.43": {
+    "it1-akn.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.30": {
+    "45.196.201.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.13": {
+    "86.107.178.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.58.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.108.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.58.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.111.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,7 +128,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.74.178.41": {
+    "45.196.201.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.56": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,19 +140,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.21": {
+    "45.196.201.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "140.248.186.45": {
+    "45.196.201.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.84": {
+    "45.196.201.87": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.188": {
+    "45.196.201.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-84018978331c4eaf.sr-37f423695609b2ef.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.219.29": {
       "status": "down",
       "rtt_ms": null
     },
@@ -216,11 +176,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.68": {
+    "45.196.201.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp-ak.astralweb.tech": {
+    "45.196.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.105.163.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nod.appcodes.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.142": {
       "status": "down",
       "rtt_ms": null
     }
