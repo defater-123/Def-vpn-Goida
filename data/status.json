@@ -1,186 +1,14 @@
 {
-  "last_update": "2026-08-07T13:34:44.135961",
-  "total": 67,
+  "last_update": "2026-08-07T14:37:33.320751",
+  "total": 55,
   "up": 0,
-  "down": 67,
+  "down": 55,
   "results": {
-    "91.193.58.218": {
+    "45.196.201.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.108.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.202.211.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.173.155.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.255": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "themeforest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz1.samovargate.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.150.166.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.204.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl8.odavpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.105.163.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.68": {
+    "45.196.201.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,23 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.5": {
+    "45.196.201.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.98": {
+    "45.196.201.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.118": {
+    "217.217.222.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.208.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.15": {
+    "146.75.58.94": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,35 +36,111 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.196.201.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ddc-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.60.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "38.180.218.105": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.37": {
+    "free02.tunnely.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.57": {
+    "45.196.201.65": {
       "status": "down",
       "rtt_ms": null
     },
-    "oplosgru-c.catcat321.com": {
+    "nl2-akn.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.23": {
+    "45.196.201.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.iplocation.net": {
+    "45.196.201.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.201": {
+    "45.80.108.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.baipiao.eu.org": {
+    "89.105.208.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.30.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "anydesk.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-ak.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,27 +148,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.8": {
+    "chatgpt-async-webps-prod-centralus-0.chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.99": {
+    "77.105.163.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.94": {
+    "45.196.201.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.46": {
+    "fi-one.quiet-rogue.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.202.219.29": {
+    "45.196.201.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.80": {
+    "2.26.85.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.208.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.74.178.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.202.211.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.241.98.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     }
