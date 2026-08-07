@@ -1,30 +1,30 @@
 {
-  "last_update": "2026-08-07T23:22:47.488237",
+  "last_update": "2026-08-07T23:54:06.932923",
   "total": 63,
   "up": 0,
   "down": 63,
   "results": {
-    "45.196.201.72": {
+    "188.164.248.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.67": {
+    "45.196.201.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.135": {
+    "146.75.58.94": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.58.98": {
+    "2.26.85.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.225.84": {
+    "45.80.108.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.43": {
+    "86.107.178.68": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,167 +36,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.105.163.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lm.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "u.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.234.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "all.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sal.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sp.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "oplosgru-c.catcat321.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.81.114.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "th.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fn.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.185.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.205.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.202.219.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "94.249.225.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ddc-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tom.myona.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.193.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ni.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.58.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.108.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw2.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.85.26": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,43 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.217.222.230": {
+    "45.196.201.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "164.37.111.117": {
+    "94.249.225.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "gem.cryptoofarm.com": {
+    "213.202.219.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.6": {
+    "45.196.201.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr2.odavpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hkdcrtc-e.catcat321.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.74.178.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-84018978331c4eaf.sr-37f423695609b2ef.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gg1.serviceoda.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.superturk.ir": {
+    "146.75.58.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,11 +68,191 @@
       "status": "down",
       "rtt_ms": null
     },
+    "sp.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "u.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-84018978331c4eaf.sr-37f423695609b2ef.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.superturk.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.105.163.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.193.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ni.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ddc-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lm.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.111.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tom.myona.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw2.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gg1.serviceoda.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "all.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hkdcrtc-e.catcat321.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sal.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "th.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr2.odavpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.224.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.205.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.217.222.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.185.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gem.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.74.178.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "oplosgru-c.catcat321.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.113.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "it1-akn.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.68": {
+    "45.196.201.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.81.114.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fn.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     }
