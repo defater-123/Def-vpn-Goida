@@ -39,7 +39,7 @@ jobs:
           def fetch_keys_from_repo(repo, branch, path):
               """Загружает ключи из публичного репозитория"""
               url = f"https://raw.githubusercontent.com/{repo}/{branch}/{path}"
-              keys = []
+              hosts = []
               
               try:
                   print(f"  📥 {repo}")
@@ -52,35 +52,39 @@ jobs:
                           if line and not line.startswith('#'):
                               host = extract_host(line)
                               if host:
-                                  keys.append(host)
-                      print(f"    ✅ {len(keys)} хостов")
+                                  hosts.append(host)
+                      print(f"    ✅ {len(hosts)} хостов")
                   else:
                       print(f"    ❌ Ошибка {response.status_code}")
               except Exception as e:
                   print(f"    ❌ {e}")
               
-              return keys
+              return hosts
           
           def extract_host(line):
-              """Извлекает IP/домен из любой строки с ключом"""
-              # Убираем emoji и мусор в конце
-              line = re.sub(r'[^\x00-\x7F]+', '', line)  # Удаляем emoji
+              """Извлекает IP или полный домен из строки ключа"""
+              # Удаляем emoji
+              line = re.sub(r'[^\x00-\x7F]+', '', line)
               
-              # Пробуем найти IP или домен
-              # Паттерн для IPv4: цифры.цифры.цифры.цифры
+              # 1. Ищем IP-адрес (IPv4)
               ip_pattern = r'\b(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\b'
-              # Паттерн для домена: имя.зона (как минимум точка)
-              domain_pattern = r'\b([a-zA-Z0-9][a-zA-Z0-9-]*\.[a-zA-Z]{2,})\b'
-              
-              # Сначала ищем IP
               ip_match = re.search(ip_pattern, line)
               if ip_match:
                   return ip_match.group(1)
               
-              # Потом ищем домен
+              # 2. Ищем полный домен с зоной (как минимум 2 символа после точки)
+              # Например: example.com, sub.domain.co.uk, free-de-03.la-la-land.top
+              domain_pattern = r'\b([a-zA-Z0-9]([a-zA-Z0-9\-]*[a-zA-Z0-9])?\.([a-zA-Z0-9\-]+\.)*[a-zA-Z]{2,})\b'
               domain_match = re.search(domain_pattern, line)
               if domain_match:
                   return domain_match.group(1)
+              
+              # 3. Если есть @, берем то, что после @ (для vless://uuid@host:port)
+              if '@' in line:
+                  # Ищем после @ до : или / или ?
+                  at_match = re.search(r'@([^:/\?]+)', line)
+                  if at_match:
+                      return at_match.group(1)
               
               return None
           
@@ -96,7 +100,7 @@ jobs:
                       return host, True, rtt
                   else:
                       return host, False, 0
-              except:
+              except Exception as e:
                   return host, False, 0
           
           def main():
@@ -113,8 +117,8 @@ jobs:
                               parts = line.split('|')
                               if len(parts) >= 3:
                                   repos.append((parts[0], parts[1], parts[2]))
-              except:
-                  print("❌ keys/repos.txt не найден")
+              except Exception as e:
+                  print(f"❌ Ошибка чтения keys/repos.txt: {e}")
                   return
               
               print(f"📚 Репозиториев: {len(repos)}")
@@ -125,13 +129,16 @@ jobs:
                   hosts = fetch_keys_from_repo(repo, branch, path)
                   all_hosts.extend(hosts)
               
-              # Убираем дубликаты
-              all_hosts = list(set(all_hosts))
+              # Убираем дубликаты и пустые
+              all_hosts = list(set([h for h in all_hosts if h]))
               print(f"\n📋 Уникальных хостов: {len(all_hosts)}")
               
               if not all_hosts:
                   print("❌ Нет хостов для проверки")
                   return
+              
+              # Показываем первые 5 хостов для примера
+              print(f"📝 Примеры: {', '.join(all_hosts[:5])}")
               
               # Пингуем параллельно
               results = {}
@@ -151,11 +158,14 @@ jobs:
                       print(f"  {icon} {host} - {rtt_text}")
               
               # Сохраняем статус
+              up_count = sum(1 for r in results.values() if r['status'] == 'up')
+              down_count = sum(1 for r in results.values() if r['status'] == 'down')
+              
               status = {
                   'last_update': datetime.now().isoformat(),
                   'total': len(results),
-                  'up': sum(1 for r in results.values() if r['status'] == 'up'),
-                  'down': sum(1 for r in results.values() if r['status'] == 'down'),
+                  'up': up_count,
+                  'down': down_count,
                   'results': results
               }
               
@@ -163,7 +173,7 @@ jobs:
               with open(STATUS_FILE, 'w') as f:
                   json.dump(status, f, indent=2)
               
-              print(f"\n📊 Статус: UP {status['up']} | DOWN {status['down']}")
+              print(f"\n📊 Статус: UP {up_count} | DOWN {down_count}")
               
               # Генерируем HTML
               generate_html(status)
@@ -217,8 +227,8 @@ jobs:
                   }}
                   .host.up {{ border-left-color: #4ade80; }}
                   .host.down {{ border-left-color: #f87171; }}
-                  .host .name {{ font-family: monospace; font-size: 0.9em; }}
-                  .host .info {{ display: flex; align-items: center; gap: 15px; }}
+                  .host .name {{ font-family: monospace; font-size: 0.9em; word-break: break-all; }}
+                  .host .info {{ display: flex; align-items: center; gap: 15px; flex-shrink: 0; }}
                   .badge {{
                       padding: 2px 10px; border-radius: 12px; font-size: 0.7em;
                       font-weight: 600; text-transform: uppercase;
