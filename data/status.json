@@ -1,382 +1,22 @@
 {
-  "last_update": "2026-08-08T08:56:45.341353",
-  "total": 131,
+  "last_update": "2026-08-08T09:28:44.507978",
+  "total": 118,
   "up": 0,
-  "down": 131,
+  "down": 118,
   "results": {
-    "89.116.250.8": {
+    "164.37.111.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.225.68.232": {
+    "45.196.201.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.182.115.181": {
+    "45.86.159.114": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.40.146.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.58.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.46.30.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.250.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.72.166.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.207.197.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.71.191.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.53.191.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.185.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.238.70.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.denverpresents.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.89.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.167.230.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.34.229.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.194.12.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.144.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "63.141.128.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.164.163.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.106.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.238.228.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.238.71.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.151.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.88.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.71.233.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro-it.emrata.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lin.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.10.245.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.158.109.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.198.173.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.205.52.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.68.156.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.120.94.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anydesk.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.241.198.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.244.122.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.58.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.129.166.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.202.30.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.11.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.225.195.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.149.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.225.252.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.0.54.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "135.84.73.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.181.244.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.58.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.34.230.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.36.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "181.214.1.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.228.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.211.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.227.138.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.189.254.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.0.63.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.62.114.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.238.68.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.232.140.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.195.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.169.142.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.12.31.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.11.203.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.124.223.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.147.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.177.57.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.10.247.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.66.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.172.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "184.168.47.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.7.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.62.106.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.108.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.129.165.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.167.242.8": {
+    "94.183.186.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -384,123 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tr2.odavpn.online": {
+    "184.168.47.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "166.62.113.8": {
+    "80.74.28.213": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.64.235.123": {
+    "89.116.250.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "sa-3139608ac8900119.sr-c2fad9503e69e2a2.r.vpvpn.club": {
+    "185.18.250.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "fast.superturk.ir": {
+    "185.225.68.232": {
       "status": "down",
       "rtt_ms": null
     },
-    "166.62.110.8": {
+    "45.80.108.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.37.33.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.150.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.62.111.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.250.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.88.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.87.41.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.90.14.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.142.120.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "161.145.150.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.10.246.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.62.109.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.238.69.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.165.216.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.83.2.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.91.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.7.8": {
+    "89.117.112.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -508,11 +56,203 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.6.8": {
+    "130.250.137.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.5.8": {
+    "135.84.73.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.251.164.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.202.30.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.207.197.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "160.153.136.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "g1.voxyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.21.172.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.185.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "160.153.138.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.144.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.228.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.193.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.62.194.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.64.235.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.105.163.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.46.30.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.0.63.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "th.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tttyder.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.89.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.100.9.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.176.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.194.12.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.109.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.124.63.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.18.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hyfuuf6.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.202.211.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.108.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.168.90.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.181.244.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.238.69.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.133.1.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.111.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.iplocation.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.146.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.113.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.36.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.155.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -520,11 +260,219 @@
       "status": "down",
       "rtt_ms": null
     },
-    "50.62.174.8": {
+    "50.62.175.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.135.80.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.26.229.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.241.198.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.34.229.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.147.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.71.233.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "all.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.67.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "160.153.168.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.225.195.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.200.160.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-6a09b2fc28430245.sr-badd9c9ab2e12bda.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.214": {
       "status": "down",
       "rtt_ms": null
     },
     "185.193.29.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.244.122.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "66.81.247.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.62.195.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.114.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.53.191.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.12.144.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.5.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.167.242.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.129.166.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.62.106.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sal.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-eda1e2f20432789e.sr-a47a535f05cb93e5.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.238.71.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.164.163.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.239.160.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.66.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.135.38.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.18.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.106.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ddc-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free-de-03.la-la-land.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.208.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.207.198.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-84018978331c4eaf.sr-37f423695609b2ef.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.8": {
       "status": "down",
       "rtt_ms": null
     }
