@@ -1,30 +1,206 @@
 {
-  "last_update": "2026-08-08T13:24:09.398798",
+  "last_update": "2026-08-08T14:03:24.674853",
   "total": 104,
   "up": 0,
   "down": 104,
   "results": {
+    "45.196.201.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.150.34.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "194.150.166.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.37.62": {
+    "86.107.178.68": {
       "status": "down",
       "rtt_ms": null
     },
-    "164.37.111.117": {
+    "45.196.201.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.56.7": {
+    "45.196.201.173": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.251.164.63": {
+    "45.196.201.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.185.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.100.9.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "codecanyon.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw2.fi1-cosmostechnology.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw4.fi1-cosmostechnology.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.108.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.219.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.173.155.212": {
       "status": "down",
       "rtt_ms": null
     },
     "109.71.241.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.241.98.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sir.m2love2.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.114.72.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.21.172.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "g1.voxyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.224.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.85.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.252.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.185": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,39 +216,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "217.60.36.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "140.248.185.253": {
+    "off.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.96.200.38": {
+    "194.147.33.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.254.140.62": {
+    "45.196.201.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.118": {
+    "uk1.denverpresents.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.202.219.29": {
+    "fi-one.quiet-rogue.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.220": {
+    "103.251.164.63": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.36": {
+    "45.196.201.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.131": {
+    "45.196.201.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,19 +256,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.81": {
+    "45.147.228.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.43": {
+    "45.196.201.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.87": {
+    "45.196.201.73": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,139 +276,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "95.182.115.131": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.150": {
+    "188.164.248.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.182.115.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.21.172.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.58.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.159.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.denverpresents.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.33.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.100.9.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.241.98.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.36.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "all.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "themeforest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "off.cryptoofarm.com": {
+    "217.60.37.62": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,115 +292,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.85.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.114.72.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.173.155.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ddc-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freetg.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sir.m2love2.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "g1.voxyvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.150.34.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw4.fi1-cosmostechnology.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.209": {
       "status": "down",
       "rtt_ms": null
     },
@@ -360,31 +300,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.23": {
+    "it1-akn.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.147.228.249": {
+    "all.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "codecanyon.net": {
+    "45.196.201.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.108.182": {
+    "172.64.80.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.188": {
+    "45.196.201.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.185": {
+    "45.196.201.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "anydesk.com": {
+    "45.196.201.131": {
       "status": "down",
       "rtt_ms": null
     },
@@ -392,11 +332,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "164.37.111.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw2.fi1-cosmostechnology.ru": {
+    "45.196.201.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "themeforest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.150": {
       "status": "down",
       "rtt_ms": null
     },
@@ -404,19 +372,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "it1-akn.astralweb.tech": {
+    "146.75.58.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.252.189": {
+    "45.196.201.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.246": {
+    "freetg.strettenvpn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-one.quiet-rogue.site": {
+    "ddc-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.96.200.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "anydesk.com": {
       "status": "down",
       "rtt_ms": null
     }
