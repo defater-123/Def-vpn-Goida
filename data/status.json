@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-08-08T22:47:41.521318",
+  "last_update": "2026-08-08T23:16:26.045585",
   "total": 64,
   "up": 0,
   "down": 64,
   "results": {
-    "ns.1tut1.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.77.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.86.249.58": {
+    "45.196.201.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,39 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
+    "45.86.159.114": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,111 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.239.160.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.87.41.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.denverpresents.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.168.90.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.9.233.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.253.55.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.236.106.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.123.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ddc-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "all.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "larkix.pulsio.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "balancer-arzon.lorqino.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.167.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.11": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,23 +32,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "147.90.14.165": {
+    "45.196.201.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.39": {
+    "45.196.201.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.53.82.202": {
+    "45.196.201.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.136.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
+    "47.236.106.241": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,47 +52,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.150.34.41": {
+    "45.196.201.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.36.141.81": {
+    "152.53.82.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.86.159.114": {
+    "193.58.122.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.220": {
+    "ddc-akn.astralweb.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.8": {
+    "104.17.167.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.77.25.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.193.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.164.163.173": {
+    "ns.1tut1.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,11 +80,183 @@
       "status": "down",
       "rtt_ms": null
     },
+    "larkix.pulsio.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.164.163.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.36.141.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.113.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.87.41.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.90.14.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.253.55.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "all.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.86.249.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.77.25.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.136.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.193.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.77.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.9.233.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.150.34.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "31.58.50.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.58.122.41": {
+    "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "balancer-arzon.lorqino.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.239.160.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.168.90.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.188": {
       "status": "down",
       "rtt_ms": null
     }
