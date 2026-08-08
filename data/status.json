@@ -1,198 +1,10 @@
 {
-  "last_update": "2026-08-08T19:06:10.528778",
+  "last_update": "2026-08-08T19:42:05.025278",
   "total": 73,
   "up": 0,
   "down": 73,
   "results": {
-    "45.196.201.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.168.90.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.228.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.120.17.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.182.115.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "all.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freetg.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "i3.cloud--vpn.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.236.106.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.59.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.108.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.58.50.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.159.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.119.59.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.164.163.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.189.254.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "codecanyon.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "z.pxui.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.123.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.167.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.122": {
+    "45.196.201.75": {
       "status": "down",
       "rtt_ms": null
     },
@@ -200,51 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ddc-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.227.225.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.193.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.77.95": {
+    "45.196.201.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,11 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.33": {
+    "45.80.108.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.69": {
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.228.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.167.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.119.59.107": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,7 +56,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "76.164.202.220": {
+    "45.196.201.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.164.163.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.168.90.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "z.pxui.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.223.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.115.122": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,15 +124,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.21": {
+    "93.114.194.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.75": {
+    "176.120.17.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.142": {
+    "5.189.254.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "all.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -293,6 +157,142 @@
       "rtt_ms": null
     },
     "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.59.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.113.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.58.50.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.236.106.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.193.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freetg.strettenvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.227.225.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "i3.cloud--vpn.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.77.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "codecanyon.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ddc-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
       "status": "down",
       "rtt_ms": null
     }
