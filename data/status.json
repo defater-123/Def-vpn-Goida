@@ -1,142 +1,14 @@
 {
-  "last_update": "2026-08-09T05:16:25.620110",
+  "last_update": "2026-08-09T06:05:02.654352",
   "total": 66,
   "up": 0,
   "down": 66,
   "results": {
-    "84.21.172.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.33.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.239.160.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.150.34.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.77.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.228.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.84.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.253.55.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.80.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.179.220.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.14.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.136.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.53.82.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "host-vds2-fr.kvncococ.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "76.164.202.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.159.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.167.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.36.141.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.215.31.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.225.68.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "80.77.25.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "161.104.32.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.58.50.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru6.ethicsdinnerpave.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
+    "109.69.218.208": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,39 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "193.239.160.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.150.34.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.17.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "lat.crsmaps.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.87.41.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "169.197.113.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.56.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.251.164.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.164.163.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.133.117.185": {
+    "84.21.172.81": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,7 +36,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.212.82": {
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.135.80.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.33.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.167.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lat.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.234.100.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.163.239.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.14.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.228.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.195.56.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.71.241.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.136.218": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,11 +112,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.68": {
+    "169.197.113.179": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.135.38.140": {
+    "217.179.220.67": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,11 +124,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "uk1.denverpresents.top": {
+    "31.76.113.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.189.254.114": {
+    "109.69.218.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.251.164.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.164.163.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.195.14.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.72": {
       "status": "down",
       "rtt_ms": null
     },
@@ -220,7 +152,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.254.14.165": {
+    "161.104.32.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -228,31 +160,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "uk.riotvpn.eu": {
+    "nl1.noesissite.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "fun.abryasi.ir": {
+    "5.189.254.114": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.47.43": {
+    "185.36.141.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.234.100.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.71.241.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.163.239.4": {
+    "194.135.38.140": {
       "status": "down",
       "rtt_ms": null
     },
@@ -260,11 +180,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.69.218.208": {
+    "147.45.47.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "host-vds2-fr.kvncococ.org": {
       "status": "down",
       "rtt_ms": null
     },
     "hy2-de.frdmhere.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.215.31.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.82.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.212.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.58.50.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.87.41.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.225.68.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.253.55.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru6.ethicsdinnerpave.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ltu-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.84.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.77.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fun.abryasi.ir": {
       "status": "down",
       "rtt_ms": null
     }
