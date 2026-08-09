@@ -1,86 +1,10 @@
 {
-  "last_update": "2026-08-09T07:13:06.538503",
+  "last_update": "2026-08-09T08:00:23.572500",
   "total": 88,
   "up": 0,
   "down": 88,
   "results": {
-    "168.100.9.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.179.220.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.227.225.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "128.241.25.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.123.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "apple-cd2b77.cdx-edge.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "102.177.176.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.239.160.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.14.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gorbachev-th.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.38.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "italy.funvideorus.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.58.122.41": {
+    "2.26.91.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,31 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.91.98": {
+    "109.71.241.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "109.69.218.215": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.225.68.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.84.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.26": {
+    "91.193.59.251": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,27 +28,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.225.80": {
+    "147.45.47.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.80.1": {
+    "141.193.213.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.164.163.173": {
+    "8.222.193.153": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.47.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.163.239.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.58.50.200": {
+    "91.193.58.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,11 +48,111 @@
       "status": "down",
       "rtt_ms": null
     },
+    "194.135.38.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "188.164.248.220": {
       "status": "down",
       "rtt_ms": null
     },
+    "185.225.68.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "shopify.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy.funvideorus.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apple-cd2b77.cdx-edge.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "host-vds2-fr.kvncococ.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.164.163.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.179.220.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.111.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.239.160.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.227.225.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.253.55.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.58.50.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.38.155.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.93.202.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.195.14.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.65.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.192.173": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,55 +164,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.251.164.63": {
+    "109.69.218.208": {
       "status": "down",
       "rtt_ms": null
     },
-    "178.17.58.166": {
+    "168.100.9.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.93.202.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "russia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.53.82.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.192.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.71.241.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.28.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.65.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "76.164.202.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.14.140": {
+    "5.254.14.165": {
       "status": "down",
       "rtt_ms": null
     },
@@ -220,55 +180,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.86.159.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.234.100.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "host-vds2-fr.kvncococ.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.181.244.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test2.f1u.us.ci": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.38.155.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "63.141.128.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.21.172.81": {
+    "89.116.46.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,63 +188,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "130.78.216.196": {
+    "93.114.194.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.93.202.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.7.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.150.34.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.222.193.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.59.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ir.varnaroleplay.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.denverpresents.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.36.141.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.232.140.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.253.55.89": {
+    "45.196.201.32": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,7 +200,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
+    "89.150.34.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.93.202.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.232.140.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.82.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.21.172.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.7.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test2.f1u.us.ci": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ir.varnaroleplay.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,11 +244,115 @@
       "status": "down",
       "rtt_ms": null
     },
+    "103.251.164.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.181.244.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.58.122.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "128.241.25.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.17.58.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.234.100.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.163.239.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gorbachev-th.kvnfreetest.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "larkix.pulsio.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.noesissite.ru": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "63.141.128.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.84.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.224.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.28.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.36.141.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "russia.com": {
       "status": "down",
       "rtt_ms": null
     }
