@@ -1,90 +1,14 @@
 {
-  "last_update": "2026-08-09T22:22:57.341560",
+  "last_update": "2026-08-09T22:56:00.991371",
   "total": 85,
   "up": 0,
   "down": 85,
   "results": {
-    "109.69.218.206": {
+    "72.56.53.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "ne4.rexten.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.53.82.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.76.160.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.104.106.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nexvio.orbvia.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.255.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.52.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1-akn.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.98.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.255.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.83.121.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.255.26": {
+    "64.188.64.141": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,91 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.251.213.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.44.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.255.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "144.31.13.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.77.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.178.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.53.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "estproxy2.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de1.prime-net.me": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru-sl.convert-flow.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.222.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.79.95": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,19 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.212.42": {
+    "193.233.255.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.86.159.114": {
+    "45.131.212.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "lv.rexten.cc": {
+    "87.76.160.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.193.4": {
+    "glidio.shieldix.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,7 +44,119 @@
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.219": {
+    "139.28.98.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de1.prime-net.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estproxy2.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru-sl.convert-flow.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.denverpresents.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth6.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gorbachev-th.kvnfreetest.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.255.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.212.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.9.224.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.251.213.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.86.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.77.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.224.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.255.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.212.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.155.14.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.rexten.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1-akn.astralweb.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "deproxy.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.178.184": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,11 +164,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.38.178": {
+    "104.254.140.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.212.35": {
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.52.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.255.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.193.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -224,7 +200,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.170.211.186": {
+    "132.243.222.209": {
       "status": "down",
       "rtt_ms": null
     },
@@ -232,7 +208,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.180": {
+    "109.69.218.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nexvio.orbvia.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.82.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.83.121.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.20.235.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.41": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,63 +244,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "65.98.5.106": {
+    "147.45.44.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.47.26": {
+    "147.45.47.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.220": {
+    "45.131.212.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.12.207.24": {
+    "45.131.212.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "de3.rexten.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.155.14.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.20.235.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.236.106.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.255.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.212.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.106.86.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "76.164.202.220": {
+    "45.131.212.42": {
       "status": "down",
       "rtt_ms": null
     },
@@ -308,39 +268,79 @@
       "status": "down",
       "rtt_ms": null
     },
+    "65.98.5.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.212.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ne4.rexten.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.38.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.79.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.255.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.170.211.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.rexten.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.236.106.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.12.207.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.212.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.212.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "37.49.227.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "gorbachev-th.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "deproxy.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.9.224.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "glidio.shieldix.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.64.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.denverpresents.top": {
+    "speedtest.net": {
       "status": "down",
       "rtt_ms": null
     }
