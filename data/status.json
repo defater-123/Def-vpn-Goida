@@ -1,34 +1,22 @@
 {
-  "last_update": "2026-08-10T20:20:37.813711",
+  "last_update": "2026-08-10T21:08:13.950677",
   "total": 67,
   "up": 0,
   "down": 67,
   "results": {
-    "45.196.201.28": {
+    "45.196.201.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "45.196.201.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.133.35.75": {
+    "93.114.194.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.195.228.26": {
+    "2.27.56.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,31 +24,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.86.249.58": {
+    "45.196.201.92": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.191.146": {
+    "45.196.201.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.213.230": {
+    "45.196.201.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.38": {
+    "45.196.201.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.123": {
+    "45.196.201.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.135.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,47 +72,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.236.106.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.nl.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ns.o11111o.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.205.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.196.201.222": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.37": {
+    "205.237.109.221": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.151": {
+    "market.cvedcdigital.vip": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.69.218.207": {
+    "45.196.201.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.41": {
       "status": "down",
       "rtt_ms": null
     },
     "45.196.201.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cam-msk-5.videomonitor.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.191.146": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,91 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.174": {
+    "109.69.218.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.166": {
+    "45.196.201.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.56.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.56.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.37.192.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.135.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "market.cvedcdigital.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.133.117.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "romka.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.3": {
+    "45.196.201.151": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,19 +136,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.192": {
+    "45.196.201.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.225": {
+    "47.236.106.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.78.216.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.221": {
+    "45.196.201.28": {
       "status": "down",
       "rtt_ms": null
     },
@@ -232,15 +152,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.231": {
+    "45.196.201.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "cam-msk-5.videomonitor.cloud": {
+    "romka.xanka.best": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.51": {
+    "ns.o11111o.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.213.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.165": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,7 +184,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.99": {
+    "45.196.201.35": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,7 +192,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.41": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.205.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.195.228.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.37.192.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tcb.beisu88.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.nl.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.56.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.133.35.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,11 +268,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.201.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tcb.beisu88.top": {
+    "47.86.249.58": {
       "status": "down",
       "rtt_ms": null
     }
