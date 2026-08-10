@@ -1,118 +1,10 @@
 {
-  "last_update": "2026-08-10T11:40:09.674198",
+  "last_update": "2026-08-10T12:29:34.718899",
   "total": 109,
   "up": 0,
   "down": 109,
   "results": {
-    "216.9.224.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.22.216.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.26.74.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "76.164.202.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.155.14.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.222.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.159.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.20.235.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usey.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol3.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.glassdoor.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.nl.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "titi.k44lawm.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlka.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.222.160.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.179.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.49.227.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.nider2.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.77.25.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "themeforest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.179.185": {
+    "86.107.178.68": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,23 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.12.207.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.64.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp-1.coinbridge.nl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anydesk.com": {
+    "130.78.216.197": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,99 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.68": {
+    "85.155.101.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.78.216.196": {
+    "194.135.80.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.233.255.16": {
+    "89.105.208.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "sa-7969600162af0ae7.sr-c24e4afd6a13822e.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.rexten.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fenochka.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free-nl.moscow-neversleep.digital": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.228.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.192.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "romka.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swedddich.xanka.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.123.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.133.117.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.26.74.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.104.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.254.140.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.104.106.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tttyder.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.233.49.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.251.213.187": {
+    "jp-1.coinbridge.nl": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,11 +40,235 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ns.1tut1.click": {
+    "109.69.218.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.34.179.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.22.216.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "x4g-production-61fb.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hyfuuf6.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "titi.k44lawm.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swedddich.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth6.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "65.98.5.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.191.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.222.209": {
       "status": "down",
       "rtt_ms": null
     },
     "89.106.86.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.178.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.77.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.255.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "anydesk.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.83.121.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.155.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "themeforest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.9.224.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.12.207.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.glassdoor.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "market.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "glidio.shieldix.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.20.235.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.254.140.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.69.218.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.194.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tttyder.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.nider2.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.251.213.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.82.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "icook.tw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.nl.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol3.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.170.211.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fenochka.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.62.240.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.228.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.64.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.233.49.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.rexten.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.rexten.cc": {
       "status": "down",
       "rtt_ms": null
     },
@@ -260,171 +280,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "65.98.5.106": {
+    "82.26.74.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.111.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.77.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.101.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.83.121.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.75.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.178.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.68.220.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "glidio.shieldix.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.227.225.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.53.82.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.222.251.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.170.211.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "market.cvedcdigital.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.178.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.178.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.98.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.69.218.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.191.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.234.100.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cloudflare-ech.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.194.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "deproxy.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-ed0cfa70231c0fe1.sr-3a3cd8f1627f0922.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.80.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de3.rexten.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.62.240.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.181.244.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "x4g-production-61fb.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.80": {
+    "164.37.104.149": {
       "status": "down",
       "rtt_ms": null
     },
@@ -432,11 +292,151 @@
       "status": "down",
       "rtt_ms": null
     },
-    "icook.tw": {
+    "5.34.179.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.68.220.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.234.100.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.49.227.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "romka.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-7969600162af0ae7.sr-c24e4afd6a13822e.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.98.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloudflare-ech.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.178.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.77.25.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.47.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.181.244.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.208.75.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.155.14.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.222.251.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usey.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "deproxy.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.222.160.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.192.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-ed0cfa70231c0fe1.sr-3a3cd8f1627f0922.r.vpvpn.club": {
       "status": "down",
       "rtt_ms": null
     },
     "gr2.ebrapro.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nlka.skysafe.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.178.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ns.1tut1.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.26.74.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.227.225.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.159.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free-nl.moscow-neversleep.digital": {
       "status": "down",
       "rtt_ms": null
     }
