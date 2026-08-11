@@ -1,254 +1,10 @@
 {
-  "last_update": "2026-08-11T06:14:22.606649",
-  "total": 123,
+  "last_update": "2026-08-11T07:37:04.918954",
+  "total": 120,
   "up": 0,
-  "down": 123,
+  "down": 120,
   "results": {
-    "5.10.246.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.104.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.217.249.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.117.0.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.53.188.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.33.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.74.29.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.195.228.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.7.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.109.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.192.2.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.21.92.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.213.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.177.56.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dc-112-fr.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germany1.banovano.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "be-lb-rtt.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test-pl.anonch.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in.good-1store.cv": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.105.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.104.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.35.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.123.85.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.105.112.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.93.202.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dc-73-fr.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dc-106-es.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.96.138.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.104.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.12.242.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-tr-ist.cdn.sx": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.98.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dc-109-se.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.205.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "market.cvedcdigital.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.80.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.125.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.124.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.109.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-bg-sof.cdn.sx": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at-lb-rtt.netzrun.at": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.saint-1store.cv": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.71.233.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.105.35": {
+    "185.117.0.127": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,155 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.77.25.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.157.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.102.228.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.89.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.52.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.north-1winter.cv": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.92.9.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.255.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.104.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.18.102.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.43.92.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "glidio.shieldix.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.203.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.50.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.215.37.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.56.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.202.219.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.67.136.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.120.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.136.5.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "try.smotri-shop.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.98.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.98.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.193.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.53.189.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.56.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld.north-1winter.cv": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.104.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in.stratagy-some.cv": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.147": {
+    "166.62.108.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -412,15 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.123": {
+    "217.60.68.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.254.129": {
+    "140.248.186.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.162": {
+    "45.43.92.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.147.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.43.92.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.77.25.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.120.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.147": {
       "status": "down",
       "rtt_ms": null
     },
@@ -428,23 +56,195 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pipa.anonch.net": {
+    "xh.ru-storage13.infrastucture.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.42": {
+    "tttyder.wsone.icu": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.129.10.225": {
+    "dc-69-cz.netzrun.at": {
       "status": "down",
       "rtt_ms": null
     },
-    "se-01.netzrun.at": {
+    "rpc.he-happ.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.43.179.0": {
+    "cdn1.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gateway.shehapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.north-1winter.cv": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.117.0.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.213.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.43.92.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.21.92.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.104.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.203.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.98.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.219.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dc-106-es.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "video.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.50.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "push.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dc-73-fr.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.104.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "files.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.204.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in.good-1store.cv": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.67.136.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.56.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "glidio.shieldix.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.217.249.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ferrvia.pulsio.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.246.91.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.98.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.105.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.109.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "router.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "be-lb-rtt.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "proxy.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "romka.xanka.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.netdrug.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloud.happ8.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.67.136.251": {
       "status": "down",
       "rtt_ms": null
     },
@@ -452,15 +252,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.100.128": {
+    "76.164.202.219": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.37.65.145": {
+    "live.she-happ.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "dc-74-ge.netzrun.at": {
+    "91.193.58.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.255.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.104.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "get.she-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "files.he-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.105.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.173.93": {
       "status": "down",
       "rtt_ms": null
     },
@@ -468,15 +296,111 @@
       "status": "down",
       "rtt_ms": null
     },
-    "154.198.173.10": {
+    "94.183.219.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.254.130": {
+    "ee.rexten.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "ot.media-save.com": {
+    "rpc.mediahubcorp.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.98.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.103.26.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.anonch.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in.stratagy-some.cv": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.124.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ingest.shehapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.123.85.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se-01.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "market.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.59.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "images.he-happ.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "try.smotri-shop.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "203.14.32.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.129.10.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dc-74-ge.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.56.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.182.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app.workoneok.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.saint-1store.cv": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.185": {
       "status": "down",
       "rtt_ms": null
     },
@@ -484,15 +408,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "192.245.185.13": {
+    "edge-bg-sof.cdn.sx": {
       "status": "down",
       "rtt_ms": null
     },
-    "neth.anonch.net": {
+    "45.192.2.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.prutube.online": {
+    "103.68.110.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.100.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru-storage3-sync.tainet.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "boltea.ciphero.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.43.92.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dc-109-se.netzrun.at": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xh.ru-storage3-sync.tainet.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.217.249.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.112.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.sferavpn.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld.north-1winter.cv": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sweden1.banovano.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.164.202.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-193-58.neobo-tooth.ru": {
       "status": "down",
       "rtt_ms": null
     }
