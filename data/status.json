@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-08-11T17:36:32.042951",
+  "last_update": "2026-08-11T18:31:59.907570",
   "total": 20,
   "up": 0,
   "down": 20,
   "results": {
-    "fr90.mechvpn.online": {
+    "87.58.205.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,27 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr199.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "46.8.228.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr76.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr15.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr143.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,23 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de151.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.205.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "201.34.141.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr198.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr186.mechvpn.online": {
+    "47.236.106.241": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "fr186.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.236.106.241": {
+    "fr143.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr90.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr199.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr15.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr198.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de151.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr76.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
