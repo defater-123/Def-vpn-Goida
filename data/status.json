@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-08-11T22:01:32.895285",
+  "last_update": "2026-08-11T22:58:57.367673",
   "total": 30,
   "up": 0,
   "down": 30,
   "results": {
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "182.16.61.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.92.136.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.217.222.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.213.198.79": {
+    "144.31.112.199": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,31 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "134.17.16.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.25.11.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "193.37.213.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr143.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru156.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr199.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr15.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,23 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de151.mechvpn.online": {
+    "217.217.222.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr90.mechvpn.online": {
+    "134.17.16.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr100.mechvpn.online": {
+    "fr198.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.112.199": {
+    "140.248.186.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.176.96": {
+    "199.232.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.25.11.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +60,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "www.usyun.cc": {
+    "fr15.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de151.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru156.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xiweini.dpdns.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,11 +80,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr198.mechvpn.online": {
+    "www.usyun.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "xiweini.dpdns.org": {
+    "43.213.198.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr90.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.92.136.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr143.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "182.16.61.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.22.176.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr199.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr100.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
