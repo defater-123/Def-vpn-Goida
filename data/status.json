@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-08-11T23:36:51.253966",
-  "total": 30,
+  "last_update": "2026-08-12T00:40:48.680894",
+  "total": 49,
   "up": 0,
-  "down": 30,
+  "down": 49,
   "results": {
-    "fr15.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr90.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "182.16.61.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.37.213.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.92.136.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.217.222.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t11.qifei.app": {
+    "191.44.90.3": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,35 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.176.96": {
+    "179.198.49.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.usyun.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr143.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr199.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xiweini.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr186.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "oplosgru-c.catcat321.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
+    "162.249.124.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +24,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "43.213.198.79": {
+    "193.37.213.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.34.141.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.92.136.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.236.106.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.114.72.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr199.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr186.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,15 +60,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.25.11.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.17.16.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr100.mechvpn.online": {
+    "de151.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,11 +68,135 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de151.mechvpn.online": {
+    "xiweini.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr143.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "oplosgru-c.catcat321.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us1mianboor.spaidan.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.217.222.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.24": {
       "status": "down",
       "rtt_ms": null
     },
     "ru156.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.85.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr90.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr100.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.217.243.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nuagevpn.duckdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr15.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.173.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.138.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "182.16.61.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "t11.qifei.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.zynetraq.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.187.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.devmixa.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.72.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr213.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.229.161.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.25.11.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.123.13.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.gracefultun.xyz": {
       "status": "down",
       "rtt_ms": null
     }
