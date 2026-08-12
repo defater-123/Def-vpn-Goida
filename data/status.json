@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-08-12T14:50:10.614712",
+  "last_update": "2026-08-12T15:47:03.203557",
   "total": 32,
   "up": 0,
   "down": 32,
   "results": {
-    "103.112.68.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.188.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "181.214.231.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ak-hk01.ziyoufly.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.89.186.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +12,31 @@
       "status": "down",
       "rtt_ms": null
     },
+    "62.60.188.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uh-us01.ziyoufly.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "193.178.226.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.71.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.178.226.154": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,71 +48,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "181.214.231.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.68.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "germ2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uh-us01.ziyoufly.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.0.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us1.cdnvido.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xiweini.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.178.226.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.106.183.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.71.125": {
+    "47.89.186.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,7 +68,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "youqp-ab9040c5d6-sss.apps.ir-central1.arvancaas.ir": {
+    "xiweini.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germ2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de6.h.fastlanehosting.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.106.183.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.0.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us1.cdnvido.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,7 +128,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de6.h.fastlanehosting.ru": {
+    "youqp-ab9040c5d6-sss.apps.ir-central1.arvancaas.ir": {
       "status": "down",
       "rtt_ms": null
     }
