@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-08-12T22:07:46.453290",
+  "last_update": "2026-08-12T22:58:02.111497",
   "total": 36,
   "up": 0,
   "down": 36,
   "results": {
-    "167.104.223.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.15": {
+    "147.78.0.146": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +16,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.178.226.154": {
+    "193.221.200.107": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.6": {
+    "72.5.43.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.221.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.225.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vrutw2.mostserv.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.28.234.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +56,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "159.195.40.19": {
+    "47.89.186.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "s891.gogocs.xyz": {
+    "47.236.106.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.253.134": {
+    "31.76.245.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.62.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,11 +76,51 @@
       "status": "down",
       "rtt_ms": null
     },
+    "germ2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de6.h.fastlanehosting.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "181.214.231.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "205.237.109.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.195.111.123": {
+    "151.101.56.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,15 +128,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.71.125": {
+    "ru211.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.178.226.166": {
+    "2.26.225.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "tt.2026gu.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -77,74 +145,6 @@
       "rtt_ms": null
     },
     "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de6.h.fastlanehosting.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.92.47.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.0.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s892.wagahaha.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.247.186.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.5.43.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germ2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.89.186.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.zynetraq.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
       "status": "down",
       "rtt_ms": null
     }
