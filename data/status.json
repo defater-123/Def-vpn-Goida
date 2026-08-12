@@ -1,98 +1,10 @@
 {
-  "last_update": "2026-08-12T07:48:29.186160",
+  "last_update": "2026-08-12T08:57:56.695280",
   "total": 74,
   "up": 0,
   "down": 74,
   "results": {
-    "144.31.112.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr186.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "175.195.149.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.65.217.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.123.13.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.187.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.17.16.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.37.213.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.188.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.93.185.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.188.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.114.194.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.75.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.76.18.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.198.49.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.92.136.28": {
+    "102.177.176.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,179 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.217.222.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.217.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.83.31.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.251.113.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.19.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.177.56.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr213.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t11.qifei.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xiweini.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi1.cdnvido.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us1mianboor.spaidan.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "static.kintuso.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.200.246.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.147.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.17.183.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "102.177.176.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.90.56.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "host-vds2-fr.kvncococ.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nuagevpn.duckdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "182.16.61.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.92.158.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.226.92.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.194.233.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "156.229.161.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lvksp.kintuso.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.44.90.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.201.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.200.246.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.1.89.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "208.103.161.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.117.255.87": {
+    "162.249.124.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -280,11 +20,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.116.46.50": {
+    "159.194.233.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.3.53": {
+    "91.193.58.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.19.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.188.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.17.183.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.251.113.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.1.89.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -292,11 +60,243 @@
       "status": "down",
       "rtt_ms": null
     },
+    "156.229.161.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.65.217.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.112.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.18.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us1mianboor.spaidan.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.188.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.200.246.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.44.90.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.217.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.200.246.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "175.195.149.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.92.136.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr186.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.37.213.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "us1.cdnvido.com": {
       "status": "down",
       "rtt_ms": null
     },
+    "144.31.3.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lvksp.kintuso.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "oplosgru-c.catcat321.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.117.255.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "182.16.61.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.198.49.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.92.158.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.177.56.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.217.222.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.90.56.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.147.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xiweini.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nuagevpn.duckdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "host-vds2-fr.kvncococ.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "static.kintuso.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.17.16.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr213.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.208.75.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "208.103.161.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.83.31.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.226.92.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.201.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.93.185.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.187.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.194.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "t11.qifei.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.123.13.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi1.cdnvido.com": {
       "status": "down",
       "rtt_ms": null
     }
