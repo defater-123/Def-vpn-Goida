@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-08-12T18:34:15.893184",
+  "last_update": "2026-08-12T19:45:31.280986",
   "total": 36,
   "up": 0,
   "down": 36,
   "results": {
-    "45.195.111.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.253.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.92.47.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.0.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.178.226.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.247.186.120": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,15 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.159": {
+    "72.5.43.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.89.186.170": {
+    "193.178.226.154": {
       "status": "down",
       "rtt_ms": null
     },
-    "germ2.freeinternat.com": {
+    "162.35.231.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.178.226.166": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,11 +32,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
+    "95.85.253.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "47.89.186.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.71.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.223.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.114.72.31": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +72,71 @@
       "status": "down",
       "rtt_ms": null
     },
+    "germ2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.zynetraq.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.247.186.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.27.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.195.111.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s892.wagahaha.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.0.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.92.47.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.195.40.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node14.fastdatastream.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -81,70 +145,6 @@
       "rtt_ms": null
     },
     "de6.h.fastlanehosting.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.71.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.40.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.5.43.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.114.72.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.178.226.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s892.wagahaha.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node14.fastdatastream.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.zynetraq.ir": {
       "status": "down",
       "rtt_ms": null
     }
