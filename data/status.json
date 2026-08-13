@@ -1,194 +1,14 @@
 {
-  "last_update": "2026-08-13T16:31:50.378129",
-  "total": 64,
+  "last_update": "2026-08-13T17:38:05.719958",
+  "total": 53,
   "up": 0,
-  "down": 64,
+  "down": 53,
   "results": {
-    "2.27.18.136": {
+    "69.46.46.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "40.66.48.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.200.198.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.184.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.212.58.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.46.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.152.224": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.198.190.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.20.27.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.107.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.95.4.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.xswlbrand.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rpc-2068.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "core-3017.atlanta-games.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a1.arshia-nova.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nll.mcqueenconnection.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.54.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.20.27.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.30.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "181.214.231.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.240.110.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.84.182.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.58.95.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.202.223.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nel.under-shop.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lbvzo.falsemirrov.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.20.27.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gorbachev-new-th.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.63.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.110.192.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.185.112.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.208.244.252": {
+    "194.247.186.120": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,47 +16,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "83.243.86.33": {
+    "69.84.182.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.60.15": {
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.160.15": {
+    "164.37.100.59": {
       "status": "down",
       "rtt_ms": null
     },
-    "38.49.208.29": {
+    "vps2.181110.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.126.177": {
+    "2.26.130.157": {
       "status": "down",
       "rtt_ms": null
     },
-    "pnnsh.falsemirrov.com": {
+    "64.188.107.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.255.188.164": {
+    "34.94.125.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-93b742.atlanta-api.com": {
+    "2.26.135.194": {
       "status": "down",
       "rtt_ms": null
     },
-    "apxc.falsemirrov.com": {
+    "2.26.139.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "bnu.riverveil.com": {
+    "151.101.56.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "node12.fastdatastream.com": {
+    "ncd.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.18.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in1.levikogjgfdd.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "r5.teamspeak-service.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,7 +88,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "try.watch-store.cc": {
+    "151.101.110.212": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.46.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.223.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.128.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.30.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "panel-production-d577.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.59.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.212.58.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.196.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.194.178.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,11 +160,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fqub.falsemirrov.com": {
+    "nl1.noesissite.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "3ce8ee8.hb.gladns.com": {
+    "64.188.77.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.58.9.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.230.162.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.125.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lbvzo.falsemirrov.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "selec156.apruxdomain.website": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "down.plytob.ir": {
       "status": "down",
       "rtt_ms": null
     }
