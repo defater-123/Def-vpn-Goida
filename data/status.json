@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-08-12T23:36:10.933044",
+  "last_update": "2026-08-13T00:42:19.697357",
   "total": 36,
   "up": 0,
   "down": 36,
   "results": {
-    "vrutw2.mostserv.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.89.186.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.5.43.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.225.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.221.200.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "181.214.231.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.114.72.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.28.234.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.225.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,71 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.60.15": {
+    "151.101.56.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.56.9": {
+    "185.114.72.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.40.62.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tt.2026gu.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.245.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.0.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germ2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru211.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.236.106.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
+    "2.27.23.44": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,11 +28,123 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node14.fastdatastream.com": {
+    "82.40.62.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.245.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.225.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.221.200.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.89.186.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.236.106.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germ2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srvhy1.ezcon24.online": {
       "status": "down",
       "rtt_ms": null
     },
     "de6.h.fastlanehosting.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.0.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.225.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru211.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "181.214.231.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.5.43.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.28.234.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vrutw2.mostserv.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tt.2026gu.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node14.fastdatastream.com": {
       "status": "down",
       "rtt_ms": null
     }
