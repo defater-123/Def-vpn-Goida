@@ -1,58 +1,10 @@
 {
-  "last_update": "2026-08-13T20:18:55.703248",
+  "last_update": "2026-08-13T21:09:40.640257",
   "total": 53,
   "up": 0,
   "down": 53,
   "results": {
-    "2.27.18.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.107.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "panel-production-d577.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.212.58.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.58.9.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vps2.181110.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.56.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.84.182.152": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,39 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.59.17": {
+    "64.188.77.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.162.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lbvzo.falsemirrov.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in1.levikogjgfdd.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.194.178.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "selec156.apruxdomain.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.34.170.18": {
+    "34.94.125.227": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,23 +28,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.135.194": {
+    "5.253.30.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "ncd.crsmaps.com": {
+    "151.101.56.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.228.114": {
+    "185.212.58.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.77.184": {
+    "104.165.205.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,11 +48,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.56.8": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.71": {
+    "64.188.107.79": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +60,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
+    "86.107.178.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ncd.crsmaps.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,19 +72,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.129.67": {
+    "in1.levikogjgfdd.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.247.186.120": {
+    "srvhy1.ezcon24.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "r5.teamspeak-service.ru": {
+    "nl1.noesissite.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.128.75": {
+    "69.58.9.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.135.194": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,23 +96,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.46.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
+    "panel-production-d577.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,7 +108,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.226": {
+    "194.247.186.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.18.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.230.162.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,15 +140,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.94.125.227": {
+    "vps2.181110.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.253.30.99": {
+    "r5.teamspeak-service.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lbvzo.falsemirrov.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.164": {
       "status": "down",
       "rtt_ms": null
     },
     "down.plytob.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.228.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.128.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.194.178.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.84.182.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.34.170.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.59.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.46.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "selec156.apruxdomain.website": {
       "status": "down",
       "rtt_ms": null
     }
