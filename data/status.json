@@ -1,70 +1,18 @@
 {
-  "last_update": "2026-08-13T21:59:35.453972",
+  "last_update": "2026-08-13T22:40:24.474047",
   "total": 59,
   "up": 0,
   "down": 59,
   "results": {
-    "2.27.42.66": {
+    "104.165.205.251": {
       "status": "down",
       "rtt_ms": null
     },
-    "220.130.75.247": {
+    "ru104.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.84.182.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.247.186.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.18.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.95.4.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.149.183.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.196.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.105.130.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.126.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.202.223.13": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,15 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pl4.lckdwn.ru": {
+    "89.105.208.121": {
       "status": "down",
       "rtt_ms": null
     },
-    "srvhy1.ezcon24.online": {
+    "89.105.208.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "neth.lckdwn.ru": {
+    "185.212.58.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.113.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.106.22": {
+    "81.95.4.189": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,47 +52,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "87.120.196.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.212.58.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.194.201.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru104.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lvh-02.steptofsvo.com": {
+    "69.84.182.152": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,15 +64,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "gtc.hekmatdarai.ir": {
+    "vps2.181110.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.208.121": {
+    "pl4.lckdwn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "gorbachev-new-th.kvnfreetest.uk": {
+    "deproxy2.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,15 +92,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.239.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.233.149.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.226": {
+    "2.27.42.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -192,11 +100,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.48.250.10": {
+    "89.105.208.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "194.247.186.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.233.149.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.18.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.223.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.126.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.196.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.106.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.208.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gorbachev-new-th.kvnfreetest.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.27.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gtc.hekmatdarai.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,7 +176,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "vps2.181110.xyz": {
+    "159.194.201.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.113.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.223.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "220.130.75.247": {
       "status": "down",
       "rtt_ms": null
     },
@@ -216,27 +200,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.208.126": {
+    "95.85.239.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "node.embrofree.org": {
+    "194.48.250.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "deproxy2.lckdwn.ru": {
+    "lvh-02.steptofsvo.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.239": {
+    "77.105.130.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.noesissite.ru": {
+    "194.48.250.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.149.183.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.196.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.164": {
       "status": "down",
       "rtt_ms": null
     }
