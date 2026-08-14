@@ -1,50 +1,10 @@
 {
-  "last_update": "2026-08-14T04:27:43.884154",
+  "last_update": "2026-08-14T05:53:40.547536",
   "total": 92,
   "up": 0,
   "down": 92,
   "results": {
-    "144.34.170.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.232.178.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.29.165.181": {
+    "172.66.44.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,155 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "us54.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.84.182.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de48.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gorbachev-new-th.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.233.149.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.57.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.106.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.203.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.217.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rusl-e.vktunnel.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cze-02.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.177.56.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.197.3.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.59.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.44.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.40.146.30": {
+    "193.233.126.82": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,15 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pg-usa2-bot.gigatapbot.top": {
+    "95.85.239.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "deproxy2.lckdwn.ru": {
+    "144.31.106.22": {
       "status": "down",
       "rtt_ms": null
     },
@@ -224,15 +32,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.196.201": {
+    "104.165.205.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.218": {
+    "86.107.178.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.6": {
+    "104.165.205.225": {
       "status": "down",
       "rtt_ms": null
     },
@@ -240,35 +48,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-3.palm-network.ru": {
+    "104.165.205.65": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.182.7": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.189.231.144": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.24.29": {
+    "69.84.182.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.233.126.82": {
+    "31.77.196.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "pg-sp-bot.gigatapbot.top": {
+    "31.77.203.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.239": {
+    "pg-de-bot.gigatapbot.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.74": {
+    "gorbachev-new-th.kvnfreetest.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bel-03.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.217.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.40.146.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vps2.181110.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -280,27 +112,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.60.15": {
+    "46.29.165.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.120.196.190": {
+    "5.180.27.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl4.lckdwn.ru": {
+    "143.246.182.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.251": {
+    "de48.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "vps2.181110.xyz": {
+    "47.80.59.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "dk86.mechvpn.online": {
+    "104.165.205.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.177.56.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -308,7 +148,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.42": {
+    "pg-usa2-bot.gigatapbot.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl4.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.233.149.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
@@ -316,11 +176,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.102": {
+    "146.103.26.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "222.167.212.79": {
+    "91.193.58.209": {
       "status": "down",
       "rtt_ms": null
     },
@@ -328,39 +188,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.239.230": {
+    "91.193.58.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.113.205": {
+    "91.193.58.74": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.226": {
+    "rusl-e.vktunnel.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.103.26.96": {
+    "pg-sp-bot.gigatapbot.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.77": {
+    "2.27.57.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.58.90": {
+    "222.167.212.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "pg-de-bot.gigatapbot.top": {
+    "217.60.24.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.164": {
+    "us54.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "bel-03.node.lumixnet.com": {
+    "91.193.58.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dk86.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.251": {
       "status": "down",
       "rtt_ms": null
     },
@@ -368,7 +236,139 @@
       "status": "down",
       "rtt_ms": null
     },
+    "cze-02.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.189.231.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.208.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.34.170.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-3.palm-network.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.197.3.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.196.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.232.178.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.113.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "deproxy2.lckdwn.ru": {
       "status": "down",
       "rtt_ms": null
     }
