@@ -1,58 +1,10 @@
 {
-  "last_update": "2026-08-14T20:52:03.838445",
+  "last_update": "2026-08-14T21:13:43.049943",
   "total": 41,
   "up": 0,
   "down": 41,
   "results": {
-    "82.38.31.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.181.126.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.181.121.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
+    "74.81.63.87": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,19 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.29.139.198": {
+    "130.49.219.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.31.185": {
+    "92.118.112.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "ak-jp01.ziyoufly.xyz": {
+    "193.29.139.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "sb1.artinnet.shop": {
+    "193.29.139.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.0.111.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.181.126.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.149": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,11 +48,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "gg1.serviceoda.ru": {
+    "103.149.182.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.29.139.147": {
+    "82.38.31.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,55 +72,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.90.197.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "74.81.63.87": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.118.112.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.0.111.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.149.182.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.48": {
+    "at164.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,7 +80,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "grek.o4ka-internet.com": {
+    "gg1.serviceoda.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.197.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.27.221": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,11 +108,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "130.49.219.99": {
+    "2.27.28.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "at164.mechvpn.online": {
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.181.121.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grek.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sb1.artinnet.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ak-jp01.ziyoufly.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.163.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.204": {
       "status": "down",
       "rtt_ms": null
     }
