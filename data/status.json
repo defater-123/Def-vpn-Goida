@@ -1,282 +1,70 @@
 {
-  "last_update": "2026-08-14T12:03:52.272750",
-  "total": 69,
+  "last_update": "2026-08-14T13:36:43.312062",
+  "total": 16,
   "up": 0,
-  "down": 69,
+  "down": 16,
   "results": {
-    "tunelio.ciphero.xyz": {
+    "2.27.28.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.65": {
+    "92.118.112.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.227.231.38": {
+    "2.27.23.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.31.210.138": {
+    "2.27.25.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.48.250.10": {
+    "103.118.252.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.182.7": {
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.227": {
+    "172.64.80.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.25.88.17": {
+    "82.40.62.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.251.19.8": {
+    "2.26.26.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.94.125.227": {
+    "144.31.134.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.71.110": {
+    "2.27.28.105": {
       "status": "down",
       "rtt_ms": null
     },
-    "arclio.shieldix.top": {
+    "193.233.203.162": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.180.27.210": {
+    "36.248.14.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "130.49.219.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "ak-hk01.ziyoufly.xyz": {
+    "us54.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "gtc.hekmatdarai.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srvhy1.ezcon24.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.murhost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gg1.serviceoda.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.84.182.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.18.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.62.106.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de1.murhost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gb1.murhost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl4.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.murhost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.100.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de48.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "220.130.75.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.31.210.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.17.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.208.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.203.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dk86.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.152.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gorbachev-new-th.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.103.26.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lvh-01.steptofsvo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "drifto.pulsio.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tttyder.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "new01.asaltabie.monster": {
+    "k1.cloud--vpn.site": {
       "status": "down",
       "rtt_ms": null
     }
