@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-14T16:13:14.939988",
+  "last_update": "2026-08-14T17:10:33.938457",
   "total": 16,
   "up": 0,
   "down": 16,
@@ -8,23 +8,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.28.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.203.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.118.252.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.118.112.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.134.98": {
+    "2.27.28.105": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,7 +16,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.25.75": {
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.118.252.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.219.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.118.112.227": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +40,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.23.44": {
+    "144.31.134.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.28.105": {
+    "199.232.78.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.203.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.25.75": {
       "status": "down",
       "rtt_ms": null
     },
@@ -53,14 +61,6 @@
       "rtt_ms": null
     },
     "36.248.14.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.219.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
