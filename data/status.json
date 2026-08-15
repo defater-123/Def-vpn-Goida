@@ -1,178 +1,10 @@
 {
-  "last_update": "2026-08-15T05:58:30.360820",
+  "last_update": "2026-08-15T06:30:28.800286",
   "total": 101,
   "up": 0,
   "down": 101,
   "results": {
-    "200.165.228.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.226.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.248.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.38.155.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.138.53.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.12.73.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.5.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.203.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg4-r.link-t7.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at164.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl6.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sc.hambot.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.90.197.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.0.111.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.104.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.25.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.124.19.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.135.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.130.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.pubconverter.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.181.126.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.74.124.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg3-r.link-t7.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.188.223.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.239": {
+    "45.140.205.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,23 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.31.211": {
+    "108.181.126.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "79.175.134.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.30": {
+    "82.38.31.204": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,59 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "america.koexp.ru": {
+    "193.29.139.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.fasti.win": {
+    "2.27.28.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.90.197.131": {
+    "2.26.128.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.8.211.57": {
+    "82.38.31.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "g9.steptofsvo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.26.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ndt.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "one.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se2.hambot.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.74.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.139.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.140.146": {
+    "91.84.119.49": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,7 +48,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.33.16": {
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.135.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.124.19.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.197.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "g9.steptofsvo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.mehab.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg3-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "america.koexp.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -272,11 +88,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "62.60.234.60": {
+    "85.155.226.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.180.27.221": {
+    "2.26.26.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "74.113.232.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.228.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.85.75.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.163.122": {
       "status": "down",
       "rtt_ms": null
     },
@@ -284,7 +120,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.84.119.49": {
+    "5.180.27.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.175.134.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.pubconverter.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at164.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.188.223.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.160.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "centraleurope.koexp.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.85.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.25.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.22.211.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.135.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ice.noooo.win": {
       "status": "down",
       "rtt_ms": null
     },
@@ -296,47 +228,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.31.149": {
+    "85.155.226.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "74.113.232.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.22.211.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.135.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.129.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.128.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.96": {
+    "85.155.226.78": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,23 +244,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "108.181.121.226": {
+    "45.8.211.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.85.75.85": {
+    "89.125.33.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.228.163.122": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "centraleurope.koexp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.129": {
+    "83.138.53.189": {
       "status": "down",
       "rtt_ms": null
     },
@@ -372,15 +264,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de2.mehab.me": {
+    "144.31.5.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.29.139.230": {
+    "193.29.139.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "ice.noooo.win": {
+    "195.58.140.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg4-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.226.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.104.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.139.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.74.124.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.74.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl6.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se2.hambot.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.0.111.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sc.hambot.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -388,15 +324,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.132.160.243": {
+    "82.38.31.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.78": {
+    "89.116.46.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.106.85.19": {
+    "2.26.130.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.248.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.203.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.38.155.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.12.73.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.181.121.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.119.19.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.197.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ndt.alpheratzz.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -404,7 +396,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.140.205.5": {
+    "latvia.koalaexpress.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.fasti.win": {
       "status": "down",
       "rtt_ms": null
     }
