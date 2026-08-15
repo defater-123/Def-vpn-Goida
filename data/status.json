@@ -1,198 +1,10 @@
 {
-  "last_update": "2026-08-15T15:11:31.839794",
+  "last_update": "2026-08-15T15:33:47.602923",
   "total": 69,
   "up": 0,
   "down": 69,
   "results": {
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.203.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.135.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.114.220.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.26.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "one.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg3-r.link-t7.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.157.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.prisma-access.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.74.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.22.211.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.234.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.248.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.44.90.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.90.197.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.157.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.157.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.40.62.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.160.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.106.85.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "k2.cloud--vpn.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.226.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.238.210.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.1.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.85.75.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlgas.hambot.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.5.9": {
+    "5.253.42.79": {
       "status": "down",
       "rtt_ms": null
     },
@@ -200,11 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.25.75": {
+    "195.123.226.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.90.197.147": {
+    "144.31.135.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.85.75.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,47 +36,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "222.167.212.80": {
+    "217.60.68.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.180.27.221": {
+    "85.90.197.131": {
       "status": "down",
       "rtt_ms": null
     },
-    "at164.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.157.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.140.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grek.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.fasti.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ice.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.228.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.251.25": {
+    "191.44.90.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -260,15 +52,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.27": {
+    "91.132.160.243": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.253.42.79": {
+    "153.76.248.251": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.68.196": {
+    "144.31.5.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.62.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.85.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "114.29.238.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.114": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,7 +92,191 @@
       "status": "down",
       "rtt_ms": null
     },
-    "114.29.238.251": {
+    "5.180.27.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.203.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.119.19.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.114.220.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "k2.cloud--vpn.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.197.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg3-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grek.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nlgas.hambot.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.251.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.26.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.25.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.1.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at164.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.58.140.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.238.210.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.163.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.22.211.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.228.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.74.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.fasti.win": {
       "status": "down",
       "rtt_ms": null
     }
