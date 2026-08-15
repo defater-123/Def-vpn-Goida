@@ -1,114 +1,10 @@
 {
-  "last_update": "2026-08-15T19:53:01.536159",
+  "last_update": "2026-08-15T20:09:35.272480",
   "total": 84,
   "up": 0,
   "down": 84,
   "results": {
-    "2.27.28.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.pubconverter.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.153.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg3-r.link-t7.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.44.90.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.121.50.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.19.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.145.40.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.156.248.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.124.19.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.214.211.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.205.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "america.koexp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "138.199.46.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.64.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "74.113.232.135": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,11 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "veilix.ciphero.xyz": {
+    "82.38.60.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.28.106": {
+    "91.124.19.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.156.248.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,131 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.27": {
+    "74.113.232.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.19.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bossnia.netotcluchai.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "centraleurope.koexp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.203.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.159.73.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.42.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.127.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.104.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.prisma-access.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rom2.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.251.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35-209-199-239.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.26.51.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47-250-51-16.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rume.h2corp.org": {
+    "88.119.176.121": {
       "status": "down",
       "rtt_ms": null
     },
     "194.48.250.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.196.139.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.121": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,23 +48,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "87.251.19.9": {
+    "2.27.28.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "221.155.195.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.239": {
+    "5.253.42.79": {
       "status": "down",
       "rtt_ms": null
     },
@@ -288,15 +60,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "88.119.176.121": {
+    "79.108.166.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "cabinet.wwwinternetvideo.click": {
+    "87.251.19.4": {
       "status": "down",
       "rtt_ms": null
     },
-    "us54.mechvpn.online": {
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.121.50.241": {
       "status": "down",
       "rtt_ms": null
     },
@@ -304,23 +84,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.14.41.161": {
+    "88.119.176.146": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.110.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "depa.kupivodku.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.85.75.85": {
+    "151.101.56.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -328,7 +96,215 @@
       "status": "down",
       "rtt_ms": null
     },
+    "191.44.90.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "85.155.226.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.159.73.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.110.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.205.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.127.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.19.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us54.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.40.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "centraleurope.koexp.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47-250-51-16.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.104.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.26.51.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bossnia.netotcluchai.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.196.139.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.153.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "221.155.195.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.119.176.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rume.h2corp.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl6.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.85.75.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.19.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "america.koexp.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.251.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.203.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.14.41.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.pubconverter.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "depa.kupivodku.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35-209-199-239.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.64.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rom2.o4ka-internet.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -336,7 +312,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl6.o4ka-internet.com": {
+    "sg3-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "veilix.ciphero.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.214.211.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cabinet.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     }
