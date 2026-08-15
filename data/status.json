@@ -1,182 +1,10 @@
 {
-  "last_update": "2026-08-15T03:01:57.574934",
+  "last_update": "2026-08-15T03:51:07.275899",
   "total": 82,
   "up": 0,
   "down": 82,
   "results": {
-    "45.140.205.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.28.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.0.111.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.23.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.46.18.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.219.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg4-r.link-t7.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "205.237.109.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.25.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.203.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at164.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru13.cleanersaz.help": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol4.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.yandex-dev.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.234.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.27.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.118.112.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.181.121.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sb1.artinnet.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.238.210.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "70.39.198.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin3.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.yandex-dev.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.29.139.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bel-02.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-02.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.254.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.79.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.74.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,39 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.84.119.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "193.29.139.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.135.204": {
+    "138.124.64.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "us54.mechvpn.online": {
+    "3.0.111.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.29.139.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cam-msk-1.videomonitor.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.79.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.160.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.195": {
+    "2.27.28.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -224,27 +32,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.noesissite.ru": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "ger.netdrug.ru": {
+    "94.228.163.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "lva-02.node.lumixnet.com": {
+    "85.155.226.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.26.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rutoo.h2corp.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.31.183": {
+    "85.155.226.78": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,11 +52,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.29.139.225": {
+    "85.155.226.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.223": {
       "status": "down",
       "rtt_ms": null
     },
     "85.155.226.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.27.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "azadiconfig.myvpsd.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bel-02.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.160.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.29.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin3.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sb1.artinnet.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.181.121.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,7 +116,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.64.30": {
+    "185.227.138.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.203.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.74.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "70.39.198.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ltu-02.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rutoo.h2corp.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.yandex-dev.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru13.cleanersaz.help": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lva-02.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol4.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.26.164": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,15 +176,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.6": {
+    "us54.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.227.138.54": {
+    "82.38.60.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.72": {
+    "2.27.25.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cam-msk-1.videomonitor.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.118.112.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.46.18.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -292,7 +204,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.79.66": {
+    "sg4-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,23 +216,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.31.42": {
+    "45.140.205.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.84": {
+    "193.29.139.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "azadiconfig.myvpsd.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3xtr.mamad-imnix.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg3-r.link-t7.com": {
+    "2.26.79.18": {
       "status": "down",
       "rtt_ms": null
     },
@@ -324,11 +232,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.29.158": {
+    "2.26.79.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.28.106": {
+    "api.yandex-dev.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ger.netdrug.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at164.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.135.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.84.119.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.238.210.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg3-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.219.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.29.139.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.79.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3xtr.mamad-imnix.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.254.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.31.183": {
       "status": "down",
       "rtt_ms": null
     }
