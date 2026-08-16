@@ -1,342 +1,18 @@
 {
-  "last_update": "2026-08-16T07:58:58.740701",
-  "total": 87,
+  "last_update": "2026-08-16T08:25:35.803976",
+  "total": 96,
   "up": 0,
-  "down": 87,
+  "down": 96,
   "results": {
-    "138.124.64.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.94.31.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.140.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.138.53.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node1.vpnushka.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "centraleurope.koexp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl6.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.124.19.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.104.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.210.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.153.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.225.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlnew1.sodahub.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr4.sodahub.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rom2.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "id.tutdesignstudio.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tutdesignstudio.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se2.hambot.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.218.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.55.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spain3.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl8.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr131.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-vk.tkbvpcompany.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.14.41.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "veilix.ciphero.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-t3.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.243.28.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rm-nl-01.409648.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.92.1.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "unas.denegnet.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.205.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.111.117.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlnew2.sodahub.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grek.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.237.89.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.212.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "unitking.snowfalls.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.4.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.n.belka.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de200.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.150.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.75.220.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hltv.snowfalls.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "depa.kupivodku.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-t2.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.209.15.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pls.snowfall.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.pubconverter.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cabinet.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.75.221.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at133.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "n.nl.cleanersaz.help": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.138.53.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.fasti.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "alban5.helper-internet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.10": {
+    "162.249.124.104": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.44.90.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-t3.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.20": {
+    "195.58.140.173": {
       "status": "down",
       "rtt_ms": null
     },
@@ -344,11 +20,371 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bc-nl-rdp.ray-balance.space": {
+    "nl-t3.vinnypuxtomoon.today": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi2.n.belka.network": {
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eng3.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl8.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.105.163.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.177.56.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.76.179.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.121.218.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.38.155.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth6.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.58.140.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.138.53.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at188.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estproxy4.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.104.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.83.87.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.fasti.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node1.vpnushka.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.48.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.15.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cheat.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.58.66.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.104.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-t3.vinnypuxtomoon.today": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.39.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.110.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "flv.iranfibernet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at133.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freeroot.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.192.153.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.18.147.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.4.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "veilix.ciphero.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.228.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node3.vpnushka.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.75.221.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr131.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.238.133.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.226.67.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.241.241.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.62.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pls.snowfall.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tur4.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.194.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "centraleurope.koexp.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.mehab.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.98.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.24.161.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.212.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr140.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mobiledevelop1212.global.ssl.fastly.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.119.19.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.239.6.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.44.90.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.18.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.24.161.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.39.202.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.17.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rom2.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "depa.kupivodku.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.214.211.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.55.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.138.53.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.178.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.223.73.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk-t2.vinnypuxtomoon.today": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.18.147.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-vk.tkbvpcompany.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.75.220.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.monkora.org": {
       "status": "down",
       "rtt_ms": null
     }
