@@ -1,98 +1,14 @@
 {
-  "last_update": "2026-08-16T19:30:48.788517",
+  "last_update": "2026-08-16T19:51:29.831902",
   "total": 77,
   "up": 0,
   "down": 77,
   "results": {
+    "185.159.73.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "87.121.218.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "74.113.232.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.42.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.238.133.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.90.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.74.124.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.223.73.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at133.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.92.1.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.160.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "admin.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.node.goidanet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "estproxy4.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kisofer.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cabinet.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.251.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,31 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.130.234.239": {
+    "200.165.225.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "202.155.11.54": {
+    "170.114.45.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.38.143.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.159.73.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.184.246.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.31.114.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mdt1.pubconverter.com": {
+    "45.92.1.131": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,19 +32,43 @@
       "status": "down",
       "rtt_ms": null
     },
+    "162.249.124.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "node3.vpnushka.lol": {
       "status": "down",
       "rtt_ms": null
     },
-    "ake.fontanvpn.com": {
+    "222.167.212.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.98.26": {
+    "86.107.178.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "us65.mechvpn.online": {
+    "91.132.160.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.228.242.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.node.goidanet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr140.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
@@ -156,111 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.42.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us54.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.106.141.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.241.241.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.17.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.225.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tutdesignstudio.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.50.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "serv21.strettenvpn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "cheat.fontanvpn.com": {
+    "202.155.11.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr140.mechvpn.online": {
+    "139.28.98.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.24.161.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at188.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bc-nl-rdp.ray-balance.space": {
+    "31.184.246.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,31 +100,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "83.228.242.53": {
+    "84.238.133.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.209.15.215": {
+    "79.108.166.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.239.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.64.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.104": {
+    "85.204.107.165": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,7 +116,151 @@
       "status": "down",
       "rtt_ms": null
     },
+    "103.119.19.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.223.73.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.38.143.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mdt1.pubconverter.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cheat.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "167.82.101.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estproxy4.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ake.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.17.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at133.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.90.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.106.141.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.31.114.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.180.50.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.42.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.130.234.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.24.161.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.42.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "74.113.232.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.64.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at188.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth6.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "admin.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tutdesignstudio.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.251.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "latvia.koalaexpress.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.24.161.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -308,7 +268,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "94.249.239.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bc-nl-rdp.ray-balance.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us65.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kisofer.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us54.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.74.124.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "rom2.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cabinet.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.241.241.37": {
       "status": "down",
       "rtt_ms": null
     }
