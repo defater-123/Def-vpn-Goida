@@ -1,194 +1,10 @@
 {
-  "last_update": "2026-08-16T14:45:01.611545",
+  "last_update": "2026-08-16T14:59:46.255745",
   "total": 85,
   "up": 0,
   "down": 85,
   "results": {
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.138.53.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.133.0.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.42.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.223.73.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.fasti.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.98.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kisofer.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-t3.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.235.112.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.178.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-t2.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl8.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cz.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cn06.somethingstranges.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.138.53.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.159.73.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.209.15.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.75.220.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.52.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.64.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.39.202.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.17.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.92.1.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.38.143.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.237.185.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ake.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.75.221.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.node.goidanet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slopllex.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.241.241.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.noesissite.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.212.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.150.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rvg-production-9909.up.railway.app": {
+    "89.105.194.210": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,59 +12,31 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.147.251.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.106.141.152": {
+    "138.124.64.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.121": {
+    "194.24.161.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "mdt1.pubconverter.com": {
+    "31.15.17.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.199.46.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "koin.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cn01.somethingstranges.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.205.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47-250-51-16.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast26.slopllex.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node1.vpnushka.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
+    "31.133.0.103": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,43 +44,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.4.126": {
+    "83.138.53.193": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.4.200": {
+    "5.39.202.65": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.60.122": {
+    "87.106.141.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.23.231": {
+    "uk-t2.vinnypuxtomoon.today": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.15.95": {
+    "ee-t3.vinnypuxtomoon.today": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.219.236.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us65.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serv45.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "centraleurope.koexp.ru": {
+    "kz.node.goidanet.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,7 +72,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.8.211.57": {
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "slopllex.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node1.vpnushka.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.178.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "koin.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.199.46.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.68.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.75.220.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mdt1.pubconverter.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.237.185.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ake.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4.235.112.49": {
       "status": "down",
       "rtt_ms": null
     },
@@ -308,15 +140,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fast92.slopllex.app": {
+    "144.31.4.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "id.tutdesignstudio.site": {
+    "kisofer.fontanvpn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -324,11 +152,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.239.33": {
+    "centraleurope.koexp.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.224.181.22": {
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.18.52.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.150.12": {
       "status": "down",
       "rtt_ms": null
     },
@@ -336,11 +176,171 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.194.210": {
+    "104.224.181.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.147.251.25": {
+    "139.28.98.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.92.1.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.219.236.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.138.53.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth6.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.24.161.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast26.slopllex.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cn01.somethingstranges.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.75.221.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.42.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.241.241.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.15.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.212.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.159.73.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.223.73.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.205.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us65.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.fasti.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.4.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cn06.somethingstranges.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast92.slopllex.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47-250-51-16.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.239.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "id.tutdesignstudio.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "serv45.strettenvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.38.143.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl8.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rvg-production-9909.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "latvia.koalaexpress.ru": {
       "status": "down",
       "rtt_ms": null
     }
