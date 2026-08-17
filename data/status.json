@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-08-17T05:56:04.779155",
+  "last_update": "2026-08-17T06:31:45.811361",
   "total": 86,
   "up": 0,
   "down": 86,
   "results": {
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.115.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.251.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.112.249.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.209.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.193.255.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.106.141.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.133.0.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.104.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr140.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.24.161.133": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,79 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.170.22.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.248.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.17.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serv21.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tutdesignstudio.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.prisma-access.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.221.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.254.126.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.241.241.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.68.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.67.139.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.23.120": {
+    "109.248.18.63": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,79 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.22": {
+    "194.24.161.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.226.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "filehost7.videobooster21.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.152.223.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl3.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.178.226.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.202.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.193.252.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.17.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.208.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.170.22.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spain3.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.218.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.39": {
+    "2.27.248.93": {
       "status": "down",
       "rtt_ms": null
     },
@@ -216,15 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "veilix.ciphero.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "filehost3.videobooster21.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.209.15.215": {
+    "176.65.144.248": {
       "status": "down",
       "rtt_ms": null
     },
@@ -232,67 +40,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.67.230": {
+    "217.60.68.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.73": {
+    "78.17.17.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.noesissite.ru": {
+    "185.112.249.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.193.253.227": {
+    "45.67.139.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.219.236.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.71.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.248.18.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.55.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.144.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.50.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.178.226.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru-5b7331.atlanta-games.com": {
+    "serv21.strettenvpn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,31 +64,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node3.vpnushka.lol": {
+    "fr140.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.225.174": {
+    "veilix.ciphero.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.221.193": {
+    "nl3.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "164.38.155.30": {
+    "neth6.lckdwn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "swe.frkn.org": {
+    "iq5ny.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
-    "62.113.200.222": {
+    "167.104.217.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.121": {
+    "46.229.243.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.17.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.71.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.67.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.209.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.133.0.103": {
       "status": "down",
       "rtt_ms": null
     },
@@ -336,7 +132,155 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.85.59.55": {
+    "94.183.221.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.202.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.152.223.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.23.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.193.252.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tutdesignstudio.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.170.22.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.106.141.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.193.255.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.121.218.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.254.126.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.178.226.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.113.200.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.129.251.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.193.253.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "filehost7.videobooster21.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru-5b7331.atlanta-games.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spain3.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.55.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.208.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.noesissite.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto.gsupport.support": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.226.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.170.22.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.104.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.178.226.215": {
       "status": "down",
       "rtt_ms": null
     },
@@ -344,7 +288,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "auto.gsupport.support": {
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.225.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe.frkn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.241.241.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.219.236.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "filehost3.videobooster21.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.180.50.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.38.155.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.115.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node3.vpnushka.lol": {
       "status": "down",
       "rtt_ms": null
     }
