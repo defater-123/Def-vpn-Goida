@@ -1,90 +1,10 @@
 {
-  "last_update": "2026-08-17T16:51:29.486563",
+  "last_update": "2026-08-17T17:16:03.387237",
   "total": 74,
   "up": 0,
   "down": 74,
   "results": {
-    "200.165.228.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.221.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.209.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.32.141.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.110.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1sg001.344211.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23-19-231-152.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.savesafe.kz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.187": {
+    "savesafe.run": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.55": {
+    "195.184.247.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.13.151.46": {
+    "81.31.210.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.233": {
+    "195.184.247.234": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,11 +28,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.220": {
+    "savesafe.co": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1sg001.344211.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.42.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.19": {
       "status": "down",
       "rtt_ms": null
     },
     "nl10.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.65.151.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.228.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,95 +112,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "154.31.115.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cz.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "testtt.botdegeris.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a2.arshia-nova.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "47.238.210.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl9.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl6.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.21.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl8.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.151.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.31.210.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.co": {
       "status": "down",
       "rtt_ms": null
     },
@@ -220,31 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.224": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "130.12.242.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "savesafe.info": {
+    "195.184.247.223": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pichi.picmusic.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.42.66": {
+    "195.184.247.233": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,43 +136,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.23.44": {
+    "139.28.168.55": {
       "status": "down",
       "rtt_ms": null
     },
-    "140.99.223.61": {
+    "195.184.247.224": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.221.165": {
+    "195.184.247.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.237": {
+    "kz.savesafe.kz": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.253": {
+    "latvia.koalaexpress.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "220.130.75.248": {
+    "testtt.botdegeris.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.12.242.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
+    "us.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -296,7 +168,135 @@
       "status": "down",
       "rtt_ms": null
     },
+    "195.184.247.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "220.130.75.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.110.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.31.115.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl8.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23-19-231-152.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pichi.picmusic.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "f1b.wareznet.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.32.141.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.209.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.13.151.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl6.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a2.arshia-nova.ir": {
       "status": "down",
       "rtt_ms": null
     }
