@@ -1,170 +1,10 @@
 {
-  "last_update": "2026-08-16T23:53:37.130831",
+  "last_update": "2026-08-17T00:30:10.237857",
   "total": 87,
   "up": 0,
   "down": 87,
   "results": {
-    "85.204.107.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.209.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.133.0.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.60.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.228.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.219.236.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tokervpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at188.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.209.15.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.31.115.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.221.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.239.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl154.slovovpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us54.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-t2.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cabinet.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ribos.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge.netraidly.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.233.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.100.42.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.218.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kerost.fontanvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.106.141.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free-nl.moscow-neversleep.digital": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.15.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.251.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bc-nl-rdp.ray-balance.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.130.234.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de104.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serv21.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.42": {
+    "114.29.238.251": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,83 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlb.go-vpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.4.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.prisma-access.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.98.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.52.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.237.185.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.node.goidanet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "america.koexp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.124.45.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast88.slopllex.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mdt1.pubconverter.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serv45.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.159.73.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.22": {
+    "87.121.218.169": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,7 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node3.vpnushka.lol": {
+    "38.180.50.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.31.115.179": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,35 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "114.29.238.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8-210-142-69.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.223.68.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at133.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23-19-231-152.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
+    "86.107.178.73": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,23 +40,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "rom2.o4ka-internet.com": {
+    "us54.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr194.mechvpn.online": {
+    "iq5ny.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
-    "kisofer.fontanvpn.com": {
+    "latvia.koalaexpress.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "tutdesignstudio.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.50.4": {
+    "at188.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -324,15 +60,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "79.108.166.178": {
+    "ribos.fontanvpn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr140.mechvpn.online": {
+    "nlb.go-vpn.club": {
       "status": "down",
       "rtt_ms": null
     },
-    "us65.mechvpn.online": {
+    "rom2.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru-5b7331.atlanta-games.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.node.goidanet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-t2.vinnypuxtomoon.today": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.23.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr194.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.124.45.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.100.42.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.147.251.25": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,7 +116,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "veilix.ciphero.xyz": {
+    "185.159.73.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tokervpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.60.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.209.15.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.237.185.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.209.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.98.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.119.19.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.228.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl154.slovovpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bc-nl-rdp.ray-balance.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.4.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.18.52.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at133.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,7 +192,163 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ru-5b7331.atlanta-games.com": {
+    "162.249.124.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.130.234.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.233.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr140.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.15.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cabinet.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "serv45.strettenvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tutdesignstudio.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge.netraidly.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.219.236.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.239.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.223.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us65.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "veilix.ciphero.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free-nl.moscow-neversleep.digital": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.133.0.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de104.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kerost.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast88.slopllex.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.106.141.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23-19-231-152.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8-210-142-69.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node3.vpnushka.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "serv21.strettenvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.223.68.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.8.211.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kisofer.fontanvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mdt1.pubconverter.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "america.koexp.ru": {
       "status": "down",
       "rtt_ms": null
     }
