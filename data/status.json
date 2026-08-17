@@ -1,22 +1,102 @@
 {
-  "last_update": "2026-08-17T21:41:16.770348",
+  "last_update": "2026-08-17T21:57:47.671650",
   "total": 70,
   "up": 0,
   "down": 70,
   "results": {
-    "195.184.247.224": {
+    "220.130.75.248": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.253": {
+    "140.99.223.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.247": {
+    "139.28.168.55": {
       "status": "down",
       "rtt_ms": null
     },
-    "92.118.112.227": {
+    "140.99.223.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.124.45.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.62.118.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.238.250.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.128.99.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.209.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.32.141.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1sg001.344211.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rm-us-04.409648.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.20": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,115 +108,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "140.99.223.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.124.45.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "111.119.235.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "220.130.75.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ghosts-spasm.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ipaste.4ippi.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.co": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherland.zelnora.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a2.arshia-nova.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.31.210.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.62.118.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.221.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.12.242.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.32.141.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.221.165": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,119 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rm-us-04.409648.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.99.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.110.111.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.237.207.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.209.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.12.242.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl10.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "194.180.188.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "1sg001.344211.cc": {
+    "94.183.221.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bounded-crammed.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pichi.picmusic.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.13.151.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.184.247.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.238.250.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl3.unlockvpn.online": {
+    "195.184.247.224": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,7 +136,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "us.frkn.org": {
+    "bounded-crammed.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,11 +144,143 @@
       "status": "down",
       "rtt_ms": null
     },
-    "savesafe.info": {
+    "140.99.223.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl10.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a2.arshia-nova.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.co": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.frkn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.237.207.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherland.zelnora.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pichi.picmusic.ir": {
       "status": "down",
       "rtt_ms": null
     },
     "kz.savesafe.kz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.110.111.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.31.210.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.118.112.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.13.151.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl3.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ipaste.4ippi.ru": {
       "status": "down",
       "rtt_ms": null
     }
