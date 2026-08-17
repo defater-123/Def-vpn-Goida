@@ -1,234 +1,34 @@
 {
-  "last_update": "2026-08-17T14:16:03.826689",
-  "total": 97,
+  "last_update": "2026-08-17T15:13:56.619612",
+  "total": 74,
   "up": 0,
-  "down": 97,
+  "down": 74,
   "results": {
-    "america.koexp.ru": {
+    "194.32.141.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.223.65": {
+    "176.65.151.215": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.221.193": {
+    "81.31.210.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.60.122": {
+    "140.99.223.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "23.254.225.38": {
+    "kz.savesafe.kz": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.38": {
+    "195.184.247.223": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.241.241.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.67.139.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.228.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.63.135.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.147.251.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at188.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mdt1.pubconverter.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "latvia.koalaexpress.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.98.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr-t.vinnypuxtomoon.today": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.50.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.170.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.52.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.144.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de104.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swe.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.254.126.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl10.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr194.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr131.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cabinet.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.112.249.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth6.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "france2.spaidan.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.119.19.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.115.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.211.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.133.0.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.225.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.107.176.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.210.9.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ams1.stream-pop.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.130.207.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
+    "195.184.247.238": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,127 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tutdesignstudio.site": {
+    "savesafe.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.159.73.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a2.arshia-nova.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.124.18.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.23.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.63.136.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.1.194.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.26.31.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.170.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.208.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mws-fc-3.ghost-lan.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "estproxy4.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.7.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.23.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ydlod.doratbonn.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.17.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ndt.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.35.69.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.166.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serv21.strettenvpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.152.223.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.209.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.38.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.59.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.218.169": {
+    "200.165.228.114": {
       "status": "down",
       "rtt_ms": null
     },
@@ -364,31 +48,255 @@
       "status": "down",
       "rtt_ms": null
     },
-    "87.106.141.152": {
+    "pol3.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.248.93": {
+    "94.183.221.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "us63.mechvpn.online": {
+    "140.99.223.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.31.114.168": {
+    "140.99.223.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "195.184.247.229": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
+    "1sg001.344211.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.107.152.149": {
+    "151.101.110.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl8.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.209.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.31.115.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.42.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "220.130.75.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl174.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23-19-231-152.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.frkn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "latvia.koalaexpress.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "testtt.botdegeris.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.23.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl6.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.126.67.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.12.242.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de120.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a2.arshia-nova.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.13.151.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f1b.wareznet.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl10.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.32.141.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.238.210.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.184.247.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl3.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.221.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.co": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pichi.picmusic.ir": {
       "status": "down",
       "rtt_ms": null
     }
