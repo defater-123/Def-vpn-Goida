@@ -1,10 +1,14 @@
 {
-  "last_update": "2026-08-18T17:50:08.823872",
+  "last_update": "2026-08-18T18:18:34.807747",
   "total": 37,
   "up": 0,
   "down": 37,
   "results": {
-    "104.17.123.101": {
+    "104.165.205.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.237.93.20": {
+    "104.165.205.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.101": {
+    "130.185.123.32": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "wsru1.wba-pn.ru": {
+    "test.srv.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "by.techdatacloud.org": {
+    "test.backup.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +52,83 @@
       "status": "down",
       "rtt_ms": null
     },
+    "hys40.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wsru1.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "awex1.awexio.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ltu-02.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "refraction.chelyabinskdev.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dvkse.avetrial.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vkdelease.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk-vpn-binan520.taiaise.cn": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.175.111.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.78.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.19.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.237.93.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.167.54.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.jugploer.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "test.bridge.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.104.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "by.techdatacloud.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,91 +144,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ltu-02.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys40.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "awex1.awexio.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "refraction.chelyabinskdev.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.185.123.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.78.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test.srv.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.104.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "87.251.19.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test.backup.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.19.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.54.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi.jugploer.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.175.111.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vkdelease.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dvkse.avetrial.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-vpn-binan520.taiaise.cn": {
+    "fin1.apexvpn.space": {
       "status": "down",
       "rtt_ms": null
     }
