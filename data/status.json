@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-08-18T09:33:53.615147",
+  "last_update": "2026-08-18T10:02:36.386232",
   "total": 57,
   "up": 0,
   "down": 57,
   "results": {
-    "31.76.70.78": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.194.15": {
+    "nl3.unlockvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,35 +16,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.202.254.53": {
+    "31.76.70.78": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.165.177.82": {
+    "81.31.210.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.142.146": {
+    "195.184.247.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "137.220.221.179": {
+    "92.118.112.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.222.193.153": {
+    "nl174.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.59.223.72": {
+    "lp.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,23 +44,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.110.221": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.201.205": {
+    "43.165.177.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.12.242.16": {
+    "113.30.152.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.unlockvpn.online": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr2.odavpn.online": {
+    "137.220.221.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.27.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.238.250.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +80,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "kz.frkn.org": {
+    "new.klzvezdi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.56.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.194.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.142.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.238.210.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9.unlockvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.222.193.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.201.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "203.17.244.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.31.223.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it.morinsq.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.142.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ipaste.4ippi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.23": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,35 +168,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.142.14": {
+    "220.130.75.248": {
       "status": "down",
       "rtt_ms": null
     },
-    "it.morinsq.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.118.112.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.142.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lp.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.238.250.4": {
+    "tr2.odavpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,15 +180,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "113.30.152.25": {
+    "13.143.142.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
+    "151.101.110.221": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,27 +192,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl3.unlockvpn.online": {
+    "185.39.31.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.31.223.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "th.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "203.17.244.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "new.klzvezdi.ru": {
+    "45.202.254.53": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,43 +204,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "savesafe.info": {
+    "2.59.223.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.180.27.221": {
+    "th.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.133": {
+    "nl1.unlockvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "220.130.75.248": {
+    "130.12.242.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.31.210.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.238.210.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl174.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
+    "pl.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,23 +228,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl9.unlockvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ipaste.4ippi.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.18": {
+    "201.24.49.62": {
       "status": "down",
       "rtt_ms": null
     }
