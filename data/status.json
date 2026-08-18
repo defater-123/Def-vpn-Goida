@@ -1,234 +1,154 @@
 {
-  "last_update": "2026-08-18T14:49:30.245461",
-  "total": 57,
+  "last_update": "2026-08-18T15:19:02.159290",
+  "total": 37,
   "up": 0,
-  "down": 57,
+  "down": 37,
   "results": {
-    "194.31.223.107": {
+    "150.251.114.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.11.87.48": {
+    "87.251.19.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.253": {
+    "104.165.205.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.184.247.254": {
+    "104.17.123.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.180.27.221": {
+    "bz2.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.23": {
+    "94.237.93.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl3.unlockvpn.online": {
+    "test.bridge.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.110.221": {
+    "104.165.205.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
+    "124.156.182.132": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.31.115.179": {
+    "72.56.78.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.80.1": {
+    "205.237.104.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.55": {
+    "fi.jugploer.icu": {
       "status": "down",
       "rtt_ms": null
     },
-    "137.220.221.179": {
+    "94.183.221.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "pol.cryptoofarm.com": {
+    "test.backup.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.unlockvpn.online": {
+    "test.srv.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl.cryptoofarm.com": {
+    "wsru1.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "it.morinsq.su": {
+    "ltu-02.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "kz.frkn.org": {
+    "refraction.chelyabinskdev.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "f1b.wareznet.ru": {
+    "dvkse.avetrial.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "new.klzvezdi.ru": {
+    "hk-vpn-binan520.taiaise.cn": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.202.254.53": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.142.14": {
+    "test.lte.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.133": {
+    "104.165.205.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "66.112.214.246": {
+    "119.28.161.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.18": {
+    "87.251.19.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.222.193.153": {
+    "104.165.205.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.12.242.16": {
+    "130.185.123.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "203.17.244.59": {
+    "216.167.54.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.59.223.72": {
+    "test.api.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.238.250.4": {
+    "bel-02.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl9.unlockvpn.online": {
+    "185.175.111.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "92.118.112.227": {
+    "by.techdatacloud.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.142.109": {
+    "fin1.apexvpn.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.238.210.5": {
+    "hys40.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "th.cryptoofarm.com": {
+    "usa1.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "lp.cryptoofarm.com": {
+    "awex1.awexio.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "166-0-16-52.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.201.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ipaste.4ippi.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.12.242.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "220.130.75.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.70.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl174.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.165.177.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.232.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.194.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "113.30.152.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.142.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "su.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr2.odavpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.31.210.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.info": {
+    "vkdelease.com": {
       "status": "down",
       "rtt_ms": null
     }
