@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-08-18T19:37:10.202706",
+  "last_update": "2026-08-18T19:54:42.631008",
   "total": 62,
   "up": 0,
   "down": 62,
   "results": {
-    "81.90.21.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.141.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.112.71.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.151.201.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.124.166.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.219.116.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys9.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.189.253.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.237.93.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.42.66": {
+    "163.128.98.110": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,23 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "test.backup.anti-zapret.com": {
+    "130.185.123.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "test.api.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys40.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.96.121.6": {
+    "162.35.231.68": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.36": {
+    "103.112.71.86": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.195.4.7": {
+    "23.249.19.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "94.183.157.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.70": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,31 +44,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "36.151.187.225": {
+    "194.93.61.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "163.128.98.110": {
+    "104.17.123.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
+    "87.251.19.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.185.123.32": {
+    "194.93.61.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.112.71.86": {
+    "167.104.217.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.251.114.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.69": {
+    "94.237.93.20": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,11 +72,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.67": {
+    "test.backup.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "savesafe.co": {
+    "hys9.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin1.apexvpn.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,11 +88,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.66": {
+    "194.93.61.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.trxlnsnet.ir": {
+    "31.77.141.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.96.121.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,67 +120,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.200.86.178": {
+    "94.183.157.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.251.19.9": {
+    "104.165.205.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.49.130": {
+    "104.165.205.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.21": {
+    "162.35.231.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "180.178.60.254": {
+    "154.219.116.195": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.112.71.85": {
+    "150.251.114.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.123.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.prisma-access.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.112.71.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.249.19.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test.bridge.anti-zapret.com": {
+    "test.api.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,11 +152,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "hys40.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "216.167.54.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.35": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.71.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.22": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,7 +180,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.71": {
+    "34.124.166.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.189.253.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "36.151.187.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.195.4.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.200.86.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "180.178.60.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test.bridge.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.42.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.prisma-access.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.71.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.trxlnsnet.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.71.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.151.201.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.co": {
       "status": "down",
       "rtt_ms": null
     }
