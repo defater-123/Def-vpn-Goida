@@ -1,9 +1,41 @@
 {
-  "last_update": "2026-08-19T07:53:00.800923",
+  "last_update": "2026-08-19T08:21:19.519338",
   "total": 96,
   "up": 0,
   "down": 96,
   "results": {
+    "212.95.58.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.109.234.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.249.19.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "113.30.149.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.80.249.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.223.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "31.222.205.42": {
       "status": "down",
       "rtt_ms": null
@@ -12,43 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.90.216.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.213.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.117.67.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.201.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b2.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.129.184.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.195.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.109.234.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "78.129.190.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.117.123.243": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,179 +52,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.129.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.mxm-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.techdatacloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys9.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eshy2.metricpipe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.202.223.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.117.67.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.125.218.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.65.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.82.67.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.130.208.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.116.236.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.252.23.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.21.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "81.31.210.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.179.49.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.213.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "minimize-evenness.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.mxm-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.95.58.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.pool-a.netcenter-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nodeddarch.okzk.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.h.topbelka.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.1.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.144.24.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.69.167.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.80.249.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.techdatacloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us3.techdatacloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.24.131.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.miginfo.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adheres-scruple.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "il.maximum-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi2.techdatacloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "piracy-android.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nodeur5zkn2xqm8lpj7hvtc4yswd.spored.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "turkeybat.irmnets.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,119 +60,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.17": {
+    "177.3.215.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.123.101": {
+    "fi2.techdatacloud.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.telemetry-srv.cloud": {
+    "adheres-scruple.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.228.208": {
+    "ru.pool-a.netcenter-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.141.148.11": {
+    "xhttpru.enotvpn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "cdn.sw-api-dev.begmatov.dev": {
+    "hys9.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "187.77.110.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.111.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.202.205.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.148.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.83.86.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.129.150.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iq5ny.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.33.10.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se.morinsq.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.108.161.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.148.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.249.19.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.148.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.109.234.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "relay.barnikle1.me": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.omvpn.info": {
+    "37.252.23.132": {
       "status": "down",
       "rtt_ms": null
     },
@@ -356,15 +92,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "savesafe.co": {
+    "2.27.201.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.215.112": {
+    "89.117.67.148": {
       "status": "down",
       "rtt_ms": null
     },
-    "113.30.149.18": {
+    "45.90.216.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.150.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.179.49.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.228.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.69.167.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.213.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.telemetry-srv.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.miginfo.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.82.67.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us3.techdatacloud.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "turkeybat.irmnets.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.techdatacloud.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.sw-api-dev.begmatov.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.123.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.h.topbelka.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.186": {
       "status": "down",
       "rtt_ms": null
     },
@@ -376,15 +176,215 @@
       "status": "down",
       "rtt_ms": null
     },
+    "151.101.1.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "31.222.205.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "xhttpru.enotvpn.net": {
+    "140.99.223.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.83.86.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.148.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.omvpn.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.125.218.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nodeur5zkn2xqm8lpj7hvtc4yswd.spored.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.techdatacloud.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.mxm-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin1.apexvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.195.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "relay.barnikle1.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b2.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.202.205.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.184.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.117.67.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "il.maximum-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.130.208.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.65.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.111.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.108.161.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eshy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "187.77.110.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.117.123.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.129.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nodeddarch.okzk.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.144.24.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.109.234.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.33.10.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.116.236.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.mxm-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.24.131.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.213.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se.morinsq.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.249": {
       "status": "down",
       "rtt_ms": null
     },
     "213.21.253.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "savesafe.co": {
       "status": "down",
       "rtt_ms": null
     }
