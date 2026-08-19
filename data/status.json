@@ -1,102 +1,10 @@
 {
-  "last_update": "2026-08-19T22:18:47.229236",
+  "last_update": "2026-08-19T22:47:12.699040",
   "total": 87,
   "up": 0,
   "down": 87,
   "results": {
-    "82.22.41.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.207.7.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "171.22.180.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.51.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.41.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.235.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "core-6343.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.pollcenter.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.opngtr.nl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yt.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kr.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freja.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "olp.crsmaps.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dns-3918.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sha.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.214.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.207.7.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.51.122": {
+    "45.144.48.56": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,63 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.76.85.207": {
+    "151.242.168.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.49.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mesh-2217.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wave-4240.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.196.99.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.51.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.179.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.152.223.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.82.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa.opngtr.nl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vpn-2972.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mesh-6468.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge-6131.internet-booster.com": {
+    "85.117.243.19": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,15 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.51.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-7009.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-5491.internet-booster.com": {
+    "80.66.72.179": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,83 +32,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.49.79": {
+    "core-6343.internet-booster.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.168.181": {
+    "140.99.223.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.37.149": {
+    "109.196.99.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "node-2337.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.37.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.49.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.48.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.98.6.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.66.72.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alya.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sp.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-8590.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.221.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.85.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.234.83": {
+    "46.229.243.137": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,63 +52,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sp.crsmaps.com": {
+    "103.76.85.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "get4s.skystreamgame.com": {
+    "hub-8590.internet-booster.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.22.40.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.154.98.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.231.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grid-5649.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.196.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.49.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.212.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cache-1339.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s.zyro-lab.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr4.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.147": {
+    "45.144.49.200": {
       "status": "down",
       "rtt_ms": null
     },
@@ -332,7 +68,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "200.234.227.64": {
+    "82.22.41.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ltu-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.231.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.196.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.98.6.3": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,7 +100,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tr.cellser.ir": {
+    "2.26.124.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.154.98.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.207.7.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.51.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.49.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.207.7.210": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,7 +128,227 @@
       "status": "down",
       "rtt_ms": null
     },
+    "cache-1339.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wave-4240.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.179.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hub-5491.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.cellser.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp.skysafe.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mesh-2217.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.221.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.22.40.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grid-5649.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-2337.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.22.40.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.22.40.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr4.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.49.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s.zyro-lab.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.37.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.82.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.pollcenter.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge-6131.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "olp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "get4s.skystreamgame.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.128.235.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.22.40.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.234.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.37.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa.opngtr.nl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.22.41.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.234.227.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.51.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpn-2972.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freja.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.49.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kr.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hub-7009.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "171.22.180.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alya.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "lake.applly.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sha.skysafe.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mesh-6468.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.51.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.152.223.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.212.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dns-3918.internet-booster.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.opngtr.nl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.51.10": {
       "status": "down",
       "rtt_ms": null
     }
