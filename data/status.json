@@ -1,14 +1,38 @@
 {
-  "last_update": "2026-08-19T10:16:19.331080",
+  "last_update": "2026-08-19T10:51:34.918097",
   "total": 109,
   "up": 0,
   "down": 109,
   "results": {
-    "194.116.236.9": {
+    "89.117.67.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.237.60": {
+    "144.31.237.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.114.116.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.130.208.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "187.77.110.82": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,203 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.24.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.148.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.24.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.53.38.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.209.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.148.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lt.mxm-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia2.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk.maximum-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.180.119.87": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.228.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.39.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.225.156.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.213.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.208.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "187.77.108.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.83.86.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia1.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.117.67.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.164.148.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.114.116.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.148.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.141.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.130.208.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.202.205.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.39.245": {
+    "31.222.205.40": {
       "status": "down",
       "rtt_ms": null
     },
@@ -224,59 +52,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.109.234.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in.maximum-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.mxm-vpn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.savesafe.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "streambox.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.117.67.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.60.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.opngtr.nl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.89": {
+    "31.222.205.42": {
       "status": "down",
       "rtt_ms": null
     },
@@ -288,11 +64,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78.129.184.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.miginfo.net": {
+    "uk.maximum-vpn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,91 +72,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pixelcast.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.33.10.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8d3798d5e6f401bd.mbcloudy.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sp2.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.241.208.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.254.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.219.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.237.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.117.75.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.110.207.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rvg-production-c349.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "187.77.110.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.89.244.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.222.205.35": {
+    "althys.superbuba.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -392,15 +80,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.237.120": {
+    "debase.skysafe.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.117.67.149": {
+    "157.180.119.87": {
       "status": "down",
       "rtt_ms": null
     },
-    "sp.skysafe.online": {
+    "31.59.39.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.opngtr.nl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "187.77.108.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.213.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.241.208.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.33.10.41": {
       "status": "down",
       "rtt_ms": null
     },
@@ -408,19 +128,159 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78.129.190.5": {
+    "151.242.160.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "althys.superbuba.top": {
+    "89.117.67.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.222.205.34": {
+    "94.183.254.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "althys2.superbuba.top": {
+    "dggg.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.116.236.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pixelcast.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "streambox.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp.skysafe.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia2.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.124.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.164.148.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.38.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.39.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.60.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.24.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.mxm-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia1.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in.maximum-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.141.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.255.212": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.209.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.148.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.223.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.136": {
       "status": "down",
       "rtt_ms": null
     },
@@ -428,7 +288,115 @@
       "status": "down",
       "rtt_ms": null
     },
-    "it.getsavesafe.com": {
+    "217.60.24.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.110.207.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.202.205.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8d3798d5e6f401bd.mbcloudy.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.117.67.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rvg-production-c349.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.190.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.89.244.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.savesafe.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.109.234.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.254.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.228.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.miginfo.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.208.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lt.mxm-vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.219.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.225.156.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.117.75.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -436,7 +404,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "debase.skysafe.online": {
+    "94.183.254.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.222.205.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.237.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it.getsavesafe.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.184.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.83.86.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp2.skysafe.online": {
       "status": "down",
       "rtt_ms": null
     }
