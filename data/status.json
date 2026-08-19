@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-08-19T19:46:09.659015",
+  "last_update": "2026-08-19T20:12:44.420092",
   "total": 37,
   "up": 0,
   "down": 37,
   "results": {
-    "2.26.124.152": {
+    "167.104.217.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.85.140": {
+    "167.104.217.18": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,23 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.95.203.224": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.221.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.74.214": {
+    "162.249.124.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +24,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "200.234.227.64": {
+    "151.242.168.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.43": {
+    "167.104.217.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.124.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.221.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.177.57.103": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +52,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.168.181": {
+    "167.104.217.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.15.18.174": {
+    "77.95.203.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freja.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands.me.hoomaxconnect.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-switzerlandgopota.unlimited-access.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +80,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sp.crsmaps.com": {
+    "nl.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.18.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.234.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.159.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru2eu.dedicated.127-0-0-1.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.74.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.234.227.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "olp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro-se.emrata.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr4.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,79 +148,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hy2-switzerlandgopota.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "frn.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.234.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2eu.dedicated.127-0-0-1.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.159.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr4.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro-se.emrata.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freja.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "olp.crsmaps.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.177.57.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherlands.me.hoomaxconnect.ir": {
       "status": "down",
       "rtt_ms": null
     }
