@@ -1,118 +1,154 @@
 {
-  "last_update": "2026-08-19T17:46:34.477102",
-  "total": 28,
+  "last_update": "2026-08-19T18:15:28.492943",
+  "total": 37,
   "up": 0,
-  "down": 28,
+  "down": 37,
   "results": {
-    "216.167.49.171": {
+    "167.104.217.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.168.153": {
+    "167.104.217.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.222.205.55": {
+    "77.95.203.224": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.45": {
+    "151.242.168.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.237.125": {
+    "95.154.221.128": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.53.83.248": {
+    "109.169.85.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "162.249.124.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "dep.opngtr.nl": {
+    "46.229.243.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.70.199.217": {
+    "104.21.74.214": {
       "status": "down",
       "rtt_ms": null
     },
-    "sync.meshbeat.online": {
+    "200.234.227.64": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.222.205.37": {
+    "167.104.217.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "163.128.98.140": {
+    "31.15.18.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "163.128.99.228": {
+    "kz.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.254.97": {
+    "ru2eu.dedicated.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.8.211.57": {
+    "gr4.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.165.75.160": {
+    "nl.chick-team.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.168": {
+    "netherlands.me.hoomaxconnect.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.76.85.171": {
+    "hy2-switzerlandgopota.unlimited-access.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "jp.chick-team.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.100.158.205": {
+    "pl.chick-team.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.124.113.104": {
+    "2.26.124.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.199.209.9": {
+    "167.104.217.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.150.66.31": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.237.86": {
+    "198.177.57.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "gb1.wba-pn.ru": {
+    "45.86.159.115": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.137.215.233": {
+    "177.3.212.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.55": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl.prisma-access.club": {
+    "167.104.217.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro-se.emrata.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "olp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa.opngtr.nl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.234.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kr.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freja.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "frn.skysafe.online": {
       "status": "down",
       "rtt_ms": null
     }
