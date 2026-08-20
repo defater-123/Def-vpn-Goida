@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-08-20T14:52:05.790982",
+  "last_update": "2026-08-20T15:21:58.191063",
   "total": 25,
   "up": 0,
   "down": 25,
   "results": {
-    "45.155.70.123": {
+    "81.90.25.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "82.22.23.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "68.221.114.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.69.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.105.123.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.119.64.109": {
+    "api.fuck-you.dyn.site.fwqfw783rg2dad.website": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "api.fuck-you.dyn.site.fwqfw783rg2dad.website": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
     "5.152.223.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.119.64.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,31 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sw2.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.215.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2eu.dedicated.127-0-0-1.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "frw.sywl4.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sk2.sywl4.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sk.sywl4.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skw.sywl4.uk": {
+    "68.221.114.80": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,19 +52,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.22.23.100": {
+    "ru2eu.dedicated.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "151.242.168.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.90.25.189": {
+    "2.26.69.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw2.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
     "s.zyro-lab.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sk.sywl4.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sk2.sywl4.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skw.sywl4.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.155.70.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.215.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.123.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "frw.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     }
