@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-08-20T19:07:54.569048",
+  "last_update": "2026-08-20T19:42:23.618199",
   "total": 49,
   "up": 0,
   "down": 49,
   "results": {
-    "117.55.194.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.155": {
+    "64.188.77.13": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,75 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.202.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.0.232.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.155.14.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.28.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.82.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys26.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.golu-gulu.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cze-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.izzzyvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "holset.izzzyvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.izzzyvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est.izzzyvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.40.63.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.134.58": {
+    "144.31.168.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,27 +20,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.97.87": {
+    "5.180.42.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.219.97.128": {
+    "13.143.134.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.255.119": {
+    "95.85.247.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.168.133": {
+    "64.188.82.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.74.159.200": {
+    "2.58.66.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "bridge.meshbeat.online": {
+    "27.0.232.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.202.27": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,35 +52,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk.monkora.org": {
+    "5.253.28.213": {
       "status": "down",
       "rtt_ms": null
     },
     "167.104.217.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.77.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys.superbuba.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,27 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.58.66.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.185.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.42.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.171.143": {
+    "94.183.255.119": {
       "status": "down",
       "rtt_ms": null
     },
@@ -197,6 +77,126 @@
       "rtt_ms": null
     },
     "germnode1.izzzyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cze-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.63.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.219.97.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.97.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.171.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.155.14.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.185.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.golu-gulu.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "holset.izzzyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.izzzyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est.izzzyvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.74.159.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.194.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.163.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.izzzyvpn.ru": {
       "status": "down",
       "rtt_ms": null
     }
