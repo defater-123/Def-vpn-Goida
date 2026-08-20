@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-08-20T13:24:09.483476",
+  "last_update": "2026-08-20T14:05:15.535076",
   "total": 25,
   "up": 0,
   "down": 25,
   "results": {
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.210.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.196.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.152.223.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.119.64.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "frw.sywl4.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skw.sywl4.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.105.123.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "pl.sywl3.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.25.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.155.70.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2eu.dedicated.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,27 +16,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.6": {
+    "45.155.70.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.fuck-you.dyn.site.fwqfw783rg2dad.website": {
+    "195.123.209.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "s.zyro-lab.com": {
+    "2.26.69.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw2.cryptoofarm.com": {
+    "198.105.123.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys26.wba-pn.ru": {
+    "5.129.210.63": {
       "status": "down",
       "rtt_ms": null
     },
-    "sk2.sywl4.uk": {
+    "95.154.196.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.119.64.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +52,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.209.50": {
+    "5.152.223.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.25.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.fuck-you.dyn.site.fwqfw783rg2dad.website": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru2eu.dedicated.127-0-0-1.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "frw.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,7 +84,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.69.172": {
+    "skw.sywl4.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sk2.sywl4.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw2.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s.zyro-lab.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     }
