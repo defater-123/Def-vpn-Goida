@@ -1,198 +1,106 @@
 {
-  "last_update": "2026-08-20T12:20:50.576548",
-  "total": 48,
+  "last_update": "2026-08-20T13:24:09.483476",
+  "total": 25,
   "up": 0,
-  "down": 48,
+  "down": 25,
   "results": {
-    "f3.crsmaps.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.128.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.34.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.16.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.80.218.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.243.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.76.18.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.254.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "de2.miyazono-kaori.com": {
+    "5.129.210.63": {
       "status": "down",
       "rtt_ms": null
     },
-    "ni.cryptoofarm.com": {
+    "95.154.196.63": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr.cellser.ir": {
+    "5.152.223.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "netherlands.me.hoomaxconnect.ir": {
+    "188.119.64.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "first.fezlixa.ir": {
+    "frw.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "deu0003ntrhy01.tcp-reset-club.net": {
+    "skw.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "frn.skysafe.online": {
+    "198.105.123.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "deh.skysafe.online": {
+    "pl.sywl3.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.192.84": {
+    "81.90.25.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.208.4": {
+    "45.155.70.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.137": {
+    "ru2eu.dedicated.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.204.170.32": {
+    "82.22.23.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.14.165.234": {
+    "177.3.215.222": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.154.196.61": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.110.219": {
+    "api.fuck-you.dyn.site.fwqfw783rg2dad.website": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.64.84": {
+    "s.zyro-lab.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "olp.crsmaps.com": {
+    "sw2.cryptoofarm.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg3.miyazono-kaori.com": {
+    "hys26.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "us1.miyazono-kaori.com": {
+    "sk2.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "us4.miyazono-kaori.com": {
+    "151.242.168.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.234.238": {
+    "68.221.114.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "de1.miyazono-kaori.com": {
+    "195.123.209.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "96.126.129.29": {
+    "sk.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "althys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-cdn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.miyazono-kaori.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.78.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.214.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.35.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pinterest.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.frkn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg1.miyazono-kaori.com": {
+    "2.26.69.172": {
       "status": "down",
       "rtt_ms": null
     }
