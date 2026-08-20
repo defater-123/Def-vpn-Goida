@@ -1,10 +1,58 @@
 {
-  "last_update": "2026-08-20T15:21:58.191063",
+  "last_update": "2026-08-20T15:54:49.220900",
   "total": 25,
   "up": 0,
   "down": 25,
   "results": {
+    "pl.sywl3.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.168.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.215.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.69.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.196.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "81.90.25.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.155.70.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw2.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.221.114.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.129.210.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.123.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.209.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,63 +64,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.209.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.196.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.152.223.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.119.64.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.210.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys26.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "68.221.114.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.sywl3.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ru2eu.dedicated.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.168.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.69.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw2.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s.zyro-lab.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sk.sywl4.uk": {
+    "frw.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.155.70.123": {
+    "sk.sywl4.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.215.222": {
+    "188.119.64.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.152.223.97": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,11 +100,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.123.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "frw.sywl4.uk": {
+    "s.zyro-lab.com": {
       "status": "down",
       "rtt_ms": null
     }
