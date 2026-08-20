@@ -1,298 +1,54 @@
 {
-  "last_update": "2026-08-20T08:22:21.896806",
-  "total": 94,
+  "last_update": "2026-08-20T09:02:41.236450",
+  "total": 48,
   "up": 0,
-  "down": 94,
+  "down": 48,
   "results": {
-    "89.116.243.205": {
+    "46.229.243.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.51.161": {
+    "172.64.80.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.49.228": {
+    "151.101.192.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.100.158.63": {
+    "pinterest.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.49.231": {
+    "212.80.218.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "222.167.212.81": {
+    "151.101.64.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "186.246.13.160": {
+    "82.39.214.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.154.98.72": {
+    "de2.miyazono-kaori.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.179.21": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.51.122": {
+    "45.14.165.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.116.243.185": {
+    "194.135.34.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "sp.crsmaps.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.golu-gulu.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.getsavesafe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-4323.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "player.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gem.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "get4s.skystreamgame.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.18.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa.opngtr.nl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.111.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.212.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.234.227.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.41.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-cdn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gate-6182.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freja.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grid-5649.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finnode3.frost-api.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bg.cloudtechone.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.41.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn-9863.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alya.chick-team.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "116.206.92.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.223.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.98.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-5491.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "186.246.19.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.noode.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.53.146.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wave-4240.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.noode.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mesh-6793.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr2.odavpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-7243.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.235.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.node.sillyvpn.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sp.skysafe.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.26.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.49.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.90.216.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lm.cryptoofarm.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.76.85.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.236.25.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.48.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.234.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-8590.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xhttpru.enotvpn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge-6131.internet-booster.com": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,75 +56,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.51.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "comfort.noode.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.35.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mesh-2217.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.37.192.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.22.40.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-7009.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-2337.internet-booster.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.227.139.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.82.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.49.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "olp.crsmaps.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.169": {
+    "us1.miyazono-kaori.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.137": {
+    "first.fezlixa.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "core-6343.internet-booster.com": {
+    "deu0003ntrhy01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.106": {
+    "frn.skysafe.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.47": {
+    "deh.skysafe.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.18.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-cdn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.218.78.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.196.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.128.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.234.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us4.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.254.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.243.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg1.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de1.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.204.170.32": {
       "status": "down",
       "rtt_ms": null
     },
@@ -376,7 +148,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sha.skysafe.online": {
+    "151.101.110.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg3.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.frkn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.16.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.35.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "96.126.129.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.208.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ni.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands.me.hoomaxconnect.ir": {
       "status": "down",
       "rtt_ms": null
     }
