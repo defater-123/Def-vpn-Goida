@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-08-21T15:54:56.059464",
+  "last_update": "2026-08-21T16:17:38.844675",
   "total": 21,
   "up": 0,
   "down": 21,
   "results": {
-    "89.19.223.136": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,55 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "208.103.161.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.76.85.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.104.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-germany.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.70.58.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vip-sg-1.hkd4fwmg.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.92.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpaws.ccwink.photos": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ghosts-spasm.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "hy2-netherlands.unlimited-access.ru": {
+    "152.70.58.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +28,51 @@
       "status": "down",
       "rtt_ms": null
     },
+    "88.218.92.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.104.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.76.85.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "vip-us-6.hkd4fwmg.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip-sg-1.hkd4fwmg.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.19.223.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mci.v2plus.ovh": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-germany.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-netherlands.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpaws.ccwink.photos": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,7 +84,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mci.v2plus.ovh": {
+    "208.103.161.45": {
       "status": "down",
       "rtt_ms": null
     }
