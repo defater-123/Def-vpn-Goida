@@ -1,46 +1,66 @@
 {
-  "last_update": "2026-08-21T16:17:38.844675",
-  "total": 21,
+  "last_update": "2026-08-21T16:57:45.250502",
+  "total": 54,
   "up": 0,
-  "down": 21,
+  "down": 54,
   "results": {
-    "18.239.134.69": {
+    "usa.opngtr.nl": {
       "status": "down",
       "rtt_ms": null
     },
-    "203.227.191.4": {
+    "147.78.182.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "ghosts-spasm.quick-cdn.net": {
+    "194.48.250.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.70.58.201": {
+    "89.47.55.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "vip-ca-1.hkd4fwmg.xyz": {
+    "89.47.55.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "vip-nl-1.hkd4fwmg.vip": {
+    "104.105.3.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.218.92.164": {
+    "94.183.255.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.104.206": {
+    "95.154.221.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.76.85.82": {
+    "93.152.220.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.49.77": {
+    "104.245.242.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.249.32.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.235.168.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.242.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grs2.milkabebar.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,27 +68,91 @@
       "status": "down",
       "rtt_ms": null
     },
+    "mg.vertiex.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "newos.klzvezdi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nrt.pulsarcon.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.94.227.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg185.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.225.246.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.233.39.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.228.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.237.193.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-backup.opngtr.nl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ita.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-1.self-kvn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nrt.nlrocket.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.233.219.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nrt.eagrocket.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "vip-sg-1.hkd4fwmg.vip": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.19.223.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mci.v2plus.ovh": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-germany.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-netherlands.unlimited-access.ru": {
+    "nrt.lunarocket.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,15 +160,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "althys2.superbuba.top": {
+    "193.111.208.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.8.kfc-520.com": {
+    "46.229.243.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "208.103.161.45": {
+    "62.171.228.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.38.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.108.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.17.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.237.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.82.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "am1.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.143.106.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip-sg-2.hkd4fwmg.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nrt.deurocket.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nrt.constest.org": {
       "status": "down",
       "rtt_ms": null
     }
