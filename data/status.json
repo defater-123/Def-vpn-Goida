@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T14:03:43.718628",
+  "last_update": "2026-08-21T14:50:52.561386",
   "total": 21,
   "up": 0,
   "down": 21,
@@ -8,19 +8,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "vip-nl-1.hkd4fwmg.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-germany.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "vip-ca-1.hkd4fwmg.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.19.223.136": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "jpaws.ccwink.photos": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.70.58.201": {
+    "vip-sg-1.hkd4fwmg.vip": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,7 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "203.227.191.4": {
+    "208.103.161.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.19.223.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip-nl-1.hkd4fwmg.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.70.58.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,27 +44,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "201.24.49.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "hy2-netherlands.unlimited-access.ru": {
+    "jpaws.ccwink.photos": {
       "status": "down",
       "rtt_ms": null
     },
-    "208.103.161.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vip-us-6.hkd4fwmg.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vip-sg-1.hkd4fwmg.vip": {
+    "203.227.191.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,11 +64,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "althys.superbuba.top": {
+    "hy2-netherlands.unlimited-access.ru": {
       "status": "down",
       "rtt_ms": null
     },
     "family.bucket.8.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-germany.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip-us-6.hkd4fwmg.xyz": {
       "status": "down",
       "rtt_ms": null
     }
