@@ -1,94 +1,10 @@
 {
-  "last_update": "2026-08-21T05:54:08.594539",
+  "last_update": "2026-08-21T06:23:17.245712",
   "total": 79,
   "up": 0,
   "down": 79,
   "results": {
-    "2.27.160.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.155.14.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.62.62.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.130.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.171.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pahab-vernis-v-semnu.i-love-russia.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.84.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.86.107.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.109.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.221.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.237.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.42.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.cdn-global.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d70d5b68f9dc9ef0.mbcloudy.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.66.72.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.204.2": {
+    "85.117.243.19": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,91 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.214.95": {
+    "login.moktana.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.202.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.117.234.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.85.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.82.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skys3.greatecloud.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.70.58.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test-cdn-vk-d.cdn.cachefleet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.33.22.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.39.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.40.63.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.43.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
+    "ee.cdn-global.pro": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,15 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "64.188.77.13": {
+    "bridge.meshbeat.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.152.223.193": {
+    "13.143.130.158": {
       "status": "down",
       "rtt_ms": null
     },
-    "aparat-production-ffef.up.railway.app": {
+    "80.66.72.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.139": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,11 +44,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.43": {
+    "167.104.217.68": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.155.222.61": {
+    "2.27.160.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.77.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.134.26.97": {
       "status": "down",
       "rtt_ms": null
     },
@@ -220,15 +68,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.19": {
+    "89.125.43.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.228.142": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.134.26.97": {
+    "95.154.237.47": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,27 +84,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hys26.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.124.45.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.38.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.125.103.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "relay.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "94.183.255.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "66.33.22.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.109.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.82.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.62.62.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.155.14.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.171.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,43 +120,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "178.214.211.126": {
+    "31.77.154.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.101.239.23": {
+    "95.85.228.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "3xui-production-6601.up.railway.app": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.180.188.120": {
+    "82.40.63.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "s281.gogocs.xyz": {
+    "185.125.103.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "login.moktana.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.134.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roundhouse.proxy.rlwy.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xhttpru.enotvpn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.111": {
+    "95.154.221.155": {
       "status": "down",
       "rtt_ms": null
     },
@@ -308,7 +148,103 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.91.202.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "anten.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test-cdn-vk-d.cdn.cachefleet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "5.181.201.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.101.239.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.84.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.202.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.39.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "aparat-production-ffef.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xhttpru.enotvpn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roundhouse.proxy.rlwy.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s281.gogocs.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skys3.greatecloud.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "relay.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3xui-production-6601.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.163.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "d70d5b68f9dc9ef0.mbcloudy.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.38.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -316,7 +252,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "anten.ir": {
+    "178.214.211.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.204.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.155.222.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.117.234.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pahab-vernis-v-semnu.i-love-russia.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.134.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.42.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.70.58.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.152.223.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.86.107.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.124.45.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.61": {
       "status": "down",
       "rtt_ms": null
     }
