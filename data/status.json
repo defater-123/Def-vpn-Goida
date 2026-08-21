@@ -1,42 +1,18 @@
 {
-  "last_update": "2026-08-21T09:06:43.682169",
+  "last_update": "2026-08-21T09:50:28.404804",
   "total": 84,
   "up": 0,
   "down": 84,
   "results": {
-    "5.152.223.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.219.97.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.125.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "relay.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "31.76.111.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "pahab-vernis-v-semnu.i-love-russia.online": {
+    "5.152.223.193": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.229.168": {
+    "31.76.38.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,195 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "213.183.63.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.245.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.171.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "82.145.55.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grs2.milkabebar.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.yandex-cloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr1.milkabebar.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node2.onepanel123.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.173.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.85.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.77.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.42.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.38.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.40.63.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.125.103.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.46.59.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.84.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.46.59.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.109.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f4483e2323732515.mbcloudy.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.39.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ca.milkabebar.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.101.239.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.168.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.200.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.9.233.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.117.234.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.26.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.52.92.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.155.222.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.237.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "60.248.221.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.160.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ita.milkabebar.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4a7f869b066a10ae.mbcloudy.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-ru-vk-01.ray-balance.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,35 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.68.110.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.130.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.228.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.214.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.46.59.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.20": {
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -280,35 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.247.155": {
+    "222.167.212.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "faq.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys26.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.62.62.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.195.228.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ultra-05.serveroff.net": {
+    "144.31.171.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -316,15 +52,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "f42f7053edc7eeee.mbcloudy.ir": {
+    "177.3.214.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.70.109": {
+    "60.248.221.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-prosto.servebeer.com": {
+    "relay.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.200.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.39.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.yandex-cloud.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node2.onepanel123.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.117.234.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.77.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.101.239.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.26.184": {
       "status": "down",
       "rtt_ms": null
     },
@@ -336,7 +116,227 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.91.202.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.125.103.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.46.59.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.155.222.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.125.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.130.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "pl-modx.bachidze.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f42f7053edc7eeee.mbcloudy.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-prosto.servebeer.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.237.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr1.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.46.59.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.9.233.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.219.97.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.173.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.68.110.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.62.62.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.228.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.160.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.168.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.245.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.255.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ita.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4a7f869b066a10ae.mbcloudy.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.42.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.109.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.202.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.84.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.183.63.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.52.92.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.201.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pahab-vernis-v-semnu.i-love-russia.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.91.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-ru-vk-01.ray-balance.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.63.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grs2.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.195.228.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.229.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ultra-05.serveroff.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.46.59.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.70.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f4483e2323732515.mbcloudy.ir": {
       "status": "down",
       "rtt_ms": null
     }
