@@ -1,102 +1,10 @@
 {
-  "last_update": "2026-08-20T23:57:17.868153",
+  "last_update": "2026-08-21T00:53:47.515779",
   "total": 53,
   "up": 0,
   "down": 53,
   "results": {
-    "144.31.168.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.52.92.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.228.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.40.63.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.77.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.19.223.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "brdg.geodema.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin.themesh.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn2-90.cdn-vkvideo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chaishop.athforce.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.134.26.97": {
+    "45.91.202.232": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,83 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.117.243.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.84.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.194.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "aparat-production-ffef.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.155.14.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "relay.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn3-85.cdn-vkvideo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "althys2.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn7-83.cdn-vkvideo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys26.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.247.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.117.234.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test-cdn-vk-d.cdn.cachefleet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.134.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.243.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.180.42.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.219.97.128": {
+    "8.6.112.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,23 +20,131 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "200.165.228.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.202.232": {
+    "45.134.26.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.229.155": {
+    "46.229.243.139": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.86.107.20": {
+    "31.76.246.61": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.214.95": {
+    "45.91.202.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn7-83.cdn-vkvideo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "relay.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys26.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn3-85.cdn-vkvideo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "brdg.geodema.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node2.onepanel123.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.19.223.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.77.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.247.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.117.234.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.40.63.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.155.14.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.168.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.42.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.84.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "aparat-production-ffef.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn2-90.cdn-vkvideo.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,7 +152,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node2.onepanel123.ru": {
+    "95.85.247.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "althys2.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test-cdn-vk-d.cdn.cachefleet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.117.243.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.52.92.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.86.107.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.229.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin.themesh.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.134.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.219.97.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.194.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chaishop.athforce.ir": {
       "status": "down",
       "rtt_ms": null
     }
