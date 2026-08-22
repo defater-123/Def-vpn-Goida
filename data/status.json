@@ -1,21 +1,9 @@
 {
-  "last_update": "2026-08-22T20:36:12.333302",
+  "last_update": "2026-08-22T20:57:03.447638",
   "total": 26,
   "up": 0,
   "down": 26,
   "results": {
-    "m7r.speedtestmark.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "itproxy2.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "86.107.178.78": {
       "status": "down",
       "rtt_ms": null
@@ -24,11 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.27.117.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.39.158": {
+    "de3.prformula.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +20,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.92.43.81": {
+    "82.27.117.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.39.158": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,15 +36,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "91.92.43.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "pln.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.9.kfc-520.com": {
+    "de.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
-    "m13r.speedtestmark.com": {
+    "kuzya.api.dznn.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,39 +60,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "francervewcwerxr24231c42v423c4v23v4.soft421.ir": {
+    "m7r.speedtestmark.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it1.murhost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.homaxcorp.com.homaxcorp.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kuzya.api.dznn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.198": {
+    "m13r.speedtestmark.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +72,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de3.prformula.cfd": {
+    "family.bucket.9.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.homaxcorp.com.homaxcorp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1.murhost.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itproxy2.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "francervewcwerxr24231c42v423c4v23v4.soft421.ir": {
       "status": "down",
       "rtt_ms": null
     }
