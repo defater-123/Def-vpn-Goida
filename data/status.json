@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-08-22T13:00:08.595859",
+  "last_update": "2026-08-22T13:31:58.715429",
   "total": 52,
   "up": 0,
   "down": 52,
   "results": {
-    "212.192.210.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kruassan.buildsnow.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fudjia.buildsnow.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.124.45.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.94.227.94": {
+    "176.65.144.220": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,35 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de87.mechvpn.online": {
+    "213.182.199.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "it.buildsnow.top": {
+    "176.65.144.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.140": {
+    "212.192.210.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.120.104.91": {
+    "45.205.0.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.57.154": {
+    "82.25.63.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.120.104.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch.snowfalls.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ndge1.whit3.net": {
+    "5.39.202.22": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,15 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "keep-out.whit3.net": {
+    "it.whit3.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "mci.v2plus.ovh": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "ndge4.whit3.net": {
+    "bg185.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv-8740ec.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "serbskacdn.kupivodku.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bip.snowfalls.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fudjia.buildsnow.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-wien.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kruassan.buildsnow.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,79 +84,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.144.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.39.202.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.25.63.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.182.199.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srv-a04472.21freedom.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srv-8740ec.21freedom.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "simple-route-pl.whit3.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-wien.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srv-5e3ad1.21freedom.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nodenl.whit3.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "srv-40a0eb.21freedom.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bip.snowfalls.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netnet.whit3.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "serbskacdn.kupivodku.top": {
+    "103.246.248.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,11 +92,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bg185.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
+    "23.94.227.94": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,27 +100,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "176.65.144.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.232.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "194.76.18.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "srv-12c1e0.21freedom.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "suno.kupivodku.top": {
+    "nodenl.whit3.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,11 +112,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "ndge4.whit3.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "it.whit3.net": {
+    "srv-5e3ad1.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.124.45.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.232.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv-12c1e0.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netnet.whit3.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch.snowfalls.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it.buildsnow.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "suno.kupivodku.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "keep-out.whit3.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.104.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv-a04472.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.57.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv-40a0eb.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mci.v2plus.ovh": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.104.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de87.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ndge1.whit3.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "simple-route-pl.whit3.net": {
       "status": "down",
       "rtt_ms": null
     }
