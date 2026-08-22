@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-08-22T16:37:51.860476",
+  "last_update": "2026-08-22T16:57:28.342871",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "170.168.99.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.120": {
+    "91.92.43.81": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,19 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.185.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kuzya.api.dznn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "errorgr.zapret-tg.ru": {
+    "201.24.49.120": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.153.56": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "es.ultraspeed.top": {
+    "31.76.39.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.153.56": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +44,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.100.57": {
+    "179.255.185.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "138.124.100.57": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +56,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "itproxy2.lockdwn.com": {
+    "kuzya.api.dznn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.ultraspeed.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +72,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "usa2.razkur.dev": {
+    "errorgr.zapret-tg.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,15 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.92.43.81": {
+    "usa2.razkur.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.39.158": {
+    "170.168.99.5": {
       "status": "down",
       "rtt_ms": null
     },
     "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itproxy2.lockdwn.com": {
       "status": "down",
       "rtt_ms": null
     }
