@@ -1,130 +1,10 @@
 {
-  "last_update": "2026-08-22T23:11:18.571030",
+  "last_update": "2026-08-22T23:33:43.127014",
   "total": 89,
   "up": 0,
   "down": 89,
   "results": {
-    "185.132.53.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.75.220.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.165.40.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.136.208.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.60.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.123.101.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol.pinkmoon.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alban2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.160.56.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.239.126.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.183.87.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.34.164.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol4.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.storage.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.5.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-facf950961083da8.sr-fd76bafe28ca75e9.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bounded-crammed.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-8abb47244834a09b.sr-44719bc84b50d67c.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.214.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.239.6.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.98.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.60.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.136.211.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.249.242.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.184.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.223.170.196": {
+    "162.249.124.112": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,119 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.227": {
+    "185.223.170.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "auth.sso.anti-zapret.com": {
+    "82.39.214.167": {
       "status": "down",
       "rtt_ms": null
     },
-    "est2.freeinternat.com": {
+    "46.229.243.141": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.136.210.237": {
+    "pol4.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.37.129": {
+    "alban2.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "est3.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.184.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.172.40.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.60.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.238.42.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.157.235.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "restore.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-ru-vk-01.ray-balance.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lat.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lit3.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.panel11.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "by01.botovod.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.20.154.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.homaxcorp.com.homaxcorp.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-77e2a2b03abbf424.sr-064486f9ec7d0329.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-d085966f8c003c94.sr-ac07eb3cae3b6601.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.137.201.66": {
+    "84.75.220.220": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,11 +40,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "68.221.168.52": {
+    "45.86.60.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "ang.freeinternat.com": {
+    "auth.sso.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,31 +56,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "new3.api.go-vpn.club": {
+    "194.110.207.48": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.44.170": {
+    "45.157.235.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.53.37.35": {
+    "45.137.201.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.36.141.211": {
+    "45.86.60.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.112": {
+    "kz.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ukri.freeinternat.com": {
+    "tw5.china-206xswl.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.panel11.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.136.208.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "by01.botovod.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.172.40.60": {
       "status": "down",
       "rtt_ms": null
     },
     "194.93.61.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.123.101.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.60.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.239.126.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-ru-vk-01.ray-balance.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ang.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.5.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl3.murhost.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yt.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "telenl.zapret-tg.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.pinkmoon.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bounded-crammed.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,47 +164,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ru.chick-team.ru": {
+    "144.34.164.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "yt.chick-team.ru": {
+    "est2.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "tw5.china-206xswl.com": {
+    "83.136.210.237": {
       "status": "down",
       "rtt_ms": null
     },
-    "sa-202e43babfc5661f.sr-f8d8790117dbdf18.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.151.244.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "telenl.zapret-tg.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.208.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.119.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "token.api.anti-zapret.com": {
+    "213.165.40.175": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,15 +184,179 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.110.207.48": {
+    "45.141.119.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl3.murhost.network": {
+    "31.56.184.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lat.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.151.244.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lit3.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "token.api.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.160.56.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.183.87.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.36.141.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.chick-team.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-facf950961083da8.sr-fd76bafe28ca75e9.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.132.53.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.238.42.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.208.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.221.168.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est3.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.249.242.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.184.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.230.44.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.136.211.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "restore.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.119.176.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.37.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-202e43babfc5661f.sr-f8d8790117dbdf18.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "new3.api.go-vpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.storage.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.239.6.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.98.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.20.154.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ukri.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-8abb47244834a09b.sr-44719bc84b50d67c.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-d085966f8c003c94.sr-ac07eb3cae3b6601.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-77e2a2b03abbf424.sr-064486f9ec7d0329.r.vpvpn.club": {
       "status": "down",
       "rtt_ms": null
     },
     "family.bucket.7.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.homaxcorp.com.homaxcorp.com": {
       "status": "down",
       "rtt_ms": null
     }
