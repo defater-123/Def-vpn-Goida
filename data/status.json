@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-08-22T18:13:55.275903",
+  "last_update": "2026-08-22T18:48:13.464703",
   "total": 26,
   "up": 0,
   "down": 26,
   "results": {
-    "151.101.111.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.92.43.81": {
+    "82.27.117.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,7 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.27.117.133": {
+    "151.101.111.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +32,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.19": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "pln.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "errorgr.zapret-tg.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it1.murhost.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.prformula.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,7 +64,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "errorgr.zapret-tg.ru": {
+    "uk.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,27 +76,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "francervewcwerxr24231c42v423c4v23v4.soft421.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de3.prformula.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pln.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "family.bucket.9.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +84,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "itproxy2.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.198": {
+    "69.46.46.19": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,15 +92,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.99.5": {
+    "91.92.43.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk.riotvpn.eu": {
+    "itproxy2.lockdwn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "it1.murhost.network": {
+    "ee.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "francervewcwerxr24231c42v423c4v23v4.soft421.ir": {
       "status": "down",
       "rtt_ms": null
     }
