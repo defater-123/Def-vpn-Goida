@@ -1,46 +1,10 @@
 {
-  "last_update": "2026-08-22T00:44:46.166854",
-  "total": 66,
+  "last_update": "2026-08-22T02:05:03.563820",
+  "total": 59,
   "up": 0,
-  "down": 66,
+  "down": 59,
   "results": {
-    "194.180.188.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.242.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.214.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.108.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.53.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.209.118": {
+    "200.165.232.177": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,27 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.22.23.62": {
+    "82.38.4.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.161.254.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.98.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.187.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.40": {
+    "185.39.31.117": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,11 +24,171 @@
       "status": "down",
       "rtt_ms": null
     },
+    "194.55.189.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.108.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg185.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.82.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.228.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.94.227.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.dealfre.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "il.stream-host.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "732.stream-host.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip-sg-2.hkd4fwmg.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.225.246.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.248.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.111.208.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.161.254.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.53.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.129.209.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.104.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.221.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "139.28.168.55": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa.opngtr.nl": {
+    "162.35.231.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.171.228.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-ru-vk-01.ray-balance.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.28.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.135.34.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "net.savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.187.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.100": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,27 +200,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "23.94.227.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.111.208.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.235.168.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.145.43.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.230.19": {
+    "151.242.160.94": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,87 +208,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.245.242.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.76.85.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.lobbytech.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mnl.savesafe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.dealfre.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vip-sg-2.hkd4fwmg.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bg185.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.225.246.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.192.210.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.99.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "116.206.92.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.248.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.99.236": {
+    "tr.pollcenter.site": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,63 +216,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.228.156": {
+    "de137.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk196.mechvpn.online": {
+    "node.embrofree.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa-backup.opngtr.nl": {
+    "194.48.250.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.38.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spiderpanel-production-44f6.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.pink-service.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-wien.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mg.vertiex.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.99.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.221.155": {
+    "142.91.102.42": {
       "status": "down",
       "rtt_ms": null
     },
     "newos.klzvezdi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mchq2tvxva.740.laviroso.click": {
       "status": "down",
       "rtt_ms": null
     }
