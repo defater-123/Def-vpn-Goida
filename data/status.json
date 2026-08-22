@@ -1,94 +1,10 @@
 {
-  "last_update": "2026-08-22T04:55:59.327770",
+  "last_update": "2026-08-22T05:17:24.587077",
   "total": 59,
   "up": 0,
   "down": 59,
   "results": {
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.82.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.111.208.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.187.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.228.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.225.246.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.248.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.209.157.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.dealfre.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de87.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-ru-vk-01.ray-balance.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl94.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bg185.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "net.savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "il.stream-host.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.135.34.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.122": {
+    "94.183.255.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,75 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.55.189.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.161.254.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.231.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.180.188.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.108.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.pollcenter.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.171.228.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.232.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mchq2tvxva.740.laviroso.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "newos.klzvezdi.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.94": {
+    "162.249.124.111": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,23 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.94.227.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.62.44.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.104.206": {
+    "162.249.124.108": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,7 +28,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.94": {
+    "94.183.228.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg185.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.104.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.180.188.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.55.189.249": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,23 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de137.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.31.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.91.102.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.4.137": {
+    "de87.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -228,7 +76,155 @@
       "status": "down",
       "rtt_ms": null
     },
+    "tr.pollcenter.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mchq2tvxva.740.laviroso.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.225.246.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.94.227.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "net.savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.232.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.39.31.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.248.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.62.44.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.111.208.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.161.254.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.91.102.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl94.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.108.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.dealfre.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "il.stream-host.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "732.stream-host.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "201.24.53.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.82.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.187.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.4.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.135.34.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.231.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de137.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.107.178.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.171.228.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-ru-vk-01.ray-balance.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,7 +232,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "732.stream-host.site": {
+    "newos.klzvezdi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
       "status": "down",
       "rtt_ms": null
     }
