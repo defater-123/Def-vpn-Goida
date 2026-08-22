@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-08-22T15:54:38.508169",
+  "last_update": "2026-08-22T16:09:40.162096",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "138.124.100.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.185.75": {
+    "212.192.210.192": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,39 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.153.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.107.178.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.185.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.92.43.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.236.26.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.192.210.192": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,35 +20,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "kuzya.api.dznn.net": {
+    "201.24.49.120": {
       "status": "down",
       "rtt_ms": null
     },
-    "errorgr.zapret-tg.ru": {
+    "185.236.26.169": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.zapret-tg.ru": {
+    "86.107.178.78": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa2.razkur.dev": {
+    "91.92.43.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa3.razkur.dev": {
+    "179.255.185.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.185.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.100.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.5": {
       "status": "down",
       "rtt_ms": null
     },
     "us.ultraspeed.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.ultraspeed.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.120": {
       "status": "down",
       "rtt_ms": null
     },
@@ -93,6 +65,34 @@
       "rtt_ms": null
     },
     "srv-8740ec.21freedom.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kuzya.api.dznn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.ultraspeed.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa3.razkur.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa2.razkur.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.153.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.zapret-tg.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "errorgr.zapret-tg.ru": {
       "status": "down",
       "rtt_ms": null
     }
