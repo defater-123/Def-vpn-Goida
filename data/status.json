@@ -1,30 +1,18 @@
 {
-  "last_update": "2026-08-22T17:35:51.149315",
-  "total": 23,
+  "last_update": "2026-08-22T17:55:52.049885",
+  "total": 26,
   "up": 0,
-  "down": 23,
+  "down": 26,
   "results": {
-    "188.42.145.180": {
+    "m7r.speedtestmark.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.107.178.78": {
+    "172.239.26.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.153.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.182.199.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.236.26.169": {
+    "it1.murhost.network": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.49.120": {
+    "86.107.178.78": {
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.185.75": {
+    "170.168.99.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.192.210.192": {
+    "82.27.117.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.198": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,11 +40,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "srv-8740ec.21freedom.net": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "kuzya.api.dznn.net": {
+    "69.46.46.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.prformula.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grimness-backlogs.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m13r.speedtestmark.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,39 +64,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "pln.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.9.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "errorgr.zapret-tg.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "es.ultraspeed.top": {
+    "francervewcwerxr24231c42v423c4v23v4.soft421.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.ultraspeed.top": {
+    "www.homaxcorp.com.homaxcorp.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa3.razkur.dev": {
+    "69.46.46.199": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.zapret-tg.ru": {
+    "151.101.111.60": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa2.razkur.dev": {
+    "uk.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.185.73": {
+    "kuzya.api.dznn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.100.57": {
+    "de.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.99.5": {
+    "ee.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     }
