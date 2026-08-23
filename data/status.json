@@ -1,34 +1,14 @@
 {
-  "last_update": "2026-08-23T13:59:05.164813",
+  "last_update": "2026-08-23T14:20:35.080988",
   "total": 19,
   "up": 0,
   "down": 19,
   "results": {
-    "193.187.95.21": {
+    "in-ru-vk-01.ray-balance.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "158.23.49.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.230.44.170": {
+    "143.246.196.157": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +16,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.196.157": {
+    "85.155.226.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.245.55.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpaws.ccwink.photos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.230.44.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq1.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.187.95.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.23.49.45": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,31 +60,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "85.204.107.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
+    "85.155.226.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "hys22.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.245.55.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-ru-vk-01.ray-balance.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpaws.ccwink.photos": {
       "status": "down",
       "rtt_ms": null
     },
