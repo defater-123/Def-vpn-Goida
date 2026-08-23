@@ -1,17 +1,9 @@
 {
-  "last_update": "2026-08-23T10:11:29.388012",
+  "last_update": "2026-08-23T10:37:15.555545",
   "total": 28,
   "up": 0,
   "down": 28,
   "results": {
-    "85.204.107.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "213.202.223.41": {
       "status": "down",
       "rtt_ms": null
@@ -20,79 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.149.22.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.104.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.76.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.78.48.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.60.129.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "109.169.37.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-production-7a7ff.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kaz0001hy01.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skyboost.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vip.paaradiseshop.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.16.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "68.221.168.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.214.167": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,11 +20,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "penvora.ciphero.xyz": {
+    "50.7.197.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "itproxy1.lockdwn.com": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.60.129.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.78.48.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.16.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.104.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.221.168.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.149.22.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "penvora.ciphero.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +64,55 @@
       "status": "down",
       "rtt_ms": null
     },
+    "web-production-7a7ff.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "hys22.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skyboost.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kaz0001hy01.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vip.paaradiseshop.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.76.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq1.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itproxy1.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.lckdwn.ru": {
       "status": "down",
       "rtt_ms": null
     }
