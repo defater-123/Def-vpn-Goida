@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-23T15:10:14.659755",
+  "last_update": "2026-08-23T15:34:15.147640",
   "total": 19,
   "up": 0,
   "down": 19,
@@ -8,23 +8,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.196.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.44.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpaws.ccwink.photos": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "193.187.95.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.214.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.196.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.210": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +36,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.214.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
+    "172.245.55.199": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.137": {
+    "in-ru-vk-01.ray-balance.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,19 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.245.55.199": {
+    "85.155.226.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.230.44.170": {
       "status": "down",
       "rtt_ms": null
     },
     "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-ru-vk-01.ray-balance.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -77,6 +73,10 @@
       "rtt_ms": null
     },
     "kaz0001hy01.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpaws.ccwink.photos": {
       "status": "down",
       "rtt_ms": null
     }
