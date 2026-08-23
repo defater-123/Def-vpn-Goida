@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-08-23T10:57:03.900079",
+  "last_update": "2026-08-23T11:14:16.106273",
   "total": 28,
   "up": 0,
   "down": 28,
   "results": {
-    "109.169.76.45": {
+    "72.60.129.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.197.2": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,15 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.214.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.155.70.124": {
+    "109.169.37.129": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,11 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.104.151": {
+    "faq1.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.pinkmoon.pro": {
       "status": "down",
       "rtt_ms": null
     },
     "138.124.104.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.78.48.223": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,55 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.78.48.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.60.129.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.37.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skyboost.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "penvora.ciphero.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "itproxy1.lockdwn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl2.lckdwn.ru": {
+    "82.39.214.167": {
       "status": "down",
       "rtt_ms": null
     },
-    "vip.paaradiseshop.ir": {
+    "45.155.70.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.149.22.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.172": {
+    "50.7.197.2": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +72,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pol.pinkmoon.pro": {
+    "85.204.107.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kaz0001hy01.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "penvora.ciphero.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.76.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.149.22.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.104.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skyboost.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +112,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "kaz0001hy01.packet-drop-society.net": {
+    "vip.paaradiseshop.ir": {
       "status": "down",
       "rtt_ms": null
     }
