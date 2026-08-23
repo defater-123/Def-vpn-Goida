@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-08-23T12:14:18.458575",
+  "last_update": "2026-08-23T13:01:49.971057",
   "total": 28,
   "up": 0,
   "down": 28,
   "results": {
-    "103.246.248.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.16.37": {
+    "85.204.107.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,11 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.155.226.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.104.151": {
+    "217.149.22.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,59 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.37.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.78.48.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.76.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-production-7a7ff.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "itproxy1.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.lckdwn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skyboost.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys22.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "pol.pinkmoon.pro": {
       "status": "down",
       "rtt_ms": null
     },
-    "kaz0001hy01.packet-drop-society.net": {
+    "103.246.248.227": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,23 +32,31 @@
       "status": "down",
       "rtt_ms": null
     },
+    "68.221.168.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itproxy1.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "72.60.129.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.172": {
+    "46.229.243.141": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.149.22.8": {
+    "85.155.226.108": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.202.223.41": {
+    "109.169.76.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "68.221.168.52": {
+    "138.124.104.151": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +64,55 @@
       "status": "down",
       "rtt_ms": null
     },
+    "50.7.197.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.202.223.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skyboost.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.lckdwn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "vip.paaradiseshop.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.16.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web-production-7a7ff.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.78.48.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys22.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq1.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kaz0001hy01.packet-drop-society.net": {
       "status": "down",
       "rtt_ms": null
     }
