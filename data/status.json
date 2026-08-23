@@ -1,146 +1,18 @@
 {
-  "last_update": "2026-08-23T08:45:49.384276",
+  "last_update": "2026-08-23T09:15:51.728531",
   "total": 108,
   "up": 0,
   "down": 108,
   "results": {
-    "kz.freeinternat.com": {
+    "195.123.208.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.13.249": {
+    "162.249.124.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.53.37.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.165.40.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auth.sso.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.98.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.249.242.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.181.155.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.32.6.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.238.42.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.196.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.161.160.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lat.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.196.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.237.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-01.usp-vpn.store": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol.pinkmoon.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.panel11.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lapa9.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-19.optmarketshali.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "new3.api.go-vpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.179.6.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.149.22.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.13.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.121.179.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.181.155.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.161.160.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.161.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.161.160.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.157.235.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.238.123.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-06.usp-vpn.store": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wok8.api3-max.ru": {
+    "194.93.61.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,7 +20,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.136.78": {
+    "107.181.155.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.255.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.161.160.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.13.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.149.22.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.104.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.172.40.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.121.179.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.168.91.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol4.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-06.usp-vpn.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wok10.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wok1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -156,15 +84,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.70": {
+    "88.218.196.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "lapa5.api3-max.ru": {
+    "64.49.13.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.239.6.19": {
+    "194.93.61.86": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,19 +100,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.105.78.231": {
+    "194.93.61.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "107.161.160.50": {
+    "213.165.40.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.201": {
+    "185.32.6.126": {
       "status": "down",
       "rtt_ms": null
     },
@@ -192,31 +116,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.188.105": {
+    "skimio.orbvia.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.141": {
+    "164.37.101.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.202.223.41": {
+    "node-14.optmarketshali.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.208.170": {
+    "88.218.196.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "telenl.zapret-tg.ru": {
+    "go1.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.218.196.64": {
+    "lapa3.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "wok1.api3-max.ru": {
+    "217.179.220.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-17.optmarketshali.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -228,107 +160,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "germ3.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ang.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-05.usp-vpn.store": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wok10.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.37.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.104.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.13.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.104.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lapa3.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "wok6.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "lapa7.api3-max.ru": {
+    "107.161.160.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "skimio.orbvia.online": {
+    "107.161.160.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wok2.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.157.235.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.13.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.123.101.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.221.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-22.optmarketshali.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-production-7a7ff.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-25.optmarketshali.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.168.91.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.196.243": {
+    "107.181.155.71": {
       "status": "down",
       "rtt_ms": null
     },
@@ -336,15 +180,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "164.37.101.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol4.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.179.220.226": {
+    "91.193.58.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -352,47 +188,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "alban2.freeinternat.com": {
+    "185.223.170.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "wok9.api3-max.ru": {
+    "103.246.248.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "lapa6.api3-max.ru": {
+    "138.124.104.151": {
       "status": "down",
       "rtt_ms": null
     },
-    "node-17.optmarketshali.ru": {
+    "185.32.6.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "node-14.optmarketshali.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.172.40.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.168.111.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "am1.milkabebar.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lapa4.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.32.6.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
+    "45.157.235.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -400,7 +212,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node-09.usp-vpn.store": {
+    "new3.api.go-vpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alban2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.238.42.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.238.123.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ang.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.136.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "telenl.zapret-tg.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lapa6.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.53.37.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.237.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lat.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.161.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auth.sso.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.218.196.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.168.111.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.105.78.231": {
       "status": "down",
       "rtt_ms": null
     },
@@ -408,11 +280,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "88.119.176.50": {
+    "213.202.223.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "go1.wwwinternetvideo.click": {
+    "45.157.235.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wok2.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lapa5.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.161.160.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.98.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-05.usp-vpn.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-25.optmarketshali.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-22.optmarketshali.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wok8.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.panel11.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.249.242.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web-production-7a7ff.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
@@ -420,19 +336,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.223.170.196": {
+    "88.218.196.64": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.66": {
+    "87.121.221.120": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.203": {
+    "93.123.101.78": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.91": {
+    "lapa7.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germ3.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol.pinkmoon.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.179.6.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-19.optmarketshali.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.13.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lapa4.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "am1.milkabebar.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lapa9.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-01.usp-vpn.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.119.176.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.239.6.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.13.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wok9.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-09.usp-vpn.store": {
       "status": "down",
       "rtt_ms": null
     }
