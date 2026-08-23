@@ -1,26 +1,14 @@
 {
-  "last_update": "2026-08-23T16:58:14.567525",
-  "total": 19,
+  "last_update": "2026-08-23T17:16:50.278151",
+  "total": 46,
   "up": 0,
-  "down": 19,
+  "down": 46,
   "results": {
-    "158.23.49.45": {
+    "107.175.93.213": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys22.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.245.55.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.174": {
+    "202.71.14.156": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,19 +16,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "139.28.168.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.226.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "185.230.44.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "123.207.71.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.161.225.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.172.227.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "by01.botovod.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pov1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gora5.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gora3.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132-243-223-227.sslip.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gora4.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.7.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpaws.ccwink.photos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.8.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nt02.hirbilon.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pov8.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.56.134.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.150.217.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.9.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,35 +100,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.172": {
+    "family.bucket.6.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "178.236.254.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.214.167": {
+    "pov5.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.187.95.21": {
+    "it-two.letsgodance.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "in-ru-vk-01.ray-balance.space": {
+    "dora4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "kaz0001hy01.packet-drop-society.net": {
+    "dora5.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "faq1.wwwinternetvideo.click": {
+    "iq5ny.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
-    "jpaws.ccwink.photos": {
+    "85.155.226.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.131.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dora1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe-two.letsgodance.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.226.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dora3.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "inetchnl-production-5246.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gora1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.4.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.65.151.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pov7.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.1.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-one.letsgodance.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gora2.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
