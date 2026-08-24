@@ -1,9 +1,25 @@
 {
-  "last_update": "2026-08-24T03:14:26.818610",
+  "last_update": "2026-08-24T04:05:18.256171",
   "total": 20,
   "up": 0,
   "down": 20,
   "results": {
+    "178.236.254.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.71.14.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "31.77.131.154": {
       "status": "down",
       "rtt_ms": null
@@ -12,19 +28,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.135.34.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.151.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.230.44.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.154.244": {
+    "62.171.228.244": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +36,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "178.236.254.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.71.14.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.201": {
+    "194.135.34.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,15 +44,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "107.175.93.213": {
+    "185.230.44.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.54": {
+    "176.65.151.86": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +56,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "62.171.228.244": {
+    "107.175.93.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,11 +76,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "gora4.api3-max.ru": {
+    "gora1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "gora1.api3-max.ru": {
+    "gora4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
