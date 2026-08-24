@@ -1,14 +1,46 @@
 {
-  "last_update": "2026-08-24T16:21:37.950332",
-  "total": 22,
+  "last_update": "2026-08-24T17:01:54.033244",
+  "total": 25,
   "up": 0,
-  "down": 22,
+  "down": 25,
   "results": {
-    "212.34.143.45": {
+    "uk.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia1.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.223.68.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.184.113": {
       "status": "down",
       "rtt_ms": null
     },
     "95.154.237.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.235.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.64.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.64.9": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,63 +52,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "23.237.193.66": {
+    "de.speederhub.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.223.227": {
+    "edge7.rumedia-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "67.159.43.202": {
+    "edge.nordcache.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.37.126": {
+    "dora5.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.171.128.225": {
+    "api.ferrin.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.129.129.60": {
+    "fr.vmagnum.win": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.49.130": {
+    "zisvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "spiderpanel-production-a39f.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia1.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "codecanyon.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132-243-223-227.sslip.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-three.letsgodance.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "space.byu.id.yxls.eu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpaws.ccwink.photos": {
+    "cfd.130209.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +88,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "swe-one.letsgodance.site": {
+    "web-production-bef71.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf5.466688.xyz": {
+    "es.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.alcors.net": {
       "status": "down",
       "rtt_ms": null
     }
