@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-08-23T23:54:45.219741",
-  "total": 35,
+  "last_update": "2026-08-24T00:31:53.886100",
+  "total": 20,
   "up": 0,
-  "down": 35,
+  "down": 20,
   "results": {
-    "176.223.66.221": {
+    "91.193.58.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,75 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.100": {
+    "62.171.228.244": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.154.244": {
+    "43.201.25.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "202.71.14.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "us06hk.lockdwn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpaws.ccwink.photos": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-two.letsgodance.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swe-one.letsgodance.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora1.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora2.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cze-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pov3.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora3.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora4.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pov2.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gora5.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pov6.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gora2.api3-max.ru": {
+    "176.65.151.86": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,11 +32,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.44.170": {
+    "194.93.61.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "itproxy3.lockdwn.com": {
+    "176.223.66.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.54": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,15 +48,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pov8.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pov10.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-one.letsgodance.site": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,31 +56,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "it-two.letsgodance.site": {
+    "45.134.38.204": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.241.208": {
+    "31.77.154.244": {
       "status": "down",
       "rtt_ms": null
     },
-    "pov7.api3-max.ru": {
+    "185.230.44.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "auqcwd.go-vpn.club": {
+    "dora2.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "iq5ny.pleiades.codes": {
+    "dora3.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "swe-two.letsgodance.site": {
+    "gora1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "line.repaironline.biz": {
+    "gora4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
