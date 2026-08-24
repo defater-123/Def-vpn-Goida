@@ -1,50 +1,18 @@
 {
-  "last_update": "2026-08-24T22:43:21.646171",
+  "last_update": "2026-08-24T23:01:08.471989",
   "total": 68,
   "up": 0,
   "down": 68,
   "results": {
-    "85.204.107.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.215.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.247.50.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.111.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tgju.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.237.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-cdn-test.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "103.246.248.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +20,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.229": {
+    "edge-cache07.go-vpn.club": {
       "status": "down",
       "rtt_ms": null
     },
-    "cz.helper-internet.com": {
+    "151.242.169.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.238.133.104": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,11 +44,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.142": {
+    "es.vmagnum.win": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.46": {
+    "103.246.248.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.173.7.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.136.12.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tencdn2.abimesledarya.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s7.objcache.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ger.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tgju.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.50.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.215.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.162": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +104,55 @@
       "status": "down",
       "rtt_ms": null
     },
+    "109.169.76.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.237.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.111.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.202.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.embrofree.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl4.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gb.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "plsh.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.157.51.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "real.ten10sub.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +160,87 @@
       "status": "down",
       "rtt_ms": null
     },
-    "edge-cache07.go-vpn.club": {
+    "85.204.107.173": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.143": {
+    "200.165.235.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.50.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.150.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gets.savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.23.18.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.150.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.42.178.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.24.124.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.alcors.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.zveil-vpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ai.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gimba.shhflow.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "space.byu.id.yxls.eu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge.nordcache.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia2.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.35.36": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,15 +252,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "84.238.133.104": {
+    "us-backup-ssh.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.49.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.vmagnum.win": {
+    "46.229.243.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,163 +264,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.196.35.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s7.objcache.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.alcors.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia2.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.42.178.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gimba.shhflow.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge.nordcache.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "space.byu.id.yxls.eu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.136.12.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.157.51.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.150.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gets.savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "205.237.109.163": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.113": {
+    "nl-cdn-test.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.235.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.173.7.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ger.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.247.50.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.196.150.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.24.124.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "real.ten10sub.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tencdn2.abimesledarya.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gb.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl4.meshbeat.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.76.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.23.18.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-backup-ssh.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.zveil-vpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ai.riotvpn.eu": {
+    "api.ferrin.uk": {
       "status": "down",
       "rtt_ms": null
     }
