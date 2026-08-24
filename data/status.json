@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-08-24T12:49:37.219486",
+  "last_update": "2026-08-24T13:40:33.670705",
   "total": 22,
   "up": 0,
   "down": 22,
   "results": {
-    "23.237.193.66": {
+    "132.243.223.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.154.237.50": {
+    "23.237.193.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,11 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.223.227": {
+    "104.171.128.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.171.128.225": {
+    "147.45.50.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.237.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,23 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "212.34.143.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "201.24.49.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "jpaws.ccwink.photos": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tgju.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.129.129.60": {
+    "212.34.143.45": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,11 +52,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de-three.letsgodance.site": {
+    "tgju.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "node.embrofree.org": {
+    "codecanyon.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,11 +64,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "swe-one.letsgodance.site": {
+    "de-three.letsgodance.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "codecanyon.net": {
+    "jpaws.ccwink.photos": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +80,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "node.embrofree.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.50.168": {
+    "47.129.129.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe-one.letsgodance.site": {
       "status": "down",
       "rtt_ms": null
     }
