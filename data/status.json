@@ -1,94 +1,14 @@
 {
-  "last_update": "2026-08-24T19:50:33.923413",
+  "last_update": "2026-08-24T20:16:16.379350",
   "total": 25,
   "up": 0,
   "down": 25,
   "results": {
-    "141.0.184.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.64.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.49.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-production-bef71.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia1.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.alcors.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.64.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.154.237.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.speederhub.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge7.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tgju.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora5.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "zisvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge.nordcache.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cfd.130209.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.235.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.223.68.58": {
+    "189.24.64.9": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,7 +20,87 @@
       "status": "down",
       "rtt_ms": null
     },
+    "145.223.68.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.235.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.64.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "uk.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.vmagnum.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.alcors.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tgju.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge7.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "zisvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.speederhub.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge.nordcache.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dora5.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.237.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.184.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web-production-bef71.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia1.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfd.130209.xyz": {
       "status": "down",
       "rtt_ms": null
     }
