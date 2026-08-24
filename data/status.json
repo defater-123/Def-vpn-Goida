@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-08-24T17:43:11.493713",
+  "last_update": "2026-08-24T18:04:12.588774",
   "total": 25,
   "up": 0,
   "down": 25,
   "results": {
-    "109.169.37.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.64.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "145.223.68.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.64.171": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,7 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "95.154.237.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "200.165.235.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.50.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.184.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.64.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.64.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia1.unlimited-access.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,23 +48,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "uk.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.alcors.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge7.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.speederhub.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tgju.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,11 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "uk.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy2-latvia1.unlimited-access.ru": {
+    "fr.vmagnum.win": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,31 +80,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cfd.130209.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "zisvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.154.237.50": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.0.184.113": {
+    "lv.vmagnum.win": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.50.168": {
+    "tgju.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.alcors.net": {
+    "de.speederhub.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "edge7.rumedia-cdn.com": {
+    "cfd.130209.xyz": {
       "status": "down",
       "rtt_ms": null
     }
