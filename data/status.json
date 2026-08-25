@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-08-25T17:42:33.809609",
+  "last_update": "2026-08-25T18:03:07.220018",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "64.49.12.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.143.233.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "89.124.251.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.144": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,7 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.115": {
+    "85.204.107.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.175": {
+    "youtube.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.193.100": {
+    "fr-gra-ovh-02.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.231": {
+    "162.249.124.115": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +44,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sw.volnalink.uk": {
+    "46.229.243.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-03.fuck-rkn.dev": {
+    "64.49.12.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.196.193.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.231": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,19 +64,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-02.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "youtube.sfproxy.fuck-rkn.dev": {
+    "bridge.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,15 +72,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.85.138": {
+    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "bridge.sfproxy.fuck-rkn.dev": {
+    "sw.volnalink.uk": {
       "status": "down",
       "rtt_ms": null
     },
     "update.georkup.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-03.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.143.233.225": {
       "status": "down",
       "rtt_ms": null
     }
