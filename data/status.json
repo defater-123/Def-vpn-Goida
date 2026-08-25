@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-25T20:14:41.422481",
+  "last_update": "2026-08-25T20:45:50.636543",
   "total": 23,
   "up": 0,
   "down": 23,
@@ -8,15 +8,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.231": {
+    "45.196.193.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.124.251.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.107.156.81": {
+    "5.34.177.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,23 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "185.143.233.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.196.193.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.115": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-03.fuck-rkn.dev": {
+    "103.246.248.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.251.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bla-bla-bla-de.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ikhk165.iamnew2020.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,15 +60,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sw.volnalink.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "bridge.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,15 +68,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bla-bla-bla-de.anti-zapret.com": {
+    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "update.georkup.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.177.118": {
+    "fr-gra-ovh-03.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ikhk165.iamnew2020.top": {
+    "sw.volnalink.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.107.156.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "update.georkup.ir": {
       "status": "down",
       "rtt_ms": null
     }
