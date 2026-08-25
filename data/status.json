@@ -1,34 +1,26 @@
 {
-  "last_update": "2026-08-25T11:50:39.688903",
+  "last_update": "2026-08-25T12:22:00.402016",
   "total": 81,
   "up": 0,
   "down": 81,
   "results": {
-    "13.143.176.128": {
+    "us-backup-ssh.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.154.237.50": {
+    "46.229.243.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.45": {
+    "46.20.105.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.47": {
+    "185.24.151.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-ams-ovh-02.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.136.12.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.32.177.79": {
+    "45.91.202.73": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,27 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "lta.mythos-wargame.fun": {
+    "62.182.196.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.59.125.31": {
+    "185.136.12.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.244.96": {
+    "80.76.44.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.246.191.135": {
+    "13.143.176.128": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.160.111": {
+    "162.249.124.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "cz.helper-internet.com": {
+    "46.229.243.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,47 +56,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "62.182.196.57": {
+    "193.32.177.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "dea.mythos-wargame.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "space.byu.id.yxls.eu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faxf32gkfzoxqv.fx6hsv0.ccwu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.241": {
+    "185.246.191.135": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,19 +68,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.24.151.37": {
+    "185.24.151.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.248.50": {
+    "5.39.202.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.135.254.138": {
+    "dec.mythos-wargame.fun": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,11 +88,143 @@
       "status": "down",
       "rtt_ms": null
     },
+    "205.237.109.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "46.20.105.31": {
       "status": "down",
       "rtt_ms": null
     },
+    "205.237.109.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.255.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.121.221.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.255.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node16.fastdatastream.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lta.mythos-wargame.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "adgof.mgodping12.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-03.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "youtube.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge-cache07.go-vpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "space.byu.id.yxls.eu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faxf32gkfzoxqv.fx6hsv0.ccwu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "eeb.mythos-wargame.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.244.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.248.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.125.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.31": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,7 +236,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "us-backup-ssh.anti-zapret.com": {
+    "nl4.meshbeat.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.173.7.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge.nordcache.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.237.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.20.105.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-03.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pla.webinarly.fun": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,75 +292,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "edge.nordcache.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.121.221.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dec.mythos-wargame.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.125.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.39.202.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.255.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "youtube.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pla.webinarly.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-03.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-02.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "109.169.37.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dea.mythos-wargame.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.135.254.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -240,51 +312,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.20.105.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node16.fastdatastream.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.202.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.20.105.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "usab.mythos-wargame.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-03.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.43": {
       "status": "down",
       "rtt_ms": null
     },
@@ -292,39 +320,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adgof.mgodping12.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-cache07.go-vpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.173.7.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.143": {
+    "31.59.125.31": {
       "status": "down",
       "rtt_ms": null
     },
     "gimba.shhflow.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl4.meshbeat.online": {
       "status": "down",
       "rtt_ms": null
     }
