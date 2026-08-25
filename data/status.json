@@ -1,34 +1,22 @@
 {
-  "last_update": "2026-08-25T14:11:00.029554",
+  "last_update": "2026-08-25T15:01:43.917583",
   "total": 47,
   "up": 0,
   "down": 47,
   "results": {
-    "201.24.49.130": {
+    "139.28.168.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.230": {
+    "45.66.228.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.235.98": {
+    "swnodex.ateonet.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.22.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.71.14.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.58": {
+    "jpcn206.pacemakere.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +24,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.110.207.75": {
+    "ggsg170.pacemakere.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "hysteria.zuuvpn.space": {
+    "45.9.2.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "cloudflare-ech.com": {
+    "80.68.156.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.12.62.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq2.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.71.14.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kuso30.pacemakere.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s100.kukuss.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rubryx.protectednetwork.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.160.243": {
       "status": "down",
       "rtt_ms": null
     },
     "swnode.protectednetwork.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.235.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,59 +80,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "srvhy1.ezcon24.online": {
+    "deepl.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "jpcn206.pacemakere.com": {
+    "139.28.168.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "s100.kukuss.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ggsg170.pacemakere.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.hvumyrpstghekb.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dora5.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.68.156.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.66.228.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.160.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.66.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.12.62.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.9.2.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "start.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.57": {
+    "85.204.107.173": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,27 +96,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hy2-latvia2.unlimited-access.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.ipget.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kuso30.pacemakere.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rubryx.protectednetwork.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
+    "95.85.228.212": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,7 +108,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nlhy2.metricpipe.space": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,27 +120,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cfd.130209.xyz": {
+    "103.246.248.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.228.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swnodex.ateonet.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "deepl.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq2.wwwinternetvideo.click": {
+    "cloudflare-ech.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,7 +132,63 @@
       "status": "down",
       "rtt_ms": null
     },
+    "www.ipget.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "start.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srvhy1.ezcon24.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.hvumyrpstghekb.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dora5.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy2-latvia2.unlimited-access.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nt02.hirbilon.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.110.207.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.22.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.66.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hysteria.zuuvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nlhy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfd.130209.xyz": {
       "status": "down",
       "rtt_ms": null
     }
