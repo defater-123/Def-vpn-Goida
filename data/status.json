@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-08-25T18:03:07.220018",
+  "last_update": "2026-08-25T18:54:44.219815",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "89.124.251.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.177.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.85.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "youtube.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-02.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.107.156.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "46.229.243.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.12.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,19 +12,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.231": {
+    "109.169.85.138": {
       "status": "down",
       "rtt_ms": null
     },
-    "bla-bla-bla-de.anti-zapret.com": {
+    "85.204.107.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "bridge.sfproxy.fuck-rkn.dev": {
+    "185.143.233.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "ikhk165.iamnew2020.top": {
+    "5.34.177.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.107.156.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.251.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.12.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +52,31 @@
       "status": "down",
       "rtt_ms": null
     },
+    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "youtube.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bla-bla-bla-de.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "sw.volnalink.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ikhk165.iamnew2020.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,7 +84,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
+    "103.246.248.231": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +92,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.143.233.225": {
+    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     }
