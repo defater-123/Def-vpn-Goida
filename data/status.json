@@ -1,34 +1,42 @@
 {
-  "last_update": "2026-08-25T20:45:50.636543",
-  "total": 23,
+  "last_update": "2026-08-25T21:15:41.506491",
+  "total": 56,
   "up": 0,
-  "down": 23,
+  "down": 56,
   "results": {
-    "109.169.85.138": {
+    "s8.media.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.196.193.100": {
+    "83.168.111.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.34.177.118": {
+    "46.20.105.132": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.175": {
+    "kz2.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.143.233.225": {
+    "46.20.105.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.12.242": {
+    "185.24.151.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.231": {
+    "185.80.128.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.195.69.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.63": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +44,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.124.251.61": {
+    "199.68.196.119": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.164": {
+    "5.45.114.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "bla-bla-bla-de.anti-zapret.com": {
+    "91.223.119.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "ikhk165.iamnew2020.top": {
+    "165.231.170.44": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,15 +64,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "youtube.sfproxy.fuck-rkn.dev": {
+    "91.223.119.197": {
       "status": "down",
       "rtt_ms": null
     },
-    "bridge.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
+    "165.231.177.51": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,19 +76,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-03.fuck-rkn.dev": {
+    "165.231.170.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-02.fuck-rkn.dev": {
+    "109.169.85.138": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.volnalink.uk": {
+    "youtube.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.107.156.81": {
+    "217.60.63.209": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +96,135 @@
       "status": "down",
       "rtt_ms": null
     },
-    "update.georkup.ir": {
+    "finland-core-sh.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.101.180.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.191.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.125.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.72.140.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.170.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.159.92.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.5.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.227.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mnl.savesafe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.180.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.161.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.148.31.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.12.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.94.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.211.249.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.125.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.20.105.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.140.29.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys28.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.237.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ndt.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wsnl24.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     }
