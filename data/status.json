@@ -1,26 +1,66 @@
 {
-  "last_update": "2026-08-26T16:42:24.397436",
+  "last_update": "2026-08-26T18:24:03.894262",
   "total": 39,
   "up": 0,
   "down": 39,
   "results": {
-    "84.238.133.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "69.46.46.105": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.38.46.66": {
+    "185.243.218.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.119.176.24": {
+    "185.231.102.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.50.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lit9.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finland-core-sh.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.124.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.140.252.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "155.103.71.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.238.133.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.57.32.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.185.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us01hk.lockdwn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swed1.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tw8.china-206xswl.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +68,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.56.7": {
+    "tai.helper-internet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "finland-core-sh.cvedcdigital.vip": {
+    "tur5.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nian.001.url111.kcloud02.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,35 +88,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sha6.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "155.103.71.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.49.229.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tur5.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grek.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol5.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tw8.china-206xswl.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us01hk.lockdwn.com": {
+    "151.101.56.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,63 +96,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "frea.trafficfast.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.185.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lit9.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swed1.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.243.218.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tw5.china-206xswl.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.176.202.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.231.102.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.80.48.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.232.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.50.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.140.252.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "market.cvedcdigital.vip": {
+    "88.119.176.24": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,7 +104,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tai.helper-internet.com": {
+    "199.232.78.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "market.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tw5.china-206xswl.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.232.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.46.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.80.48.232": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,11 +136,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nian.001.url111.kcloud02.top": {
+    "37.49.229.208": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.57.32.153": {
+    "sha6.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.176.202.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol5.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grek.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "frea.trafficfast.ir": {
       "status": "down",
       "rtt_ms": null
     }
