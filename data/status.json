@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-08-26T06:29:10.648477",
+  "last_update": "2026-08-26T07:25:29.583198",
   "total": 59,
   "up": 0,
   "down": 59,
   "results": {
-    "45.149.147.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.215.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.251.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.78.94.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.151.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.26.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.155.70.125": {
+    "ams-static-cdn.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,43 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.48.191": {
+    "38.107.234.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.34.177.118": {
+    "205.237.109.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-ams-ovh-02.fuck-rkn.dev": {
+    "165.231.177.147": {
       "status": "down",
       "rtt_ms": null
     },
-    "ice.noooo.win": {
+    "13.143.215.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys28.wba-pn.ru": {
+    "194.93.61.107": {
       "status": "down",
       "rtt_ms": null
     },
-    "mci.v2plus.ovh": {
+    "159.246.55.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.ferrin.uk": {
+    "194.93.61.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.104": {
+    "46.229.243.144": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,19 +48,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.177.115": {
+    "13.143.217.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-ams-ovh-03.fuck-rkn.dev": {
+    "103.246.248.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "159.195.80.233": {
+    "13.143.242.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.143.128.122": {
+    "89.124.251.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.253.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bla-bla-bla-de.anti-zapret.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.78.94.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "res1.mohamadtak3tare.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hkshun.hgcfvgu.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.175": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,7 +108,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.112.192.72": {
+    "165.231.177.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "themeforest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.22.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.48.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.143.128.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.149.147.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.26.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-03.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf4.466688.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.155.70.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdns.doon.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.124.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.37.128": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,7 +196,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.217.1": {
+    "176.65.151.83": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,79 +204,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.177.75": {
+    "lv01.botovod.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.242.1": {
+    "159.195.80.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.22.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdns.doon.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.253.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hkshun.hgcfvgu.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.107.234.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.37.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bla-bla-bla-de.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "themeforest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.164": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -220,23 +220,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "lv01.botovod.space": {
+    "5.34.177.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "res1.mohamadtak3tare.ir": {
+    "45.112.192.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "mci.v2plus.ovh": {
       "status": "down",
       "rtt_ms": null
     },
-    "ams-static-cdn.anti-zapret.com": {
+    "hys28.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf4.466688.xyz": {
+    "es.vmagnum.win": {
       "status": "down",
       "rtt_ms": null
     }
