@@ -1,30 +1,10 @@
 {
-  "last_update": "2026-08-26T09:38:14.233641",
+  "last_update": "2026-08-26T10:16:46.660082",
   "total": 43,
   "up": 0,
   "down": 43,
   "results": {
-    "perceptive-balance-production-9b50.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.252.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.239.189.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-03.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.245.132.50": {
+    "13.143.217.1": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,87 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.217.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.215.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-03.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys28.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "youtube.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr2.panel11.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cloudflare-ech.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "res1.mohamadtak3tare.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "172.96.141.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-02.fuck-rkn.dev": {
+    "206.245.132.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "ice.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.26.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.36.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.201": {
+    "13.143.216.1": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,19 +28,31 @@
       "status": "down",
       "rtt_ms": null
     },
+    "13.143.253.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "46.229.243.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "45.140.36.74": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr.vpber.info": {
+    "91.193.58.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.103": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,23 +60,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
+    "fr.vpber.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-ams-ovh-02.fuck-rkn.dev": {
+    "nl-ams-ovh-03.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl4.murhost.network": {
+    "fr-gra-ovh-03.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "fl.vpber.info": {
+    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "res1.mohamadtak3tare.ir": {
       "status": "down",
       "rtt_ms": null
     },
     "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.252.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.26.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.141": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,11 +104,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.253.1": {
+    "141.193.213.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.216.1": {
+    "103.246.248.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "perceptive-balance-production-9b50.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.215.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-ams-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "youtube.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys28.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-02.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.239.189.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl4.murhost.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloudflare-ech.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr2.panel11.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.vpber.info": {
       "status": "down",
       "rtt_ms": null
     }
