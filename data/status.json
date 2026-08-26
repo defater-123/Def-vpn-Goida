@@ -1,14 +1,42 @@
 {
-  "last_update": "2026-08-26T20:17:19.519063",
-  "total": 8,
+  "last_update": "2026-08-26T23:48:00.208002",
+  "total": 38,
   "up": 0,
-  "down": 8,
+  "down": 38,
   "results": {
-    "18.239.134.69": {
+    "89.105.195.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.50.165": {
+    "51.161.199.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl19.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de253.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.173.7.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.173.3.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.17.28.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.185.122.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.137.166.173": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,23 +44,115 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.104.67.179": {
+    "188.137.158.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.141.131.102": {
+    "pol.freeinternat.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.123.85.218": {
+    "ams1.stream-pop.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.111.169.68": {
+    "fr136.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.propollcenter.site": {
+    "kzhy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "france.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fihy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "czechia.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swenhy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ukhy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.180.186.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl18.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.76.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.21.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.25.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.169.85.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "206.223.240.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.121.89.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.88.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk59.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.252.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de5.mechvpn.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys42.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "avstri.plus-hit.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl3.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lvhy2.metricpipe.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "poll.shhflow.xyz": {
       "status": "down",
       "rtt_ms": null
     }
