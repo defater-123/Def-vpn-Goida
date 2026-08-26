@@ -1,230 +1,10 @@
 {
-  "last_update": "2026-08-26T14:23:31.094764",
+  "last_update": "2026-08-26T15:57:11.042549",
   "total": 96,
   "up": 0,
   "down": 96,
   "results": {
-    "13.193.205.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.shopify.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.145.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ez-abcc2c.igunsjgjnfgn.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.245.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.152.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.223.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.12.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.81.34.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154-49-127-140.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.236.240.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.90.197.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "169.40.42.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.220.9.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "by01.botovod.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.volnalink.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kv.vip3333.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ictnn.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin.evovpn.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.138.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.172.227.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.124.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.57.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.136.126.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.0.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.249.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.210.24.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.180.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.52.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81f0c835c2318.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.133.35.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "fin5.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.39.33.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.63.99.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.170.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr2.panel11.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uwu.blueknightnet.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "44.251.158.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.68.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.177.58.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.53.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.149.199.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "reus103.fillmoo.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ipw.ygdfw.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf-socks.caoyuwu.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys13.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "using.neobo-tooth.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c1c0f9ffc2317.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.56.206.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq1.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "go2.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.33.19.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -232,107 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "zisvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "trtnew.orangesms.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.253.74.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.209.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "169.40.42.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.78.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ip.sb": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.187.156.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "169.40.42.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152-69-231-175.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.96.200.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.199.193.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.80.128.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.48.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.71.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdncdn2.more-cloude.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.52.117.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107-172-212-12.liao.kdns.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg2-8sb.6121999.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "p2bm6l1.freelanceriran98.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.199.170.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "34.222.2.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.25.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.235.16.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.241.98.220": {
+    "45.39.33.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,19 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "169.40.42.235": {
+    "169.40.42.52": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.253.28.189": {
+    "31.77.138.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.37.71.6": {
+    "217.60.25.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.239.189.70": {
+    "95.85.249.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.96.200.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.209.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.68.70": {
       "status": "down",
       "rtt_ms": null
     },
@@ -360,7 +56,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78.129.150.110": {
+    "195.133.35.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.48.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "c1c0f9ffc2317.fuhuovps.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -368,7 +76,159 @@
       "status": "down",
       "rtt_ms": null
     },
-    "67.159.55.131": {
+    "cdncdn2.more-cloude.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "p2bm6l1.freelanceriran98.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polsha.vpn007.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.210.24.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.shopify.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.172.227.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.56.206.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.28.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.53.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81f0c835c2318.fuhuovps.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.124.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.42.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.150.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "reus103.fillmoo.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154-49-127-140.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kv.vip3333.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.253.74.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.17.52.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "go2.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "by01.botovod.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "zisvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.80.128.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.42.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "44.251.158.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.197.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.63.99.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.187.156.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.199.170.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ipw.ygdfw.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.71.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.223.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "using.neobo-tooth.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.152.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.52.117.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.199.193.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faq1.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -376,7 +236,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "laoye.in-gect.fun": {
+    "23.81.34.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ltu-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trtnew.orangesms.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.177.58.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.136.126.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.245.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg2-8sb.6121999.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.239.189.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys13.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.37.71.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.236.240.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.241.98.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ictnn.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.180.151": {
       "status": "down",
       "rtt_ms": null
     },
@@ -384,7 +296,95 @@
       "status": "down",
       "rtt_ms": null
     },
-    "polsha.vpn007.pro": {
+    "31.77.57.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf-socks.caoyuwu.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.55.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.volnalink.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.33.19.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ip.sb": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152-69-231-175.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin.evovpn.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.149.199.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.170.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.220.9.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.145.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.235.16.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.193.205.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.78.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.42.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ez-abcc2c.igunsjgjnfgn.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "laoye.in-gect.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.12.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr2.panel11.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.0.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107-172-212-12.liao.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
       "status": "down",
       "rtt_ms": null
     }
