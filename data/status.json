@@ -1,74 +1,22 @@
 {
-  "last_update": "2026-08-26T08:59:03.198912",
-  "total": 59,
+  "last_update": "2026-08-26T09:38:14.233641",
+  "total": 43,
   "up": 0,
-  "down": 59,
+  "down": 43,
   "results": {
+    "perceptive-balance-production-9b50.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "13.143.252.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.22.245": {
+    "194.93.61.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.112.192.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.37.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.251.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.109.228.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.155.70.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys28.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.215.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.vmagnum.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.242.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf4.466688.xyz": {
+    "80.239.189.70": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,63 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bla-bla-bla-de.anti-zapret.com": {
+    "206.245.132.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "res1.mohamadtak3tare.ir": {
+    "78.129.150.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.ferrin.uk": {
+    "141.193.213.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "mfa.gov.ua": {
+    "205.237.109.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "52.78.94.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ice.noooo.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.80.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.61.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.144": {
+    "80.76.44.141": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +48,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "themeforest.net": {
+    "13.143.215.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,59 +60,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "fr-gra-ovh-03.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.214.1": {
+    "hys28.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "ams-static-cdn.anti-zapret.com": {
+    "youtube.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.253.1": {
+    "gr2.panel11.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "38.107.234.187": {
+    "cloudflare-ech.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "hkshun.hgcfvgu.online": {
+    "res1.mohamadtak3tare.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.24.151.66": {
+    "85.204.107.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.104": {
+    "172.96.141.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.80.1": {
+    "fr-gra-ovh-02.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.208.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.177.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.151.83": {
+    "ice.noooo.win": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,27 +104,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.48.191": {
+    "45.140.36.74": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.238.154.18": {
+    "91.193.58.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.43.179.0": {
+    "91.193.58.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "mci.v2plus.ovh": {
+    "209.222.252.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "lv01.botovod.space": {
+    "46.229.243.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.143.128.122": {
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.vpber.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,7 +148,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cdns.doon.eu.org": {
+    "nl4.murhost.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.vpber.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.149.147.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.22.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.253.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.216.1": {
       "status": "down",
       "rtt_ms": null
     }
