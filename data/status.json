@@ -1,158 +1,70 @@
 {
-  "last_update": "2026-08-25T23:57:08.791577",
-  "total": 56,
+  "last_update": "2026-08-26T00:51:36.467017",
+  "total": 43,
   "up": 0,
-  "down": 56,
+  "down": 43,
   "results": {
-    "46.20.105.131": {
+    "2.26.26.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.177.51": {
+    "194.93.61.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.170.36": {
+    "89.124.251.61": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.148.31.227": {
+    "45.149.147.194": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.20.105.132": {
+    "ams-static-cdn.anti-zapret.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.159.92.161": {
+    "52.78.94.93": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.161.180": {
+    "2.27.22.245": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.80.128.115": {
+    "45.155.70.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.168.111.66": {
+    "80.90.190.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.227.25": {
+    "159.195.80.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.177.91": {
+    "165.231.177.147": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.5.81": {
+    "45.196.193.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.170.123": {
+    "nl-ams-ovh-02.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "finland-core-sh.cvedcdigital.vip": {
+    "nl-ams-ovh-03.fuck-rkn.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "ice.noooo.win": {
+    "hkshun.hgcfvgu.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-hel-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-ams-ovh-01.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s8.media.anti-zapret.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mnl.savesafe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.72.140.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.211.249.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.223.119.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.45.114.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.125.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.125.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.129.237.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.63.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.20.105.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.180.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.101.180.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bridge.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.246.248.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.169.85.138": {
+    "store17.vevluma.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,7 +72,67 @@
       "status": "down",
       "rtt_ms": null
     },
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alb1.abvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cze-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.200.230.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.112.192.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.34.177.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv01.botovod.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "u.mrgang.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,63 +140,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.140.29.45": {
+    "194.93.61.105": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.195.69.64": {
+    "naseza.tarfiq.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.132.94.151": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.68.196.119": {
+    "165.231.177.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.223.119.197": {
+    "res1.mohamadtak3tare.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.12.242": {
+    "cdns.doon.eu.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.24.151.63": {
+    "85.204.107.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.170.44": {
+    "151.242.168.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.24.151.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.191.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "youtube.sfproxy.fuck-rkn.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ndt.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wsnl24.wba-pn.ru": {
+    "165.231.177.60": {
       "status": "down",
       "rtt_ms": null
     }
