@@ -1,158 +1,122 @@
 {
-  "last_update": "2026-08-27T05:22:14.916468",
-  "total": 38,
+  "last_update": "2026-08-27T16:35:52.653629",
+  "total": 29,
   "up": 0,
-  "down": 38,
+  "down": 29,
   "results": {
-    "146.75.119.82": {
+    "2.26.122.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "38.180.186.202": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.121.89.80": {
+    "157.173.3.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.185.122.106": {
+    "uk60.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.17.28.143": {
+    "104.171.131.248": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl18.mechvpn.online": {
+    "109.169.85.139": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.137.166.173": {
+    "212.102.38.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.173.7.109": {
+    "205.237.109.166": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.181.21.234": {
+    "de62.mechvpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "51.161.199.124": {
+    "103.246.248.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.137.158.144": {
+    "46.229.243.147": {
       "status": "down",
       "rtt_ms": null
     },
-    "de5.mechvpn.online": {
+    "infra-core.cvedcdigital.vip": {
       "status": "down",
       "rtt_ms": null
     },
-    "de253.mechvpn.online": {
+    "srv-21bac9.vless.monster": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk59.mechvpn.online": {
+    "151.242.168.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "pol.freeinternat.com": {
+    "84.238.133.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "ams1.stream-pop.net": {
+    "fin14qr.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "avstri.plus-hit.ru": {
+    "151.242.160.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "france.metricpipe.space": {
+    "85.204.107.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "fihy2.metricpipe.space": {
+    "hys41.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "poll.shhflow.xyz": {
+    "albani.netkhorplus.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.85.137": {
+    "162.35.231.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.147.88.39": {
+    "202.155.11.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.25.203": {
+    "78.129.150.217": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.173.3.169": {
+    "162.249.124.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "206.223.240.179": {
+    "ruc.mythos-wargame.fun": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.195.38": {
+    "bz9.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.76.39": {
+    "jp-vlss.w-mebel.pro": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl19.mechvpn.online": {
+    "finland-core-sh.cvedcdigital.vip": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys42.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr136.mechvpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl3.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.235.42.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.252.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lvhy2.metricpipe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ukhy2.metricpipe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kzhy2.metricpipe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "czechia.metricpipe.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swenhy2.metricpipe.space": {
+    "www.homaxcorp.com.homaxcorp.com": {
       "status": "down",
       "rtt_ms": null
     }
