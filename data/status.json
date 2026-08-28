@@ -1,122 +1,106 @@
 {
-  "last_update": "2026-08-28T01:07:03.308872",
-  "total": 37,
+  "last_update": "2026-08-28T12:43:39.086000",
+  "total": 30,
   "up": 0,
-  "down": 37,
+  "down": 30,
   "results": {
+    "31.59.142.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.129.150.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.228.227.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.204.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.241.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "171.244.142.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "88.216.193.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.133.175.92": {
+    "162.141.137.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.227.99.253": {
+    "rm-de-01.409648.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.133.172.179": {
+    "46.229.243.148": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.171.131.248": {
+    "neth4.lckdwn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.132.175": {
+    "mynl.api.dznn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.169.45": {
+    "us-in.api.dznn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.133.172.211": {
+    "us3.lunariai.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "118.167.204.145": {
+    "lv.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.36.91": {
+    "kitsune.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "sitoman.info": {
+    "de.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "lv03.tranzit-net.ru": {
+    "fi.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl6.murhost.network": {
+    "85.204.107.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "tw5.china-206xswl.com": {
+    "46.28.70.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "gate-vde.multihost.127-0-0-1.online": {
+    "162.249.124.120": {
       "status": "down",
       "rtt_ms": null
     },
-    "swe.frkn.org": {
+    "stanngv2-production-d89d.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "ru76.overseashost.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wsnl7.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv02.tranzit-net.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp200m.jiasu.asia": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ca-xh1.w-mebel.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.43.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.184.250.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.225.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.204.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.214.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.129.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.133.172.208": {
+    "31.59.36.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,31 +108,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.210.42": {
+    "fi2.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg1.miyazono-kaori.com": {
+    "jp.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.133.175.93": {
+    "us-nyc.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "bul2.helper-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv01.tranzit-net.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it-xh1.w-mebel.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cja.rapidmesh.ir": {
+    "nl.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     }
