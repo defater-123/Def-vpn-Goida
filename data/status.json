@@ -1,22 +1,22 @@
 {
-  "last_update": "2026-08-27T16:35:52.653629",
-  "total": 29,
+  "last_update": "2026-08-28T01:07:03.308872",
+  "total": 37,
   "up": 0,
-  "down": 29,
+  "down": 37,
   "results": {
-    "2.26.122.101": {
+    "88.216.193.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "141.133.175.92": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.173.3.171": {
+    "193.227.99.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk60.mechvpn.online": {
+    "141.133.172.179": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,99 +24,131 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.169.85.139": {
+    "13.143.132.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.102.38.25": {
+    "151.242.169.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.166": {
+    "141.133.172.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "de62.mechvpn.online": {
+    "118.167.204.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.233": {
+    "104.143.36.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.147": {
+    "sitoman.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "infra-core.cvedcdigital.vip": {
+    "lv03.tranzit-net.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "srv-21bac9.vless.monster": {
+    "nl6.murhost.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.168.180": {
+    "tw5.china-206xswl.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.238.133.186": {
+    "gate-vde.multihost.127-0-0-1.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "fin14qr.wwwinternetvideo.click": {
+    "swe.frkn.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.160.14": {
+    "ru76.overseashost.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.177": {
+    "wsnl7.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys41.wba-pn.ru": {
+    "lv02.tranzit-net.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "albani.netkhorplus.ir": {
+    "jp200m.jiasu.asia": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.231.26": {
+    "ca-xh1.w-mebel.pro": {
       "status": "down",
       "rtt_ms": null
     },
-    "202.155.11.249": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "78.129.150.217": {
+    "2.27.43.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.124.118": {
+    "91.184.250.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "ruc.mythos-wargame.fun": {
+    "200.165.225.238": {
       "status": "down",
       "rtt_ms": null
     },
-    "bz9.wba-pn.ru": {
+    "2.27.204.251": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp-vlss.w-mebel.pro": {
+    "177.3.214.166": {
       "status": "down",
       "rtt_ms": null
     },
-    "finland-core-sh.cvedcdigital.vip": {
+    "2.26.129.246": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.homaxcorp.com.homaxcorp.com": {
+    "141.133.172.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tw6.china-206xswl.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.210.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg1.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.133.175.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bul2.helper-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv01.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it-xh1.w-mebel.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cja.rapidmesh.ir": {
       "status": "down",
       "rtt_ms": null
     }
