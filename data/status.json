@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-08-29T18:41:13.546252",
+  "last_update": "2026-08-29T21:12:15.300477",
   "total": 27,
   "up": 0,
   "down": 27,
   "results": {
-    "usa.selqora.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.81.129.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.232.196.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.191.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.164.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.183.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.129.200.244": {
+    "31.77.182.49": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,59 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "13.229.47.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.87.199.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.195.12.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.182.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mfa.gov.ua": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "note.savesafe.run": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3ce8ee8.hb.gladns.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kxj925316ild.gorvexo.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de57.tranzit-net.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "time.is": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.varfina.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.138": {
+    "172.232.196.241": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,11 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.229.136.113": {
+    "31.77.183.88": {
       "status": "down",
       "rtt_ms": null
     },
-    "hkayydswnnds.cfooov.xyz": {
+    "34.81.129.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.129.200.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.80.164.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.80.191.169": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,7 +56,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "mfa.gov.ua": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hkayydswnnds.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3ce8ee8.hb.gladns.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de57.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa.selqora.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kxj925316ild.gorvexo.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "9vn9y5jkil2l.gorvexo.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "note.savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.195.12.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.229.136.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.87.199.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.varfina.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "time.is": {
       "status": "down",
       "rtt_ms": null
     }
