@@ -1,174 +1,10 @@
 {
-  "last_update": "2026-08-28T22:40:05.184288",
-  "total": 87,
+  "last_update": "2026-08-29T03:51:35.962888",
+  "total": 105,
   "up": 0,
-  "down": 87,
+  "down": 105,
   "results": {
-    "18.136.125.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.112.47.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.143.103.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.141.38.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.33.62.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.78.59.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.129.185.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.59.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.116.13.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.207.162.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.220.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.112.129.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.248.209.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.237.44.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.212.142.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.255.242.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.156.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.95.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.203.242.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.131.134.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.76.84.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.224.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.105.18.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.202.46.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.241.173.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.254.241.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.67.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.129.149.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.183.215.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.151.153.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.81.131.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.195.209.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.2.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.213.249.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.193.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.43.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.179.7.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.156.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "57.180.21.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.203": {
+    "54.250.13.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,119 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "54.238.241.88": {
+    "3.112.131.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.129.204.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.129.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.160.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.136.208.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.221.220.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vs-nl10.vibesignal.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.131.211.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.230.155.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.251.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.112.217.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.69.159.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.136.210.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.204.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-nyc.katanalink.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mstfdc4sv.jarvesitw.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.68.93.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.212.211.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.33.107.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.250.13.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.212.45.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.217.16.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.79.103.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "74.207.245.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.197.69.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.116.9.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.33.107.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.193.64.73": {
+    "47.129.185.35": {
       "status": "down",
       "rtt_ms": null
     },
@@ -296,7 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "54.255.30.106": {
+    "vs-se16.vibesignal.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.105.202.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.251.224.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.136.125.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.143.93.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.168.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.154.221.153": {
       "status": "down",
       "rtt_ms": null
     },
@@ -304,39 +56,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de48.tranzit-net.ru": {
+    "45.33.62.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "de57.tranzit-net.ru": {
+    "43.207.162.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "192.155.87.188": {
+    "153.76.204.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "mstndfd3.jarvesitw.ru": {
+    "54.251.9.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "52.77.240.16": {
+    "us-nyc.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.33.62.166": {
+    "vs-nl10.vibesignal.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr2.janusgate.org": {
+    "ia.crsmaps.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.131.32.199": {
+    "13.212.211.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.249.200.131": {
+    "173.255.242.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.254.182.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.178.54.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.129.204.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.236.252.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.251.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.123.85.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.112.129.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.115.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.46.81.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv.katanalink.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -344,11 +136,291 @@
       "status": "down",
       "rtt_ms": null
     },
+    "lp.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.113.195.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "187.33.147.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "on.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.14.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.3.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.130.145.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.185.122.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.11.167.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de42.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.40.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.33.62.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.68.93.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.251.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "13.114.89.187": {
       "status": "down",
       "rtt_ms": null
     },
+    "172.232.196.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md1.cnyvpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "translate.google.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.225.240.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de48.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.katanalink.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.193.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "52.77.187.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.124.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.251.143.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.136.208.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "42.200.172.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.2.33.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nel.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.112.217.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.112.47.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw1.crsmaps.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.194.211.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vs-se17.vibesignal.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f3.cryptoofarm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sal.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de57.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.2.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.116.13.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.116.9.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.238.241.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de56.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.250.130.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.199.9.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.141.162.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.251.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.129.144.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.155.197.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.193.9.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.223.65.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.202.252": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.katanalink.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us.vltj.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vs-se18.vibesignal.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nid.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr2.janusgate.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.68.64.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de49.tranzit-net.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lte-nl.cdn-assets-pro.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s2.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.loadpng.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe.frkn.org": {
       "status": "down",
       "rtt_ms": null
     }
