@@ -1,22 +1,30 @@
 {
-  "last_update": "2026-08-30T16:50:16.910807",
-  "total": 24,
+  "last_update": "2026-08-30T19:32:17.476960",
+  "total": 21,
   "up": 0,
-  "down": 24,
+  "down": 21,
   "results": {
-    "129.151.239.170": {
+    "35.201.163.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.117": {
+    "sulgx-panel-production-2b90.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.58.206.98": {
+    "172.232.196.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.185.248": {
+    "151.101.69.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.210.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "watmtmawdwlslzlssm.cfooov.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,31 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "151.242.168.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "us1.lunariai.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "6aa21c4d-11d4-45bf-ba55-59512593692c.7b63595a-1119-4080-80e1-3f638120be58.smartprivatelink.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.220.246.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.109.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.57.46.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.124.125": {
+    "87.58.206.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,23 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.22.69": {
+    "47.129.200.244": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.246.248.237": {
+    "13.214.168.238": {
       "status": "down",
       "rtt_ms": null
     },
-    "de-xh01.tcp-reset-club.net": {
+    "194.110.207.89": {
       "status": "down",
       "rtt_ms": null
     },
-    "app9.jarvesitw.ru": {
+    "129.151.239.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "origin.repaironline.biz": {
+    "13.229.47.178": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,23 +68,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "app.jarvesitw.ru": {
+    "cn07.somethingstranges.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.124": {
+    "cn08.somethingstranges.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.183": {
+    "cn12.somethingstranges.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.152.223.115": {
+    "tur.hostingdayam.com.tr": {
       "status": "down",
       "rtt_ms": null
     },
-    "free-nl.moscow-neversleep.digital": {
+    "129.159.35.198": {
       "status": "down",
       "rtt_ms": null
     }
