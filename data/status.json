@@ -1,106 +1,10 @@
 {
-  "last_update": "2026-08-30T06:51:59.349472",
-  "total": 38,
+  "last_update": "2026-08-30T12:21:12.990490",
+  "total": 89,
   "up": 0,
-  "down": 38,
+  "down": 89,
   "results": {
-    "217.11.164.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.154.196.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.226.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.208.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.105.18.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.24.131.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.182.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.115.21.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.27.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.201.163.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.52.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.69.123.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.165.67.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.129.200.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.229.47.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dee.im-soon.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app47.jarvestip.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.249.20.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.129.10.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.195.12.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.97.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.50": {
+    "196.198.111.26": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,7 +12,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.138": {
+    "31.76.38.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.184.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.57.46.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.99.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.13.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.152.223.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.22.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ush2.shazamri.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ice.noooo.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ne1385.cdn-video.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germ1th.jarvesitw.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "note.savesafe.run": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "blog.repaironline.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.144.35.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.44.109.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.2": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,15 +104,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "85.204.107.183": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.95.171": {
+    "95.154.196.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.160.51": {
+    "196.196.203.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.151.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.119.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hh.funvideorus.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.167.27.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dedgff.scroogethebest.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uploud.mooo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.185.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.22.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.241.173.146": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,19 +172,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "159.246.55.30": {
+    "162.249.124.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "24.152.37.183": {
+    "165.231.157.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "hkayydswnnds.cfooov.xyz": {
+    "107.150.93.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "app17.jarvestip.ru": {
+    "80.76.44.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.195.12.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.99.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app.jarvesitw.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,7 +232,131 @@
       "status": "down",
       "rtt_ms": null
     },
+    "svctl1.jarvesitw.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "ch-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.226.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.69.123.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.201.163.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2205.cdn-video.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.184.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app9.jarvesitw.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.58.50.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.246.248.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.157.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.144.35.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.29.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.249.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.206.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.192.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.198.111.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.20.53": {
       "status": "down",
       "rtt_ms": null
     }
