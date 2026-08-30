@@ -1,130 +1,18 @@
 {
-  "last_update": "2026-08-30T01:21:00.620616",
-  "total": 45,
+  "last_update": "2026-08-30T06:51:59.349472",
+  "total": 38,
   "up": 0,
-  "down": 45,
+  "down": 38,
   "results": {
-    "187.124.98.130": {
+    "217.11.164.92": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.26": {
+    "80.76.44.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.44.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.186.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.27.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "24.152.37.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.249.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee2x.cdn-global.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.220.246.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp.cdn-global.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.195.12.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.shifro-team.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.shifro-team.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lat2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.global-cdn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "9vn9y5jkil2l.gorvexo.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3ce8ee8.hb.gladns.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.114.220.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.76.44.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.shifro-team.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.152.220.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.115.21.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.24.131.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.255.234": {
+    "95.154.196.62": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,15 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.104.106.43": {
+    "45.131.208.4": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl02hy2.shifro-team.site": {
+    "80.76.44.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "note.savesafe.run": {
+    "104.105.18.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.24.131.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.182.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.115.21.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.167.27.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,39 +56,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.152.220.11": {
+    "201.24.52.151": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.152.220.121": {
+    "185.69.123.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.210.52.70": {
+    "202.165.67.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.152.220.141": {
+    "47.129.200.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.229.47.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dee.im-soon.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app47.jarvestip.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.249.20.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.129.10.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.195.12.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.97.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.76.44.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.232.196.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.95.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.169.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "24.152.37.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hkayydswnnds.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app17.jarvestip.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3ce8ee8.hb.gladns.com": {
       "status": "down",
       "rtt_ms": null
     },
     "ch-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.236.181.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.199.219.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.183.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.11": {
       "status": "down",
       "rtt_ms": null
     }
