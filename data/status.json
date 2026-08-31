@@ -1,106 +1,18 @@
 {
-  "last_update": "2026-08-31T00:32:25.293405",
-  "total": 31,
+  "last_update": "2026-08-31T06:06:31.095990",
+  "total": 54,
   "up": 0,
-  "down": 31,
+  "down": 54,
   "results": {
-    "2.24.131.46": {
+    "152.89.28.215": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.160.71.250": {
+    "78.105.183.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.110.207.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.195.12.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.171.227.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.210.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.39.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.229.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.236.181.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.159.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us1.lunariai.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "watmtmawdwlslzlssm.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cn08.somethingstranges.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "americamainfa.stlosanspeedplus.usa.garluma.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "camera.irantech.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.70.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52.220.246.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.220.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "po.iovosfaq.xyz": {
+    "45.131.208.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,15 +20,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cn07.somethingstranges.com": {
+    "109.120.150.185": {
       "status": "down",
       "rtt_ms": null
     },
-    "cn12.somethingstranges.com": {
+    "109.104.106.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr2.diginoisb.ir": {
+    "194.110.207.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.145.55.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.210.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.129.200.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.71.159.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.86.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,7 +76,147 @@
       "status": "down",
       "rtt_ms": null
     },
-    "usa1.selqora.ir": {
+    "us1.lunariai.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cn12.somethingstranges.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "155.248.229.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.154.96.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.194.234.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "129.151.239.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.177.103.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hh.funvideorus.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.159.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.49.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "po.iovosfaq.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hokm-a8.igatel.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.229.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mci.v2plus.ovh": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3ce8ee8.hb.gladns.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.245.109.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.232.196.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cn07.somethingstranges.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.195.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cn08.somethingstranges.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.220.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.178.198.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.160.71.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.199.219.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.181.212.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "watmtmawdwlslzlssm.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.220.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.194.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.229.47.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ush2.shazamri.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.220.246.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "time.is": {
       "status": "down",
       "rtt_ms": null
     }
