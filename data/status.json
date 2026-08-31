@@ -1,14 +1,22 @@
 {
-  "last_update": "2026-08-31T19:38:23.647336",
-  "total": 24,
+  "last_update": "2026-08-31T23:21:21.742175",
+  "total": 20,
   "up": 0,
-  "down": 24,
+  "down": 20,
   "results": {
-    "nl-4.tr202604.com": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "germany.superbuba.top": {
+    "151.242.168.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tsa-production-7e4a.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.140.2.132": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,23 +24,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hks.008819.xyz": {
+    "ezaccess1-sulgx-ezaccess1-86c3.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.220.67.198": {
+    "31.40.204.158": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.133.130": {
+    "153.75.89.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "lat2.freeinternat.com": {
+    "5.129.214.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "217.11.164.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.83.129.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,51 +56,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "app1.goonars.com": {
+    "2.26.124.203": {
       "status": "down",
       "rtt_ms": null
     },
-    "app2.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app25.jarvestip.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app1.jarvestip.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cn12.somethingstranges.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se.allgoodvpn.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3ce8ee8.hb.gladns.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app3.goonars.com": {
+    "31.76.31.235": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +68,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.95.195": {
+    "app2.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "s4.zynetrax.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3ce8ee8.hb.gladns.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se.allgoodvpn.su": {
       "status": "down",
       "rtt_ms": null
     }
