@@ -1,46 +1,26 @@
 {
-  "last_update": "2026-09-01T19:33:33.194130",
-  "total": 19,
+  "last_update": "2026-09-01T21:59:29.507533",
+  "total": 23,
   "up": 0,
-  "down": 19,
+  "down": 23,
   "results": {
-    "2.27.205.136": {
+    "45.59.126.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.220.183": {
+    "13.251.124.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "104.165.205.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.28.103": {
+    "178.214.100.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.216.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wsnl4.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.228.227.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "59.125.62.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.186": {
+    "192.243.114.176": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.59.126.91": {
+    "189.24.83.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "spider-panel-production-474a.up.railway.app": {
+    "117.55.202.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "apsg3yh556t.87544899.xyz": {
+    "151.242.168.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl-xh01.tcp-reset-club.net": {
+    "151.101.69.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.205.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.168.111.58": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,7 +56,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "beast.locallynet.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wsnl4.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth9.lunariai.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "family.bucket.zjs.s.1.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.zjs.j.1.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +92,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "qp.lichao0223.cn": {
+    "family.bucket.zjs.a.b.9.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     }
