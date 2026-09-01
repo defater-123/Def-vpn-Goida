@@ -1,10 +1,26 @@
 {
-  "last_update": "2026-09-01T12:10:16.436122",
-  "total": 40,
+  "last_update": "2026-09-01T16:34:59.913319",
+  "total": 19,
   "up": 0,
-  "down": 40,
+  "down": 19,
   "results": {
-    "amator.mrgang.shop": {
+    "2.27.205.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.216.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.228.227.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.28.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.220.183": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,155 +28,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.135.192": {
+    "59.125.62.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "gta.internet-card.sbs": {
+    "151.101.69.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.143.167.154": {
+    "spider-panel-production-474a.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.135.197": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.30": {
+    "vhina.cloudgamings.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.194.134.176": {
+    "45.59.126.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "codecanyon.net": {
+    "151.242.168.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "161.114.13.225": {
+    "apsg3yh556t.87544899.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.129.245": {
+    "wsnl4.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-gw.videomonitor.cloud": {
+    "family.bucket.zjs.s.1.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.54.241": {
+    "qp.lichao0223.cn": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.216.214.143": {
+    "pl-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.209.26.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.news.gazette.help": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1jcy.baikal.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s4.zynetraq.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "helixgaming.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lb20.westondigita.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anydesk.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.86.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.128.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.221.79.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.54.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.220.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ishostpo-pl.kvnfreetest.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "icook.tw": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "give.internet-card.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys1.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.deeplcdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se.allgoodvpn.su": {
+    "family.bucket.zjs.h.1.0.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     }
