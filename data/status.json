@@ -1,146 +1,10 @@
 {
-  "last_update": "2026-09-01T06:53:21.173253",
-  "total": 46,
+  "last_update": "2026-09-01T12:10:16.436122",
+  "total": 40,
   "up": 0,
-  "down": 46,
+  "down": 40,
   "results": {
-    "62.84.172.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.111.218.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.174.25.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spiderpanel-production-d385.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.249.20.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "assets-store.hartfordmedia.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lb20.westondigita.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "amator.mrgang.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "guard.capitaledge.blog": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us.vltj.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lat2.freeinternat.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf2.466688.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ph01.vletun.qianmoxingyun.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk01.vletun.qianmoxingyun.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.213.211.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.194.134.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.173.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys1.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.126.67.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "time.is": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free-nl1.green-hills.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-gw.videomonitor.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hinet1.2yly.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lb4.pixelforge.pics": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.177.103.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mci.v2plus.ovh": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,43 +12,155 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.35.3.111": {
+    "2.26.135.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "159.246.55.244": {
+    "gta.internet-card.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.143.167.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.135.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.134.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "codecanyon.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "161.114.13.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-gw.videomonitor.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.54.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.214.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.209.26.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.news.gazette.help": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1jcy.baikal.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s4.zynetraq.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "helixgaming.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lb20.westondigita.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "anydesk.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.86.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.128.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.221.79.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.54.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.168.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.220.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ishostpo-pl.kvnfreetest.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "icook.tw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "give.internet-card.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys1.wba-pn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.deeplcdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
     "se.allgoodvpn.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.232.64.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "116.206.95.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ush2.shazamri.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "102.177.176.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "stats.pixelforge.pics": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rest.capitaledge.blog": {
       "status": "down",
       "rtt_ms": null
     }
