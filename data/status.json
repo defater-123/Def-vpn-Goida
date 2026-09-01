@@ -1,10 +1,22 @@
 {
-  "last_update": "2026-09-01T21:59:29.507533",
+  "last_update": "2026-09-01T23:48:24.456768",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "45.59.126.91": {
+    "104.165.205.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.205.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.243.114.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,15 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.40": {
+    "45.59.126.91": {
       "status": "down",
       "rtt_ms": null
     },
     "178.214.100.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.243.114.176": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,27 +52,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.205.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "83.168.111.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vhina.cloudgamings.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "beast.locallynet.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wsnl4.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "neth9.lunariai.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,19 +60,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "family.bucket.zjs.j.1.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "wsnl4.wba-pn.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +72,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "beast.locallynet.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth9.lunariai.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "family.bucket.zjs.a.b.9.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vhina.cloudgamings.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
