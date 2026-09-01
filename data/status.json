@@ -1,62 +1,18 @@
 {
-  "last_update": "2026-09-01T01:53:13.186052",
-  "total": 20,
+  "last_update": "2026-09-01T06:53:21.173253",
+  "total": 46,
   "up": 0,
-  "down": 20,
+  "down": 46,
   "results": {
-    "18.239.134.69": {
+    "62.84.172.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "ezaccess1-sulgx-ezaccess1-86c3.up.railway.app": {
+    "176.111.218.212": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.140.2.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tsa-production-7e4a.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.31.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.154.55.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.11.164.92": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.177.103.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.75.89.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.40.204.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.83.129.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.214.249": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +20,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "app2.goonars.com": {
+    "140.174.25.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spiderpanel-production-d385.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.249.20.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-store.hartfordmedia.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lb20.westondigita.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "amator.mrgang.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "guard.capitaledge.blog": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us.vltj.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lat2.freeinternat.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf2.466688.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ph01.vletun.qianmoxingyun.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk01.vletun.qianmoxingyun.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.43.179.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.213.211.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.134.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.173.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,15 +112,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "3ce8ee8.hb.gladns.com": {
+    "185.126.67.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "s4.zynetrax.ir": {
+    "time.is": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free-nl1.green-hills.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-gw.videomonitor.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hinet1.2yly.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lb4.pixelforge.pics": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.177.103.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mci.v2plus.ovh": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.35.3.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.244": {
       "status": "down",
       "rtt_ms": null
     },
     "se.allgoodvpn.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.188.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4.232.64.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "116.206.95.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ush2.shazamri.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "stats.pixelforge.pics": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rest.capitaledge.blog": {
       "status": "down",
       "rtt_ms": null
     }
