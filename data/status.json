@@ -1,50 +1,18 @@
 {
-  "last_update": "2026-09-01T23:48:24.456768",
-  "total": 23,
+  "last_update": "2026-09-02T01:39:02.416865",
+  "total": 29,
   "up": 0,
-  "down": 23,
+  "down": 29,
   "results": {
-    "104.165.205.40": {
+    "109.248.161.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.205.136": {
+    "130.49.219.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "192.243.114.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.251.124.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.59.126.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.214.100.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.83.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.202.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.186": {
+    "87.251.19.13": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,35 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "83.168.111.58": {
+    "103.86.65.107": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.zjs.s.1.kfc-520.com": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.zjs.j.1.kfc-520.com": {
+    "2.27.205.136": {
       "status": "down",
       "rtt_ms": null
     },
-    "wsnl4.wba-pn.ru": {
+    "163.128.99.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.zjs.h.1.0.kfc-520.com": {
+    "45.59.126.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "beast.locallynet.org": {
+    "web-production-3b1c1.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "neth9.lunariai.ru": {
+    "033bc9be-tkyw00-tpda83-1lkbs.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-xh01.tcp-reset-club.net": {
+    "46b624e6-tkyw00-trnd2c-jjv2.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,11 +56,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "vhina.cloudgamings.org": {
+    "13890bdf-tkyw00-trpvht-1ey07.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "de-xh01.tcp-reset-club.net": {
+    "tr-server-1.zelnora.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.zjs.s.1.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "qp.lichao0223.cn": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.zjs.j.1.kfc-520.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "halabosamkon.kaliteam.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.128.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.160.71.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.168.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.228.227.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "family.bucket.zjs.h.1.0.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     }
