@@ -1,106 +1,30 @@
 {
-  "last_update": "2026-09-02T06:24:33.636716",
-  "total": 37,
+  "last_update": "2026-09-02T11:30:58.370443",
+  "total": 14,
   "up": 0,
-  "down": 37,
+  "down": 14,
   "results": {
-    "2.26.129.73": {
+    "130.94.30.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.160.71.247": {
+    "151.101.69.94": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.248.161.43": {
+    "59.188.184.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.116.46.50": {
+    "hkhl1f6.87544899.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.172.68.131": {
+    "144.31.134.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.59.126.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "codecanyon.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.99.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.168.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anydesk.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.zjs.h.1.0.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "noxix.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germany3kvlcvkzcxvlqwe312adscrfsdcrc234cefopewfpo23o.soft421.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.zjs.s.1.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "forloveyou.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "portal.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.148.107.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "102.177.176.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.19.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.228.227.172": {
+    "153.75.88.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,47 +32,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.128.74": {
+    "45.39.198.205": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.80.1": {
+    "lgkr.87544899.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.252.110": {
+    "df132ade-tki800-traezq-1t5n1.nw4.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf2.466688.xyz": {
+    "0e05f970-tki800-traezq-1t5n1.hk2.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.43.179.0": {
+    "nl-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "icook.tw": {
+    "sggc.fffo.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "polisi.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "halabosamkon.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mci.v2plus.ovh": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "myhvhcheat.kaliteam.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mmd5964.kaliteam.ir": {
+    "ch-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
