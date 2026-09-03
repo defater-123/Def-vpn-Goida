@@ -1,66 +1,30 @@
 {
-  "last_update": "2026-09-03T10:13:27.151808",
-  "total": 15,
+  "last_update": "2026-09-03T14:33:38.860538",
+  "total": 6,
   "up": 0,
-  "down": 15,
+  "down": 6,
   "results": {
-    "som4.api3-max.ru": {
+    "69.46.46.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.123.211": {
+    "tr.s.hardvezoo.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.25.75": {
+    "ch-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.42": {
+    "de-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "196.196.206.34": {
+    "at-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.126.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.200.246.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dereserv.just-cloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finkankvd.kovsh.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fn4t29qr8x7vb-mds.us.deepl-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vpn.lootopen.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cnd.covwkfjpa.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "united.hysteria.ltd": {
+    "ro-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
