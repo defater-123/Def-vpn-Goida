@@ -1,58 +1,46 @@
 {
-  "last_update": "2026-09-03T18:02:09.624288",
-  "total": 17,
+  "last_update": "2026-09-03T20:57:56.443139",
+  "total": 12,
   "up": 0,
-  "down": 17,
+  "down": 12,
   "results": {
+    "212.43.158.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.182.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "status.savesafe.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "wiki.locallynet.org": {
+    "138.124.64.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.221.110.170": {
+    "syncpointbase.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.158.108.125": {
+    "free-exp.kyras.pw": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "se.monkeyisland.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.69.253": {
+    "vera.kyras.pw": {
       "status": "down",
       "rtt_ms": null
     },
-    "conver.trosty.online": {
+    "fi-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.87.24.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "the.trosty.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh01.tcp-reset-club.net": {
+    "hk.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,15 +48,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34hru34f9wrui.tr.snapeurop.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nkjernvjilbf.tr.snapeurop.com": {
+    "nl-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
