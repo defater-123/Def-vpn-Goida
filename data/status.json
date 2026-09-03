@@ -1,10 +1,22 @@
 {
-  "last_update": "2026-09-03T20:57:56.443139",
-  "total": 12,
+  "last_update": "2026-09-03T22:56:12.937902",
+  "total": 14,
   "up": 0,
-  "down": 12,
+  "down": 14,
   "results": {
-    "212.43.158.154": {
+    "185.223.57.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.230.162.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.95": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,15 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "status.savesafe.cc": {
+    "91.193.17.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.64.30": {
+    "31.76.88.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "syncpointbase.online": {
+    "alca.foff.ch": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,19 +40,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "se.monkeyisland.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vera.kyras.pw": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +48,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-xh01.tcp-reset-club.net": {
+    "34hru34f9wrui.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nkjernvjilbf.tr.snapeurop.com": {
       "status": "down",
       "rtt_ms": null
     }
