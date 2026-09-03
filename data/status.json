@@ -1,14 +1,50 @@
 {
-  "last_update": "2026-09-03T14:33:38.860538",
-  "total": 6,
+  "last_update": "2026-09-03T18:02:09.624288",
+  "total": 17,
   "up": 0,
-  "down": 6,
+  "down": 17,
   "results": {
-    "69.46.46.125": {
+    "status.savesafe.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr.s.hardvezoo.ir": {
+    "wiki.locallynet.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.221.110.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.158.108.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "conver.trosty.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.87.24.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "the.trosty.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,15 +52,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de-xh01.tcp-reset-club.net": {
+    "nl-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-xh01.tcp-reset-club.net": {
+    "site.shamanapp.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "ro-xh01.tcp-reset-club.net": {
+    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34hru34f9wrui.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nkjernvjilbf.tr.snapeurop.com": {
       "status": "down",
       "rtt_ms": null
     }
