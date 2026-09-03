@@ -1,50 +1,14 @@
 {
-  "last_update": "2026-09-03T01:14:26.238002",
-  "total": 30,
+  "last_update": "2026-09-03T05:47:36.238361",
+  "total": 39,
   "up": 0,
-  "down": 30,
+  "down": 39,
   "results": {
-    "151.101.69.253": {
+    "69.46.46.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.25.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.26.83.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.99.243.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.190.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.170.40.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.211.189.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hkyydshktbqwqqnzdbnd.jiedddym.com": {
+    "13.143.64.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +16,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "rbalytavhhksrbgdx.jiedddym.com": {
+    "2.27.25.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "xn--1ugy405pdua.gayvibe.dpdns.org": {
+    "147.45.61.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr-docs.savesafe.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.178.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.61.28.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.26.83.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf-mci.coixconqwe1.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gp1.steptofsvo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estproxy3.lockdwn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,35 +80,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "v5p.sabermusic.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.43.158.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.178.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "dereserv.just-cloud.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,7 +104,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.78.68.134": {
+    "47.80.63.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.99.243.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mci.v2plus.ovh": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hamishevaslbashconfig-production-d2ec.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bel-03.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.170.40.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,11 +140,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "estproxy3.lockdwn.com": {
+    "xn--1ugy405pdua.gayvibe.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "x-ui-ge.havalvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
     "sinavm.soft10.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "v5p.sabermusic.ir": {
       "status": "down",
       "rtt_ms": null
     }
