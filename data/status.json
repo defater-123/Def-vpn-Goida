@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-09-04T19:33:48.768492",
+  "last_update": "2026-09-04T21:47:19.512860",
   "total": 28,
   "up": 0,
   "down": 28,
   "results": {
-    "107.161.160.176": {
+    "87.58.155.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.5.75": {
+    "45.92.218.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.58.182.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.217.248.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.189.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.17.23.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.210.124.162": {
+    "167.104.216.12": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +20,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "61.245.11.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "61.245.11.164": {
+    "107.161.160.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.217.248.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.241.143.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.216.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.175.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.105.123.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.5.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.124.47.34": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +60,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "vpnon4u.niceworktodo.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "delfatura.umutnakliyatdepo.com.tr": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "subtu.charsoulink3.ir": {
+    "kamaz1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,15 +76,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "kamaz02.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "kamaz4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "japan.melissachen.top": {
+    "vpnon4u.niceworktodo.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.210.124.162": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,31 +92,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.87.7": {
+    "130.17.23.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.216.206": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.61.227": {
+    "31.58.182.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.27.132.190": {
+    "ro-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.92.218.85": {
+    "parta3.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.124.47.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kamaz1.api3-max.ru": {
+    "kamaz02.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
