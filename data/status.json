@@ -1,38 +1,10 @@
 {
-  "last_update": "2026-09-04T00:31:52.096302",
-  "total": 35,
+  "last_update": "2026-09-04T05:04:02.518045",
+  "total": 43,
   "up": 0,
-  "down": 35,
+  "down": 43,
   "results": {
-    "de.monkeyisland.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.23.216.87": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.222.201.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.monkeyisland.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.17.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.209.157.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.217.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.110.122": {
+    "144.31.218.147": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,71 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.190.30": {
+    "91.193.58.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.182.199.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.218.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "68.221.221.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.223.57.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-aef7eaca981d2a80.sr-d8a007cac7ec657d.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-8ad7f4.vless.monster": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-4f4514.vless.monster": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.58.66.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.230.162.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.75.125.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.224.53": {
+    "193.23.216.87": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,27 +24,51 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.131.208.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-4f4514.vless.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.39.216.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "31.56.187.115": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.88.10": {
+    "159.246.55.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "se.monkeyisland.xyz": {
+    "31.43.179.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "japan.melissachen.top": {
+    "185.24.151.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "alca.foff.ch": {
+    "95.85.224.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "34hru34f9wrui.tr.snapeurop.com": {
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "portal.buildtunnel.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-8ad7f4.vless.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy.selqora.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +76,103 @@
       "status": "down",
       "rtt_ms": null
     },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "y347t3784gfh478f4.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.87.190.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mfa.gov.ua": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.182.199.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.251.141.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.17.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bright.bitgas.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.221.221.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alca.foff.ch": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.88.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf-mci.coixconqwe1.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34hru34f9wrui.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nkjernvjilbf.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.223.57.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.209": {
       "status": "down",
       "rtt_ms": null
     }
