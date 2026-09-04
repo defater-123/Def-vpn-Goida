@@ -1,22 +1,18 @@
 {
-  "last_update": "2026-09-04T17:12:33.477831",
-  "total": 19,
+  "last_update": "2026-09-04T19:33:48.768492",
+  "total": 28,
   "up": 0,
-  "down": 19,
+  "down": 28,
   "results": {
-    "167.104.216.12": {
+    "107.161.160.176": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.216.206": {
+    "2.26.5.75": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.129.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.13.116": {
+    "31.58.182.33": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,23 +20,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "107.161.160.176": {
+    "31.56.189.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.123.79": {
+    "130.17.23.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.6": {
+    "8.210.124.162": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.15.195": {
+    "194.154.29.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.185.142": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "61.245.11.164": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +48,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "net-8df525-a5fd91-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "vpnon4u.niceworktodo.dpdns.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "parta3.api3-max.ru": {
+    "delfatura.umutnakliyatdepo.com.tr": {
       "status": "down",
       "rtt_ms": null
     },
-    "kamaz1.api3-max.ru": {
+    "fi-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "subtu.charsoulink3.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kamaz03.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,15 +72,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "parta2.api3-max.ru": {
+    "kamaz02.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "hello.repaironline.biz": {
+    "kamaz4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "kamaz03.api3-max.ru": {
+    "japan.melissachen.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.91.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.87.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.216.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.27.132.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.92.218.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.124.47.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kamaz1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
