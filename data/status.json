@@ -1,10 +1,90 @@
 {
-  "last_update": "2026-09-03T22:56:12.937902",
-  "total": 14,
+  "last_update": "2026-09-04T00:31:52.096302",
+  "total": 35,
   "up": 0,
-  "down": 14,
+  "down": 35,
   "results": {
+    "de.monkeyisland.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.23.216.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.222.201.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.monkeyisland.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.17.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.104.217.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.110.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.204.170.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.190.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.182.199.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.218.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.221.221.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "185.223.57.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-aef7eaca981d2a80.sr-d8a007cac7ec657d.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-8ad7f4.vless.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-4f4514.vless.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.58.66.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,15 +96,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.217.95": {
+    "103.75.125.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.182.63": {
+    "hk.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.193.17.156": {
+    "94.183.224.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.187.115": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,19 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
+    "se.monkeyisland.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "japan.melissachen.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "alca.foff.ch": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free-exp.kyras.pw": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "site.shamanapp.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,7 +136,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ntrkglkjrtngjknetjgnv.tr.snapeurop.com": {
+    "fi-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
