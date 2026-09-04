@@ -1,42 +1,82 @@
 {
-  "last_update": "2026-09-04T13:45:22.064580",
-  "total": 9,
+  "last_update": "2026-09-04T17:12:33.477831",
+  "total": 19,
   "up": 0,
-  "down": 9,
+  "down": 19,
   "results": {
-    "18.239.134.69": {
+    "167.104.216.12": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.221.110.250": {
+    "167.104.216.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "13.143.129.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.221.110.169": {
+    "64.49.13.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "211.76.177.101": {
+    "162.217.248.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.87.24.6": {
+    "107.161.160.176": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.168.88.40": {
+    "198.105.123.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "us01.botovod.space": {
+    "69.46.46.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-xh01.tcp-reset-club.net": {
+    "64.49.15.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.185.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "schkyydshktbgwxx.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "net-8df525-a5fd91-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpnon4u.niceworktodo.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "parta3.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kamaz1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kombo.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "parta2.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hello.repaironline.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kamaz03.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
