@@ -1,30 +1,74 @@
 {
-  "last_update": "2026-09-05T12:52:00.098712",
-  "total": 14,
+  "last_update": "2026-09-05T15:41:16.352214",
+  "total": 68,
   "up": 0,
-  "down": 14,
+  "down": 68,
   "results": {
-    "37.221.110.245": {
+    "172.67.198.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.221.110.167": {
+    "65.109.238.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.98.11": {
+    "104.21.85.121": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.171.12": {
+    "104.21.8.136": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "104.21.27.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "schkyydshktbgwxx.cfooov.xyz": {
+    "172.67.185.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.61.233.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.185.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.19.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.67.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.46.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.50.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.223.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52feebe7c880.fuhuovps.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +76,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.226.162.172": {
+    "91.201.67.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.167.21.32": {
+    "xpymharpubz1.azangooo.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.111.117.61": {
+    "172.67.214.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.154.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.149.78.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.41.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.157.235.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.94.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.17.11": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,15 +124,155 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nnoip-dk-netherland-2ip.zelnora.ir": {
+    "172.67.173.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-xh01.tcp-reset-club.net": {
+    "38.246.229.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "ro-xh01.tcp-reset-club.net": {
+    "104.167.24.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.139.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.45.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.43.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.148.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.127.121.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.69.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.217.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.53.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.239.126.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.171.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.205.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.210.36.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.32.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f9079ac3c274.fuhuovps.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de01.gotosvo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gevip.larpvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.17.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.29.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.65.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.195.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv02.gotosvo.com": {
       "status": "down",
       "rtt_ms": null
     }
