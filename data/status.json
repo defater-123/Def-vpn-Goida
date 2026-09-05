@@ -1,58 +1,10 @@
 {
-  "last_update": "2026-09-05T01:14:29.652842",
-  "total": 29,
+  "last_update": "2026-09-05T05:45:11.536595",
+  "total": 58,
   "up": 0,
-  "down": 29,
+  "down": 58,
   "results": {
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.124.47.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.141.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.184.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.129.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.184.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.253.45.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.75.119.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.83.198.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.58.41.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.42.39.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.141.106": {
+    "87.120.104.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,31 +12,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.98.11": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "speedtest.net": {
+    "130.94.115.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi-xh01.tcp-reset-club.net": {
+    "193.42.39.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "ro-xh01.tcp-reset-club.net": {
+    "104.165.205.52": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-xh01.tcp-reset-club.net": {
+    "216.167.94.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "gevip.larpvpn.space": {
+    "2.26.224.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.204.171.3": {
+    "94.26.0.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.53.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.63.142.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.253.45.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.72.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.94.252.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.160.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.157.235.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-8.kihsuyhf8jkiugsxb.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mageia.ubuntuhosting.host": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.46": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +96,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "147.189.129.155": {
+    "103.75.119.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.223.57.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.141.114": {
+    "194.58.41.66": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,7 +108,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.189.200": {
+    "78.17.132.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.53.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.83.198.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.223.57.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.167.24.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.110.38.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.238.53.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3h-unitedstates1.09vpn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,7 +152,87 @@
       "status": "down",
       "rtt_ms": null
     },
-    "clrpbqwolexxn.cfooov.xyz": {
+    "77.239.126.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sv10.jarvesitw.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.236.246.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.61.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.162.10.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.77.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.17.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.189.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv02.gotosvo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.220.11.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-1.kihsuyhf8jkiugsxb.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "opensuse.ubuntuhosting.host": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.204.171.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ro-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
