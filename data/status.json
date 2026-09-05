@@ -1,110 +1,10 @@
 {
-  "last_update": "2026-09-04T23:29:13.436002",
-  "total": 52,
+  "last_update": "2026-09-05T01:14:29.652842",
+  "total": 29,
   "up": 0,
-  "down": 52,
+  "down": 29,
   "results": {
-    "194.58.41.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.161.160.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.189.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.199.108.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.17.23.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.217.248.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.105.123.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.216.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.154.29.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.92.218.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp-1.kihsuyhf8jkiugsxb.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.204.171.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kamaz03.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kombo.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "japan.melissachen.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "schkyydshktbgwxx.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.210.124.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.75.119.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.141.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.83.198.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.155.25": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,19 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.223.57.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz-1.kihsuyhf8jkiugsxb.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "61.245.11.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.5.75": {
+    "147.189.141.104": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,55 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.42.39.10": {
+    "147.189.129.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "ph-1.kihsuyhf8jkiugsxb.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kamaz02.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.241.143.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.larpvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ro-xh01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kamaz4.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.104.216.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.23.87.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.253.45.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.58.182.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.175.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.189.141.106": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,15 +32,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-4.kihsuyhf8jkiugsxb.cfd": {
+    "178.253.45.107": {
       "status": "down",
       "rtt_ms": null
     },
-    "ch-1.kihsuyhf8jkiugsxb.cfd": {
+    "103.75.119.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.189.141.104": {
+    "77.83.198.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.58.41.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.42.39.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.189.141.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.23.87.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.98.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ro-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,11 +84,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "kamaz1.api3-max.ru": {
+    "185.204.171.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "parta3.api3-max.ru": {
+    "147.45.61.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.189.129.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.223.57.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.189.141.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.210.124.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.189.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.larpvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "clrpbqwolexxn.cfooov.xyz": {
       "status": "down",
       "rtt_ms": null
     }
