@@ -1,34 +1,26 @@
 {
-  "last_update": "2026-09-05T17:36:42.754081",
-  "total": 18,
+  "last_update": "2026-09-05T19:27:41.013887",
+  "total": 9,
   "up": 0,
-  "down": 18,
+  "down": 9,
   "results": {
-    "sie824.node2.top": {
+    "31.59.150.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "web-production-6ce21.up.railway.app": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "web-production-624e95.up.railway.app": {
+    "applecamay.trexnet.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "46.149.78.59": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-central-de-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.244.90.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.12.175": {
+    "31.76.120.96": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,39 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.210.124.162": {
+    "195.162.69.203": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-west-nl-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.255.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-central-pl-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "155.103.156.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-north-sw-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.21.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "static.onevanet.ir": {
+    "cl.nigali.ir": {
       "status": "down",
       "rtt_ms": null
     }
