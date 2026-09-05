@@ -1,74 +1,42 @@
 {
-  "last_update": "2026-09-05T15:41:16.352214",
-  "total": 68,
+  "last_update": "2026-09-05T17:36:42.754081",
+  "total": 18,
   "up": 0,
-  "down": 68,
+  "down": 18,
   "results": {
-    "172.67.198.236": {
+    "sie824.node2.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "65.109.238.140": {
+    "web-production-6ce21.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.85.121": {
+    "web-production-624e95.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.8.136": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.27.240": {
+    "eu-central-de-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.185.142": {
+    "103.244.90.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.61.233.142": {
+    "2.27.12.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.185.131": {
+    "151.101.69.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.19.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.67.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.46.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.50.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.223.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52feebe7c880.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.66": {
+    "eu-north-fi-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,203 +44,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.201.67.58": {
+    "eu-west-nl-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
-    "xpymharpubz1.azangooo.ir": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.214.165": {
+    "2.26.255.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.154.230": {
+    "eu-central-pl-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.149.78.59": {
+    "155.103.156.60": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.41.227": {
+    "eu-north-sw-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.70.21": {
+    "216.167.21.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.157.235.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.94.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.17.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.108.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.173.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.246.229.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.167.24.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.45.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.145.43.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.148.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uwu.blueknightnet.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.127.121.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.69.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.217.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.53.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.239.126.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.171.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.205.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.210.36.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.32.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f9079ac3c274.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de01.gotosvo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gevip.larpvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.17.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.29.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.65.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.195.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv02.gotosvo.com": {
+    "static.onevanet.ir": {
       "status": "down",
       "rtt_ms": null
     }
