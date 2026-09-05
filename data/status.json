@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-09-05T21:26:50.860542",
-  "total": 19,
+  "last_update": "2026-09-05T23:04:09.222381",
+  "total": 21,
   "up": 0,
-  "down": 19,
+  "down": 21,
   "results": {
-    "31.76.113.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.124.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.21.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.255.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.81.252.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-north-fi-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.150.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-central-pl-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.42.102.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.201.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.209.128": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,7 +12,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "littoral.appagent.net": {
+    "31.76.113.212": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.149.78.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sulgx-panel-production-63ee.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.167.21.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.68.216.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.255.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.171.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.150.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.189.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-north-fi-1.hanvpn.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.201.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-central-pl-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +72,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mz.hkychina.com": {
+    "xn--memeshupshop-vl56koa410enom.rekmiva.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.darqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "static.onevanet.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.204.169.127": {
       "status": "down",
       "rtt_ms": null
     }
