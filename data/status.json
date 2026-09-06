@@ -1,86 +1,18 @@
 {
-  "last_update": "2026-09-06T21:47:41.305217",
-  "total": 22,
+  "last_update": "2026-09-06T23:18:17.157070",
+  "total": 35,
   "up": 0,
-  "down": 22,
+  "down": 35,
   "results": {
-    "138.124.28.79": {
+    "partaa1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.0.236": {
+    "89.125.112.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.27.252.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fcs013.getdcz.me": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.162.69.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.62.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.238.55.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.228.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.0.184.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.17.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.204.171.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.249.200.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.15.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195-162-69-203.sslip.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "littoral.appagent.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cl.nigali.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro2.hx9.ir": {
+    "89.106.206.57": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,7 +20,127 @@
       "status": "down",
       "rtt_ms": null
     },
-    "partaa1.api3-max.ru": {
+    "94.228.219.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.238.54.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.238.55.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.27.252.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.28.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.15.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fcs013.getdcz.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cl.nigali.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-5e9d986a2c.meow.ac": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-4af1782938.meow.ac": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node44.raduin.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.5.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.routeliora.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.89.217.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.228.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.60.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.86.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "littoral.appagent.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trde.meow.ac": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.36.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl6.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.248.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "e080c86cf8.meow.ac": {
       "status": "down",
       "rtt_ms": null
     }
