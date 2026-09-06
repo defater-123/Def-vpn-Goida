@@ -1,9 +1,33 @@
 {
-  "last_update": "2026-09-06T19:50:58.056290",
-  "total": 23,
+  "last_update": "2026-09-06T21:47:41.305217",
+  "total": 22,
   "up": 0,
-  "down": 23,
+  "down": 22,
   "results": {
+    "138.124.28.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.27.252.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fcs013.getdcz.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.162.69.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.62.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "62.238.55.43": {
       "status": "down",
       "rtt_ms": null
@@ -12,23 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.15.143": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "62.238.54.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.17.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.249.200.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.28.79": {
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,31 +48,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.0.236": {
+    "91.193.17.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.167.27.101": {
+    "185.204.171.221": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "173.249.200.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.5.64": {
+    "64.49.15.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.62.250": {
+    "195-162-69-203.sslip.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl5.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fcs013.getdcz.me": {
+    "littoral.appagent.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,31 +76,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cze-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "partaa1.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-0001.api.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "fin1.apexvpn.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.27.252.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.219.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "partaa1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     }
