@@ -1,50 +1,10 @@
 {
-  "last_update": "2026-09-05T23:04:09.222381",
-  "total": 21,
+  "last_update": "2026-09-06T00:52:52.963029",
+  "total": 14,
   "up": 0,
-  "down": 21,
+  "down": 14,
   "results": {
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.33.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "46.149.78.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sulgx-panel-production-63ee.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.167.21.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.68.216.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.255.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.39.171.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.150.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,23 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "eu-north-fi-1.hanvpn.biz": {
+    "151.101.69.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "it.superbuba.top": {
+    "185.204.169.127": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.201.33": {
+    "185.189.47.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-central-pl-1.hanvpn.biz": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "cl.nigali.ir": {
+    "18.239.134.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.219.180": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,15 +40,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "app.horqen.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nl.darqela.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "static.onevanet.ir": {
+    "cl.nigali.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.204.169.127": {
+    "mz.hkychina.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld-0001.api.packet-drop-society.net": {
       "status": "down",
       "rtt_ms": null
     }
