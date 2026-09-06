@@ -1,62 +1,22 @@
 {
-  "last_update": "2026-09-06T17:57:23.850415",
-  "total": 43,
+  "last_update": "2026-09-06T19:50:58.056290",
+  "total": 23,
   "up": 0,
-  "down": 43,
+  "down": 23,
   "results": {
-    "134.65.57.72": {
+    "62.238.55.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "92.5.225.187": {
+    "132.243.228.209": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.239.134.69": {
+    "64.49.15.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.182.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.69.195.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.9.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.249.200.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.210.36.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.19.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.106.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.254.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
+    "62.238.54.59": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,43 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.65.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn7-02.cdn-vkvideo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl4.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.162.69.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.155.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.248.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.5.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.62.250": {
+    "173.249.200.123": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,55 +32,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.249.178": {
+    "141.0.184.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.37.233": {
+    "172.66.0.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "hk6-r.link-t7.com": {
+    "216.167.27.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "149.130.188.248": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.86.127": {
+    "144.31.5.64": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.217.240": {
+    "31.76.62.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.197.20": {
+    "pl5.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf.777791.xyz": {
+    "fcs013.getdcz.me": {
       "status": "down",
       "rtt_ms": null
     },
-    "x9f2.guiming.net": {
+    "cl.nigali.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.36.26": {
+    "cze-01.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "uwu.blueknightnet.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195-162-69-203.sslip.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mz.hkychina.com": {
+    "partaa1.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,15 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "fin1.apexvpn.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.152.64": {
+    "37.27.252.18": {
       "status": "down",
       "rtt_ms": null
     },
-    "65.109.179.105": {
+    "151.101.69.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro2.hx9.ir": {
       "status": "down",
       "rtt_ms": null
     }
