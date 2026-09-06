@@ -1,102 +1,22 @@
 {
-  "last_update": "2026-09-06T09:26:03.199222",
-  "total": 43,
+  "last_update": "2026-09-06T12:58:31.192994",
+  "total": 56,
   "up": 0,
-  "down": 43,
+  "down": 56,
   "results": {
-    "150.241.88.112": {
+    "198.44.36.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.2.148": {
+    "172.67.185.131": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.177.73.152": {
+    "172.67.217.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.83.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ed633af1-tl4g00-tqx9ef-1k0yf.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "e1e7c7b8-tl4g00-tnt75r-1k8ga.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "564d4e56-tl4g00-tzh357-1tco3.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "afe9ba9d-tl4g00-to0mym-z93q.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "6ff2cd34-tl4g00-tr9h64-1f1f1.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cl.nigali.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro2.hx9.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mz.hkychina.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-0001.api.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.69.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "555ceb14-tl4g00-tv7zgh-1ijh5.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d77faecf-tl4g00-tnsc3a-1f0gu.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1ba01fa4-tl4g00-tny186-4lg6.hk3.hyhuawei.com": {
+    "172.67.198.236": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,11 +24,179 @@
       "status": "down",
       "rtt_ms": null
     },
+    "94.228.219.183": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccs2g.pai50288.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.94.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.29.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.205.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.77.174.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.223.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.214.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "65.109.238.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.122.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.8.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.69.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.185.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "335db083c281.fuhuovps.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.195.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.233.219.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "94.228.219.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "58.153.149.33": {
+    "172.67.148.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.179.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.210.36.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.67.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.246.229.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.98.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.6.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.27.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.139.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.154.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.41.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "x9f2.guiming.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f9079ac3c274.fuhuovps.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fsn1.nordlinkcloud.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cl.nigali.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld-0001.api.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.32.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.219.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.16.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.46.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.51.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.11.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.173.191": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,63 +204,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8e799f0d-tl4g00-truoje-1uni.hk3.hyhuawei.com": {
+    "104.21.45.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "04a12bf4-tl4g00-ttxkqc-e06r.hk3.hyhuawei.com": {
+    "52feebe7c880.fuhuovps.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.228.219.183": {
+    "uptime.minooman.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "b1bf7334-tl4g00-tv7dx2-py5w.hk3.hyhuawei.com": {
+    "9e6ca91dc282.fuhuovps.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "zv2pbq.syncpointbase.online": {
+    "dc914236c79.fuhuovps.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d1ffd3e0-tl4g00-ts9zoa-1slop.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3d71be18-tl4g00-twnp5a-ahsb.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi-6.kihsuyhf8jkiugsxb.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f070a8ea-tl4g00-u5ip77-duku.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c17a6c0c-tl4g00-tpaqgu-1smhu.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.63.169.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.103.56": {
+    "pro2.hx9.ir": {
       "status": "down",
       "rtt_ms": null
     }
