@@ -1,26 +1,14 @@
 {
-  "last_update": "2026-09-06T12:58:31.192994",
-  "total": 56,
+  "last_update": "2026-09-06T15:57:41.398788",
+  "total": 17,
   "up": 0,
-  "down": 56,
+  "down": 17,
   "results": {
-    "198.44.36.41": {
+    "138.124.86.127": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.185.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.217.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.198.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.184.122": {
+    "173.249.200.123": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,67 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ccs2g.pai50288.uk": {
+    "31.76.62.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.94.41": {
+    "144.31.2.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.29.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.205.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.77.174.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.223.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.214.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "65.109.238.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.122.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.8.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.69.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.185.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "335db083c281.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.195.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.233.219.201": {
+    "151.101.69.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,79 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.148.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.179.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.210.36.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.67.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.246.229.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.98.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.6.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.27.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.154.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.41.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "x9f2.guiming.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f9079ac3c274.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fsn1.nordlinkcloud.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cl.nigali.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-0001.api.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.32.105": {
+    "91.193.17.234": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,55 +40,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.16.23": {
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.46.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.51.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.11.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.173.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.119.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.45.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "52feebe7c880.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uptime.minooman.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "9e6ca91dc282.fuhuovps.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dc914236c79.fuhuovps.xyz": {
+    "nl5.freekeysh110.online": {
       "status": "down",
       "rtt_ms": null
     },
     "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn7-02.cdn-vkvideo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cl.nigali.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin1.apexvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld-0001.api.packet-drop-society.net": {
       "status": "down",
       "rtt_ms": null
     }
