@@ -1,110 +1,14 @@
 {
-  "last_update": "2026-09-07T12:23:12.754390",
-  "total": 41,
+  "last_update": "2026-09-07T17:47:05.015520",
+  "total": 12,
   "up": 0,
-  "down": 41,
+  "down": 12,
   "results": {
-    "147.182.212.232": {
+    "89.105.206.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.164.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.58.180.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "brightharbor.download": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.36.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.84.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "129.154.192.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.222.2.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.154.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.88.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.210.36.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.239.134.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.70.56.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ae.209qu4892fh8934.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faq2.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "acckrb.2000601.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "itarmy.com.ua": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin1.apexvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.148.241.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.37.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "65.109.179.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.5.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.145.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.46.35": {
+    "102.211.56.29": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,59 +16,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.5.163": {
+    "195.58.46.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.70.21": {
+    "5.157.10.146": {
       "status": "down",
       "rtt_ms": null
     },
-    "149.130.188.248": {
+    "158.94.216.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.182.18": {
+    "78.129.208.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "38.175.203.11": {
+    "151.242.168.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "45.9.168.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.epicgames.com": {
+    "tun.trt1379.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "hys22.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.58.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr2.wba-pn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mz.hkychina.com": {
+    "ae.209qu4892fh8934.live": {
       "status": "down",
       "rtt_ms": null
     },
     "nld-0001.api.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl4.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.149.31.117": {
       "status": "down",
       "rtt_ms": null
     }
