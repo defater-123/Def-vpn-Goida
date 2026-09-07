@@ -1,26 +1,18 @@
 {
-  "last_update": "2026-09-06T23:18:17.157070",
-  "total": 35,
+  "last_update": "2026-09-07T01:08:30.895219",
+  "total": 46,
   "up": 0,
-  "down": 35,
+  "down": 46,
   "results": {
-    "partaa1.api3-max.ru": {
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.112.116": {
+    "ae.209qu4892fh8934.live": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.106.206.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.219.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.219.177": {
+    "trde.meow.ac": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,15 +20,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "62.238.55.43": {
+    "144.31.5.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.27.252.18": {
+    "89.125.112.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.60.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.38.182.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.111.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.69.253": {
       "status": "down",
       "rtt_ms": null
     },
     "89.125.112.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cl.nigali.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trpsg20.horlutr.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nld-0001.api.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-5e9d986a2c.meow.ac": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin1.apexvpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi2.routeliora.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,27 +92,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.15.143": {
+    "91.193.17.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.112.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fcs013.getdcz.me": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cl.nigali.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro2.hx9.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-5e9d986a2c.meow.ac": {
+    "31.76.62.250": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,39 +104,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node44.raduin.online": {
+    "18.239.134.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.5.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.routeliora.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.89.217.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.228.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.60.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.236": {
+    "89.125.112.116": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,31 +116,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.35": {
+    "144.31.5.64": {
       "status": "down",
       "rtt_ms": null
     },
-    "littoral.appagent.net": {
+    "89.125.112.115": {
       "status": "down",
       "rtt_ms": null
     },
-    "trde.meow.ac": {
+    "172.67.222.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.36.26": {
+    "173.249.200.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl6.moritech.net": {
+    "163.128.99.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.248.234": {
+    "node44.raduin.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mz.hkychina.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl4.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
     "e080c86cf8.meow.ac": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.89.217.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.77.56.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.167.27.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.219.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.184.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.sahanwickramasinghe.me": {
       "status": "down",
       "rtt_ms": null
     }
