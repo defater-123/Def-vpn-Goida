@@ -1,10 +1,54 @@
 {
-  "last_update": "2026-09-07T20:51:19.692386",
-  "total": 24,
+  "last_update": "2026-09-07T23:05:49.059408",
+  "total": 32,
   "up": 0,
-  "down": 24,
+  "down": 32,
   "results": {
-    "87.251.17.10": {
+    "87.251.17.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.241.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-west-nl-1.hanvpn.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "unlimited.gruztrack.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apkav-5.bosx.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,7 +56,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.250": {
+    "104.165.205.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.17.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.167.24.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apkaz-2.bosx.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.94.216.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.239.126.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.43": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,63 +108,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.157.10.146": {
+    "194.48.250.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.23.207.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.83.31.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "littoral.appagent.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "unlimited.gruztrack.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "apkav-5.bosx.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv02.gotosvo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cze-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro2.hx9.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cna.caroptions.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-0001.api.packet-drop-society.net": {
+    "193.227.99.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,15 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.219": {
+    "104.165.205.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.48.250.8": {
+    "104.165.205.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-west-nl-1.hanvpn.biz": {
+    "apkav-1.bosx.net": {
       "status": "down",
       "rtt_ms": null
     }
