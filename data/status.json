@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-09-07T17:47:05.015520",
-  "total": 12,
+  "last_update": "2026-09-07T20:51:19.692386",
+  "total": 24,
   "up": 0,
-  "down": 12,
+  "down": 24,
   "results": {
-    "89.105.206.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "102.211.56.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.23.207.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.46.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.157.10.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "158.94.216.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.129.208.44": {
+    "87.251.17.10": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +12,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.9.168.17": {
+    "104.165.205.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "tun.trt1379.site": {
+    "45.157.235.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "ae.209qu4892fh8934.live": {
+    "89.105.206.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.157.10.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "66.23.207.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.83.31.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "littoral.appagent.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "unlimited.gruztrack.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apkav-5.bosx.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lv02.gotosvo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cze-01.node.lumixnet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pro2.hx9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cna.caroptions.ir": {
       "status": "down",
       "rtt_ms": null
     },
     "nld-0001.api.packet-drop-society.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.211.56.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-west-nl-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     }
