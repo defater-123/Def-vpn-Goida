@@ -1,14 +1,18 @@
 {
-  "last_update": "2026-09-08T21:05:52.350210",
-  "total": 5,
+  "last_update": "2026-09-08T23:21:15.559432",
+  "total": 10,
   "up": 0,
-  "down": 5,
+  "down": 10,
   "results": {
-    "37.46.196.84": {
+    "212.41.13.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "v2ray.simspeedup.com": {
+    "eu-central-de-3.hanvpn.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.46.196.84": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,11 +20,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "che01plrhy01.tcp-reset-club.net": {
+    "31.77.111.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "rou0001ntrhy01.tcp-reset-club.net": {
+    "104.165.205.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu-west-nl-2.hanvpn.biz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz.cloudtechone.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.cloudtechone.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "che01plrhy01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
