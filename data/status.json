@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-09-08T18:04:23.498493",
-  "total": 9,
+  "last_update": "2026-09-08T21:05:52.350210",
+  "total": 5,
   "up": 0,
-  "down": 9,
+  "down": 5,
   "results": {
-    "95.111.197.114": {
+    "37.46.196.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "206.71.158.124": {
+    "v2ray.simspeedup.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.232.57.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.139.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.128.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.129.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.130.158": {
+    "eu-north-sw-1.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
