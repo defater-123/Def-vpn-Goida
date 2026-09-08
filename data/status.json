@@ -1,154 +1,18 @@
 {
-  "last_update": "2026-09-08T05:55:48.376492",
-  "total": 37,
+  "last_update": "2026-09-08T10:14:00.939575",
+  "total": 3,
   "up": 0,
-  "down": 37,
+  "down": 3,
   "results": {
-    "2.26.139.66": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.137.182.98": {
+    "31.131.255.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.49.38.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.129.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.208.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.232.57.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.130.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.233.39.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.194.149.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.128.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.227.99.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu-west-nl-1.hanvpn.biz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.8.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.3.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "defaultenginedimly.rivetpress.me": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.7.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d77faecf-tl4g00-tnsc3a-1f0gu.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "family.bucket.6.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.157.10.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.135.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.38.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.241.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.23.207.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.238.133.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "apkav-5.bosx.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cribkisserevict.indigoyarn.art": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.214.87": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl01.keyinvest.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.cz.teleserch.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "littoral.appagent.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.larpvpn.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pro2.hx9.ir": {
+    "156.248.10.58": {
       "status": "down",
       "rtt_ms": null
     }
