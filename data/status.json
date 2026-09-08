@@ -1,22 +1,42 @@
 {
-  "last_update": "2026-09-08T14:31:43.934282",
-  "total": 4,
+  "last_update": "2026-09-08T18:04:23.498493",
+  "total": 9,
   "up": 0,
-  "down": 4,
+  "down": 9,
   "results": {
-    "222.167.246.180": {
+    "95.111.197.114": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.173.146.146": {
+    "206.71.158.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.192.49.220": {
+    "152.232.57.100": {
       "status": "down",
       "rtt_ms": null
     },
-    "213.21.250.193": {
+    "2.26.139.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.128.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.129.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.130.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "che01plrhy01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rou0001ntrhy01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
