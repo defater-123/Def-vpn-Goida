@@ -1,134 +1,74 @@
 {
-  "last_update": "2026-09-09T06:08:12.646237",
-  "total": 32,
+  "last_update": "2026-09-09T11:16:18.196067",
+  "total": 17,
   "up": 0,
-  "down": 32,
+  "down": 17,
   "results": {
-    "212.192.13.172": {
+    "freshjuniper.download": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.87.59.9": {
+    "104.19.50.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.87.24.5": {
+    "172.66.1.247": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.87.59.6": {
+    "brightharbor.download": {
       "status": "down",
       "rtt_ms": null
     },
-    "200.165.226.238": {
+    "104.17.118.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "205.237.109.176": {
+    "104.17.177.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.30": {
+    "104.19.146.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.34.178.120": {
+    "8.39.125.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.213.28": {
+    "45.74.158.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.28.67.55": {
+    "104.17.148.65": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.71.219.188": {
+    "104.17.112.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.129.186.205": {
+    "104.17.210.74": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.126.7": {
+    "37.46.199.235": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.87.24.166": {
+    "195.216.168.158": {
       "status": "down",
       "rtt_ms": null
     },
-    "eu-central-de2.hanvpn.biz": {
+    "de-four.online-vpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "salavati.shompolexy.shop": {
+    "nl-two.online-vpn.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "de.cloudtechone.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "che01plrhy01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rou0001ntrhy01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nld-0001.api.packet-drop-society.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.96.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.236.255.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.87.24.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.159.79.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.147.245.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.62.194.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.199.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.246.185.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "98.142.253.211": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ir-misk.caroptionz.ir": {
+    "swe-two.online-vpn.online": {
       "status": "down",
       "rtt_ms": null
     }
