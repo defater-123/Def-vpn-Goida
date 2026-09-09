@@ -1,38 +1,62 @@
 {
-  "last_update": "2026-09-09T01:18:41.040986",
-  "total": 14,
+  "last_update": "2026-09-09T06:08:12.646237",
+  "total": 32,
   "up": 0,
-  "down": 14,
+  "down": 32,
   "results": {
-    "178.236.255.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.159.79.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.96.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.172.39.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "212.192.13.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.41": {
+    "194.87.59.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.199.182": {
+    "185.87.24.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.111.197.114": {
+    "194.87.59.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.226.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.109.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.34.178.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.213.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.28.67.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.71.219.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.129.186.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.87.24.166": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +64,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "channel-linevpnco-production-169e.up.railway.app": {
+    "salavati.shompolexy.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "family.bucket.9.kfc-520.com": {
+    "de.cloudtechone.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +76,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "rou0001ntrhy01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nld-0001.api.packet-drop-society.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "rou0001ntrhy01.tcp-reset-club.net": {
+    "217.60.96.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.236.255.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.87.24.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.159.79.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.147.245.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.62.194.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.199.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.246.185.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "98.142.253.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ir-misk.caroptionz.ir": {
       "status": "down",
       "rtt_ms": null
     }
