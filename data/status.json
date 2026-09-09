@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-09-09T15:11:22.225840",
-  "total": 16,
+  "last_update": "2026-09-09T18:32:58.154492",
+  "total": 7,
   "up": 0,
-  "down": 16,
+  "down": 7,
   "results": {
-    "31.76.63.230": {
+    "89.124.251.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.86.49.57": {
+    "50.7.249.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,15 +16,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "7306ab60-tla000-tlvr2y-1imi4.hk3.hyhuawei.com": {
+    "45.135.194.197": {
       "status": "down",
       "rtt_ms": null
     },
-    "e283de09-tla000-u1vxv2-v3c2.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5c8575f4-tl4g00-u1vxv2-v3c2.hk3.hyhuawei.com": {
+    "8.6.112.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,39 +28,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "19a3f02e-tla000-tl6lcj-tng5.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.210.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "6342844e-tla000-tlpfci-1jdha.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c302b802-tla000-u10a65-1os43.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ac35c80b-tla000-tpmc23-1s3lb.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fe1dcec0-tla000-tonrmx-8n27.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a95a660c-tla000-tpw4i4-1pckg.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "viper-21.moriarty-web.com": {
+    "2.26.0.5": {
       "status": "down",
       "rtt_ms": null
     }
