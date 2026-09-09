@@ -1,74 +1,70 @@
 {
-  "last_update": "2026-09-09T11:16:18.196067",
-  "total": 17,
+  "last_update": "2026-09-09T15:11:22.225840",
+  "total": 16,
   "up": 0,
-  "down": 17,
+  "down": 16,
   "results": {
+    "31.76.63.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.86.49.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.96.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "7306ab60-tla000-tlvr2y-1imi4.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "e283de09-tla000-u1vxv2-v3c2.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5c8575f4-tl4g00-u1vxv2-v3c2.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "freshjuniper.download": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.50.227": {
+    "19a3f02e-tla000-tl6lcj-tng5.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.1.247": {
+    "193.233.210.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "brightharbor.download": {
+    "6342844e-tla000-tlpfci-1jdha.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.118.35": {
+    "c302b802-tla000-u10a65-1os43.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.177.165": {
+    "ac35c80b-tla000-tpmc23-1s3lb.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.146.58": {
+    "fe1dcec0-tla000-tonrmx-8n27.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.39.125.70": {
+    "a95a660c-tla000-tpw4i4-1pckg.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.74.158.180": {
+    "5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.148.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.112.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.210.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.46.199.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.216.168.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-four.online-vpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-two.online-vpn.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swe-two.online-vpn.online": {
+    "viper-21.moriarty-web.com": {
       "status": "down",
       "rtt_ms": null
     }
