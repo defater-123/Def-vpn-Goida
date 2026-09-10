@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-09-10T20:09:27.268672",
-  "total": 17,
+  "last_update": "2026-09-10T22:32:25.629408",
+  "total": 18,
   "up": 0,
-  "down": 17,
+  "down": 18,
   "results": {
-    "2.27.209.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.13.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.109.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.66.24.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.66.24.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.66.24.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.226.174": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,15 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.88.150": {
+    "69.46.46.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.137.165.160": {
+    "195.66.24.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.66.24.172": {
+    "31.59.209.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.34.132.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.169": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,23 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.152.65.157": {
+    "195.66.24.168": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.254.4.157": {
+    "195.66.24.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.137.55": {
+    "195.66.24.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "en-new.moriarty-web.com": {
+    "46.148.235.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "shop.theawesomenpl.ru": {
+    "2.27.209.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.238.232.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se-xh01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-plr-xh-pilot.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.lunoa.ru": {
       "status": "down",
       "rtt_ms": null
     }
