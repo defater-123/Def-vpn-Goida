@@ -1,26 +1,22 @@
 {
-  "last_update": "2026-09-10T14:25:53.642787",
-  "total": 5,
+  "last_update": "2026-09-10T17:45:25.752966",
+  "total": 4,
   "up": 0,
-  "down": 5,
+  "down": 4,
   "results": {
-    "211.75.210.155": {
+    "85.137.165.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "203.69.11.79": {
+    "109.238.95.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-new-ded.moritech.net": {
+    "freeshka.i-love-russia.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl-new-ded.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freshjuniper.download": {
+    "se-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
