@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-09-10T01:02:22.697109",
-  "total": 9,
+  "last_update": "2026-09-10T05:56:03.894977",
+  "total": 17,
   "up": 0,
-  "down": 9,
+  "down": 17,
   "results": {
-    "193.233.210.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "211.75.210.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.194.132.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.189.27.148": {
+    "104.194.149.96": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,15 +12,63 @@
       "status": "down",
       "rtt_ms": null
     },
+    "107.189.27.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "193.148.253.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.194.134.126": {
+    "188.132.232.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "freeforall.nexavps.ir": {
+    "107.189.27.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "viper-24.moriarty-web.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "abvro.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "abvro2.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-new.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "abvro1.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "viper-5.moriarty-web.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tur.zavqeron.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "viper-8.moriarty-web.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cze-01.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     }
