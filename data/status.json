@@ -1,10 +1,30 @@
 {
-  "last_update": "2026-09-09T23:12:04.650776",
-  "total": 6,
+  "last_update": "2026-09-10T01:02:22.697109",
+  "total": 9,
   "up": 0,
-  "down": 6,
+  "down": 9,
   "results": {
-    "50.7.249.170": {
+    "193.233.210.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "211.75.210.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.132.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.189.27.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.189.25.18": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,19 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.124.251.218": {
+    "104.194.134.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.87.24.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.0.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freshjuniper.download": {
+    "freeforall.nexavps.ir": {
       "status": "down",
       "rtt_ms": null
     }
