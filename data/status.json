@@ -1,34 +1,26 @@
 {
-  "last_update": "2026-09-10T10:14:01.131427",
-  "total": 7,
+  "last_update": "2026-09-10T14:25:53.642787",
+  "total": 5,
   "up": 0,
-  "down": 7,
+  "down": 5,
   "results": {
-    "viper-26.moriarty-web.com": {
+    "211.75.210.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.218.16.145": {
+    "203.69.11.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.72.225": {
+    "at-new-ded.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.204.169.163": {
+    "pl-new-ded.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "viper-25.moriarty-web.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "viper-7.moriarty-web.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node.erek.space": {
+    "freshjuniper.download": {
       "status": "down",
       "rtt_ms": null
     }
