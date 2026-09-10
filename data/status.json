@@ -1,22 +1,74 @@
 {
-  "last_update": "2026-09-10T17:45:25.752966",
-  "total": 4,
+  "last_update": "2026-09-10T20:09:27.268672",
+  "total": 17,
   "up": 0,
-  "down": 4,
+  "down": 17,
   "results": {
+    "2.27.209.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.49.13.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.109.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.226.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.66.24.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.88.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "85.137.165.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.238.95.39": {
+    "195.66.24.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "freeshka.i-love-russia.online": {
+    "45.90.13.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "se-xh01.tcp-reset-club.net": {
+    "45.152.65.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.4.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.137.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "en-new.moriarty-web.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "shop.theawesomenpl.ru": {
       "status": "down",
       "rtt_ms": null
     }
