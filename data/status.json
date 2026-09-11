@@ -1,50 +1,30 @@
 {
-  "last_update": "2026-09-11T19:52:13.489661",
-  "total": 21,
+  "last_update": "2026-09-11T22:03:20.366235",
+  "total": 12,
   "up": 0,
-  "down": 21,
+  "down": 12,
   "results": {
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.40.195.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "46.28.71.247": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.169.118": {
+    "169.40.1.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.137.243.243": {
+    "84.32.185.127": {
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.26.79": {
+    "170.114.52.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.216.57.220": {
+    "82.118.16.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.105.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.31.169.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.137.234.211": {
+    "84.32.177.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,19 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "179.253.237.28": {
+    "151.242.169.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "cdn15sw.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn7tw.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn12usa.goonars.com": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,19 +44,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cdn6.goonars.com": {
+    "mst1ndch.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "cze-02.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cfyes.ziyoufly.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.239": {
+    "cdn15sw.goonars.com": {
       "status": "down",
       "rtt_ms": null
     }
