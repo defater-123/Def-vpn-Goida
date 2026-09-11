@@ -1,50 +1,90 @@
 {
-  "last_update": "2026-09-11T17:22:35.343784",
-  "total": 11,
+  "last_update": "2026-09-11T19:52:13.489661",
+  "total": 21,
   "up": 0,
-  "down": 11,
+  "down": 21,
   "results": {
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.51.10.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.40.195.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.28.71.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.137.243.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.57.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.105.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.31.169.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.137.234.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "47.79.32.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "38.207.178.88": {
+    "179.253.237.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.126.229": {
+    "cdn15sw.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.216.148": {
+    "cdn7tw.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.126.230": {
+    "cdn12usa.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "0cd6e0e6-tlheo0-tphvvu-gacy.hk3.hyhuawei.com": {
+    "cdn8tw.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "71b26306-tl4g00-tl42r3-1o8ak.hk3.hyhuawei.com": {
+    "cdn6.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.184.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com": {
+    "cze-02.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     },
     "cfyes.ziyoufly.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.51.10.239": {
       "status": "down",
       "rtt_ms": null
     }
