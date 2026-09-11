@@ -1,26 +1,50 @@
 {
-  "last_update": "2026-09-11T13:50:18.300946",
-  "total": 5,
+  "last_update": "2026-09-11T17:22:35.343784",
+  "total": 11,
   "up": 0,
-  "down": 5,
+  "down": 11,
   "results": {
-    "193.148.253.210": {
+    "47.79.32.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "101.33.80.58": {
+    "38.207.178.88": {
       "status": "down",
       "rtt_ms": null
     },
-    "207.57.135.123": {
+    "162.249.126.229": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.55.15": {
+    "167.104.216.148": {
       "status": "down",
       "rtt_ms": null
     },
-    "179.253.229.57": {
+    "162.249.126.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "0cd6e0e6-tlheo0-tphvvu-gacy.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "71b26306-tl4g00-tl42r3-1o8ak.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.184.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.109.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ed49f9f4-tl4g00-tl54l3-luwe.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfyes.ziyoufly.xyz": {
       "status": "down",
       "rtt_ms": null
     }
