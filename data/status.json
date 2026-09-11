@@ -1,86 +1,30 @@
 {
-  "last_update": "2026-09-11T05:13:24.314368",
-  "total": 33,
+  "last_update": "2026-09-11T09:40:10.311088",
+  "total": 9,
   "up": 0,
-  "down": 33,
+  "down": 9,
   "results": {
-    "64.49.13.77": {
+    "144.31.57.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.66.24.169": {
+    "91.193.59.255": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.137.165.160": {
+    "165.231.99.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.59.209.15": {
+    "207.57.135.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.66.24.171": {
+    "aljha.typeshoes.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.172.104.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.137.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.88.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.152.64.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.90.29.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "14.137.237.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.107.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.238.232.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.137.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "203.69.11.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweden1.banovano.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherlands1.banovano.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gb1.oshost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se-xh01.tcp-reset-club.net": {
+    "eu-north-sw-2.hanvpn.biz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,51 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.66.24.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.66.24.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.21.229.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.135.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.248.166.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.213.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "india.shadowlos.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk1.kramiliantha.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch1.oshost.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-tube-01.stre4m.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ch-plr-xh-pilot.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "connect3.nyxserver.ir": {
+    "se-xh01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
