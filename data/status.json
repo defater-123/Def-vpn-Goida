@@ -1,14 +1,38 @@
 {
-  "last_update": "2026-09-12T00:14:10.841393",
-  "total": 31,
+  "last_update": "2026-09-12T04:33:46.598563",
+  "total": 58,
   "up": 0,
-  "down": 31,
+  "down": 58,
   "results": {
-    "88.216.57.220": {
+    "91.193.58.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.164.249": {
+    "102.177.176.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.143.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.94.52.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.139.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.231.19.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,7 +40,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.169.118": {
+    "5.254.4.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,51 +48,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.107.144.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.135.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.51.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.185.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.95.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.177.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.177.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.222.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn8tw.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
+    "95.181.174.41": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,47 +56,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cdn15sw.goonars.com": {
+    "norway.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "cfyes.ziyoufly.xyz": {
+    "arcturus.yokkastars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.206.119": {
+    "nid3ch.betust.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "cdn7tw.goonars.com": {
+    "roma2.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.26.79": {
+    "fr2.gigobingo.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "169.40.1.62": {
+    "nl13.gigobingo.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.77.97": {
+    "hk.gigobingo.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "61.216.165.233": {
+    "72.56.40.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.237.245": {
+    "170.168.97.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "207.57.133.237": {
+    "194.59.245.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "mst1ndch.goonars.com": {
+    "88.216.57.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.98.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.185.81.65": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,7 +112,127 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nid3ch.betust.net": {
+    "de2.baboon.digital": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "norway-3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cassiopeia.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "norway-4.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lyra.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.72.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ro1.gigobingo.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.148.253.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.4.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfyes.ziyoufly.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "aldebaran.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.135.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.233.39.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn8tw.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn7tw.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nlv.baboon.digital": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.51.10.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.132.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.148.107.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "austria-2.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ei.baboon.digital": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.177.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.208.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma1.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.gigobingo.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca1.gigobingo.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma3.moritech.net": {
       "status": "down",
       "rtt_ms": null
     }
