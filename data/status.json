@@ -1,70 +1,22 @@
 {
-  "last_update": "2026-09-12T19:45:28.909059",
+  "last_update": "2026-09-12T21:44:57.783185",
   "total": 22,
   "up": 0,
   "down": 22,
   "results": {
-    "5.254.4.131": {
+    "31.76.54.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "56.69.159.191": {
+    "13.143.139.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.97.8": {
+    "172.239.239.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.183.215.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.184.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.96.141.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.255.121.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.171.81": {
+    "178.17.53.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,23 +24,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "roma3.moritech.net": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "roma2.moritech.net": {
+    "5.254.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.139.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.96.141.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol2.pinkmoon.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.143.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lith.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mil.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "datpol.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nethgio.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa.demka.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.23.19.25": {
       "status": "down",
       "rtt_ms": null
     },
     "lond.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.9.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.54.56": {
       "status": "down",
       "rtt_ms": null
     }
