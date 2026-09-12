@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-09-11T22:03:20.366235",
-  "total": 12,
+  "last_update": "2026-09-12T00:14:10.841393",
+  "total": 31,
   "up": 0,
-  "down": 12,
+  "down": 31,
   "results": {
-    "46.28.71.247": {
+    "88.216.57.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "169.40.1.62": {
+    "172.67.164.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.185.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.118.16.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.177.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.79.32.249": {
+    "31.31.169.19": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +20,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "201.51.10.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.107.144.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.135.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.51.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.185.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.95.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.177.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.177.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.51.10.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.222.216": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +68,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mst1ndch.goonars.com": {
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn6.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
     "cdn15sw.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfyes.ziyoufly.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.206.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn7tw.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "169.40.1.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.77.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "61.216.165.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.237.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.133.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mst1ndch.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn12usa.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nid3ch.betust.net": {
       "status": "down",
       "rtt_ms": null
     }
