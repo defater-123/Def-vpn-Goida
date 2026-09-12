@@ -1,106 +1,10 @@
 {
-  "last_update": "2026-09-12T15:41:49.106644",
-  "total": 39,
+  "last_update": "2026-09-12T17:49:26.543125",
+  "total": 20,
   "up": 0,
-  "down": 39,
+  "down": 20,
   "results": {
-    "207.57.133.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn6.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.221.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "201.51.10.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.107.166.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.9.135.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.53.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.132.237.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "video2.metka.video": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "video3.metka.video": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma2.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlv.baboon.digital": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma1.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "austria-3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "norway.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "norway-3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.183.215.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,47 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "5.254.4.131": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.251.9.130": {
+    "194.5.248.93": {
       "status": "down",
       "rtt_ms": null
     },
-    "app-ss-57.shopping-spb.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn8tw.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app-sh-173.deep-aispb-analytics.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.255.121.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.171.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "video6.metka.video": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "video.metka.video": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app-ms-35.ecom-ai-solutions.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.140.124": {
+    "roma2.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -156,7 +28,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.54.56": {
+    "178.17.53.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "austria-3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn6.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.128.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma1.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol2.pinkmoon.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "norway.moritech.net": {
       "status": "down",
       "rtt_ms": null
     }
