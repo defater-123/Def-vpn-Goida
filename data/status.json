@@ -1,54 +1,18 @@
 {
-  "last_update": "2026-09-12T12:27:30.472814",
-  "total": 40,
+  "last_update": "2026-09-12T15:41:49.106644",
+  "total": 39,
   "up": 0,
-  "down": 40,
+  "down": 39,
   "results": {
-    "31.76.54.56": {
+    "207.57.133.237": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.177.64": {
+    "89.47.55.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.40.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.51.10.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.143.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.254.205.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "171.22.129.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.59.245.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.57.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.177.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mst1ndch.goonars.com": {
+    "172.239.239.53": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,27 +20,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cdn12usa.goonars.com": {
+    "43.155.221.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "austria-2.moritech.net": {
+    "201.51.10.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "aldebaran.yokkastars.com": {
+    "151.242.169.119": {
       "status": "down",
       "rtt_ms": null
     },
-    "roma1.moritech.net": {
+    "109.107.166.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "lyra.yokkastars.com": {
+    "5.254.4.131": {
       "status": "down",
       "rtt_ms": null
     },
-    "norway.moritech.net": {
+    "3.9.135.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.17.53.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.132.237.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "video2.metka.video": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "video3.metka.video": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,43 +64,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "201.51.10.239": {
+    "nlv.baboon.digital": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "roma1.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.95.244": {
+    "austria-3.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.59.140.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.171.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "austria.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn4ch.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol2.pinkmoon.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.255.121.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cassiopeia.yokkastars.com": {
+    "norway.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,39 +84,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "norway-4.moritech.net": {
+    "18.183.215.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "arcturus.yokkastars.com": {
+    "201.51.10.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.72.206": {
+    "147.78.182.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "norway-2.moritech.net": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "nlv.baboon.digital": {
+    "170.168.99.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "nid3ch.betust.net": {
+    "170.168.97.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "roma3.moritech.net": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-new-ded5.moritech.net": {
+    "54.251.9.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.26.79": {
+    "app-ss-57.shopping-spb.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn8tw.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app-sh-173.deep-aispb-analytics.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.255.121.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.171.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "video6.metka.video": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "video.metka.video": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app-ms-35.ecom-ai-solutions.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.140.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.54.56": {
       "status": "down",
       "rtt_ms": null
     }
