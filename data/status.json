@@ -1,10 +1,14 @@
 {
-  "last_update": "2026-09-12T17:49:26.543125",
-  "total": 20,
+  "last_update": "2026-09-12T19:45:28.909059",
+  "total": 22,
   "up": 0,
-  "down": 20,
+  "down": 22,
   "results": {
-    "201.51.10.240": {
+    "5.254.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.69.159.191": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,51 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.254.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.5.248.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma2.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.53.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "austria-3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn6.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.119": {
+    "18.183.215.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,11 +24,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "207.57.128.138": {
+    "34.80.184.198": {
       "status": "down",
       "rtt_ms": null
     },
-    "roma1.moritech.net": {
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.51.10.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.96.141.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.255.121.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.171.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.119": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,11 +76,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pol2.pinkmoon.pro": {
+    "roma2.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "norway.moritech.net": {
+    "lond.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.251.9.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.54.56": {
       "status": "down",
       "rtt_ms": null
     }
