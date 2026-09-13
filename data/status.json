@@ -1,26 +1,14 @@
 {
-  "last_update": "2026-09-13T15:03:26.288315",
-  "total": 40,
+  "last_update": "2026-09-13T18:09:10.287654",
+  "total": 15,
   "up": 0,
-  "down": 40,
+  "down": 15,
   "results": {
-    "147.78.182.3": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b-balance.avantage.7.s.cdnnow.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.7.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.233.39.9": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,95 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.228.154.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.171.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.9.135.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.87.196.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.248.218.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.83.4.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.133.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.84.56.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "save.the.127-0-0-1.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.248.218.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kama1.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us05.shifor01.life": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.91.65.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.248.219.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.248.219.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.183.215.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.9.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.184.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.69.159.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "av-b-networkbalancer.cdnnow.xyz": {
+    "89.47.55.9": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,7 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "142.248.219.42": {
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "123.253.227.238": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,35 +36,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.87.195.166": {
+    "147.78.182.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.47.55.9": {
+    "45.66.218.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "207.57.131.123": {
+    "dlbgwqqngrjbwan.jiedddym.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.89.253.169": {
+    "89.47.55.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "142.248.218.244": {
+    "62.233.39.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "gate-vde.multihost.127-0-0-1.online": {
+    "170.168.97.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.138.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.248.218.236": {
+    "47.83.173.110": {
       "status": "down",
       "rtt_ms": null
     }
