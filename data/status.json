@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-09-13T01:12:46.577832",
-  "total": 51,
+  "last_update": "2026-09-13T06:07:18.100766",
+  "total": 78,
   "up": 0,
-  "down": 51,
+  "down": 78,
   "results": {
-    "144.31.126.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.192.38.70": {
+    "91.84.115.34": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,71 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mil.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lond.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lith.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.node.katahost.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nethgio.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kama4.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plan.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de31.rockblack.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gang.gayvibe.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.84.115.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.135.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.143.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.184.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.32.8.103": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,91 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.139.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "austria-3.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.3.247.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.69.159.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.224.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.59.255": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "partaa2.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kama1.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-1.lunoa.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.242.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.139.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.23.19.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.53.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa.demka.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "datpol.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.35.81.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma2.moritech.net": {
+    "13.143.137.164": {
       "status": "down",
       "rtt_ms": null
     },
@@ -200,11 +28,291 @@
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.99.8": {
+    "net.mediahappy.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "fin-0001.api.aiagentsbase.link": {
+    "ingest.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy5.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy1.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy3.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fetch.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lond.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mirror.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "img.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sync.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg6.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cr2.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plan.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cr4.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.179.6.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md10.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.78.191.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy2.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gw.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dl.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.109.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg1.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dl.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nethgio.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grid.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cache.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.35.81.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "live.afrolitva.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "link.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roma2.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grid.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.221.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol2.pinkmoon.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy6.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.233.8.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.89.253.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.138.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.242.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.201.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hub.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md7.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy4.nemnogogo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1.lunoa.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg2.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "datpol.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "origin.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg3.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "upload.tbotapi.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kama1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.139.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.32.8.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.154.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "data.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.59.255": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge1.hapapappa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "srv.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md11.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "feed.mediahappy.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.161.174.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "partaa2.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.90.185.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md9.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mil.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cr6.mediacorp.fyi": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg4.mediacorp.fyi": {
       "status": "down",
       "rtt_ms": null
     }
