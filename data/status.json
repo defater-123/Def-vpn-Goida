@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-09-13T20:45:00.206960",
-  "total": 26,
+  "last_update": "2026-09-13T22:37:44.501922",
+  "total": 28,
   "up": 0,
-  "down": 26,
+  "down": 28,
   "results": {
-    "vvvrexnl4c4fo0n90i45.gorvexo.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.233.39.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.248.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.83.173.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.235.168.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.106.207.216": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,59 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "213.176.17.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "163.128.99.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.7.121": {
+    "185.70.199.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.47.55.8": {
+    "162.249.126.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.47.55.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.40.4.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.218.193.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jprbhhzalybqwjok.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.228.154.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.91.138.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.14.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.x8lab.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us05.shifor01.life": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
+    "89.105.206.123": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,15 +40,79 @@
       "status": "down",
       "rtt_ms": null
     },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.138.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.7.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.40.4.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.235.168.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "13.143.137.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.83.4.146": {
+    "131.123.25.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "wwbqwqqnlyydssc.cfooov.xyz": {
+    "us05.shifor01.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "oichweiupfn4weuirfyewuicu90834y57y98v7r87489t4.mexicoguard.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.90.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.233.39.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.233.8.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.228.154.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "arianet.on1a.com": {
       "status": "down",
       "rtt_ms": null
     }
