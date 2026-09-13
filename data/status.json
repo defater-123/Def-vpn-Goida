@@ -1,18 +1,18 @@
 {
-  "last_update": "2026-09-12T23:24:10.360417",
-  "total": 43,
+  "last_update": "2026-09-13T01:12:46.577832",
+  "total": 51,
   "up": 0,
-  "down": 43,
+  "down": 51,
   "results": {
     "144.31.126.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.54.56": {
+    "151.101.109.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.224.154": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,35 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "56.69.159.191": {
+    "85.192.38.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "62.233.39.9": {
+    "31.76.54.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.84.115.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lond.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "datpol.2clash.ru": {
+    "89.47.55.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +44,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-1.lunoa.ru": {
+    "lond.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lith.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.node.katahost.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nethgio.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "est.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kama4.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +72,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "partaa2.api3-max.ru": {
+    "de31.rockblack.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gang.gayvibe.dpdns.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,19 +84,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "roma2.moritech.net": {
+    "91.84.115.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.238.15": {
+    "207.57.135.121": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.192.38.70": {
+    "13.143.143.217": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "34.80.184.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.32.8.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.233.39.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.139.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "austria-3.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.3.247.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.69.159.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.224.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.169.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.59.255": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "partaa2.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kama1.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1.lunoa.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.242.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.139.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.23.19.25": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,75 +180,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "usa.demka.live": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.32.8.103": {
+    "datpol.2clash.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.169.119": {
+    "5.35.81.60": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.109.41": {
+    "roma2.moritech.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.245.242.8": {
+    "94.183.238.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "nethgio.2clash.ru": {
+    "170.168.99.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.80.184.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.139.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn6.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kama4.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lith.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "norway.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roma1.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.9.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.3.247.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kama1.api3-max.ru": {
+    "fin-0001.api.aiagentsbase.link": {
       "status": "down",
       "rtt_ms": null
     }
