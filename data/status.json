@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-09-13T18:09:10.287654",
-  "total": 15,
+  "last_update": "2026-09-13T20:45:00.206960",
+  "total": 26,
   "up": 0,
-  "down": 15,
+  "down": 26,
   "results": {
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.235.168.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "123.253.227.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.137.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.66.218.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dlbgwqqngrjbwan.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
+    "vvvrexnl4c4fo0n90i45.gorvexo.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,11 +12,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.97.8": {
+    "8.209.248.218": {
       "status": "down",
       "rtt_ms": null
     },
     "47.83.173.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.235.168.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.207.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.128.99.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.7.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.40.4.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.218.193.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jprbhhzalybqwjok.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.228.154.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.91.138.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.14.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.x8lab.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us05.shifor01.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.137.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.83.4.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wwbqwqqnlyydssc.cfooov.xyz": {
       "status": "down",
       "rtt_ms": null
     }
