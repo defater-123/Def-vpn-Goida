@@ -1,90 +1,10 @@
 {
-  "last_update": "2026-09-14T00:24:46.488591",
-  "total": 25,
+  "last_update": "2026-09-14T05:10:48.271990",
+  "total": 38,
   "up": 0,
-  "down": 25,
+  "down": 38,
   "results": {
-    "144.31.90.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.228.154.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.176.17.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.233.39.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.50.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.40.4.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.255.227.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.235.168.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.137.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.90.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-waw.dontblockmepls.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
+    "31.185.105.168": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +12,147 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.90.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "147.78.182.4": {
       "status": "down",
       "rtt_ms": null
     },
+    "170.168.97.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.40.4.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.235.168.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.80.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.206.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.255.227.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.137.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.161.174.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.110.117.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.90.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "time.is": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "gang.gayvibe.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fin-0001.api.aiagentsbase.link": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.2.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.130.208.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.233.39.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.50.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.40.127.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.90.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.176.17.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.90.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.132.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.99.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.135.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge-cz1.lovely.ceo": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-waw.dontblockmepls.com": {
       "status": "down",
       "rtt_ms": null
     }
