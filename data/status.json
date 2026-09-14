@@ -1,94 +1,14 @@
 {
-  "last_update": "2026-09-14T16:32:38.919909",
-  "total": 24,
+  "last_update": "2026-09-14T20:32:08.008387",
+  "total": 29,
   "up": 0,
-  "down": 24,
+  "down": 29,
   "results": {
-    "146.75.119.82": {
+    "ee.cdn-update.rutube.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.61.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.106.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.238.126.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.211.152.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.165.234.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.112.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.83.173.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.26.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.74.3.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.14.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.144.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.83.4.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.171.133.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "carina.yokkastars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.76.155.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
+    "54.255.121.205": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,7 +16,107 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.62.71": {
+    "151.101.109.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.68.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.22.240.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.95.169.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.123.25.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "203.202.232.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.148.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.227.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.206.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.108.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.254.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.124.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.138.100.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "carina.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.231.19.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.85.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.150.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.144.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.33.8.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.5.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.104.10.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1sg001.344211.cc": {
       "status": "down",
       "rtt_ms": null
     }
