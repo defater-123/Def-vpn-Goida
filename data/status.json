@@ -1,62 +1,10 @@
 {
-  "last_update": "2026-09-14T20:32:08.008387",
-  "total": 29,
+  "last_update": "2026-09-14T23:26:51.959208",
+  "total": 39,
   "up": 0,
-  "down": 29,
+  "down": 39,
   "results": {
-    "ee.cdn-update.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.255.121.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.112.68.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.26.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.22.240.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.169.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.25.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "203.202.232.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.148.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.227.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.124": {
+    "72.56.106.245": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,19 +12,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.254.50": {
+    "hinet1.2yly.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.124.104": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.138.100.20": {
+    "47.83.173.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
+    "89.105.206.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.43.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.80.184.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.112.71.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.14.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.112.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.188.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38.180.44.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.123.25.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.39.247.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.155.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.248.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.187.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,23 +84,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "www.wto.org": {
+    "31.76.91.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.231.19.51": {
+    "47.80.62.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.85.131": {
+    "213.165.63.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.59.150.147": {
+    "144.225.53.141": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.219.144.195": {
+    "5.230.172.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.109.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.246.94.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,15 +128,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.5.46": {
+    "47.76.172.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.104.10.172": {
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.251.9.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.148.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.61.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.184.27": {
       "status": "down",
       "rtt_ms": null
     },
     "1sg001.344211.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
       "status": "down",
       "rtt_ms": null
     }
