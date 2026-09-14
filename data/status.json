@@ -1,10 +1,90 @@
 {
-  "last_update": "2026-09-14T10:34:58.707890",
-  "total": 33,
+  "last_update": "2026-09-14T16:32:38.919909",
+  "total": 24,
   "up": 0,
-  "down": 33,
+  "down": 24,
   "results": {
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.61.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.106.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.238.126.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.211.152.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.234.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.112.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.83.173.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.26.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.231.19.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.74.3.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.14.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.144.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.83.4.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.171.133.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "carina.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.155.80": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,127 +92,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.90.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.242.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.25.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.47.55.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.169.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.49.38.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.78.182.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.185.81.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.137.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.90.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.90.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.74.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fin-0001.api.aiagentsbase.link": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.7.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.59.255": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.235.168.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.228.154.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.233.39.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.238.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.126.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.87.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.cdn-update.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.cdn-update.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "w7tjfftjdt.vk-maps.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi1.24lunar.ru": {
+    "47.80.62.71": {
       "status": "down",
       "rtt_ms": null
     }
