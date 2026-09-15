@@ -1,34 +1,38 @@
 {
-  "last_update": "2026-09-15T19:53:24.838605",
+  "last_update": "2026-09-15T22:29:45.338887",
   "total": 17,
   "up": 0,
   "down": 17,
   "results": {
-    "151.101.213.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "92.223.118.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.160.62": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.182.44.185": {
+    "usa.superbuba.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.106": {
+    "us-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.251.9.130": {
+    "79.137.203.173": {
       "status": "down",
       "rtt_ms": null
     },
-    "176.124.221.160": {
+    "w7tjfftjdt.vk-maps.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.243": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +40,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.223": {
+    "ee.cdn-update.rutube.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.235.38.85": {
+    "94.183.157.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "au1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-3.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,23 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sg-3.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-3.it-crp.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "au1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usgx.pansellic.ir": {
+    "gang.gayvibe.dpdns.org": {
       "status": "down",
       "rtt_ms": null
     }
