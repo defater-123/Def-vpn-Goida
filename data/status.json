@@ -1,18 +1,22 @@
 {
-  "last_update": "2026-09-15T16:53:58.015235",
-  "total": 12,
+  "last_update": "2026-09-15T19:53:24.838605",
+  "total": 17,
   "up": 0,
-  "down": 12,
+  "down": 17,
   "results": {
-    "172.235.38.85": {
+    "151.101.213.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.211.152.47": {
+    "92.223.118.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "2.27.160.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.182.44.185": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +24,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "54.251.9.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "hk-1.gsafevpnapi.com": {
+    "176.124.221.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +52,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "w7tjfftjdt.vk-maps.net": {
+    "sg-3.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-3.it-crp.ru": {
       "status": "down",
       "rtt_ms": null
     },
     "au1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
