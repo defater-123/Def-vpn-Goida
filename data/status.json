@@ -1,34 +1,14 @@
 {
-  "last_update": "2026-09-15T12:05:31.397971",
-  "total": 24,
+  "last_update": "2026-09-15T16:53:58.015235",
+  "total": 12,
   "up": 0,
-  "down": 24,
+  "down": 12,
   "results": {
-    "162.159.91.222": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "au1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "68.64.179.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.169.54.16": {
+    "8.211.152.47": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,35 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.25.88.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "norw-2.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.9.135.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "18.183.215.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.193.58.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.137.22.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.53.191.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
+    "69.46.46.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,15 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "hk-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us10.zuoai.cf": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,15 +32,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "43.159.12.36": {
+    "w7tjfftjdt.vk-maps.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.222.84.103": {
+    "au1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "itga8.guardora.pro": {
+    "sg-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usgx.pansellic.ir": {
       "status": "down",
       "rtt_ms": null
     }
