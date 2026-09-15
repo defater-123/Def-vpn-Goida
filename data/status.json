@@ -1,10 +1,34 @@
 {
-  "last_update": "2026-09-15T06:40:10.739859",
-  "total": 37,
+  "last_update": "2026-09-15T12:05:31.397971",
+  "total": 24,
   "up": 0,
-  "down": 37,
+  "down": 24,
   "results": {
-    "72.56.106.245": {
+    "162.159.91.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.5.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "au1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.64.179.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.169.54.16": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,143 +36,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "72.56.26.161": {
+    "31.25.88.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.14.8": {
+    "norw-2.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "181.214.147.216": {
+    "3.9.135.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.227.42": {
+    "18.183.215.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.109.53": {
+    "91.193.58.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.74.3.200": {
+    "103.137.22.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.214.152.140": {
+    "92.53.191.141": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.231.18.234": {
+    "54.169.200.246": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.251.17.12": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.94.87": {
+    "159.246.55.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.231.17.131": {
+    "hk-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.48.250.233": {
+    "us10.zuoai.cf": {
       "status": "down",
       "rtt_ms": null
     },
-    "198.46.215.223": {
+    "jp-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.206.124": {
+    "43.159.12.36": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.174.135.250": {
+    "8.222.84.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "1.1.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.curry-load.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nexusmods.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.33.8.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.40.126.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.5.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.148.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.189.26.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.148.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.169.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.230.68.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lith.2clash.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freee-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "teddy.automizely.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "w7tjfftjdt.vk-maps.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t1dn.blazenetwork.ir": {
+    "itga8.guardora.pro": {
       "status": "down",
       "rtt_ms": null
     }
