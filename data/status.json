@@ -1,102 +1,10 @@
 {
-  "last_update": "2026-09-15T01:37:45.612194",
-  "total": 30,
+  "last_update": "2026-09-15T06:40:10.739859",
+  "total": 37,
   "up": 0,
-  "down": 30,
+  "down": 37,
   "results": {
-    "151.101.109.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.14.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.25.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.26.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.74.3.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.76.155.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "helioform.pinecore.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.cdn-update.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.cdn-update.rutube.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "72.56.106.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.69.159.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hinet1.2yly.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.189.26.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ir110.tun.pingirani.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "carina.yokkastars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ns.o11111o.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.169.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.40.126.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.148.125": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +12,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "118.167.212.163": {
+    "72.56.26.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.14.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "181.214.147.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.227.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.109.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.74.3.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.214.152.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.231.18.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.17.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.94.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.231.17.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.46.215.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.206.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.174.135.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1.1.1.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.curry-load.rutube.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nexusmods.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,15 +92,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.76.172.190": {
+    "150.40.126.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.57.46.138": {
+    "144.31.5.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.wto.org": {
+    "194.48.250.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.148.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.189.26.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.148.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.95.169.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.230.68.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lith.2clash.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freee-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "teddy.automizely.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "w7tjfftjdt.vk-maps.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "t1dn.blazenetwork.ir": {
       "status": "down",
       "rtt_ms": null
     }
