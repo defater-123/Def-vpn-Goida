@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-09-14T23:26:51.959208",
-  "total": 39,
+  "last_update": "2026-09-15T01:37:45.612194",
+  "total": 30,
   "up": 0,
-  "down": 39,
+  "down": 30,
   "results": {
-    "72.56.106.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.108.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hinet1.2yly.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.83.173.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.43.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.80.184.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.112.71.119": {
+    "151.101.109.53": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,63 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.91.112.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.188.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.44.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "131.123.25.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.39.247.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.76.155.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.248.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.187.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "carina.yokkastars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.165.63.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.225.53.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.230.172.139": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,19 +20,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "72.56.26.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "156.246.94.133": {
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.74.3.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.155.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "helioform.pinecore.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.cdn-update.rutube.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.cdn-update.rutube.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.106.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.69.159.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.206.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hinet1.2yly.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.189.26.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ir110.tun.pingirani.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "carina.yokkastars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ns.o11111o.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.95.169.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.40.126.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.148.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "118.167.212.163": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,27 +116,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.251.9.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.148.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.61.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.184.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1sg001.344211.cc": {
+    "31.57.46.138": {
       "status": "down",
       "rtt_ms": null
     },
