@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-09-16T21:29:42.852759",
-  "total": 18,
+  "last_update": "2026-09-16T23:42:42.389882",
+  "total": 28,
   "up": 0,
-  "down": 18,
+  "down": 28,
   "results": {
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "128.254.186.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
+    "sg-3.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,7 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.46.56.74": {
+    "147.45.60.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.231.19.51": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,7 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.201.230.136": {
+    "212.50.233.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.7.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.60.91": {
+    "hk-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp-1.gsafevpnapi.com": {
+    "185.24.151.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "128.254.186.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.61.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "111.88.215.247": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,27 +68,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sg-3.gsafevpnapi.com": {
+    "ae-tube-01.stre4m.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "ir-new.failspace.top": {
+    "hk01.kfc-520.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk-dedic-new-1.failspace.top": {
+    "mmd.asan9720.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-dedic-2.failspace.top": {
+    "sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club": {
       "status": "down",
       "rtt_ms": null
     },
-    "at-dedic.failspace.top": {
+    "56.69.159.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "hub.failspace.top": {
+    "35.201.230.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.46.56.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.39.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.250.28.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "au1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     }
