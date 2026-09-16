@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-09-16T14:29:52.532865",
-  "total": 14,
+  "last_update": "2026-09-16T18:19:04.969250",
+  "total": 25,
   "up": 0,
-  "down": 14,
+  "down": 25,
   "results": {
-    "85.192.27.186": {
+    "50.7.36.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.60.91": {
+    "13.231.19.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.245.225.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.140.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.92.123.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.157.101": {
+    "2.56.126.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +20,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "50.7.197.204": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp-1.gsafevpnapi.com": {
+    "136.148.77.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.92.123.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.217.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.88.22": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,15 +52,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "us-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-1.gsafevpnapi.com": {
+    "ee.cdn-update.rutube.info": {
       "status": "down",
       "rtt_ms": null
     },
     "sg-3.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.124.36.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk-dedic-new-1.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-dedic-2.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ir-new.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s4.zynetrax.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.151.240.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.5.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hub.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-03.stre4m.net": {
       "status": "down",
       "rtt_ms": null
     }
