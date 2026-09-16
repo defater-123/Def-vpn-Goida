@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-09-16T05:14:17.791713",
-  "total": 28,
+  "last_update": "2026-09-16T09:57:06.568338",
+  "total": 27,
   "up": 0,
-  "down": 28,
+  "down": 27,
   "results": {
-    "13.250.28.5": {
+    "88.216.57.128": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,75 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.77.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.99.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.79.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.199.207.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.57.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.201.230.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "au1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa.superbuba.top": {
+    "156.246.94.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "170.168.97.6": {
+    "sg-3.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "us-1.gsafevpnapi.com": {
+    "170.168.99.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.35": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,11 +40,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sg-3.gsafevpnapi.com": {
+    "sg-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "new2.smart-cats.ru": {
+    "usa.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.199.207.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.92.123.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "au1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ns.o11111o.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.201.230.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.77.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.videokanal.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "new3.smart-cats.ru": {
       "status": "down",
       "rtt_ms": null
     }
