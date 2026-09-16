@@ -1,14 +1,66 @@
 {
-  "last_update": "2026-09-15T22:29:45.338887",
-  "total": 17,
+  "last_update": "2026-09-16T00:39:55.760033",
+  "total": 26,
   "up": 0,
-  "down": 17,
+  "down": 26,
   "results": {
-    "92.223.118.17": {
+    "130.49.77.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.174": {
       "status": "down",
       "rtt_ms": null
     },
     "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.168.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.182.44.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.47.55.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.57.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.157.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.223.118.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.89.19.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,23 +72,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "79.137.203.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "w7tjfftjdt.vk-maps.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.157.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
+    "sg-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,31 +80,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.157.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "au1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-3.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "jp-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "gang.gayvibe.dpdns.org": {
+    "170.168.99.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.92.123.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.158.108.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sync-01.omarchyguidline.cyou": {
       "status": "down",
       "rtt_ms": null
     }
