@@ -1,30 +1,18 @@
 {
-  "last_update": "2026-09-16T18:19:04.969250",
-  "total": 25,
+  "last_update": "2026-09-16T21:29:42.852759",
+  "total": 18,
   "up": 0,
-  "down": 25,
+  "down": 18,
   "results": {
-    "50.7.36.29": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.231.19.51": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.56.126.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.201.230.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.148.77.27": {
+    "128.254.186.11": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,27 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "151.101.109.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.46.56.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "34.92.123.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.209.217.129": {
+    "35.201.230.136": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg-1.gsafevpnapi.com": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.106.88.22": {
+    "147.45.60.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "au1.gsafevpnapi.com": {
+    "jp-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee.cdn-update.rutube.info": {
+    "fr-gra-ovh-03.stre4m.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,11 +56,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.124.36.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
+    "ir-new.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,31 +68,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ir-new.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s4.zynetrax.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.151.240.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.5.166": {
+    "at-dedic.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
     "hub.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-03.stre4m.net": {
       "status": "down",
       "rtt_ms": null
     }
