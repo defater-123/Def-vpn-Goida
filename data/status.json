@@ -1,18 +1,10 @@
 {
-  "last_update": "2026-09-17T19:56:14.225531",
-  "total": 10,
+  "last_update": "2026-09-17T22:31:57.159127",
+  "total": 21,
   "up": 0,
-  "down": 10,
+  "down": 21,
   "results": {
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.74.3.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.250.28.5": {
+    "ee.flozbalancer.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "104.165.205.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "koplimnb-production.up.railway.app": {
+    "yigfdsgfuo88-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.252.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +40,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "jp-1.gsafevpnapi.com": {
+    "193.34.213.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.240.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.250.28.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.183.215.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.42.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neth.flozbalancer.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "captaingold.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "al.cloudload.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.cloudload.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "denode213.velox-network.org": {
       "status": "down",
       "rtt_ms": null
     },
     "sg-3.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "orenburg.gosgenarchive.com": {
       "status": "down",
       "rtt_ms": null
     }
