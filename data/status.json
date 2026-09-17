@@ -1,86 +1,54 @@
 {
-  "last_update": "2026-09-17T06:38:32.552516",
-  "total": 58,
+  "last_update": "2026-09-17T12:03:16.834298",
+  "total": 20,
   "up": 0,
-  "down": 58,
+  "down": 20,
   "results": {
-    "68.183.65.82": {
+    "47.80.61.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
+    "185.203.4.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.101.196.101": {
+    "2.27.20.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.221.230": {
+    "35.201.230.136": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.212.83": {
+    "151.101.109.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "oxygenvpnpanel.gglba03ujrqehwfys2qpi-tyvd2j6o-i.workers.dev": {
+    "13.250.28.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.88.130": {
+    "54.255.121.205": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.14.232": {
+    "sg-3.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "muddy-math-c1fc.tmpnriqueau89.workers.dev": {
+    "jp-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "au1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.203.158": {
+    "2.56.126.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.33.8.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.122.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.208.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.53.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nameless-moon-7c4d.shafmrhjlos23.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free.server11peekconfig.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "soskeynets.server11peekconfig.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev": {
+    "18.183.215.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,79 +56,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.147.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.147.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.101.114.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.224.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.43.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.54.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.67.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.70.124.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.24.50.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.148.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.184.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "zcfznk-y7or1r-dry91q.spider-0a507c1e.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.88.77": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,71 +64,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.81.114": {
+    "13.231.19.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.148.22": {
+    "87.199.205.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.142.2": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.63.28": {
+    "hk-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.39.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.135.73.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.174.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.74.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.59.111.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.208.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.67.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "novantunnel.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "deutch.snappycore.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.16.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
+    "api-4pda-k9x4m.xubi.org": {
       "status": "down",
       "rtt_ms": null
     }
