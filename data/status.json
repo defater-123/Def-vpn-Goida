@@ -1,26 +1,18 @@
 {
-  "last_update": "2026-09-17T12:03:16.834298",
-  "total": 20,
+  "last_update": "2026-09-17T16:55:41.361173",
+  "total": 12,
   "up": 0,
-  "down": 20,
+  "down": 12,
   "results": {
-    "47.80.61.21": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.203.4.218": {
+    "47.80.62.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.20.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.201.230.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.109.234": {
+    "150.251.141.28": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,7 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "54.255.121.205": {
+    "13.231.19.51": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,47 +32,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "au1.gsafevpnapi.com": {
+    "2.27.205.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.56.126.50": {
+    "144.31.168.59": {
       "status": "down",
       "rtt_ms": null
     },
-    "18.183.215.124": {
+    "54.255.121.205": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.46.56.74": {
+    "mmd.asan9720.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.199.205.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api-4pda-k9x4m.xubi.org": {
+    "aotocon.ggisopi.su": {
       "status": "down",
       "rtt_ms": null
     }
