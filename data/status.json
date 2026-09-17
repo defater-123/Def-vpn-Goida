@@ -1,18 +1,14 @@
 {
-  "last_update": "2026-09-17T16:55:41.361173",
-  "total": 12,
+  "last_update": "2026-09-17T19:56:14.225531",
+  "total": 10,
   "up": 0,
-  "down": 12,
+  "down": 10,
   "results": {
     "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.251.141.28": {
+    "47.74.3.200": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.231.19.51": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg-3.gsafevpnapi.com": {
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "koplimnb-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,23 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.205.218": {
+    "sg-3.gsafevpnapi.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.168.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.255.121.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mmd.asan9720.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "aotocon.ggisopi.su": {
+    "orenburg.gosgenarchive.com": {
       "status": "down",
       "rtt_ms": null
     }
