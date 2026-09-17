@@ -1,26 +1,14 @@
 {
-  "last_update": "2026-09-16T23:42:42.389882",
-  "total": 28,
+  "last_update": "2026-09-17T01:42:04.341967",
+  "total": 42,
   "up": 0,
-  "down": 28,
+  "down": 42,
   "results": {
-    "sg-3.gsafevpnapi.com": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.109.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.60.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.231.19.51": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,79 +16,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "212.50.233.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.7.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.24.151.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "128.254.186.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.61.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "111.88.215.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-gra-ovh-03.stre4m.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ae-tube-01.stre4m.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk01.kfc-520.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mmd.asan9720.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "56.69.159.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "35.201.230.136": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.46.56.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp-1.gsafevpnapi.com": {
+    "31.76.111.192": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,7 +28,143 @@
       "status": "down",
       "rtt_ms": null
     },
+    "111.88.215.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.165.231.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.7.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.46.56.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.126.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-3.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.106.88.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.cdn-update.rutube.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.208.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-gra-ovh-03.stre4m.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.24.151.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "norw-mori-3.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.videolenta.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "13.250.28.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.111.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "deutch.snappycore.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.60.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.69.159.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "128.254.186.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.50.233.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.48.250.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.33.8.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yigfdsgfuo88-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ae-tube-01.stre4m.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.171.133.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr2.serverslocal.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hosseinali.gameshooping.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa-18cf795a50985ad9.sr-fa525e02d0951c2f.r.vpvpn.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.54.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.183.215.124": {
       "status": "down",
       "rtt_ms": null
     },
