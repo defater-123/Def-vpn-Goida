@@ -1,82 +1,46 @@
 {
-  "last_update": "2026-09-18T09:55:29.292646",
-  "total": 19,
+  "last_update": "2026-09-18T13:56:43.261163",
+  "total": 10,
   "up": 0,
-  "down": 19,
+  "down": 10,
   "results": {
-    "nl.snappycore.com": {
+    "54.169.200.246": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.28": {
+    "89.39.121.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "118.167.246.43": {
+    "172.239.239.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "151.101.213.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "212.87.190.124": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.250.28.5": {
+    "54.255.121.205": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.251.9.130": {
+    "162.35.104.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "108.165.32.16": {
+    "79.137.184.158": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.232.55.106": {
+    "64.188.64.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.59.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.33.8.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.131.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ufguei5465-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-3.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.fastline-labs.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "static.multirouterapp.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.videolenta.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "est1313.ggisopi.su": {
+    "se2.belka.network": {
       "status": "down",
       "rtt_ms": null
     }
