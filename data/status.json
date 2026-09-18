@@ -1,26 +1,18 @@
 {
-  "last_update": "2026-09-18T13:56:43.261163",
-  "total": 10,
+  "last_update": "2026-09-18T17:22:51.927765",
+  "total": 20,
   "up": 0,
-  "down": 10,
+  "down": 20,
   "results": {
-    "54.169.200.246": {
+    "93.190.9.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.39.121.16": {
+    "47.80.62.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.87.190.124": {
+    "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,19 +20,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.35.104.143": {
+    "104.165.205.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "79.137.184.158": {
+    "95.85.252.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.188.64.72": {
+    "104.143.223.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "se2.belka.network": {
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.123.39.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.9.135.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "all.myrka.digital": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free.kyras.pw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sperma.mervi.icu": {
       "status": "down",
       "rtt_ms": null
     }
