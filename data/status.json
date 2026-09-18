@@ -1,42 +1,106 @@
 {
-  "last_update": "2026-09-18T17:22:51.927765",
-  "total": 20,
+  "last_update": "2026-09-18T19:47:03.032012",
+  "total": 30,
   "up": 0,
-  "down": 20,
+  "down": 30,
   "results": {
-    "93.190.9.27": {
+    "50.7.227.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.80.62.191": {
+    "31.59.125.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.235.38.85": {
+    "34.158.23.115": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.255.121.205": {
+    "36.151.187.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.23": {
+    "34.18.31.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.252.66": {
+    "34.87.244.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.71": {
+    "35.195.122.169": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "34.88.172.173": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.252.67": {
+    "34.38.82.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.234.247.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.6.54.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.95.28.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.15.162.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.155.54.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.175.190.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.18.212.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-new-dedic.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "icook.tw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.videobereg.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.175.90.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.51.231.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.19.91.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.175.44.113": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,43 +108,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.81": {
+    "50.7.120.162": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.191": {
+    "50.7.248.237": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
+    "162.35.96.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "3.9.135.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "all.myrka.digital": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free.kyras.pw": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sperma.mervi.icu": {
+    "54.251.9.130": {
       "status": "down",
       "rtt_ms": null
     }
