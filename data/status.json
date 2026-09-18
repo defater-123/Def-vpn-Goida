@@ -1,10 +1,14 @@
 {
-  "last_update": "2026-09-17T22:31:57.159127",
-  "total": 21,
+  "last_update": "2026-09-18T00:45:57.564469",
+  "total": 30,
   "up": 0,
-  "down": 21,
+  "down": 30,
   "results": {
-    "ee.flozbalancer.net": {
+    "54.255.121.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.202.4.207": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,39 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yigfdsgfuo88-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.252.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "95.85.252.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.169.200.246": {
+    "3.9.135.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "us-1.gsafevpnapi.com": {
+    "47.74.3.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.34.213.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.240.65": {
+    "104.245.240.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,7 +36,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "18.183.215.124": {
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.252.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.251.9.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.123.240.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hinet1.2yly.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jsv-ir.jmovies.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp1.xiaoliyu.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.240.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.77.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,27 +96,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.233.139.46": {
+    "95.85.252.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "neth.flozbalancer.net": {
+    "104.165.205.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "captaingold.app": {
+    "47.80.61.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "al.cloudload.org": {
+    "87.76.154.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk1.cloudload.org": {
+    "118.167.246.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "denode213.velox-network.org": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
