@@ -1,122 +1,10 @@
 {
-  "last_update": "2026-09-18T23:54:29.172616",
-  "total": 45,
+  "last_update": "2026-09-19T01:54:28.878828",
+  "total": 54,
   "up": 0,
-  "down": 45,
+  "down": 54,
   "results": {
-    "104.245.240.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.234.247.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.195.122.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.172.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.19.91.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.158.23.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.240.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.38.82.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.71.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.74.3.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.60.157.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.175.44.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.95.28.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "3.9.135.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.39.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-waw.dontblockmepls.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.175.90.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.18.212.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.15.162.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.88.172.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.125.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.124.203.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.155.10.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,51 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.87.244.111": {
+    "147.45.71.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.231.19.51": {
+    "31.59.125.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.18.31.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.6.54.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yigfdsgfuo88-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.227.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.videobereg.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "orenburg.gosgenarchive.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sperma.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.248.237": {
+    "109.121.44.51": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,11 +28,195 @@
       "status": "down",
       "rtt_ms": null
     },
+    "5.255.118.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.46.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.235.168.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.234.247.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.124.203.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.21.89.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.183.215.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.155.10.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hyhkup.mervi.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it-api.cdn-ozon.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-waw.dontblockmepls.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hhhorp.plus-hit.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.175.190.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.84.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alda1.thewalkingded.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "static.multirouterapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp-nrt-1.blook.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.125.171.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.249.18.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.217.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.132.117.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.227.252": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.175.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.110.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.175.44.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.105.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "orenburg.gosgenarchive.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "svvedko.nxxzxaw.beer": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kiev.gosgenarchive.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.79.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.15.162.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.230.135.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.175.90.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "34.155.54.237": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl-new-dedic.failspace.top": {
+    "38.54.29.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-api.cdn-ozon.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estomin1.vodniki.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-xhttp.lunoa.ru": {
       "status": "down",
       "rtt_ms": null
     }
