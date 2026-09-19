@@ -1,70 +1,14 @@
 {
-  "last_update": "2026-09-19T19:34:52.651449",
-  "total": 32,
+  "last_update": "2026-09-19T21:43:45.520368",
+  "total": 52,
   "up": 0,
-  "down": 32,
+  "down": 52,
   "results": {
-    "95.85.252.67": {
+    "46.229.243.153": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.78.159.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.76.179.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.94.33.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.227.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vera.kyras.pw": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ams.sepporated.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-tll-2.blook.network": {
+    "34.118.70.195": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,19 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cloud.figmafound.org": {
+    "104.165.205.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "14ang88.snusoed.baby": {
+    "5.78.159.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "jujujuj.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
+    "pl.node-edge09.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,23 +32,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.81": {
+    "107.150.93.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.191": {
+    "50.7.227.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "164.37.100.194": {
+    "165.231.170.18": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.110": {
+    "95.85.252.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.80.238": {
+    "144.31.150.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.94.33.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.139.51.51": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,11 +80,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de3-node.rumedia-cdn.com": {
+    "alda1.thewalkingded.life": {
       "status": "down",
       "rtt_ms": null
     },
-    "auth.figmafound.org": {
+    "89.124.86.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.59.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.58.140.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.80.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.87.229.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.176.98.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.139.51.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ahbpanel-production-1919.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,7 +140,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "g2.kxpqus.bestxau.ir": {
+    "estomin1.vodniki.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jujujuj.mervi.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-blr-2.blook.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloud.figmafound.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auth.figmafound.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sg-sin-1.blook.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "164.37.100.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk.sepporated.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vera.kyras.pw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tishina-axe.dedyn.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "14ang88.snusoed.baby": {
       "status": "down",
       "rtt_ms": null
     }
