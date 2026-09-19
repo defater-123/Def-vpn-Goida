@@ -1,262 +1,14 @@
 {
-  "last_update": "2026-09-19T14:46:27.914914",
-  "total": 88,
+  "last_update": "2026-09-19T17:32:49.571294",
+  "total": 27,
   "up": 0,
-  "down": 88,
+  "down": 27,
   "results": {
-    "82.38.64.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.155.54.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.196.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.210.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.211.240.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.92.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.142.108.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.176.98.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.118.43.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.63.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.110.116.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.231.123.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.209.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.128.66.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hhhorp.plus-hit.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mail.figmafound.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jujujuj.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cloud.figmafound.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.23.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.86.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.126.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.80.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "172.235.38.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.181.201.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.39.204.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.76.179.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.159.123.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz2.gru1.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auth.figmafound.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ams.sepporated.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mrs.sepporated.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "popolop.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.187.170.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.47.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.88.172.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plmnko.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tishina-axe.dedyn.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-waw.dontblockmepls.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.185.179.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.41.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.126.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.19.224.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "filetransver-ultra.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.165.244.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.87.113.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.42.36.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ciccuc.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.29.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.15.144.211": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.plus-hit.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.7.88.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ltu-01.node.lumixnet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vera.kyras.pw": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.13.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.124.203.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.176.137.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.92.19.135": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,47 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.23.19.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.220.207.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.71.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.156.242.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "50.7.227.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.150.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.217.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.156.102.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.epicgames.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.159.242.163": {
       "status": "down",
       "rtt_ms": null
     },
@@ -312,11 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hk.sepporated.com": {
+    "103.139.51.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.figmafound.org": {
+    "31.77.13.19": {
       "status": "down",
       "rtt_ms": null
     },
@@ -324,15 +36,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.165.251.165": {
+    "31.76.80.238": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.65.191.159": {
+    "94.156.102.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.47.78.159": {
+    "172.238.232.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,11 +52,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de3-node.rumedia-cdn.com": {
+    "jp-nrt-1.blook.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "estomin1.vodniki.monster": {
+    "www.epicgames.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "popolop.mervi.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jujujuj.mervi.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "g2.kxpqus.bestxau.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloud.figmafound.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "14ang88.snusoed.baby": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.150.111": {
       "status": "down",
       "rtt_ms": null
     },
@@ -352,7 +92,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "14ang88.snusoed.baby": {
+    "vera.kyras.pw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk.sepporated.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mrs.sepporated.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-waw.dontblockmepls.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gbr-01.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     }
