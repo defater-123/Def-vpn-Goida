@@ -1,62 +1,14 @@
 {
-  "last_update": "2026-09-19T21:43:45.520368",
-  "total": 52,
+  "last_update": "2026-09-19T23:34:28.754859",
+  "total": 57,
   "up": 0,
-  "down": 52,
+  "down": 57,
   "results": {
-    "46.229.243.153": {
+    "ahbpanel-production-1919.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.118.70.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-waw.dontblockmepls.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.78.159.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.node-edge09.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.13.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.150.93.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.227.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.170.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.150.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.94.33.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
+    "finkafsb.finiki.lol": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,27 +16,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.165.205.142": {
+    "85.155.228.24": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.204.107.187": {
+    "149.104.79.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.139.51.51": {
+    "95.85.252.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.epicgames.com": {
+    "130.94.33.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "alda1.thewalkingded.life": {
+    "107.150.93.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.124.86.136": {
+    "164.37.100.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.176.98.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.118.70.195": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,107 +56,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.59.20": {
+    "ams.sepporated.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.58.140.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.160.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.150.93.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.80.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.87.229.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.176.98.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.139.51.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ahbpanel-production-1919.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "one.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "estomin1.vodniki.monster": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jujujuj.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi.alpheratzz.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "in-blr-2.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cloud.figmafound.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.238.232.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auth.figmafound.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.165.205.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "54.169.200.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg-sin-1.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "164.37.100.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.239.239.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.sepporated.com": {
+    "alda1.thewalkingded.life": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,11 +68,167 @@
       "status": "down",
       "rtt_ms": null
     },
+    "14ang88.snusoed.baby": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estomin1.vodniki.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-waw.dontblockmepls.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.160.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trrr-istrr-4.blook.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.157.10.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.150.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ciccuc.mervi.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.206.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.210.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.233.139.46": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.epicgames.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloud.figmafound.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk.sepporated.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auth.figmafound.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "tishina-axe.dedyn.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "14ang88.snusoed.baby": {
+    "85.204.107.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.78.159.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.86.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.170.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.80.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.139.51.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.node-edge09.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.139.51.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.13.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "svvedko.nxxzxaw.beer": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jujujuj.mervi.icu": {
       "status": "down",
       "rtt_ms": null
     }
