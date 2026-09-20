@@ -1,42 +1,14 @@
 {
-  "last_update": "2026-09-20T18:17:40.650492",
-  "total": 29,
+  "last_update": "2026-09-20T20:57:05.633875",
+  "total": 58,
   "up": 0,
-  "down": 29,
+  "down": 58,
   "results": {
-    "94.237.4.82": {
+    "2.27.210.32": {
       "status": "down",
       "rtt_ms": null
     },
-    "196.245.52.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.254.174.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.215.236.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.126.13.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.26.100.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.161.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.217.129": {
+    "5.181.201.36": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,55 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "57.128.177.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.cache-4d8a.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.141.33.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.node-edge09.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es2.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fgh.clofidexa.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.1905vpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-a.sarky.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.26.100.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.62.71": {
+    "50.7.120.221": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,15 +24,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "94.237.4.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.211.175.129": {
+    "tishina-axe.dedyn.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.224.125.89": {
+    "85.155.228.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.161.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.node-edge09.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.206.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "18.183.215.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.59.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.254.174.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "km8q42co.danqela.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,7 +68,171 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ofnw8rer.danqela.ir": {
+    "19ajr6b4.danqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alnb.chainmark.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.1905vpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alda1.thewalkingded.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.80.62.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.255.121.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.229.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.9.135.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.cache-4d8a.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.152.66.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.134.211.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.143.81.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.133.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.26.100.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.238.232.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.126.13.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "7atvyjuc.danqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finkafsb.finiki.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.169.200.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.26.100.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dz0vi2sq.danqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "09v4jqad.danqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-a.sarky.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bnv.childofarya.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "svvedko.nxxzxaw.beer": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.141.33.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "oww84ncz.danqela.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.157.10.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.134.211.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.17.118.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.152.65.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.143.81.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.54.48.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.156.152.212": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.17.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.215.236.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dvxeg.childofarya.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dgh.clofidexa.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.76.179.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.28.62.48": {
       "status": "down",
       "rtt_ms": null
     }
