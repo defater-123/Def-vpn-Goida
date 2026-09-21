@@ -1,46 +1,10 @@
 {
-  "last_update": "2026-09-20T22:50:09.219857",
+  "last_update": "2026-09-21T00:36:13.531619",
   "total": 45,
   "up": 0,
   "down": 45,
   "results": {
-    "67.159.17.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "180.149.44.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.26.100.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.26.100.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "akahkakhknmbzqwcnpy.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.254.174.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.111.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jprbbqwlqqnmwysrl.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.215.236.234": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.239.239.53": {
+    "rbgcpqqnbgwlxxn.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.26.100.18": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,87 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "es.cache-4d8a.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es2.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.node-edge09.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jpzzqqnzdbgwhbhzsrgh.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alda1.thewalkingded.life": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "assets-frnl.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "assets-fra.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.161.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xgwhcrqwlhfaqqn.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.133.242.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rbgcpqqnbgwlxxn.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xgnhxwnqjcqscqqn.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.141.33.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bbaqqnbgwoxxnmxdnlmchg.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xjpjus.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.19.110.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-kz1.lovely.my": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.235.38.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.cache-4d8a.com": {
+    "151.247.193.190": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,27 +32,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pl1.chromevpn.cc": {
+    "178.215.236.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl2.pleiades.codes": {
+    "185.141.33.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.229.243.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "roskaa6.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-1.ff-id.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.247.193.190": {
+    "157.254.174.14": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,15 +48,139 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.238.232.239": {
+    "31.77.161.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.209.217.129": {
+    "172.233.139.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "jsv-us1.jmovies.ir": {
+    "akahkakhknmbzqwcnpy.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.205.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.133.242.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.26.100.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.59.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-fra.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "svvedko.nxxzxaw.beer": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.229.243.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.111.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.255.227.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.17.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xjpjus.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xgwhcrqwlhfaqqn.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jprbbqwlqqnmwysrl.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-frnl.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sczznmbbbzgwlwzdhsql.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.chromevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estomin1.vodniki.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.cache-4d8a.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.cache-4d8a.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.226.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alda1.thewalkingded.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-a.sarky.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-1.ff-id.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "roskaa6.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "clhkzzzdbgwxxndnlm.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.235.38.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.19.110.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.node-edge09.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl2.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     }
