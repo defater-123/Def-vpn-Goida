@@ -1,38 +1,38 @@
 {
-  "last_update": "2026-09-21T00:36:13.531619",
-  "total": 45,
+  "last_update": "2026-09-21T05:27:20.983484",
+  "total": 65,
   "up": 0,
-  "down": 45,
+  "down": 65,
   "results": {
-    "180.149.44.182": {
+    "54.169.200.246": {
       "status": "down",
       "rtt_ms": null
     },
-    "57.128.177.218": {
+    "69.46.46.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "rbgcpqqnbgwlxxn.jiedddym.com": {
+    "111.88.74.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.26.100.18": {
+    "47.88.107.209": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.20.137.118": {
+    "144.31.171.108": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.247.193.190": {
+    "45.207.157.252": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.237.4.82": {
+    "146.75.59.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "178.215.236.234": {
+    "31.76.226.100": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,23 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.120.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.161.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.233.139.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "akahkakhknmbzqwcnpy.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.205.2": {
+    "85.155.228.24": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,83 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "194.26.100.73": {
+    "171.22.129.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.59.20": {
+    "87.76.179.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "assets-fra.pleiades.codes": {
+    "rbgcpqqnbgwlxxn.jiedddym.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "svvedko.nxxzxaw.beer": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.229.243.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.111.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.255.227.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.17.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xjpjus.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xgwhcrqwlhfaqqn.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jprbbqwlqqnmwysrl.cfooov.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "assets-frnl.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sczznmbbbzgwlwzdhsql.jiedddym.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.chromevpn.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "estomin1.vodniki.monster": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.cache-4d8a.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es.cache-4d8a.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.226.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alda1.thewalkingded.life": {
+    "cats-n-dogs.rumainco.cl": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,7 +72,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de-1.ff-id.xyz": {
+    "sczznmbbbzgwlwzdhsql.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-frnl.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,11 +84,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "clhkzzzdbgwxxndnlm.cfooov.xyz": {
+    "rysgxjpyydsscdnsh.cfooov.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.120.202": {
+    "5.181.201.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.65.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.215.236.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "57.128.177.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.157.10.147": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,7 +112,119 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.19.110.63": {
+    "93.123.101.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.235.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.247.193.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.cache-4d8a.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge-kz1.lovely.my": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.161.160.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.125.171.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alda1.thewalkingded.life": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.156.26.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.70.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.205.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "siennacedarantler.tealbutton.one": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "clhkzzzdbgwxxndnlm.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.126.13.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.70.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.83.2.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.198.49.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finkafsb.finiki.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.181.134.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.239.239.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "akahkakhknmbzqwcnpy.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.197.75.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.155.235.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-fra.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kama2.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpzzqqnzdbgwhbhzsrgh.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.156.26.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.chromevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.20.137.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,7 +232,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "tishina-axe.dedyn.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.1905vpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nl2.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.180.42.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.206.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jprbbqwlqqnmwysrl.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xjpjus.jiedddym.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "estomin1.vodniki.monster": {
       "status": "down",
       "rtt_ms": null
     }
