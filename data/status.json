@@ -1,30 +1,38 @@
 {
-  "last_update": "2026-09-21T16:40:20.754277",
-  "total": 6,
+  "last_update": "2026-09-21T20:33:56.024364",
+  "total": 8,
   "up": 0,
-  "down": 6,
+  "down": 8,
   "results": {
-    "2.27.17.229": {
+    "35.199.90.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.59.20": {
+    "31.76.80.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
+    "64.188.81.168": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.7": {
+    "50.7.36.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.113.103.157": {
+    "148.135.185.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "jp3.998998.best": {
+    "144.31.156.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "norway-mori-2.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "moldova.failspace.top": {
       "status": "down",
       "rtt_ms": null
     }
