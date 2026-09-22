@@ -1,90 +1,14 @@
 {
-  "last_update": "2026-09-21T23:35:22.664844",
-  "total": 26,
+  "last_update": "2026-09-22T01:50:51.034273",
+  "total": 23,
   "up": 0,
-  "down": 26,
+  "down": 23,
   "results": {
-    "50.7.37.158": {
+    "47.80.62.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.249.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.182.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.36.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.227.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.251.143.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.39.174.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.184.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.5.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at-dedic-new-two.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherlands.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hub-new.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ad-dedic-3.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ireland-new.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-mori-new.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "poland-mori-new-ded.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "poland-ded-new-two.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.163": {
+    "103.143.81.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,19 +16,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pl-dedic-new-mori.failspace.top": {
+    "207.57.129.114": {
       "status": "down",
       "rtt_ms": null
     },
-    "jumpernode.online": {
+    "153.76.185.86": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-dedic-new-mori.failspace.top": {
+    "207.57.131.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "austria-dedic1.failspace.top": {
+    "45.152.65.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.229.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.197": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.133.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "68.64.183.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.143.81.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.161.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "148.135.185.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.2.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hinet1.2yly.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "poland-mori-new-ded.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "poland-new-first-one.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iq5ny.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.229.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.145.228.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plsh.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     }
