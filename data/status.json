@@ -1,78 +1,70 @@
 {
-  "last_update": "2026-09-22T01:50:51.034273",
-  "total": 23,
+  "last_update": "2026-09-22T06:56:40.459430",
+  "total": 44,
   "up": 0,
-  "down": 23,
+  "down": 44,
   "results": {
-    "47.80.62.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.143.81.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.124.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.129.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.131.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.152.65.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.145.229.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "207.57.133.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "68.64.183.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.143.81.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.161.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "148.135.185.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.2.117": {
+    "69.46.46.154": {
       "status": "down",
       "rtt_ms": null
     },
-    "hinet1.2yly.com": {
+    "85.204.107.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "poland-mori-new-ded.failspace.top": {
+    "31.76.111.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.23.87.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.3.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.132.28.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "118.167.206.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.i-love-russia.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.dexlen.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.dexlen.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jumpernode.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plsh.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,19 +72,111 @@
       "status": "down",
       "rtt_ms": null
     },
-    "iq5ny.pleiades.codes": {
+    "ndi.lavivas.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.145.229.184": {
+    "poland-mori-new-ded.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.145.228.129": {
+    "fi.riotvpn.eu": {
       "status": "down",
       "rtt_ms": null
     },
-    "plsh.riotvpn.eu": {
+    "2.26.93.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.135.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.238.191.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.232.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.217.129": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt-async-webps-prod-centralus-0.chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.227.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.124.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe.lavivas.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.dexlen.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.22.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "amer.lavivas.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.50.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dedicated.pivo.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.227.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.135.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.19.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.170.211.194": {
       "status": "down",
       "rtt_ms": null
     }
