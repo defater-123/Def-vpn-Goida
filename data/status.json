@@ -1,70 +1,38 @@
 {
-  "last_update": "2026-09-23T18:48:44.840101",
-  "total": 16,
+  "last_update": "2026-09-23T21:51:41.347740",
+  "total": 8,
   "up": 0,
-  "down": 16,
+  "down": 8,
   "results": {
+    "35.189.111.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "34.65.54.139": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.47.1.109": {
+    "64.188.126.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.186.193.91": {
+    "34.84.126.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.39.174.220": {
+    "31.76.249.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.255.227.145": {
+    "gerwai1488.vvzzkontaktezzvv.garden": {
       "status": "down",
       "rtt_ms": null
     },
-    "35.198.230.134": {
+    "fintanil228.vvzzkontaktezzvv.garden": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.71.219.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sikol.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sujik.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sfert.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plsh.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "solih.mervi.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c-1cdd34e4d01bc9577487.xn--kivt58h.lol": {
+    "dissolvedvpn.eu.cc": {
       "status": "down",
       "rtt_ms": null
     }
