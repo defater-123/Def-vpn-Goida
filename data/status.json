@@ -1,38 +1,26 @@
 {
-  "last_update": "2026-09-22T22:40:49.972364",
-  "total": 13,
+  "last_update": "2026-09-23T00:55:17.693575",
+  "total": 16,
   "up": 0,
-  "down": 13,
+  "down": 16,
   "results": {
-    "136.117.218.86": {
+    "47.76.172.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.24.50.94": {
+    "179.254.94.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.229.6": {
+    "193.8.215.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "se1.chromevpn.cc": {
+    "34.39.174.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.255.227.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.147.59.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.62.251.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.255.193.161": {
+    "34.65.54.139": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,19 +28,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.234.143.34": {
+    "104.160.44.203": {
       "status": "down",
       "rtt_ms": null
     },
-    "179.254.111.0": {
+    "151.101.213.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.93.61.139": {
+    "78.129.208.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "196.245.52.147": {
+    "ttszhrmghgdssbkqf.cfooov.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.74.90.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.249.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.218.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.199.90.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.chromevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gbr-01.node.lumixnet.com": {
       "status": "down",
       "rtt_ms": null
     }
