@@ -1,18 +1,18 @@
 {
-  "last_update": "2026-09-24T18:29:21.107670",
+  "last_update": "2026-09-24T21:41:38.304084",
   "total": 3,
   "up": 0,
   "down": 3,
   "results": {
-    "153.76.185.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.253.144.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "94.249.180.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.151.108.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.222.61": {
       "status": "down",
       "rtt_ms": null
     }
