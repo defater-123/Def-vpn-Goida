@@ -1,114 +1,22 @@
 {
-  "last_update": "2026-09-24T04:41:54.484677",
-  "total": 27,
+  "last_update": "2026-09-24T09:31:35.980174",
+  "total": 4,
   "up": 0,
-  "down": 27,
+  "down": 4,
   "results": {
-    "195.85.59.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.249.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.216.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.70.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.144.188.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.198.230.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.196.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.93.63.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.196.206.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.39.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.92.145.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.246.55.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netra-85a0ca.shoameni19.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.bubahero.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fintanil228.vvzzkontaktezzvv.garden": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "surstreming.vvzzkontaktezzvv.garden": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.208.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.157.10.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "122.8.44.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.39.174.220": {
+    "93.190.9.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "gb.superbuba.top": {
+    "34.84.126.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "gerwai1488.vvzzkontaktezzvv.garden": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dissolvedvpn.eu.cc": {
+    "153.76.185.146": {
       "status": "down",
       "rtt_ms": null
     }
