@@ -1,22 +1,98 @@
 {
-  "last_update": "2026-09-24T09:31:35.980174",
-  "total": 4,
+  "last_update": "2026-09-24T14:25:21.397802",
+  "total": 23,
   "up": 0,
-  "down": 4,
+  "down": 23,
   "results": {
-    "122.8.44.7": {
+    "132.243.231.120": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.46": {
+    "31.76.113.108": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.84.126.188": {
+    "84.32.108.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.146": {
+    "144.31.27.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.41.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.16.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "129.101.120.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.255.227.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.185.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.240.125.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.65.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uptrailmainideia.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.170.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.69.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.229.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gang.gayvibe.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "g1.sabet1.blazevx.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "maple-press.justext.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bestnet-production-9070.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.198.0.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.150": {
       "status": "down",
       "rtt_ms": null
     }
