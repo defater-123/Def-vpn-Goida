@@ -1,10 +1,106 @@
 {
-  "last_update": "2026-09-24T21:41:38.304084",
-  "total": 3,
+  "last_update": "2026-09-25T00:00:02.775657",
+  "total": 30,
   "up": 0,
-  "down": 3,
+  "down": 30,
   "results": {
-    "94.249.180.45": {
+    "194.87.59.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.59.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.56.210.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.44.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "137.175.82.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.64.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.96.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.csgo.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru19.aimodelhub.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-4bf85a22b1.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.150.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.17.48.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.71": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,7 +108,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.222.61": {
+    "2.26.148.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.75": {
       "status": "down",
       "rtt_ms": null
     }
