@@ -1,18 +1,10 @@
 {
-  "last_update": "2026-09-25T18:51:53.377403",
-  "total": 23,
+  "last_update": "2026-09-25T21:53:27.576532",
+  "total": 22,
   "up": 0,
-  "down": 23,
+  "down": 22,
   "results": {
-    "45.149.147.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.158": {
+    "37.221.79.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,43 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.209.15.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.64.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.178.24.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.59.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl15-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.102": {
+    "nl9-node.rumedia-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi.riotvpn.eu": {
+    "188.166.33.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.230.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.150.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.144.195": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +40,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ukefast.failspace.top": {
+    "20.78.4.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.64.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de17-node.rumedia-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,15 +64,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.149.147.110": {
+    "ukraine-emergency-service.relqino.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.231": {
+    "poland-emergency-service.relqino.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "se5-node.rumedia-cdn.com": {
+    "nl-emergency-service.relqino.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk-emergency-service.relqino.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-emergency-service.relqino.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl6-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "c10s3.portablesubmarines.com": {
       "status": "down",
       "rtt_ms": null
     }
