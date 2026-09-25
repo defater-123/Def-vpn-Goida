@@ -1,114 +1,14 @@
 {
-  "last_update": "2026-09-25T00:00:02.775657",
-  "total": 30,
+  "last_update": "2026-09-25T03:46:39.770596",
+  "total": 37,
   "up": 0,
-  "down": 30,
+  "down": 37,
   "results": {
-    "194.87.59.20": {
+    "141.227.137.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.87.59.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.56.210.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.252.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.12.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.44.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "137.175.82.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.64.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.96.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.csgo.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru19.aimodelhub.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-4bf85a22b1.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.150.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.17.48.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.151.108.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.148.111": {
+    "45.131.208.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,11 +16,139 @@
       "status": "down",
       "rtt_ms": null
     },
+    "153.76.185.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.38.64.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.70.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.227.154.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.253.144.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "137.175.82.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.35.96.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.79.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.44.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.116.46.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-4bf85a22b1.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru19.aimodelhub.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.83.2.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.169.183.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "60.249.14.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.150.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "93.190.8.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.75": {
+    "153.76.185.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.156.26.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.59.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.197.75.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.82.99.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "idontknow.whit3.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.csgo.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mg-42.whit3.net": {
       "status": "down",
       "rtt_ms": null
     }
