@@ -1,150 +1,34 @@
 {
-  "last_update": "2026-09-25T09:08:52.593693",
-  "total": 36,
+  "last_update": "2026-09-25T14:34:46.412446",
+  "total": 7,
   "up": 0,
-  "down": 36,
+  "down": 7,
   "results": {
-    "162.249.126.13": {
+    "86.106.119.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.99": {
+    "31.77.15.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "137.175.82.40": {
+    "turbo.subaru-volga.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "159.246.55.30": {
+    "185.249.153.108": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.98": {
+    "turkey3fcsdkck432cjk423kck4c32klj4clk23cjldjslcrjkl32ckl4jdsckl.nevoxa.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.207.156.204": {
+    "ger2.serverslocal.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "paris.nerabotaet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.38.64.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.207.156.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.35.96.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.146.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.207.157.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.106.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.253.144.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.8.186.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl2.gursub.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.csgo.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform115.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.245.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.210.29.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.66.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.82.99.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.230.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "161.117.181.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.186.255.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "156.246.95.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.87.24.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.150.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.59.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "msjp.mangshe.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "311648fa-tm3mo0-0-1rfon.hk3.hyhuawei.com": {
+    "at-at-at-new.failspace.top": {
       "status": "down",
       "rtt_ms": null
     }
