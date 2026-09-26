@@ -1,166 +1,30 @@
 {
-  "last_update": "2026-09-26T13:53:03.319390",
-  "total": 44,
+  "last_update": "2026-09-26T17:26:49.235005",
+  "total": 27,
   "up": 0,
-  "down": 44,
+  "down": 27,
   "results": {
-    "95.133.236.241": {
+    "47.80.14.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.228.219.54": {
+    "72.4.65.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.51.83.115": {
+    "5.181.201.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.11.138.132": {
+    "94.183.170.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.65.151.186": {
+    "194.62.249.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.182.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.166.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.83.224.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.164.20.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.241.138.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.5.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se5-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "conge.ggisopi.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "condrve.ggisopi.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-plr-xh-pilot.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.137.252.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.233.191.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.14.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.57.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "210.129.55.87": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.170.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bgroup.jp1.ilovegairport.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.80.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hh.fwqfw783rg2dad.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnod12x.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl9-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t13.qifei.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us-1.gsafevpnapi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "link.mrpgd.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-asli.jorzel.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh02.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi2.chromevpn.cc": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,15 +32,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "66.90.106.194": {
+    "31.76.5.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "xnod22x.artemida.live": {
+    "85.204.107.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "condropolo.ggisopi.su": {
+    "85.137.252.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.191.238.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.57.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.181.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.160.44.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnod12x.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1.gsafevpnapi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-plr-xh-pilot.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-de2.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.197.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.192.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi2.chromevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "link.mrpgd.ir": {
       "status": "down",
       "rtt_ms": null
     }
