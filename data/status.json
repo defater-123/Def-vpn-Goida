@@ -1,62 +1,18 @@
 {
-  "last_update": "2026-09-26T20:01:05.082427",
-  "total": 24,
+  "last_update": "2026-09-26T22:44:42.117655",
+  "total": 71,
   "up": 0,
-  "down": 24,
+  "down": 71,
   "results": {
-    "185.191.238.222": {
+    "87.199.199.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.57.25": {
+    "201.10.90.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "122.10.117.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.181.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.90.153.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.230.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.166.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.150.192.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.csgo.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.206": {
+    "153.76.185.147": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,11 +20,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.71.148": {
+    "31.76.249.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.74.25.186": {
+    "45.194.44.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.83.224.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.11.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.179.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.208.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.212.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "conge.ggisopi.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi10-node.rumedia-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,11 +84,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl9-node.rumedia-cdn.com": {
+    "31.76.5.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "dl4.pakanwash.ir": {
+    "145.79.187.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.230.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.198.97.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.164.20.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.170.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.59.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.197.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnod12x.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.212.166.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpn.ai-boost.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nilka.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "france.stinpuls1.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,11 +168,119 @@
       "status": "down",
       "rtt_ms": null
     },
-    "gemxiyt.bestvbest.ir": {
+    "162.249.127.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "ch-plr-xh-pilot.tcp-reset-club.net": {
+    "145.79.187.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.233.191.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.159.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.182.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.59.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.181.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.17.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se6-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "atatat.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.71.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.254.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89ff7d04-tm3mo0-tlvsde-1rnrp.nw4.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.121.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "afra4.nimbaha9.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.17.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.17.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnod22x.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.57.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl9-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-de2.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
