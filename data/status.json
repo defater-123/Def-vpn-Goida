@@ -1,54 +1,14 @@
 {
-  "last_update": "2026-09-26T22:44:42.117655",
-  "total": 71,
+  "last_update": "2026-09-27T00:53:33.001351",
+  "total": 56,
   "up": 0,
-  "down": 71,
+  "down": 56,
   "results": {
-    "87.199.199.45": {
+    "145.79.187.61": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.10.90.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.249.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.44.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.83.224.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.11.2": {
+    "45.149.147.113": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,115 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.208.201": {
+    "50.7.120.222": {
       "status": "down",
       "rtt_ms": null
     },
-    "222.167.212.157": {
+    "45.149.147.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "conge.ggisopi.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi10-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi2.chromevpn.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.230.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.198.97.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.164.20.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.170.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.59.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnod12x.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.212.166.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vpn.ai-boost.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nilka.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "france.stinpuls1.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.144": {
+    "145.79.187.111": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,67 +32,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.187.182": {
+    "145.79.187.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.233.191.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.194.159.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.182.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.59.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.181.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.17.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se6-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "atatat.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.71.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.254.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89ff7d04-tm3mo0-tlvsde-1rnrp.nw4.hyhuawei.com": {
+    "45.149.147.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -240,27 +44,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "afra4.nimbaha9.ir": {
+    "45.149.147.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.100": {
+    "45.149.147.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.187.41": {
+    "45.149.147.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.187.71": {
+    "45.149.147.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "67.159.17.130": {
+    "45.149.147.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.17.176": {
+    "8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rou0001ntrhy01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnod12x.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "france.stinpuls1.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.208.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.111.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.191.238.222": {
       "status": "down",
       "rtt_ms": null
     },
@@ -268,23 +104,127 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.149.147.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.71.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.149.147.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.170.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.188.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.125.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "xnod22x.artemida.live": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.57.25": {
+    "222.167.212.157": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl9-node.rumedia-cdn.com": {
+    "13.143.166.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "assets-de2.pleiades.codes": {
+    "nl-dedic-mori-4.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf.877774.xyz": {
+    "45.149.147.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi2.chromevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.107.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.149.147.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.166.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.159.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se6-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.17.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.149.147.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plandland.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-plr-xh-pilot.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
