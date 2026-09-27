@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-09-27T15:27:44.066409",
-  "total": 67,
+  "last_update": "2026-09-27T19:07:47.116799",
+  "total": 53,
   "up": 0,
-  "down": 67,
+  "down": 53,
   "results": {
-    "153.76.122.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.101.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.233.191.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.248.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.87.24.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.79.178.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.120.164": {
+    "5.181.201.44": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,63 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.212.166.6": {
+    "185.126.67.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.71.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "secret-test-nl1.minetis.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "secret-test-de1.minetis.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plandland.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dl2.musicworldtg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ch-plr-xh-pilot.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rou0001ntrhy01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.123.25.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.83": {
+    "43.155.230.167": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,87 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "67.159.11.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.237.74.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "atatat.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "victoryprovpn-production-4171.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.197.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.17.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.csgo.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dedic-nl-new.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vpn.ai-boost.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.183.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "assets-nl3.pleiades.codes": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kosta7.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kosta6.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.87.24.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.223.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.67.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.191.238.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.122.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.57.25": {
+    "222.167.248.157": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,15 +32,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.214.105": {
+    "45.130.254.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.120.203": {
+    "153.76.185.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi2.chromevpn.cc": {
+    "31.130.149.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee2.responsiblecare.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -212,31 +56,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "72.4.65.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.chick-chirik.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "g1.sabet1.blazevx.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.206.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.51": {
+    "47.74.25.186": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,7 +64,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.230": {
+    "sfghfdh75-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es.astrafic.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "snl6.subsconnect.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-nl3.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "atatat.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.57.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.192.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.59.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.150.116.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,11 +112,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.86.245.188": {
+    "153.76.185.86": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.29.238.72": {
+    "85.115.209.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.67.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se.chick-chirik.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.212.166.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "victoryprovpn-production-f93a.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.astrafic.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.46.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.11.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.248.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpn.ai-boost.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kosta6.api3-max.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.44.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.101.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.233.191.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.223.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk1.avalonvpn.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.71.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.52.117.131": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,11 +204,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "au.netgridflow.com": {
+    "dl2.musicworldtg.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "se.chick-chirik.com": {
+    "rou0001ntrhy01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "afra4.nimbaha9.ir": {
       "status": "down",
       "rtt_ms": null
     }
