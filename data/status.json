@@ -1,114 +1,22 @@
 {
-  "last_update": "2026-09-27T00:53:33.001351",
+  "last_update": "2026-09-27T05:55:30.737663",
   "total": 56,
   "up": 0,
   "down": 56,
   "results": {
-    "145.79.187.61": {
+    "145.79.187.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.149.147.113": {
+    "103.112.68.78": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.179.51": {
+    "201.10.90.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.120.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.121.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rou0001ntrhy01.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnod12x.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "france.stinpuls1.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.208.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.191.238.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.71.148": {
+    "2.26.125.224": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,75 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.187.161": {
+    "85.204.107.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.149.147.139": {
+    "45.130.254.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.170.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.188.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.125.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.121.44.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnod22x.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.212.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.166.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-dedic-mori-4.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi2.chromevpn.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.107.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.79.187.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.166.55": {
+    "87.199.199.45": {
       "status": "down",
       "rtt_ms": null
     },
@@ -192,15 +40,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.187.182": {
+    "145.79.187.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.194.159.237": {
+    "50.7.249.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.249.154": {
+    "50.7.120.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.170.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.148.117.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.2": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,23 +72,159 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi.riotvpn.eu": {
+    "faultpass-panel-production-eee5.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "67.159.17.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.147.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plandland.failspace.top": {
+    "polik.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
     "ch-plr-xh-pilot.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.51.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.188.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.191.238.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lineartronic-ii.subaru-volga.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rt.quicksavesafe.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rou0001ntrhy01.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dedic-nl-new.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mix.pantera-radio.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.159.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.178.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.38.142.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.120.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.252.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.44.114.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "145.79.187.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-fr4.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "france.stinpuls1.ru": {
       "status": "down",
       "rtt_ms": null
     }
