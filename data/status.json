@@ -1,18 +1,106 @@
 {
-  "last_update": "2026-09-28T12:09:49.055169",
-  "total": 10,
+  "last_update": "2026-09-28T19:38:50.258314",
+  "total": 56,
   "up": 0,
-  "down": 10,
+  "down": 56,
   "results": {
-    "93.190.8.20": {
+    "platform101.golnamakcert.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.153": {
+    "185.113.142.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.255.236.7": {
+    "136.0.213.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.221.222.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md.dendiboss.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.169.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "61.111.247.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.170.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.203.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.43.152.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "61.111.247.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.17.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.201.181.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.57.28.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.124.251.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-3.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "discard.denditop.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform102.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform109.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plfsdd.dendiboss.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.255.236.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "61.111.247.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.122.198.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.192.47.10": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,27 +108,123 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.254.10": {
+    "117.55.233.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.responsiblecare.uk": {
+    "88.216.130.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "acde2.astro-wall.online": {
+    "5.45.111.195": {
       "status": "down",
       "rtt_ms": null
     },
-    "145.79.177.173": {
+    "34.51.29.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl.astrafic.ru": {
+    "45.130.254.193": {
       "status": "down",
       "rtt_ms": null
     },
-    "westcostlt.responsiblecare.uk": {
+    "209.200.246.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.61.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.179.220.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.232.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform106.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.97.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.omuservice.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.129.183.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.156.64.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.160.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.147.245.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.94.173.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.127.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform103.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform108.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform117.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.215.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "china.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.118.127.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-3.omuvpn.tech": {
       "status": "down",
       "rtt_ms": null
     }
