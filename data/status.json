@@ -1,54 +1,14 @@
 {
-  "last_update": "2026-09-28T00:39:59.751015",
-  "total": 43,
+  "last_update": "2026-09-28T05:50:10.228655",
+  "total": 64,
   "up": 0,
-  "down": 43,
+  "down": 64,
   "results": {
-    "151.101.214.105": {
+    "162.249.127.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.194.159.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.248.156": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app.goonars.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.254.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1579e6d9-6b57-4fb1-b080-9c9a6da46ae5.fly.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.115.209.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.111.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.195.197.211": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de3-ohl.vpvr4ib84nuv6hdkt.ru": {
+    "89.116.46.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,55 +16,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "secret-test-de1.minetis.net": {
+    "170.114.52.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "assets-fr4.pleiades.codes": {
+    "154.197.75.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "es.astrafic.ru": {
+    "154.83.2.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "rou0001ntrhy01.tcp-reset-club.net": {
+    "152.53.80.195": {
       "status": "down",
       "rtt_ms": null
     },
-    "secas.astrafic.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-xh02.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl4-6vkfut.vpvr4ib84nuv6hdkt.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.91.126.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.166.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.248.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.201.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "acnl.astro-wall.online": {
+    "222.167.212.154": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,19 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.212.253": {
+    "146.75.57.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.140.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dl2.musicworldtg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.71.148": {
+    "50.7.249.198": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,15 +52,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "4.lega13.store": {
+    "195.85.59.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.118.208.112": {
+    "45.207.157.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "ch-plr-xh-pilot.tcp-reset-club.net": {
+    "arcturus.yokkastars.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,19 +68,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "victoryprovpn-production-7198.up.railway.app": {
+    "rou0001ntrhy01.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.90.57.251": {
+    "cf.877774.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "acde3.astro-wall.online": {
+    "davai6.api3-max.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.57.25": {
+    "assets-fr4.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.214.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.231.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.86": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,11 +104,159 @@
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.208.113": {
+    "159.195.197.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk1.avalonvpn.me": {
+    "104.143.223.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.40.33.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.83.224.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.141.118.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3-ohl.vpvr4ib84nuv6hdkt.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "reza-production-7554.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.90.57.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-xh02.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch-plr-xh-pilot.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "time.is": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "secas.astrafic.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.118.208.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.254.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.191.238.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "acde3.astro-wall.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.71.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.209.62.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.108.9.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app.goonars.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.140.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl4-6vkfut.vpvr4ib84nuv6hdkt.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.144.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.36.55.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1579e6d9-6b57-4fb1-b080-9c9a6da46ae5.fly.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.235.49.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.astrafic.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.207.7.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.208.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.212.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.223.41": {
       "status": "down",
       "rtt_ms": null
     }
