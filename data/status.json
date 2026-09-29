@@ -1,122 +1,46 @@
 {
-  "last_update": "2026-09-29T09:29:59.170529",
-  "total": 29,
+  "last_update": "2026-09-29T16:03:38.475932",
+  "total": 10,
   "up": 0,
-  "down": 29,
+  "down": 10,
   "results": {
-    "platform113.golnamakcert.top": {
+    "134.195.101.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "198.105.112.242": {
+    "194.87.59.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform118.golnamakcert.top": {
+    "165.231.177.58": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform107.golnamakcert.top": {
+    "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.172": {
+    "93.190.9.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.65.110": {
+    "93.190.8.82": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.169.229.145": {
+    "usa-2.letsconnectpoint.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.38": {
+    "ooqe994.6551935.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.82": {
+    "nlll.gazladder.work": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.57.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.161.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.107.191.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "171.22.129.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.223.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform117.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg.responsiblecare.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform115.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform128.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform108.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kostaa9.api3-max.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform109.golnamakcert.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.189.98.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.161.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.29.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.204.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fastne.incrediblespeed.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform106.golnamakcert.top": {
+    "ch-plr-xh-pilot.tcp-reset-club.net": {
       "status": "down",
       "rtt_ms": null
     }
