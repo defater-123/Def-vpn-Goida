@@ -1,122 +1,26 @@
 {
-  "last_update": "2026-09-28T23:55:29.215476",
-  "total": 62,
+  "last_update": "2026-09-29T02:59:53.347197",
+  "total": 83,
   "up": 0,
-  "down": 62,
+  "down": 83,
   "results": {
-    "31.57.28.147": {
+    "201.24.52.151": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.41.33.28": {
+    "109.121.44.49": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.45.111.195": {
+    "151.241.138.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.188.98.179": {
+    "time.is": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.225.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.150.195.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sp35.mech-pro.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.57.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.232.205.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.221.222.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "117.55.233.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.228.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.254.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.106.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.71.22.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "61.111.247.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.215.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auto-4.claudpath.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c-1cdd34e4d01bc9577487.xn--kivt58h.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "panel.vortexservice.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "158.94.173.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.241.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.118.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.0.213.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.118.127.16": {
+    "155.103.70.53": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,111 +28,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.201.181.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.170.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.78.143.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "144.31.150.4": {
       "status": "down",
       "rtt_ms": null
     },
-    "india.letsconnectpoint.com": {
+    "91.193.58.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "victoryprovpn-production-e95a.up.railway.app": {
+    "64.188.98.179": {
       "status": "down",
       "rtt_ms": null
     },
-    "china.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.192.47.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auto.claudpath.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa-3.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.204.107.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.48.250.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "61.111.247.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.41.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.87.190.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.59.131.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.17.248.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "51.15.16.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.160.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.17.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.255.236.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.17.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "victoryprovpn-production-aa9f.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.203.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "auto-2.claudpath.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl240.mech-pro.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.113.142.145": {
+    "146.75.57.25": {
       "status": "down",
       "rtt_ms": null
     },
@@ -236,7 +48,263 @@
       "status": "down",
       "rtt_ms": null
     },
+    "141.193.213.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hinet1.2yly.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl240.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "static.multirouterapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "au.netgridflow.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a-content.multirouterapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "india.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pspol.ramcalshoping.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "118.167.207.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp66.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.241.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.204.107.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.29.238.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.228.219.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.253.42.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto-2.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.189.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.166.167.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sp35.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.119.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.133.90.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.41.33.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.169.183.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.59.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.132.117.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.183.55.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.245.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.78.143.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.132.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "newyork-production-611e.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.111.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto-3.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.60.234.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.160.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.195.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.255.236.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.228.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "multirouterapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "34.51.29.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spiderpanel-production-e45f.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.45.111.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.207.7.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.121.44.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.36.158.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.151.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "victoryprovpn-production-aa9f.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.oculon.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.225.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.232.205.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.71.22.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto-4.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.170.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.60.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.17.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "209.200.246.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpt.negai.de": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.89": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,11 +312,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "61.111.247.80": {
+    "pl-3.omuvpn.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "newyork-production-611e.up.railway.app": {
+    "panel.vortexservice.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trnewpnlszhp.mamadhpbot.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl238.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "65.98.29.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.94.173.107": {
       "status": "down",
       "rtt_ms": null
     }
