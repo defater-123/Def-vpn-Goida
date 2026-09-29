@@ -1,66 +1,26 @@
 {
-  "last_update": "2026-09-29T20:43:29.174491",
-  "total": 36,
+  "last_update": "2026-09-29T23:57:28.812174",
+  "total": 41,
   "up": 0,
-  "down": 36,
+  "down": 41,
   "results": {
-    "69.46.46.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.135.45.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.197.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.197.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.148.158.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.105.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "51.89.13.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mk-nl3.silalink.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.150.33.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "mk-de7.silalink.sbs": {
+    "146.19.130.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.188.74.69": {
+    "94.176.234.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.252.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.76.215.91": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,23 +28,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tr.koomeh.net": {
+    "2.26.101.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "tunnell.hosting-96.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-1.omuservice.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lithuania-2.kochvpn.pw": {
+    "31.207.7.74": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +40,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.79": {
+    "134.195.101.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.101.134": {
+    "93.190.9.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.197.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.127.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.148.158.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.154.145.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.143.179.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.113.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-2.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "19990ed1bb252449.ironly4l.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,27 +88,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.172.197.2": {
+    "37.220.86.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.200.78.229": {
+    "43.130.241.204": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.119": {
+    "78.17.97.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "latvia-3.kochvpn.pw": {
+    "95.81.75.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "mk-de6.silalink.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.5.149": {
+    "134.195.101.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,7 +112,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ooqe994.6551935.xyz": {
+    "89.105.197.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.98.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.165.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.163.45.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lineartronic-ii.subaru-volga.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,11 +152,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "91.239.23.241": {
+    "5.223.41.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "19990ed1bb252449.ironly4l.ir": {
+    "mika.kosmojoy.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru3.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     }
