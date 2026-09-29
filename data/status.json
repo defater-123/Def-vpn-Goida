@@ -1,18 +1,102 @@
 {
-  "last_update": "2026-09-29T16:03:38.475932",
-  "total": 10,
+  "last_update": "2026-09-29T20:43:29.174491",
+  "total": 36,
   "up": 0,
-  "down": 10,
+  "down": 36,
   "results": {
+    "69.46.46.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.135.45.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.197.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.197.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.148.158.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "134.195.101.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.87.59.21": {
+    "31.76.113.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.231.177.58": {
+    "31.77.105.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "51.89.13.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mk-nl3.silalink.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.33.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mk-de7.silalink.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.74.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.koomeh.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tunnell.hosting-96.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1.omuservice.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lithuania-2.kochvpn.pw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.101.134": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,15 +104,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.8": {
+    "103.172.197.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.8.82": {
+    "193.200.78.229": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa-2.letsconnectpoint.com": {
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "latvia-3.kochvpn.pw": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mk-de6.silalink.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.5.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.146.90.85": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +136,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nlll.gazladder.work": {
+    "sw-01.vacvps.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ch-plr-xh-pilot.tcp-reset-club.net": {
+    "91.239.23.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "19990ed1bb252449.ironly4l.ir": {
       "status": "down",
       "rtt_ms": null
     }
