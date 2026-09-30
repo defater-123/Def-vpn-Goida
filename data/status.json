@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-09-30T16:10:12.082317",
-  "total": 32,
+  "last_update": "2026-09-30T20:47:12.427609",
+  "total": 65,
   "up": 0,
-  "down": 32,
+  "down": 65,
   "results": {
-    "142.228.52.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bgroup.jp1.ilovegairport.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.65.144.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.17.25.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "agroup.sg1.ilovegairport.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.240.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.103": {
+    "34.3.101.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,67 +12,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hub-main.pleiades.codes": {
+    "103.126.51.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform102.golnamakcert.top": {
+    "162.249.127.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.29.120": {
+    "217.60.178.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "us3.zestapp778.com": {
+    "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "jpba.osaip.net": {
+    "34.18.161.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "lineartronic-iii.subaru-volga.com": {
+    "45.91.168.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "agroup.sg3.ilovegairport.com": {
+    "35.233.94.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "deak.nightfall.best": {
+    "130.17.25.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-1.omuservice.tech": {
+    "103.143.81.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform103.golnamakcert.top": {
+    "34.51.240.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform101.golnamakcert.top": {
+    "5.223.41.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.68": {
+    "35.228.61.63": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.117": {
+    "37.27.155.232": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.161": {
+    "34.154.18.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.140": {
+    "34.66.64.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.118": {
+    "34.175.19.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bgroup.us2.ilovegairport.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1.miyazono-kaori.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.127.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.199.19.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.51.119.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.188": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +112,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.189.162": {
+    "35.240.62.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.29.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.198.49.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.232.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.154.251.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node1.csnety.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.126.51.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "france-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-irancell7.xelfona.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "azerbaijan-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,15 +168,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "agroup.us2.ilovegairport.com": {
+    "us3.zestapp778.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.27.154.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.70.111.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.40.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.175.107.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.85.2.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.87.59.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bgroup.jp1.ilovegairport.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-384a7ff798.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.155.146.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.176.187.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-12e2dd7903.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.29.17.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.214.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.vpnifty.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "turk1.zulacdn.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "unitedkingdom-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.141.172.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.89.217.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.239.6.251": {
       "status": "down",
       "rtt_ms": null
     },
     "ch3.aimodelhub.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
       "status": "down",
       "rtt_ms": null
     }
