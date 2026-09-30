@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-09-29T23:57:28.812174",
-  "total": 41,
+  "last_update": "2026-09-30T03:27:20.766586",
+  "total": 56,
   "up": 0,
-  "down": 41,
+  "down": 56,
   "results": {
-    "45.150.33.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.19.130.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.176.234.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.252.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.76.215.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.101.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.207.7.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.9.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.105.197.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.148.158.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.154.145.2": {
+    "87.120.106.175": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,47 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.223.41.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa-2.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "19990ed1bb252449.ironly4l.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.220.86.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.130.241.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.97.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.81.75.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.146.90.85": {
+    "94.176.234.161": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,7 +24,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.143": {
+    "31.76.113.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "155.103.70.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.60.146": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.252.191": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,27 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "93.114.98.247": {
+    "37.220.86.155": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.125": {
+    "104.143.223.60": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.119": {
+    "89.105.197.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.39.165.103": {
+    "speedtest.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.163.45.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lineartronic-ii.subaru-volga.com": {
+    "xfastvip3.amshap.info": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,19 +68,163 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.223.41.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mika.kosmojoy.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ru3.pleiades.codes": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "yg11.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "assets-us.pleiades.codes": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yg9.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.101.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "51.89.13.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt-async-webps-prod-centralus-0.chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.151.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.10.90.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.132.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.127.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.163.45.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.146.90.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.19.130.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "static.multirouterapp.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lineartronic-ii.subaru-volga.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.193.58.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ooqe994.6551935.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.114.98.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.81.75.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.39.165.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.148.158.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.150.33.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.5.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.216.189.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.8.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.198.173.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa-2.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "207.57.132.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.135.45.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "19990ed1bb252449.ironly4l.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn1.sokharivakilabad.ir": {
       "status": "down",
       "rtt_ms": null
     }
