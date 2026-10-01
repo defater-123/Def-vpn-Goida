@@ -1,18 +1,14 @@
 {
-  "last_update": "2026-10-01T11:56:04.490463",
-  "total": 35,
+  "last_update": "2026-10-01T17:41:32.101392",
+  "total": 37,
   "up": 0,
-  "down": 35,
+  "down": 37,
   "results": {
-    "134.195.101.117": {
+    "159.194.244.132": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.132.177.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.207.7.74": {
+    "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,23 +16,111 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.118.43.106": {
+    "31.56.197.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.107.164.105": {
+    "69.63.199.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.220.106": {
+    "34.154.47.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.84": {
+    "194.87.59.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.83.86.172": {
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.59.131.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.185.179.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.65.144.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.223.41.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.252.103.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.47.186.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "n35.himoy.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.241.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "t9.qifei.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn-de.bulkavpn.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.121.36.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.63.212.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.190.9.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.106.153.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.156.163.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.143.223.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "173.242.114.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.187.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "218.102.64.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.38.170.93": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,103 +128,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.74.79": {
+    "103.118.41.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.190.9.224": {
+    "2.27.29.120": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.132.177.72": {
+    "5.61.37.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "n36.himoy.space": {
+    "34.156.242.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.35.17.173": {
+    "42fab11a-tm96o0-tnggms-6gn6.los.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.175.44.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "g1.sabet1.blazevx.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.gameturk.bestvnxv.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "psf-3.weedly.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.1.96.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.190.8.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "42.200.173.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.210.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.112.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.23.207.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.173.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "218.250.216.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t4.qifei.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "n34.himoy.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "0e05f970-tki800-traezq-1t5n1.hk2.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "proxy3.h1guro.ovh": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-7480fb3b.sishka.network": {
+    "3696b38bsg.murphyweb.sbs": {
       "status": "down",
       "rtt_ms": null
     }
