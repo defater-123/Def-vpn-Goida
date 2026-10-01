@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-01T00:13:49.360885",
-  "total": 71,
+  "last_update": "2026-10-01T05:51:01.197766",
+  "total": 77,
   "up": 0,
-  "down": 71,
+  "down": 77,
   "results": {
-    "162.249.127.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.251.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.168.68.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.112.10": {
+    "91.108.241.39": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,47 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.126.51.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.119.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.178.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.0.187.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.150.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.175.107.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.77.215.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.117.235.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.18.161.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.159.243.3": {
+    "77.74.123.103": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,127 +20,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "meow-berlin.nethcloud.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us3.zestapp778.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node1.csnety.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.18.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.17.25.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.179.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bgroup.us2.ilovegairport.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.132.177.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.4.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.27.154.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.232.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.150.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.249.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dehys.superbuba.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.29.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "th1.zestapp778.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "france-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "switzerland-sgood.wopd.butnorwa.butter.melon.shoes.bye.bye.whooisthebest.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.vpnifty.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "qp.lichao0223.cn": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.233.94.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.199.19.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.194.244.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.48.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.51.240.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.241.166.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.26.141.148": {
+    "31.59.150.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "35.228.61.63": {
+    "89.125.112.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.91.106.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.66.64.236": {
       "status": "down",
       "rtt_ms": null
     },
@@ -200,55 +44,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de1.miyazono-kaori.com": {
+    "83.217.9.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee10.zazazuza.ru": {
+    "89.125.112.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.29.17.189": {
+    "de-637523b4.sishka.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.88.12.119": {
+    "meow-berlin.nethcloud.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.126.51.40": {
+    "auto-3.claudpath.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "germany.tofreedom.ru": {
+    "ddnl0.zazazuza.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "francegoodapp1355.speed.hoom0.naxinshooping.ir": {
+    "de-7db4a237.sishka.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "fast128.slopllex.app": {
+    "www.wto.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "181.214.99.117": {
+    "tr2.gigobingo.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "borsch.spravedlivost.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.27.155.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.74.158.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.141.172.154": {
+    "qp.lichao0223.cn": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,19 +88,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.175.19.8": {
+    "45.132.177.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.217.9.140": {
+    "132.243.231.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.155.146.201": {
+    "134.195.101.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "bgroup.hk1.ilovegairport.com": {
+    "34.159.243.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.96.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.249.18.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "th1.zestapp778.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-e75d6467.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "deak.nightfall.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-54a2bf7c.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de23.sharecafe.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.187.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "171.22.129.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iranibestv.pingxoxo.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.18.161.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node-nl.shtormvpn.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dehys.superbuba.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.26.141.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.232.216": {
       "status": "down",
       "rtt_ms": null
     },
@@ -276,15 +172,143 @@
       "status": "down",
       "rtt_ms": null
     },
-    "201.34.159.213": {
+    "94.183.157.156": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.168.81": {
+    "193.239.179.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.wto.org": {
+    "172.64.145.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto-4.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.srv.vbuste-bot.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.107.164.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-1a9b044b3e.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.40.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch.zango.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-918a1965.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.253.143.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.237.103.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.112.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yg11.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yg9.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "borsch.spravedlivost.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-28544235.sishka.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee10.zazazuza.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.132.177.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.187.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.4.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.0.187.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.26.184.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.215.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.3.101.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto-2.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.96.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.252.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.241.166.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "181.214.99.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "meowkong.nethcloud.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germany.tofreedom.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "meow-amster.nethcloud.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.168.68.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto.claudpath.com": {
       "status": "down",
       "rtt_ms": null
     }
