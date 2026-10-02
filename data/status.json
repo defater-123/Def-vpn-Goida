@@ -1,34 +1,138 @@
 {
-  "last_update": "2026-10-02T18:45:46.815875",
-  "total": 13,
+  "last_update": "2026-10-02T22:38:38.082974",
+  "total": 50,
   "up": 0,
-  "down": 13,
+  "down": 50,
   "results": {
-    "151.101.213.164": {
+    "31.76.119.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.96.90": {
+    "85.90.197.146": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.39.121.186": {
+    "87.251.69.114": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.132.177.83": {
+    "134.195.101.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.192.47.10": {
+    "34.35.58.153": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.45.6": {
+    "103.75.125.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.35.228": {
+    "2.58.66.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.109.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.176.137.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.245.52.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.118.43.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ahbpanel-production-52fb.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "litva1.ali-bard.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "n37.himoy.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.tronsg.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "t11.qifei.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "newblocksgerm.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "link.mrpgd.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finnnewfenix.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.231.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.13.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.106.229.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.254.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.242.247.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.129.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.235.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finl11.ali-bard.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.192.153.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.231.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.83.246.202": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,23 +140,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.185.29": {
+    "cz.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.228.171.219": {
+    "kz.monkeyisland.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "ddnl0.zazazuza.ru": {
+    "217.60.35.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "support.zoom.us": {
+    "sg.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "germany.tofreedom.ru": {
+    "fi.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "n48.himoy.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.0.232.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.153.155.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polo.ali-bard.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.116.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.154.206.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.148.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.115.24.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.95.76.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "br.monkora.org": {
       "status": "down",
       "rtt_ms": null
     }
