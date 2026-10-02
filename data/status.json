@@ -1,58 +1,58 @@
 {
-  "last_update": "2026-10-02T13:49:06.975526",
+  "last_update": "2026-10-02T18:45:46.815875",
   "total": 13,
   "up": 0,
   "down": 13,
   "results": {
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.118.43.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.92.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.213.164": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.35.174.143": {
+    "89.125.96.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.165.56.30": {
+    "89.39.121.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.128.84.173": {
+    "45.132.177.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.58.42.100": {
+    "87.192.47.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.119": {
+    "170.114.45.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.74.25.186": {
+    "217.60.35.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "aut1.pandaonline.org": {
+    "134.195.101.118": {
       "status": "down",
       "rtt_ms": null
     },
-    "bel2.pandaonline.org": {
+    "13.143.185.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "3696b38bsg.murphyweb.sbs": {
+    "94.228.171.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ddnl0.zazazuza.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germany.tofreedom.ru": {
       "status": "down",
       "rtt_ms": null
     }
