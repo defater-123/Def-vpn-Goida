@@ -1,38 +1,18 @@
 {
-  "last_update": "2026-10-02T07:07:07.006836",
-  "total": 50,
+  "last_update": "2026-10-02T13:49:06.975526",
+  "total": 13,
   "up": 0,
-  "down": 50,
+  "down": 13,
   "results": {
-    "34.154.47.33": {
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.241.137.132": {
+    "34.118.43.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finland.ali-bard.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.59.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.248.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.136.57.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.101.41": {
+    "34.154.92.210": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,143 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.152.132.195": {
+    "34.35.174.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.196.207": {
+    "34.165.56.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.128.78.84": {
+    "34.128.84.173": {
       "status": "down",
       "rtt_ms": null
     },
-    "142.251.151.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.56.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.87.190.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.175.44.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.160.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.setevoyprichal.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rom.shadowlos.cyou": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.223.18.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.19.33.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.223.41.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.151.180.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.223.19.211": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.70.64.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.223.41.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.36.158.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3d0bb862-tm96o0-tnhquc-1j0a4.nw4.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee174.mech-pro.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hinet1.2yly.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "litva.ali-bard.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "condropolo1.ggisopi.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl193.mech-pro.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherlands.diginoisb.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.150.227.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.111.143.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.185.179.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.217.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.223.41.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.241.138.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.52.124": {
+    "194.58.42.100": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,23 +40,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.223.41.117": {
+    "47.74.25.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.1.13": {
+    "aut1.pandaonline.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "44577f17-tm96o0-tne5x4-1rfon.nw4.hyhuawei.com": {
+    "bel2.pandaonline.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl119.mech-pro.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81dfbc47661b59f3.sddsask.ir": {
+    "3696b38bsg.murphyweb.sbs": {
       "status": "down",
       "rtt_ms": null
     }
