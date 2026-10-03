@@ -1,86 +1,10 @@
 {
-  "last_update": "2026-10-03T15:51:11.233864",
-  "total": 38,
+  "last_update": "2026-10-03T18:51:38.020163",
+  "total": 29,
   "up": 0,
-  "down": 38,
+  "down": 29,
   "results": {
-    "134.195.101.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.17.159.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.tronsg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.149.238.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "156.229.162.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.201.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.168.174.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.66.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.12.69.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.174.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.226.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.207.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.185.41.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cloud.ghostdev.lk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swidenfenix.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz-ala-1.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "net.pluse.vexava.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23sept.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-fra-7.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,35 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.214.143": {
+    "185.252.177.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "109.120.142.143": {
+    "34.47.83.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.38.170.8": {
+    "177.3.208.192": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.83.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.175.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.35.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.99.93.77": {
+    "85.159.229.122": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,15 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "87.121.86.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.162.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chubby0.failspace.top": {
+    "82.115.19.143": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,19 +40,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.231.12": {
+    "31.77.15.221": {
       "status": "down",
       "rtt_ms": null
     },
-    "newhollandafter.world": {
+    "92.42.102.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.20.71": {
+    "217.60.35.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.208.66.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.144.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.58.201.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol4.o4ka-internet.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cloud.ghostdev.lk": {
       "status": "down",
       "rtt_ms": null
     },
     "funagfr.alixxplay.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.149.238.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-fra-7.blook.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.108.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.160.250": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.tronsg.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "net.pluse.vexava.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chubby0.failspace.top": {
       "status": "down",
       "rtt_ms": null
     }
