@@ -1,246 +1,10 @@
 {
-  "last_update": "2026-10-03T01:25:13.382242",
+  "last_update": "2026-10-03T06:40:24.636019",
   "total": 77,
   "up": 0,
   "down": 77,
   "results": {
-    "134.195.101.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.181.202.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.104.106.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.35.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.104.106.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.16.34.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.119.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.monkeyisland.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.176.137.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "210.140.81.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.201.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.242.247.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.222.201.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "br.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finnnewfenix.best": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cz.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.154.206.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.132.177.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.58.66.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.58.66.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.245.52.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.69.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "scania.ehorizon.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.159.228.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.106.229.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.132.177.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.13.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "31.77.168.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.231.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.35.58.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "newblocksgerm.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germanydvatri.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.0.232.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.41.30.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.75.125.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.154.92.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.153.155.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.115.24.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.35.174.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eston3.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol4.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finl11.ali-bard.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.168.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.4.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "polo.ali-bard.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23sept.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.tronsg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.54.82.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.116.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.192.153.132": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,15 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "be.monkora.org": {
+    "94.156.112.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.183.117": {
+    "156.229.162.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.254.245": {
+    "134.195.101.119": {
       "status": "down",
       "rtt_ms": null
     },
@@ -264,27 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.68.198.13": {
+    "102.208.217.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.213.164": {
+    "13.143.173.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.231.4": {
+    "87.58.201.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.58.201.211": {
+    "pol4.o4ka-internet.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.182.1": {
+    "ie.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.235.214": {
+    "swed4.o4ka-internet.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -292,11 +56,107 @@
       "status": "down",
       "rtt_ms": null
     },
-    "34.118.43.133": {
+    "pl.tronsg.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "iro.wingerdt.org": {
+    "hk.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fistulinainocybes.mycel.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fistulinainonotus1.mycel.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "br.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "newhollandafter.world": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.215.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.0.232.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.91.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "86.54.83.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.174.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.243.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.58.121.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.159.228.223": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.251.69.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.245.52.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.153.155.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.157.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sa201.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.monkeyisland.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.214.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.213.20.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at.monkora.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -304,11 +164,151 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.217.225.33": {
+    "132.243.231.4": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee.h1cloud.net": {
+    "31.56.188.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.31.223.156": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lt.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23sept.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "be.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polo.ali-bard.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.168.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.154.206.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.58.66.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.198.0.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "newblocksgerm.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.35.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "62.192.153.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germanydvatri.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.219.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finnnewfenix.best": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.254.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.235.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.207.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.59.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl37.mech-pro.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "it.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.68.198.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.115.24.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.58.201.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.222.201.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.75.125.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.168.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.monkora.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.209.165": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.214.202": {
       "status": "down",
       "rtt_ms": null
     }
