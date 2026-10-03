@@ -1,190 +1,10 @@
 {
-  "last_update": "2026-10-03T12:00:28.644585",
-  "total": 86,
+  "last_update": "2026-10-03T15:51:11.233864",
+  "total": 38,
   "up": 0,
-  "down": 86,
+  "down": 38,
   "results": {
-    "103.106.229.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.58.66.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.192.153.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.68.198.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.35.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.168.174.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.213.20.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.35.174.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.188.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.253.26.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.119.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.90.197.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.176.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.251.69.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.tronsg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.149.114.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.167.234.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fistulinainocybes.mycel.su": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.105.115.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.91.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.0.232.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.213.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.36.143.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.98.207.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.46.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.66.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.96.131.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.monkeyisland.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.153.105.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.175.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "156.229.162.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.243.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pol4.o4ka-internet.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.201.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "86.54.83.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ca.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "greeeeeek.pumpkinpie.study": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.12.69.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.159.106.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.241.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.254.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.41.30.112": {
+    "134.195.101.117": {
       "status": "down",
       "rtt_ms": null
     },
@@ -192,79 +12,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.117": {
+    "pl.tronsg.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
+    "91.149.238.88": {
       "status": "down",
       "rtt_ms": null
     },
-    "87.121.86.120": {
+    "156.229.162.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "192.80.63.51": {
+    "87.58.201.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.154.206.88": {
+    "95.168.174.248": {
       "status": "down",
       "rtt_ms": null
     },
-    "sg.monkora.org": {
+    "178.208.66.185": {
       "status": "down",
       "rtt_ms": null
     },
-    "78.153.155.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.75.125.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "newhollandafter.world": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.95.76.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-fra-7.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.119.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.159.228.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.222.201.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.207.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.119.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.159.229.122": {
+    "45.12.69.139": {
       "status": "down",
       "rtt_ms": null
     },
@@ -272,27 +44,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "109.120.142.143": {
+    "95.85.226.66": {
       "status": "down",
       "rtt_ms": null
     },
-    "ie.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lt.monkora.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.83.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.42.102.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.162.200": {
+    "2.27.207.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -300,23 +56,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "60.249.39.203": {
+    "cloud.ghostdev.lk": {
       "status": "down",
       "rtt_ms": null
     },
-    "at.monkora.org": {
+    "swidenfenix.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.209.165": {
+    "kz-ala-1.blook.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.214.143": {
+    "net.pluse.vexava.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "86.54.82.184": {
+    "23sept.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-fra-7.blook.network": {
       "status": "down",
       "rtt_ms": null
     },
@@ -324,15 +84,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.197.99": {
+    "95.85.254.245": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.58.66.198": {
+    "151.101.214.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.226.66": {
+    "109.120.142.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.38.170.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.213.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.83.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.175.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.35.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.99.93.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.167.234.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.121.86.120": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.132.162.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chubby0.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.209.165": {
       "status": "down",
       "rtt_ms": null
     },
@@ -340,11 +144,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cz.monkora.org": {
+    "newhollandafter.world": {
       "status": "down",
       "rtt_ms": null
     },
-    "fistulinainonotus1.mycel.su": {
+    "2.26.20.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "funagfr.alixxplay.com": {
       "status": "down",
       "rtt_ms": null
     }
