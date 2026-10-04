@@ -1,62 +1,22 @@
 {
-  "last_update": "2026-10-04T05:46:05.888520",
-  "total": 62,
+  "last_update": "2026-10-04T11:25:16.602005",
+  "total": 68,
   "up": 0,
-  "down": 62,
+  "down": 68,
   "results": {
-    "31.77.15.221": {
+    "31.77.168.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "pol4.o4ka-internet.com": {
+    "103.30.76.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "gfgfdgdfg.apruxdomain.online": {
+    "144.31.235.214": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.167.234.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.209.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "argo6.5671234.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.30.76.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.214.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.239.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.245.105.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.78.190.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "167.82.76.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,59 +24,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.169.15.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swself2.yandex-api.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "poland-good.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "direct-hk-mixed-03.mix.inetsnode.de": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "polkadotnewone.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.12.69.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.120.154.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.127.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.175.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.126.51.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "43.255.156.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.124.239.14": {
+    "199.232.78.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.208.192": {
+    "31.77.15.221": {
       "status": "down",
       "rtt_ms": null
     },
-    "93.177.116.70": {
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.30.76.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eg-cai-1.blook.rs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apinbxs.zalolink.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.246.185.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,51 +72,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "86153507-1976-48f1-ac86-e8ab274470a8.fly.dev": {
+    "ee10.zazazuza.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "pol-pol-poland.failspace.top": {
+    "fi-966ffd3f4f.shamanapp.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.214.52": {
+    "cf.877774.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl-2070d4dca0.shamanapp.online": {
+    "27.50.49.154": {
       "status": "down",
       "rtt_ms": null
     },
-    "funagfr.alixxplay.com": {
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "apinbxs.zalolink.com": {
+    "103.167.234.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "cz-musicc.moritech.net": {
+    "130.78.190.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.10.90.91": {
+    "31.77.168.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "136.86.162.34": {
+    "f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.10.91.128": {
+    "109.104.106.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "39.109.110.12": {
+    "167.82.76.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.255.157.118": {
+    "27.50.49.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.72.85.247": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,27 +132,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "179.255.191.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.175.4.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.216.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "47.251.95.178": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.40.217.165": {
+    "212.227.144.37": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,35 +144,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.186.68": {
+    "31.77.168.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "lcxngh.gomqiro.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.249.172.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.207.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.flen-vpn.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "br-gru-1.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.30.76.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.30.76.28": {
+    "in-blr-1.koolb.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -244,11 +156,123 @@
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.254.245": {
+    "gsg192i.zxom.eu.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "gsg192i.zxom.eu.org": {
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "63.141.128.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.84.179.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.110.116.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.106.98.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.30.76.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.192.47.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "109.104.106.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.220.207.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dggg.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pol-pol-poland.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polkadotnewone.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.47.78.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "39.109.110.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.255.157.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.211.240.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.21.220.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.214.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "206.206.78.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "poland-good.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "russia.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jpt.negai.de": {
       "status": "down",
       "rtt_ms": null
     }
