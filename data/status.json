@@ -1,170 +1,10 @@
 {
-  "last_update": "2026-10-05T00:52:37.197306",
-  "total": 65,
+  "last_update": "2026-10-05T06:22:07.123348",
+  "total": 82,
   "up": 0,
-  "down": 65,
+  "down": 82,
   "results": {
-    "2.27.71.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "67.159.11.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.62.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.254.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.235.49.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "116.49.85.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.232.18.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "39.109.110.12": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "50.7.120.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.214.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.216.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.tronsg.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "myschoolonline.cvedcmimikal.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cz-musicc.moritech.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "polkadot03.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "at-tati.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.50.116.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.85.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.182.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.13.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.69.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.237.202.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.62.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-1-2.imnotgay.party": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.17.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.86.111.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.104.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-1.srv.dvzh.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.srv.vbuste.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-2070d4dca0.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node75.tomalgopas.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl999.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.62.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "175.29.23.179": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,79 +12,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.119": {
+    "45.88.13.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.62.162": {
+    "94.183.152.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "50.7.28.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.192.12.22": {
+    "13.143.161.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.213.33": {
+    "109.235.49.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.71.48": {
+    "50.7.216.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.71.53": {
+    "144.31.62.195": {
       "status": "down",
       "rtt_ms": null
     },
-    "cool-place.failspace.top": {
+    "2.27.69.128": {
       "status": "down",
       "rtt_ms": null
     },
-    "poland-good.failspace.top": {
+    "212.232.18.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.245.240.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.114.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-2.srv.dvzh.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dec37ece-tlsio0-u0aht1-1rz5s.hk3.hyhuawei.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "polkadotnewone.failspace.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.126.51.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.riotvpn.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-hy-test.tcp-reset-club.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.249.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.243.9": {
+    "177.3.214.52": {
       "status": "down",
       "rtt_ms": null
     },
@@ -252,15 +56,279 @@
       "status": "down",
       "rtt_ms": null
     },
-    "85.159.229.122": {
+    "nl-2.srv.dvzh.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.249.155": {
+    "polkadot03.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.ezhikvpn.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node64.tomalgopas.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cedar.cluster.sarl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gloss.cluster.sarl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "r4v8n3.cluster.sarl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.213.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.254.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.255.157.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "data.cluster.sarl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.7.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.10.90.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.150.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.81.254.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.srv.vbuste.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-1-2.imnotgay.party": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polkadotnewone.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.riotvpn.eu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.174.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.71.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yg11.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.69.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.243.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.71.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.137.165.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.240.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.129.176.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.249.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.ezhikvpn.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mk-fi2.silalink.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.139.51.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.208.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node75.tomalgopas.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "meadow.cluster.sarl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.62.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.237.202.251": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.104.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl999.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-2070d4dca0.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yg9.ygkkk.dpdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.61.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.192.12.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "67.159.11.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.86.105.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.71.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.114.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "poland-good.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.79.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "in-blr-1.koolb.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "at-tati.failspace.top": {
       "status": "down",
       "rtt_ms": null
     },
     "pol-pol-poland.failspace.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-1-1.imnotgay.party": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-hy-test.tcp-reset-club.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cz-musicc.moritech.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swself2.yandex-api.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.126.51.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.50.116.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cool-place.failspace.top": {
       "status": "down",
       "rtt_ms": null
     }
