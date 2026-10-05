@@ -1,82 +1,230 @@
 {
-  "last_update": "2026-10-05T15:01:40.451668",
-  "total": 19,
+  "last_update": "2026-10-05T21:58:55.062190",
+  "total": 56,
   "up": 0,
-  "down": 19,
+  "down": 56,
   "results": {
-    "80.66.89.184": {
+    "160.251.167.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.90": {
+    "31.77.168.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.118": {
+    "109.104.106.149": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.82.0.1": {
+    "185.94.165.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.182.27": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "131.123.13.93": {
+    "80.211.27.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.84.61": {
+    "ccc.010304.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.3.0": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.156.177.16": {
+    "80.96.113.48": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.98.163.191": {
+    "199.232.78.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.66.89.220": {
+    "138.124.58.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "50.7.157.235": {
+    "212.87.220.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.194.151.29": {
+    "31.56.146.139": {
       "status": "down",
       "rtt_ms": null
     },
-    "psf-2.weedly.top": {
+    "104.168.202.51": {
       "status": "down",
       "rtt_ms": null
     },
-    "motri-at-new.failspace.top": {
+    "159.195.5.79": {
       "status": "down",
       "rtt_ms": null
     },
-    "nekonkori.farshadsv.ir": {
+    "167.82.76.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "quietledge.videoclothing.xyz": {
+    "62.182.195.147": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-new-ded-once.failspace.top": {
+    "162.249.126.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.130.224.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de.xelnivo.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.6.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.189.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.50.105.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.11.139.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.82.76.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.37.70.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.99.252": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.192.47.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.68.196.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.35.46.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.36.221.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.56.123.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.192.201.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.27.129": {
       "status": "down",
       "rtt_ms": null
     },
     "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.182.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.90.196.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.56.172.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.53.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "132.243.66.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "argo6.5671234.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.173.67.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.75.81.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.36.143.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.17.12.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.57.109.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "russia.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-2070d4dca0.shamanapp.online": {
       "status": "down",
       "rtt_ms": null
     }
