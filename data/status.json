@@ -1,254 +1,14 @@
 {
-  "last_update": "2026-10-06T08:54:56.414423",
-  "total": 72,
+  "last_update": "2026-10-06T15:30:41.159966",
+  "total": 46,
   "up": 0,
-  "down": 72,
+  "down": 46,
   "results": {
-    "www.wto.org": {
+    "50.7.128.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.229.87.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.105.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.78": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.115.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.56.172.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.189.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.93.202.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.104.106.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.36.143.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.113.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "malaysia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "brazil.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "93.123.101.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.35.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.111.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.35.46.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.93.140.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.69.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.6.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.2.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.124.58.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "russia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us.vltj.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.110.97.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-2.srv.dvzh.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "time.is": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.82.76.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.211.27.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.82.76.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "63.141.128.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.168.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.150.35.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.146.139": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.84.99.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.192.47.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "japan.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.calmlunch.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.99.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.196.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.17.12.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.whoer.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.42.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.210.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.81": {
+    "50.7.221.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,39 +16,175 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.10": {
+    "50.7.221.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "50.7.221.218": {
       "status": "down",
       "rtt_ms": null
     },
-    "ccc.010304.xyz": {
+    "162.249.126.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.96": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.90.196.11": {
+    "199.232.78.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.227.129": {
+    "170.114.45.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.85.241.203": {
+    "167.82.76.27": {
       "status": "down",
       "rtt_ms": null
     },
-    "de2.srv.vbuste.ru": {
+    "199.232.239.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "gur.gov.ua": {
+    "45.147.31.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.192.47.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.129.80.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.datanode-internal.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "trunk-nl.cvedcdigital.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cedar.fdc.video-mvm.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "data.fdc.video-mvm.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mo.asrarshimi.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.194.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.82.126.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.126.51.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.141.219.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.117.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.221.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.34.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.104.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.240.125.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.246.55.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.79.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "r4v8n3.fdc.video-mvm.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.82.76.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "meadow.fdc.video-mvm.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gloss.fdc.video-mvm.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.155.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.122.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.126.51.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "k7m2q9.fdc.video-mvm.ru": {
       "status": "down",
       "rtt_ms": null
     }
