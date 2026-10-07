@@ -1,26 +1,74 @@
 {
-  "last_update": "2026-10-07T18:54:02.187607",
-  "total": 14,
+  "last_update": "2026-10-07T23:22:05.932621",
+  "total": 77,
   "up": 0,
-  "down": 14,
+  "down": 77,
   "results": {
-    "83.97.77.63": {
+    "main-fawn.rooster465.autos": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.205.0.6": {
+    "www.large-files.info": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.52.22": {
+    "31.59.210.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.46.6": {
+    "144.24.140.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "172.67.118.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "56.10.9.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccc.010304.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.6.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.26.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "203.9.150.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.21.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tk1.high-speed-test-56424.me": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "noted-cougar.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pet-antelope.rooster465.autos": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,15 +76,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
+    "43.207.89.91": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,19 +84,231 @@
       "status": "down",
       "rtt_ms": null
     },
+    "ccs2g.pai50288.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chat.openai.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.211.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kind-stork.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.239.117.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.138.176.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freesocks.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "delicate-buck.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.185.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "54.213.238.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "intense-sole.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bff4b219-tmkao0-tnnrly-g43g.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us1-r.link-t7.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hikvision-plus.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.186.244.116": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.calmlunch.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.230.91.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.65.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "52.192.45.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.170.172.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.121.124.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.154.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "hinet1.2yly.com": {
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl.zhabulik.ru": {
+    "free.nadun.store": {
       "status": "down",
       "rtt_ms": null
     },
-    "psf-3.weedly.top": {
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "neutral-quail.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mfyousheng.nl.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.5199dy.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.76.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.35.217.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.60.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.72.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.95.225.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.41.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "undef.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.7.113.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.bamans.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.98.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.api-music-fa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "musical-terrier.rooster465.autos": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "obliging-louse.rooster465.autos": {
       "status": "down",
       "rtt_ms": null
     }
