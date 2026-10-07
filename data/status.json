@@ -1,10 +1,178 @@
 {
-  "last_update": "2026-10-06T20:32:20.423815",
-  "total": 28,
+  "last_update": "2026-10-07T00:06:20.239949",
+  "total": 50,
   "up": 0,
-  "down": 28,
+  "down": 50,
   "results": {
+    "87.199.196.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "87.120.216.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.126.51.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.205.0.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "50.7.216.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.124.63.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.108.12": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.208.92.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.209.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.241.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.217.110.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.220.204.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.41.181.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.129.22.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.233.80.164": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.35.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.61.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "66.55.64.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.196.203.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.242.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.59.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "146.56.221.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.82.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.184.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.123.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "i.wareznet.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.142.31.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.32.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.177.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,79 +184,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.33.11.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.241.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.110.207.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.237.202.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.192.47.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.229.67.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "62.72.166.66": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.177.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.63.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "134.195.101.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.199.196.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "50.7.29.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.227.6": {
+    "89.127.216.177": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,23 +192,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "143.20.156.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "134.195.101.117": {
+    "nl-2.srv.dvzh.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.82.76.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "us5.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.82.76.7": {
+    "api.ferrin.uk": {
       "status": "down",
       "rtt_ms": null
     }
