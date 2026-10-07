@@ -1,46 +1,14 @@
 {
-  "last_update": "2026-10-07T12:10:08.142737",
-  "total": 23,
+  "last_update": "2026-10-07T18:54:02.187607",
+  "total": 14,
   "up": 0,
-  "down": 23,
+  "down": 14,
   "results": {
+    "83.97.77.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.37.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.249.126.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.214.116.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.53.188.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.65.217.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sv1.ahsg.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.200.246.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.214.116.5": {
+    "170.114.46.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,7 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.127.216.177": {
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,23 +48,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "myschoolonline.cvedcmimikal.space": {
+    "hinet1.2yly.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "fzjo.fbbv.electrocitymarket.ru": {
+    "nl.zhabulik.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.143.223.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
+    "psf-3.weedly.top": {
       "status": "down",
       "rtt_ms": null
     }
