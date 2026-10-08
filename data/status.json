@@ -1,18 +1,10 @@
 {
-  "last_update": "2026-10-08T16:55:29.835784",
-  "total": 65,
+  "last_update": "2026-10-08T21:36:23.037141",
+  "total": 76,
   "up": 0,
-  "down": 65,
+  "down": 76,
   "results": {
-    "45.130.125.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.69": {
+    "172.67.231.254": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,23 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "172.66.0.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.33.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.18.37.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.1.43": {
+    "104.20.6.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.200.219": {
+    "162.159.36.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.246.173": {
+    "139.162.27.96": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.67.190.105": {
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.71.213": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +48,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.9.83": {
+    "172.67.217.240": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.125.160": {
+    "94.103.168.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "161.33.29.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "206.71.158.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xray1-direct-mci1-fs-ce.freesocks.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.bamans.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.calmlunch.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.217.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.12.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.64.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.206.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.8.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.98.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.52.22": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,75 +132,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.244.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.72.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "161.33.29.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.bamans.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hikvision-plus.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.3.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.217.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.195.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.35.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.229.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.72.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "129.225.175.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.245.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.60.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.190": {
+    "cf.008500.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,27 +140,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.152.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.98.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.41.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.4.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.190.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.32.47": {
+    "ccs2g.pai50288.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,91 +148,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "chat.openai.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.162.27.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.122.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.71.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.111.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.144.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.253.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.calmlunch.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.52.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.large-files.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.130519.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.8.8.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.112": {
+    "cctvhikvision.center": {
       "status": "down",
       "rtt_ms": null
     },
@@ -256,11 +156,155 @@
       "status": "down",
       "rtt_ms": null
     },
+    "cip.navid.lat": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.44.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.253.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.17.154.123": {
       "status": "down",
       "rtt_ms": null
     },
+    "162.159.244.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.46.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.244.122.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.195.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.35.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hikvision-plus.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.130519.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "undef.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.9.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.41.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.228.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.229.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freesocks.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chat.openai.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.17.147.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
       "status": "down",
       "rtt_ms": null
     }
