@@ -1,34 +1,14 @@
 {
-  "last_update": "2026-10-09T14:38:44.842004",
-  "total": 65,
+  "last_update": "2026-10-09T19:43:45.584105",
+  "total": 64,
   "up": 0,
-  "down": 65,
+  "down": 64,
   "results": {
-    "103.126.51.57": {
+    "172.67.195.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.154.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.148.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.122.175": {
+    "194.107.126.243": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,55 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.249.126.41": {
+    "104.18.8.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "172.64.158.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.36.20": {
+    "77.74.123.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.121.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.148.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.244.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cctvhikvision.center": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.51.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hikvision-plus.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.6": {
+    "107.189.26.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,51 +36,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.72.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.41.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.229.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.64.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.37.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.200.219": {
+    "104.17.154.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.91.211": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.160.132.132": {
+    "fi-s-1.pythonmakemigreat.wiki": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,7 +52,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.72.2": {
+    "172.67.76.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.152.241": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.219.84.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.193": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,23 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "uwu.blueknightnet.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "cf.090227.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.195.196": {
+    "185.254.98.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.253.41": {
+    "45.130.125.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.227.38.134": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,51 +100,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.76.40": {
+    "104.16.72.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "chat.openai.com": {
+    "172.64.152.23": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.12.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.8.8.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ccc.010304.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.6.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.168.59.98": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -228,19 +116,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cf.130519.xyz": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.5199dy.com": {
+    "45.130.125.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.72.50": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.206.84": {
+    "172.64.150.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.35.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.121.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.254.98.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "c20s5.portablesubmarines.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.107.126.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "saas.sin.fan": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.41.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.8.8.8": {
       "status": "down",
       "rtt_ms": null
     },
@@ -248,19 +176,87 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.231.254": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.8.83": {
+    "104.18.37.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "undef.network": {
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.9.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.44.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.244.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.228.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.68.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.36.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chat.openai.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccc.010304.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.160": {
       "status": "down",
       "rtt_ms": null
     },
     "s3.bamans.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.64.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.6.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.148.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.12.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.130519.xyz": {
       "status": "down",
       "rtt_ms": null
     }
