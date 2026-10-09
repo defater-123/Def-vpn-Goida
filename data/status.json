@@ -1,102 +1,10 @@
 {
-  "last_update": "2026-10-09T07:33:29.331133",
-  "total": 114,
+  "last_update": "2026-10-09T14:38:44.842004",
+  "total": 65,
   "up": 0,
-  "down": 114,
+  "down": 65,
   "results": {
-    "104.21.39.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.34.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "peekconfig.hamrahfree1.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.67.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netra-85a0ca.shoameni19.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.6.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.68.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.83.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.49.197": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "server16.peekconfig.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.95.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.131.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "soskeynets.t-me-sh4dow-vpn.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "russia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edgetunnel.kalmevebto.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "wangcai.cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.46.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.54.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.60.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.145.21": {
+    "103.126.51.57": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,187 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.68.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.72.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.15.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.130.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.90.36": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "o.server5peekconfig.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.194.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5dktcuajb2a1jxix7csnrmeucg.mahrademami.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.221.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "blue-disk-1124.sawmansafi.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "restless-base-fe24.alirezahabibi20009.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf-vless-4cf55824.aimall.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.6.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tg.juntham.cn": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.182.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.8.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.44.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.222.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.35.211.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.79.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.41.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.99.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lhns3ww2-cxq-gj1vvobkepig4nopkc.hqu4v38hi9iftcp6mzfmx-3bmx.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "peekconfig.peekconf1.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "aslanbilit.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "time.is": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf-socks.caoyuwu.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.61.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.67.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.178.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.31.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5xgovtcyqgoh5tedrlj6sg--sn9pbh.mahsapodcst.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hi.n2foriran.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-tomcat.pages.dev": {
+    "104.17.154.123": {
       "status": "down",
       "rtt_ms": null
     },
@@ -292,59 +20,139 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bpb-panel-4e2c.sakwra939.workers.dev": {
+    "104.17.148.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.224.5": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.0.162": {
+    "104.16.122.175": {
       "status": "down",
       "rtt_ms": null
     },
-    "liang92.dpdns.org": {
+    "104.17.98.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "patient-moon-c61f.ggfsa55.workers.dev": {
+    "162.249.126.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.12.149": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf.3666888.xyz": {
+    "162.159.36.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.152.162": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.137.154": {
+    "104.17.121.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.9": {
+    "104.17.148.44": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.0.87": {
+    "77.74.123.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.3": {
+    "162.159.244.91": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.76.40": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.25.172.249": {
+    "cctvhikvision.center": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.51.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hikvision-plus.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.41.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.229.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.64.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.37.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.200.219": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.91.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.160.132.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.32.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.calmlunch.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
       "status": "down",
       "rtt_ms": null
     },
@@ -352,11 +160,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.65.53": {
+    "cf.090227.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.153.110": {
+    "172.67.195.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.253.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.147.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.76.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chat.openai.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.12.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.8.8.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.76": {
       "status": "down",
       "rtt_ms": null
     },
@@ -364,27 +216,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev": {
+    "104.16.6.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.13.142": {
+    "89.168.59.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.152.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "channel.t-me-sh4dow-vpn.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "late-frost-9da7.shoameni5.workers.dev": {
+    "45.205.0.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -392,71 +232,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.154": {
+    "www.5199dy.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.70.21": {
+    "104.16.72.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "small-scene-f215.amiralizarefast1.workers.dev": {
+    "94.183.206.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.195.227": {
+    "104.16.71.213": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.198.1": {
+    "172.67.231.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.142.169": {
+    "104.18.8.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.102.44": {
+    "undef.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.87.120": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.132.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ld.235231.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.47.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.74.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.34.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.173.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cd0ftgj4r79qu6f7nl0ldwptxv.s2gzvugnc7arq-nzwdwavaz.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "khodekhoda.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.228.224": {
+    "s3.bamans.uk": {
       "status": "down",
       "rtt_ms": null
     }
