@@ -1,86 +1,14 @@
 {
-  "last_update": "2026-10-09T23:30:02.763565",
-  "total": 47,
+  "last_update": "2026-10-10T02:34:25.278625",
+  "total": 67,
   "up": 0,
-  "down": 47,
+  "down": 67,
   "results": {
-    "172.67.195.196": {
+    "104.16.6.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.145.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.192.12.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.large-files.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.41.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.98.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.186.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.4.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.4.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.37.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.44.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.35.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.bamans.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "admin.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.130519.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
+    "chat.openai.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,71 +16,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.110": {
+    "104.19.229.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.27.21.22": {
+    "172.67.195.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
+    "104.21.37.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "107.189.26.160": {
+    "188.114.97.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.154.123": {
+    "172.64.145.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "ccs2g.pai50288.uk": {
+    "104.18.9.83": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.33.59": {
+    "104.17.121.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.76.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.205.0.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.157.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.19.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ccc.010304.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adapting-basilisk.rooster465.autos": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.190.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.6.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mfyousheng.nl.eu.org": {
+    "172.67.200.219": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,27 +52,99 @@
       "status": "down",
       "rtt_ms": null
     },
+    "104.18.12.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.154.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.44.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.calmlunch.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.148.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.21.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.85.85": {
+    "45.205.0.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.230.21": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.118.45": {
+    "104.17.147.22": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.0.162": {
+    "162.159.228.224": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.193.10.166": {
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.244.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.190.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccc.010304.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.133.80.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.192.12.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.98.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.8.83": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,7 +152,123 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi-s-1.pythonmakemigreat.wiki": {
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.large-files.info": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s3.bamans.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.33.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.35.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.189.26.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.249.126.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.84.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.64.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.32.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.19.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.230.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.122.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.76.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "admin.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polandsixsebenrkn010.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.5199dy.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.130519.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.37.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.41.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.121.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.37.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     }
