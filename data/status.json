@@ -1,42 +1,18 @@
 {
-  "last_update": "2026-10-11T18:36:01.632663",
-  "total": 48,
+  "last_update": "2026-10-11T22:27:04.907389",
+  "total": 51,
   "up": 0,
-  "down": 48,
+  "down": 51,
   "results": {
-    "188.241.241.181": {
+    "185.114.48.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.172.65.72": {
+    "alb1337.zaebalsanoproxyklinus.lol": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.76.49.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dehy.bbobr.win": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.44.114.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.69.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.26.3.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.140.158.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.223.249.90": {
+    "94.249.188.202": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +20,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.241.241.33": {
+    "185.31.242.61": {
       "status": "down",
       "rtt_ms": null
     },
-    "206.245.146.248": {
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.69.167.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ns.l90909l.vip": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.140.158.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.252.33.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.172.65.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2-bkjbu.vpvr4ib84nuv6hdkt.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.105.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pablo-panel-production-06ed.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.192.12.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.94.36.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,51 +80,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi.bootless.ru": {
+    "renderer-bridge-2-114.mirra.now": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr5.wizard.select": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-1.wizard.select": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nd-3.ardesnode.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ops5.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.252.33.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.192.12.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.57.185.253": {
+    "31.76.65.216": {
       "status": "down",
       "rtt_ms": null
     },
     "31.59.210.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.82.56.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,27 +100,43 @@
       "status": "down",
       "rtt_ms": null
     },
+    "217.69.167.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.40.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.127.78.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "5.254.49.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl2-bkjbu.vpvr4ib84nuv6hdkt.ru": {
+    "160.16.139.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "88.218.95.88": {
+    "es3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "alb1337.zaebalsanoproxyklinus.lol": {
+    "c20s5.portablesubmarines.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.92.20": {
+    "qcloudge1.exitvpn.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "frfx.pafaktalaei.ir": {
+    "t14.qifei.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr5.wizard.select": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,27 +144,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.240.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tyo-a-02.auuas.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.165.164.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.105.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "admin.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.114.48.103": {
+    "nd-3.ardesnode.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finkawwwbroy5.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.77.196.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.214.110.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.82.56.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,27 +180,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.125.100.59": {
+    "se3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "pablo-panel-production-06ed.up.railway.app": {
+    "nl-1-6.unturned-rust-dead.lol": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.177.94.131": {
+    "fi.bootless.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "spainspeedboostjbl88.qcloud.surf": {
+    "frfx.pafaktalaei.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "swe.wizard.select": {
+    "nd-2.ardesnode.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl-a50baf0d7f.shamanapp.online": {
+    "sweedenqfds777.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ops5.localip.ir": {
       "status": "down",
       "rtt_ms": null
     }
