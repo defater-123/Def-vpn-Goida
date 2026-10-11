@@ -1,50 +1,10 @@
 {
-  "last_update": "2026-10-10T22:27:43.468203",
-  "total": 57,
+  "last_update": "2026-10-11T01:06:06.637960",
+  "total": 53,
   "up": 0,
-  "down": 57,
+  "down": 53,
   "results": {
-    "45.82.56.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.14.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.91.108.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.172.65.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.65.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.69.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.51.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.22.240.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-1-6.unturned-rust-dead.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c20s5.portablesubmarines.com": {
+    "80.209.238.60": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,135 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "polandsixsebenrkn010.qcloud.surf": {
+    "77.74.123.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "apinbxs.mate-fox.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge.cloudtechone.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spainspeedboostjbl88.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nd-3.ardesnode.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finkawwwbroy5.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "specific.to1.task-hit.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.106.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.218.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.247.132.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.252.33.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.220.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "qcloudge1.exitvpn.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.3.216.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.247.132.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "trrr-istrr-2.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.114.48.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.133.80.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.148.223.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spb.ai-boost.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.243.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.244.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.49.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "apifunx.mate-fox.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "admin.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finland02.azotvpn.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.125.254.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.21.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alb1337.zaebalsanoproxyklinus.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.1.192.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.81.36.148": {
+    "sg.australiacaregroup.site": {
       "status": "down",
       "rtt_ms": null
     },
@@ -188,15 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "23.191.200.207": {
+    "rb1211-3.vatilon.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "136.67.16.72": {
+    "136.148.223.212": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.59.79": {
+    "142.91.108.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.69.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "qcloudge1.exitvpn.shop": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,23 +48,115 @@
       "status": "down",
       "rtt_ms": null
     },
+    "170.168.4.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.125.254.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "39.109.110.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.100.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "c20s5.portablesubmarines.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alb1337.zaebalsanoproxyklinus.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "specific.to1.task-hit.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spb.ai-boost.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "sweedenqfds777.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     },
-    "ns.ll0ll.vip": {
+    "43.255.157.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "156.224.77.171": {
+    "193.233.220.194": {
       "status": "down",
       "rtt_ms": null
     },
-    "nd-2.ardesnode.ru": {
+    "104.245.243.2": {
       "status": "down",
       "rtt_ms": null
     },
-    "frfx.pafaktalaei.ir": {
+    "45.94.36.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.107.170.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.207.157.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.192.12.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.216.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.65.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spainspeedboostjbl88.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "admin.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.114.48.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polandsixsebenrkn010.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.218.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sh.polymarket.party": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.78.182.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -228,7 +164,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "netherlands02.azotvpn.xyz": {
+    "81.90.21.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.252.33.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.49.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.51.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.1.192.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.22.240.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dehy.bbobr.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.133.80.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.224.77.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1-6.unturned-rust-dead.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finkawwwbroy5.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "frfx.pafaktalaei.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nd-3.ardesnode.ru": {
       "status": "down",
       "rtt_ms": null
     }
