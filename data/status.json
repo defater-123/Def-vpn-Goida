@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-10-11T01:06:06.637960",
-  "total": 53,
+  "last_update": "2026-10-11T07:07:58.598449",
+  "total": 57,
   "up": 0,
-  "down": 53,
+  "down": 57,
   "results": {
-    "80.209.238.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.74.123.110": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg.australiacaregroup.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.174.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rb1211-3.vatilon.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.148.223.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "142.91.108.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.69.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "qcloudge1.exitvpn.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.209.157.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.168.4.59": {
+    "43.255.157.234": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,59 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "39.109.110.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.100.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c20s5.portablesubmarines.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alb1337.zaebalsanoproxyklinus.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "specific.to1.task-hit.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spb.ai-boost.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweedenqfds777.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.233.220.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.243.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.94.36.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.107.170.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.207.157.24": {
+    "147.78.182.5": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,67 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.216.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.65.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spainspeedboostjbl88.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "admin.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "185.114.48.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "polandsixsebenrkn010.qcloud.surf": {
+    "62.113.210.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.3.218.191": {
+    "94.249.188.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "sh.polymarket.party": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.78.182.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.21.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.252.33.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.49.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.51.108": {
+    "45.207.157.24": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,19 +40,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.240.206": {
+    "195.133.48.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "dehy.bbobr.win": {
+    "138.124.31.158": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.133.80.152": {
+    "apifunx.mate-fox.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "156.224.77.171": {
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "specific.to1.task-hit.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2-bkjbu.vpvr4ib84nuv6hdkt.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge.cloudtechone.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-5.gigobingo.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,15 +76,159 @@
       "status": "down",
       "rtt_ms": null
     },
-    "finkawwwbroy5.qcloud.surf": {
+    "nd-2.ardesnode.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "frfx.pafaktalaei.ir": {
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.224.77.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.100.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.244.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.133.80.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.209.157.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.51.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.3.218.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "c20s5.portablesubmarines.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.mediaparus.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "142.91.108.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finl11.ali-bard.online": {
       "status": "down",
       "rtt_ms": null
     },
     "nd-3.ardesnode.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.94.36.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spb.ai-boost.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pbf5bif5gkg.vpvr4ib84nuv6hdkt.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finkawwwbroy5.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ops4.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fert5.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spp1.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.138.103.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "205.237.105.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.254.98.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.82.56.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.30.76.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.107.126.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.49.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.243.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "39.109.110.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.65.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "polandsixsebenrkn010.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.220.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "admin.wwwinternetvideo.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.alpheratzz.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-s-1.pythonmakemigreat.wiki": {
       "status": "down",
       "rtt_ms": null
     }
