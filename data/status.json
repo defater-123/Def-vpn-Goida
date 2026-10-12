@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-10-11T22:27:04.907389",
-  "total": 51,
+  "last_update": "2026-10-12T01:28:10.641864",
+  "total": 49,
   "up": 0,
-  "down": 51,
+  "down": 49,
   "results": {
-    "185.114.48.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "alb1337.zaebalsanoproxyklinus.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.188.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.51.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.31.242.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.69.167.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ns.l90909l.vip": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.140.158.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.252.33.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.172.65.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2-bkjbu.vpvr4ib84nuv6hdkt.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "205.237.105.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pablo-panel-production-06ed.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.192.12.93": {
+    "160.16.139.182": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,27 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ee.h1cloud.net": {
+    "179.237.69.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru": {
+    "151.101.173.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "pbf5bif5gkg.vpvr4ib84nuv6hdkt.ru": {
+    "2.27.254.244": {
       "status": "down",
       "rtt_ms": null
     },
-    "renderer-bridge-2-114.mirra.now": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.65.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.210.32": {
+    "94.103.168.219": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,31 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.69.167.21": {
+    "fi.alpheratzz.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.40.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.127.78.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.254.49.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "160.16.139.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "es3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "c20s5.portablesubmarines.com": {
+    "31.76.65.216": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,23 +48,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "t14.qifei.app": {
+    "45.192.12.93": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr5.wizard.select": {
+    "188.241.241.181": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-s-1.pythonmakemigreat.wiki": {
+    "se3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "admin.wwwinternetvideo.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nd-3.ardesnode.ru": {
+    "c20s5.portablesubmarines.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -156,7 +68,95 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.77.196.79": {
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr5.wizard.select": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1.wizard.select": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ops5.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.31.242.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.74.123.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.188.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.69.167.167": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.210.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.237.69.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "81.90.21.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.237.69.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.254.51.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-1-6.unturned-rust-dead.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.237.84.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.82.56.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe.wizard.select": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.bootless.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.69.167.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nd-3.ardesnode.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dehy.bbobr.win": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sweedenqfds777.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "admin.wwwinternetvideo.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,43 +168,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.74.123.110": {
+    "205.237.105.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.82.56.253": {
+    "185.114.48.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.90.21.96": {
+    "5.254.49.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "se3.h1cloud.net": {
+    "179.237.84.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-1-6.unturned-rust-dead.lol": {
+    "95.140.158.168": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi.bootless.ru": {
+    "153.121.36.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "frfx.pafaktalaei.ir": {
+    "app-mi-27.spbstudentlife.com": {
       "status": "down",
       "rtt_ms": null
     },
     "nd-2.ardesnode.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweedenqfds777.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ops5.localip.ir": {
       "status": "down",
       "rtt_ms": null
     }
