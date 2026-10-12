@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-12T16:59:57.340887",
-  "total": 40,
+  "last_update": "2026-10-12T23:30:53.678702",
+  "total": 39,
   "up": 0,
-  "down": 40,
+  "down": 39,
   "results": {
-    "92.42.99.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "135.136.176.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.137.250.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.12.69.152": {
+    "94.249.188.202": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,43 +12,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "138.226.220.205": {
+    "94.158.219.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.205.0.6": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.44.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.182.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.215.41.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.202.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.188.119.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,11 +32,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "whuiy.xyz": {
+    "64.188.119.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "lists.soloramtin.cyou": {
+    "144.31.205.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.196.254.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.74.25.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "delta.linkexo.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jrnkkm.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sweedenqfds777.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,19 +84,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "148.253.212.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.133.174.59": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "se3.h1cloud.net": {
+    "217.69.167.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "91.215.41.42": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,27 +104,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.223.252.175": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "131.196.254.151": {
+    "185.230.44.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "148.253.212.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.195.190.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.63.5": {
+    "144.31.182.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,7 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.169.142.90": {
+    "138.226.220.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +136,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "rwyisq.edge-assets.ru": {
+    "dzv5pi.edge-assets.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,19 +144,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.205.106": {
+    "spainspeedboostjbl88.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "es3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "rwyisq.edge-assets.ru": {
       "status": "down",
       "rtt_ms": null
     },
     "ops4asfseretuiyk.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.158.219.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweedenqfds777.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     }
