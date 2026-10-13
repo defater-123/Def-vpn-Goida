@@ -1,62 +1,18 @@
 {
-  "last_update": "2026-10-13T11:14:00.467474",
-  "total": 62,
+  "last_update": "2026-10-13T18:17:43.436693",
+  "total": 40,
   "up": 0,
-  "down": 62,
+  "down": 40,
   "results": {
-    "144.31.182.130": {
+    "b58e68t.lt1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.167.232.174": {
+    "185.114.72.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.230.44.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "133.242.187.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "148.253.212.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.90.13.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.15.19.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "80.93.202.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.86.93.55": {
+    "146.75.119.82": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,71 +20,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "api.mediasklon.cc": {
+    "api.mediaplav.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "b58e68t.lt1.h1clayd.click": {
+    "104.249.40.219": {
       "status": "down",
       "rtt_ms": null
     },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-1-6.unturned-rust-dead.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ops4asfseretuiyk.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.12.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.131.228.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.94.125.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38.180.163.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.215.41.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finaluty.loknietotop.digital": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.246.185.109": {
+    "hs.riverveil.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,11 +36,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl4-999.vpvr4ib84nuv6hdkt.ru": {
+    "185.58.207.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "sweedenqfds777.qcloud.surf": {
+    "95.142.41.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.142.120.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.97.58.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.128.127.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.102.228.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.127.211.136": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,51 +72,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "92.42.99.143": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "fert6.localip.ir": {
+    "de-1-1.unturned-rust-dead.lol": {
       "status": "down",
       "rtt_ms": null
     },
-    "tttyder.wsone.icu": {
+    "pl.bootless.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.48.8": {
+    "131.196.254.151": {
       "status": "down",
       "rtt_ms": null
     },
-    "202.144.192.76": {
+    "80.211.170.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.211.8.152": {
+    "185.209.162.35": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.68.4.131": {
+    "80.74.31.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "qcloudge1.exitvpn.shop": {
+    "37.221.92.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.211.8.227": {
+    "31.59.140.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.116.7.100": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.45.239": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "rwyisq.edge-assets.ru": {
+    "130.78.190.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.100.212.50": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freeus.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.167.232.174": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.252.6.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.228.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,51 +148,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pl.golangwikito.cfd": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "dzv5pi.edge-assets.ru": {
+    "195.85.23.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "nuclear.us.kg": {
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.116.7.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3ce8ee8.hb.gladns.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fert1qswdfegrthy.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lineartronic-iii.subaru-volga.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.226.220.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cape.flowzari.info": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ccc.010304.xyz": {
+    "he.elyaa.shop": {
       "status": "down",
       "rtt_ms": null
     }
