@@ -1,18 +1,22 @@
 {
-  "last_update": "2026-10-13T22:57:12.462346",
-  "total": 34,
+  "last_update": "2026-10-14T01:30:10.939925",
+  "total": 44,
   "up": 0,
-  "down": 34,
+  "down": 44,
   "results": {
     "45.59.101.235": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
+    "140.248.186.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "ge-s-1.pythonmakemigreat.wiki": {
+    "31.59.140.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.204.52.112": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,11 +24,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.249.40.219": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
+    "80.211.170.53": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,71 +32,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.114.72.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.127.211.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "66.241.125.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finkawwwbroy5.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "e8439083-5b1f-4a9a-8003-9c143de96941.fly.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "azxcc.kovsh.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de-1-1.unturned-rust-dead.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.bootless.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.221.92.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freeus.aiage.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.142.120.54": {
+    "nl1.aiage.work": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,19 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hs.riverveil.com": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "04b51566-9333-492b-b680-8f80752411f9.fly.dev": {
+    "104.249.40.219": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1.aiage.work": {
+    "finkawwwbroy5.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     },
-    "qcloudge1.exitvpn.shop": {
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "d0c5.khovanski.mom": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.bootless.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.bootless.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,11 +80,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "hy8.shamanfun.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bwg.riverveil.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.228.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.196.254.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.85.23.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi.pythonsetupbib.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "qcloudge1.exitvpn.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-1-1.unturned-rust-dead.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "br.urobotix.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "hy9.shamanfun.ru": {
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,7 +140,43 @@
       "status": "down",
       "rtt_ms": null
     },
+    "us2.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freeus.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kr0w1ya.khovanski.mom": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.128.127.93": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "fert3retujnbc.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.221.92.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hs.riverveil.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy9.shamanfun.ru": {
       "status": "down",
       "rtt_ms": null
     }
