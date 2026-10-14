@@ -1,14 +1,34 @@
 {
-  "last_update": "2026-10-14T20:48:07.237836",
-  "total": 14,
+  "last_update": "2026-10-14T23:31:11.180831",
+  "total": 20,
   "up": 0,
-  "down": 14,
+  "down": 20,
   "results": {
-    "140.248.186.45": {
+    "91.196.163.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
     "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "131.143.180.110": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.137.43.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,7 +40,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "fi1server.rabstvo.shop": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,7 +48,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "www.csgo.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us2.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "732051t.se1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +68,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi1server.rabstvo.shop": {
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
+    "spainspeedboostjbl88.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     },
