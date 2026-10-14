@@ -1,50 +1,10 @@
 {
-  "last_update": "2026-10-14T17:22:59.926514",
-  "total": 17,
+  "last_update": "2026-10-14T20:48:07.237836",
+  "total": 14,
   "up": 0,
-  "down": 17,
+  "down": 14,
   "results": {
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.118.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.12.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.173.204": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.245.103.30": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,7 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,15 +36,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "fi1server.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl.bootless.ru": {
+    "sweedenqfds777.qcloud.surf": {
       "status": "down",
       "rtt_ms": null
     },
-    "link.mrpgd.ir": {
+    "3696b38bsg.murphyweb.sbs": {
       "status": "down",
       "rtt_ms": null
     }
