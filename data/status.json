@@ -1,90 +1,18 @@
 {
-  "last_update": "2026-10-14T12:20:20.901342",
-  "total": 25,
+  "last_update": "2026-10-14T17:22:59.926514",
+  "total": 17,
   "up": 0,
-  "down": 25,
+  "down": 17,
   "results": {
-    "185.114.72.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.185.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "145.249.109.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "131.196.254.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "194.87.118.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.147.28.146": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "spainspeedboostjbl88.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweedenqfds777.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finkawwwbroy5.qcloud.surf": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hy8.shamanfun.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3696b38bsg.murphyweb.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "outh.yandex-cloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.143.219.178": {
+    "45.88.12.162": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +20,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi1server.rabstvo.shop": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "qcloudge1.exitvpn.shop": {
+    "140.248.186.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "hy9.shamanfun.ru": {
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.173.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.245.103.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.bootless.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "link.mrpgd.ir": {
       "status": "down",
       "rtt_ms": null
     }
