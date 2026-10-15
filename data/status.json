@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-10-15T06:36:43.151264",
-  "total": 42,
+  "last_update": "2026-10-15T12:05:05.441607",
+  "total": 24,
   "up": 0,
-  "down": 42,
+  "down": 24,
   "results": {
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.140.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.189.26.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "874e71ae-6c7c-4944-a959-dd6004aab194.ad68289f-02c1-4eeb-83e3-f18114f90c86.byteprivatelink.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,47 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.48.13": {
+    "153.76.163.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b.a.eternalping4.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1server.rabstvo.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1-tun.dnetopps.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
+    "31.77.148.89": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +24,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.137.226.11": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "140.248.186.45": {
+    "153.92.127.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.28.168.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.108.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,23 +52,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "46.226.166.208": {
       "status": "down",
       "rtt_ms": null
     },
-    "35.246.185.109": {
+    "185.253.116.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "md1.aiage.work": {
+    "46.8.228.165": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.217.251.153": {
+    "193.188.21.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.68.4.131": {
+    "nl1server.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spainspeedboostjbl88.qcloud.surf": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "516.150333.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.114.114": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.197.3.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,43 +96,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fi1server.rabstvo.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.94.125.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.234.140.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.231.37.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.sinaam84.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.244.94.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "outh.yandex-cloud.org": {
+    "6aa21c4d-11d4-45bf-ba55-59512593692c.7b63595a-1119-4080-80e1-3f638120be58.smartprivatelink.com": {
       "status": "down",
       "rtt_ms": null
     }
