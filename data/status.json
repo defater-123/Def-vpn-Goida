@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-10-15T16:54:13.950641",
-  "total": 26,
+  "last_update": "2026-10-15T20:05:52.472828",
+  "total": 27,
   "up": 0,
-  "down": 26,
+  "down": 27,
   "results": {
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.176.92.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.140.147.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.29.254": {
+    "178.172.227.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,71 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.118.22.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "92.242.165.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "178.172.227.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.234.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hu1.aiage.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1server.rabstvo.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "qcloudge1.exitvpn.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "freeus.aiage.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.srv.vbuste-bot.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web-production-0d581.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "push.happ-8.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sync.happ-soft.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge2.happ-8.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn.topingr.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.172.227.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.60.34.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
+    "140.225.209.150": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,11 +36,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "node.happ-8.com": {
+    "45.138.100.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.1.40.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
     "tr.datanode-internal.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "freeus.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apinew.nuxitv.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "plnode.nothikka.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl.srv.vbuste-bot.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.topingr.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.10.90.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.1.40.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.24.84.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hu1.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.242.165.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     }
