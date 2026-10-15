@@ -1,10 +1,50 @@
 {
-  "last_update": "2026-10-15T20:05:52.472828",
-  "total": 27,
+  "last_update": "2026-10-15T23:01:54.249038",
+  "total": 29,
   "up": 0,
-  "down": 27,
+  "down": 29,
   "results": {
+    "nl.srv.vbuste-bot.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "117.55.194.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "178.172.227.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1server.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,51 +56,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.144.234.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.242.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "82.118.22.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "178.172.227.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "92.242.165.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.225.209.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.138.100.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.1.40.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.datanode-internal.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
+    "95.140.147.245": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,35 +80,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "apinew.nuxitv.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "plnode.nothikka.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.srv.vbuste-bot.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn.topingr.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "201.10.90.81": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.1.40.6": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "189.24.84.170": {
+    "212.104.141.233": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,11 +96,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "92.242.165.32": {
+    "144.31.24.144": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.151.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.242.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
     "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.topingr.ir": {
       "status": "down",
       "rtt_ms": null
     }
