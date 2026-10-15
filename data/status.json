@@ -1,346 +1,34 @@
 {
-  "last_update": "2026-10-15T01:48:55.597907",
-  "total": 91,
+  "last_update": "2026-10-15T06:36:43.151264",
+  "total": 42,
   "up": 0,
-  "down": 91,
+  "down": 42,
   "results": {
-    "172.67.73.213": {
+    "172.64.80.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.154": {
+    "103.116.7.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "108.160.132.132": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.39.125.213": {
+    "154.211.8.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.96": {
+    "154.211.8.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.67.178": {
+    "179.255.140.244": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.125.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.44.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.74.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.218.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.3.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.121.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.44.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.198.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "liang92.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.122.175": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.75.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.75.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.3.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.74.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.189.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.35.211.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.4.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.3.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "brazil.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ccc.010304.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vless3.gem-audio2.us.ci": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b2n.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.130519.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf-vless-4cf55824.aimall.fr": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf-socks.caoyuwu.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.64.235.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.65.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.155.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.121.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.36.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.1.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.hcaptcha.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.153.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.calmlunch.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "singapore.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ld.235231.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.33.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cctvhikvision.center": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.140.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdns.doon.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.85.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "one-for-all.levikogjgfdd.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.41.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.154.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.79.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.131.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.hugedomains.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vl.cocopon.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.visa.com.sg": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.152.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "shopify.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.155.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.76.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.5h.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.46.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.136.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.194.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.229.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "malaysia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.199.149": {
+    "107.189.26.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -348,23 +36,139 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.133.103": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "mybb.com": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.ipaddress.my": {
+    "27.50.48.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.125.0": {
+    "27.50.49.154": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf.877774.xyz": {
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b.a.eternalping4.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dggg.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1server.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1-tun.dnetopps.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.137.226.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.140.147.245": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.246.185.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md1.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.251.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ned01.nevpn.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi1server.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.94.125.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.234.140.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.231.37.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.49.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.sinaam84.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.244.94.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "outh.yandex-cloud.org": {
       "status": "down",
       "rtt_ms": null
     }
