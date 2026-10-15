@@ -1,50 +1,14 @@
 {
-  "last_update": "2026-10-15T12:05:05.441607",
-  "total": 24,
+  "last_update": "2026-10-15T16:54:13.950641",
+  "total": 26,
   "up": 0,
-  "down": 24,
+  "down": 26,
   "results": {
-    "874e71ae-6c7c-4944-a959-dd6004aab194.ad68289f-02c1-4eeb-83e3-f18114f90c86.byteprivatelink.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.163.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.148.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.92.127.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.168.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.108.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "213.176.92.168": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,19 +16,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.226.166.208": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.253.116.33": {
+    "5.253.29.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.8.228.165": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.188.21.253": {
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.172.227.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.234.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hu1.aiage.work": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,31 +52,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "us3.h1cloud.net": {
+    "qcloudge1.exitvpn.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "spainspeedboostjbl88.qcloud.surf": {
+    "freeus.aiage.work": {
       "status": "down",
       "rtt_ms": null
     },
-    "516.150333.xyz": {
+    "nl.srv.vbuste-bot.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.77.114.114": {
+    "web-production-0d581.up.railway.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.197.3.7": {
+    "push.happ-8.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ned01.nevpn.lol": {
+    "sync.happ-soft.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "6aa21c4d-11d4-45bf-ba55-59512593692c.7b63595a-1119-4080-80e1-3f638120be58.smartprivatelink.com": {
+    "edge2.happ-8.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.topingr.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.172.227.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.60.34.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "node.happ-8.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.datanode-internal.net": {
       "status": "down",
       "rtt_ms": null
     }
