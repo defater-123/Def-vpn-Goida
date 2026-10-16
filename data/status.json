@@ -1,18 +1,10 @@
 {
-  "last_update": "2026-10-16T18:37:44.620422",
-  "total": 24,
+  "last_update": "2026-10-16T21:41:16.236192",
+  "total": 22,
   "up": 0,
-  "down": 24,
+  "down": 22,
   "results": {
-    "195.133.35.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,15 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
+    "195.133.35.171": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +20,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "195.123.208.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,7 +36,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "speednet-api-production-4898.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.170.40.39": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,27 +60,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "m-vruvc.mvpstr.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "p1tun0.greewebservices.ir": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "sevo.soroushsevo.cyou": {
+    "se3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "mog.keyblack.site": {
+    "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,19 +80,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "189.74.114.2": {
+    "mog.keyblack.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "m-vruvc.mvpstr.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "p1tun01.greewebservices.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bf-server45-es.beefreevpn.ru": {
+    "us1.xiaoliyu.us": {
       "status": "down",
       "rtt_ms": null
     }
