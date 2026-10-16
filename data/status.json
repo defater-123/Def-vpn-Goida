@@ -1,134 +1,10 @@
 {
-  "last_update": "2026-10-16T05:58:23.969894",
-  "total": 49,
+  "last_update": "2026-10-16T10:35:11.534371",
+  "total": 18,
   "up": 0,
-  "down": 49,
+  "down": 18,
   "results": {
-    "191.44.113.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.171.135.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.140.147.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.10.90.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.228.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.155.242.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.173.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lv.aiage.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app-ss-48.shopping-spb.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "outh.yandex-cloud.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn.topingr.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.197.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.227.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.89.244.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
+    "31.76.10.180": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,23 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "husky.nodegrimbird.top": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl1server.rabstvo.shop": {
+    "5.253.29.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl.srv.vbuste-bot.com": {
+    "168.113.135.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "178.172.227.124": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl.golangwikito.cfd": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,43 +36,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hu1.aiage.work": {
+    "platform115.golnamakcert.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.48.13": {
+    "94.242.55.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.116.7.220": {
+    "147.45.222.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.96": {
+    "platform109.golnamakcert.top": {
       "status": "down",
       "rtt_ms": null
     },
-    "79.139.59.46": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.57.108.207": {
+    "cdn.topingr.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.220.223.25": {
+    "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.194.66.17": {
+    "m-vruvc.mvpstr.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "app-ms-33.ecom-ai-search.com": {
+    "trrr-istrr-4.blook.network": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
+    "sdttr.azad0namah.ir": {
       "status": "down",
       "rtt_ms": null
     }
