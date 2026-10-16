@@ -1,14 +1,38 @@
 {
-  "last_update": "2026-10-16T21:41:16.236192",
-  "total": 22,
+  "last_update": "2026-10-16T23:51:58.088403",
+  "total": 24,
   "up": 0,
-  "down": 22,
+  "down": 24,
   "results": {
-    "141.193.213.21": {
+    "t4.qifei.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "189.74.114.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.76.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.243.228.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "189.74.114.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.244.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.76.185.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,11 +40,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
+    "31.76.10.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "54.251.9.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.244.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.132.141.248": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,43 +60,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "speednet-api-production-4898.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.170.40.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
+    "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,11 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "revers.bachidze.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "seal-cz.bypassme.online": {
+    "api.mediavolna.cc": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,11 +76,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "m-vruvc.mvpstr.com": {
+    "tutua.azad0namah.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "us1.xiaoliyu.us": {
+    "3696b38bsg.murphyweb.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.137.202.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "seal-cz.bypassme.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdttr.azad0namah.ir": {
       "status": "down",
       "rtt_ms": null
     }
