@@ -1,34 +1,18 @@
 {
-  "last_update": "2026-10-16T10:35:11.534371",
-  "total": 18,
+  "last_update": "2026-10-16T14:59:37.139159",
+  "total": 26,
   "up": 0,
-  "down": 18,
+  "down": 26,
   "results": {
-    "31.76.10.180": {
+    "147.45.222.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "77.37.33.144": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.253.29.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "platform115.golnamakcert.top": {
+    "104.165.205.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.242.55.122": {
+    "45.194.53.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.222.137": {
+    "77.232.140.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform109.golnamakcert.top": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,11 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "cdn.topingr.ir": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "revers.bachidze.com": {
+    "168.113.135.90": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,11 +52,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "trrr-istrr-4.blook.network": {
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jdjdudw78w72ui28e8eiie8wiwj2jjsud8udueue7e8wieie8ie.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.topingr.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fru01.tunnely.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy-se.bypassme.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sevo.soroushsevo.cyou": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
     "sdttr.azad0namah.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hy-fi.bypassme.online": {
       "status": "down",
       "rtt_ms": null
     }
