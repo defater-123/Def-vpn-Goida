@@ -1,18 +1,26 @@
 {
-  "last_update": "2026-10-17T21:32:59.651030",
-  "total": 23,
+  "last_update": "2026-10-17T23:23:05.952663",
+  "total": 25,
   "up": 0,
-  "down": 23,
+  "down": 25,
   "results": {
-    "188.164.248.216": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.132.75.213": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.103.168.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.24.105.101": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,23 +28,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "testuiwrty-production.up.railway.app": {
+    "grimness-backlogs.cdn-content.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,31 +40,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "apinew.nuxitv.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.194.66.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "m-vruvc.mvpstr.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "t4.qifei.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,19 +48,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.171.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.90.61.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m-vruvc.mvpstr.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "sdcdethyerft.localip.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "revers.bachidze.com": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "ge.duravexv.ir": {
+    "144.31.215.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "testuiwrty-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     }
