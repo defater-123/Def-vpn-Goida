@@ -1,62 +1,54 @@
 {
-  "last_update": "2026-10-17T01:49:13.372527",
-  "total": 24,
+  "last_update": "2026-10-17T06:19:00.755999",
+  "total": 41,
   "up": 0,
-  "down": 24,
+  "down": 41,
   "results": {
-    "172.67.76.230": {
+    "188.164.248.48": {
       "status": "down",
       "rtt_ms": null
     },
-    "46.137.202.178": {
+    "141.193.213.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "t4.qifei.app": {
+    "139.64.235.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "se1.h1cloud.net": {
+    "195.137.226.85": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.123.208.32": {
+    "43.249.72.254": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.133.35.171": {
+    "212.24.105.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "189.74.114.2": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.185.160": {
+    "27.50.48.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.10.180": {
+    "185.193.29.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.217.244.16": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "189.74.114.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.244.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.mediavolna.cc": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,19 +56,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "3696b38bsg.murphyweb.sbs": {
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "sdttr.azad0namah.ir": {
+    "b58e68t.lt1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "tutua.azad0namah.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "seal-cz.bypassme.online": {
+    "skycitybox-bidarbash.sbs": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,19 +72,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "79.132.141.248": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "se3.h1cloud.net": {
+    "api.mediavolna.cc": {
       "status": "down",
       "rtt_ms": null
     },
-    "80.243.228.108": {
+    "sdcdethyerft.localip.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "54.251.9.130": {
+    "188.164.248.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.183.203.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "shopify.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m-vruvc.mvpstr.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.244.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.49.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
       "status": "down",
       "rtt_ms": null
     }
