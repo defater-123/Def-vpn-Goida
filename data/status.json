@@ -1,142 +1,18 @@
 {
-  "last_update": "2026-10-17T06:19:00.755999",
+  "last_update": "2026-10-17T11:00:05.186029",
   "total": 41,
   "up": 0,
   "down": 41,
   "results": {
-    "188.164.248.48": {
+    "103.173.179.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.10": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "139.64.235.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.137.226.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.249.72.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "revers.bachidze.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "skycitybox-bidarbash.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mog.keyblack.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.mediavolna.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.96": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.203.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "shopify.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
+    "37.203.209.50": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,19 +20,103 @@
       "status": "down",
       "rtt_ms": null
     },
-    "191.217.244.16": {
+    "191.223.220.250": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.81": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.242": {
+    "149.62.44.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.48.8": {
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de1server2.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "156.231.112.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3-allnet.onlinernet.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mog.keyblack.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.237.6.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.218.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "101.59.1.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.5.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.249.255.116": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,7 +124,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.68.4.131": {
+    "160.25.74.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.174.137.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.103.168.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.mediaplav.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de-allnet.onlinernet.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.24.105.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.25.202.25": {
       "status": "down",
       "rtt_ms": null
     }
