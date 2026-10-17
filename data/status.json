@@ -1,50 +1,18 @@
 {
-  "last_update": "2026-10-17T19:19:47.175402",
-  "total": 24,
+  "last_update": "2026-10-17T21:32:59.651030",
+  "total": 23,
   "up": 0,
-  "down": 24,
+  "down": 23,
   "results": {
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.132.75.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.90.61.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "platform115.golnamakcert.top": {
+    "45.132.75.213": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,15 +24,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "se3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "testuiwrty-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de1server2.rabstvo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "apinew.nuxitv.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.195": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,23 +60,15 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "m-vruvc.mvpstr.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.mediavolna.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "trrr-istrr-4.blook.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
+    "t4.qifei.app": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,7 +76,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "www.epicgames.com": {
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "revers.bachidze.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge.duravexv.ir": {
       "status": "down",
       "rtt_ms": null
     }
