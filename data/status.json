@@ -1,34 +1,46 @@
 {
-  "last_update": "2026-10-17T23:23:05.952663",
-  "total": 25,
+  "last_update": "2026-10-18T01:15:02.923313",
+  "total": 48,
   "up": 0,
-  "down": 25,
+  "down": 48,
   "results": {
-    "45.80.111.7": {
+    "91.247.37.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "31.56.228.151": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "144.31.215.162": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.103.168.125": {
+    "46.8.64.232": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.24.105.101": {
+    "188.164.248.48": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.135.90": {
+    "92.243.67.232": {
       "status": "down",
       "rtt_ms": null
     },
-    "grimness-backlogs.cdn-content.com": {
+    "141.193.213.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4.232.64.201": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,55 +48,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de1server2.rabstvo.shop": {
+    "45.142.120.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.194.66.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.90.61.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "m-vruvc.mvpstr.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
+    "94.158.219.248": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +60,139 @@
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.215.196": {
+    "167.68.4.131": {
       "status": "down",
       "rtt_ms": null
     },
-    "testuiwrty-production.up.railway.app": {
+    "188.164.248.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "revers.bachidze.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.193.29.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.192.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.150.59.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.49.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.24.105.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.217.233.51": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "139.64.235.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
     "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.90.61.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.49.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m-vruvc.mvpstr.com": {
       "status": "down",
       "rtt_ms": null
     }
