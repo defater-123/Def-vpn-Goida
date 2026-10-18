@@ -1,102 +1,14 @@
 {
-  "last_update": "2026-10-18T01:15:02.923313",
-  "total": 48,
+  "last_update": "2026-10-18T05:54:05.012750",
+  "total": 44,
   "up": 0,
-  "down": 48,
+  "down": 44,
   "results": {
-    "91.247.37.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.228.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.215.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.8.64.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.243.67.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.232.64.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.142.120.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.158.219.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.193.29.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.192.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.150.59.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
+    "109.248.42.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,75 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.135.90": {
+    "191.217.244.62": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "82.47.22.174": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.217.233.51": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.64.235.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.90.61.135": {
+    "89.124.100.104": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,15 +32,147 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "154.211.8.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.242": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.96": {
+    "83.168.91.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.24.105.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.103.168.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.200.62.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ne45174.cdn-video.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dggg.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35.246.185.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.215.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.200.62.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.90.61.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.215.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.231.170.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.148.212.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de14.my-cdn.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.200.28.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.244.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.171.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
       "status": "down",
       "rtt_ms": null
     },
