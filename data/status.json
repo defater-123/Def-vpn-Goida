@@ -1,110 +1,14 @@
 {
-  "last_update": "2026-10-18T19:24:29.264350",
-  "total": 30,
+  "last_update": "2026-10-18T21:37:08.287793",
+  "total": 28,
   "up": 0,
-  "down": 30,
+  "down": 28,
   "results": {
-    "89.124.100.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.246.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.215.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.113.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.132.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "212.24.105.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "m-vruvc.mvpstr.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru3.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-d9ca48498a.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.198.0.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
+    "104.36.71.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +16,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.220.223.105": {
+    "89.124.100.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.215.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "9.247.24.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.171.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru3.radiolumens.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.211.98.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se3.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kilnledger.10media.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,7 +72,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk-d9ca48498a.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "pl-a50baf0d7f.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.8.45.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.246.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.225.239.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m-vruvc.mvpstr.com": {
       "status": "down",
       "rtt_ms": null
     }
