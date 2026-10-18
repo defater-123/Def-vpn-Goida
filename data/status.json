@@ -1,106 +1,18 @@
 {
-  "last_update": "2026-10-18T13:58:08.379611",
-  "total": 34,
+  "last_update": "2026-10-18T17:02:39.361358",
+  "total": 22,
   "up": 0,
-  "down": 34,
+  "down": 22,
   "results": {
-    "ne45174.cdn-video.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.100.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.145.12.148": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.237.230.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg45199.cdn-video.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "revers.bachidze.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru3.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.141.202.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.140.164": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.225.239.122": {
+    "83.168.91.16": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.104.216.230": {
+    "144.31.215.196": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,11 +20,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "212.24.105.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.215.196": {
+    "104.36.71.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.100.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.215.162": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.dedushka.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,19 +72,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr167230.cdn-video.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "b58e68t.lt1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "roxnsk.color-shop.ir": {
+    "revers.bachidze.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "one.alpheratzz.org": {
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ne45174.cdn-video.pro": {
       "status": "down",
       "rtt_ms": null
     }
