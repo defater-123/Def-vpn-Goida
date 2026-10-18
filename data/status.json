@@ -1,138 +1,14 @@
 {
-  "last_update": "2026-10-18T05:54:05.012750",
-  "total": 44,
+  "last_update": "2026-10-18T10:00:22.906699",
+  "total": 24,
   "up": 0,
-  "down": 44,
+  "down": 24,
   "results": {
-    "revers.bachidze.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.248.42.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.49.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.244.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.47.22.174": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.124.100.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.168.91.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.103.168.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.194.66.191": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.200.62.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ne45174.cdn-video.pro": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.246.185.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.215.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.200.62.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.90.61.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.215.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.231.170.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.148.212.230": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,31 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "de14.my-cdn.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.200.28.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.244.13": {
+    "45.141.202.174": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,11 +24,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.68.4.131": {
+    "212.24.105.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
       "status": "down",
       "rtt_ms": null
     },
     "m-vruvc.mvpstr.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.148.212.230": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ne45174.cdn-video.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl-a50baf0d7f.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.124.100.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     }
