@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-10-19T19:52:01.555920",
-  "total": 33,
+  "last_update": "2026-10-19T23:10:49.379601",
+  "total": 28,
   "up": 0,
-  "down": 33,
+  "down": 28,
   "results": {
-    "pl.golangwikito.cfd": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.168.132.109": {
+    "85.113.70.10": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,11 +16,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "se3.h1cloud.net": {
+    "60.249.14.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "de3.brightmetric.trade": {
+    "104.168.132.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.32.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.62.44.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +48,63 @@
       "status": "down",
       "rtt_ms": null
     },
+    "2.26.5.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.232.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.119.43.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "166.88.14.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.195.190.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.ataloqe.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "101.59.1.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "103.173.179.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.139.1.241": {
+    "191.217.255.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.80.166": {
       "status": "down",
       "rtt_ms": null
     },
@@ -41,98 +113,6 @@
       "rtt_ms": null
     },
     "103.47.186.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "136.148.222.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.5.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "9.247.24.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.62.44.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.119.43.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app-ss-64.ecom-ai-search.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "101.59.1.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "161.34.33.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "60.249.14.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.32.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.159.54.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.113.70.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.195.190.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de9465.work.gd": {
       "status": "down",
       "rtt_ms": null
     }
