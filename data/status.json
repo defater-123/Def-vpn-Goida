@@ -1,110 +1,14 @@
 {
-  "last_update": "2026-10-19T06:46:44.695315",
-  "total": 43,
+  "last_update": "2026-10-19T14:06:45.705805",
+  "total": 24,
   "up": 0,
-  "down": 43,
+  "down": 24,
   "results": {
-    "122.8.45.3": {
+    "60.249.14.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "xray2-direct-mci1-fs-ce.freesocks.work": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.232.135.141": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.246.185.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vpsclouds.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.3.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.103.168.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.32.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "it.applepie-recipe.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl-a50baf0d7f.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk-d9ca48498a.shamanapp.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.94.125.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.68.4.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.226.221.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.242.189.40": {
+    "151.242.125.102": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,39 +16,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.92.249": {
+    "103.214.174.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "9.247.24.137": {
+    "146.75.32.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.48.13": {
+    "108.165.255.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl2.dedushka.top": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "b58e68t.lt1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.191": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -152,19 +44,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.116.7.100": {
+    "103.247.28.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "m-vruvc.mvpstr.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.36.71.38": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,7 +56,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.241.241.236": {
+    "de2.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "platform109.golnamakcert.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de4.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uitestdfgrew-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de6.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg1.spacevpn.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.mediaplotina.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.229.54.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.242.15.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de8.dedushka.top": {
       "status": "down",
       "rtt_ms": null
     }
