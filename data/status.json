@@ -1,50 +1,38 @@
 {
-  "last_update": "2026-10-19T14:06:45.705805",
-  "total": 24,
+  "last_update": "2026-10-19T19:52:01.555920",
+  "total": 33,
   "up": 0,
-  "down": 24,
+  "down": 33,
   "results": {
-    "60.249.14.95": {
+    "pl.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.242.125.102": {
+    "104.168.132.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "45.153.246.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.214.174.57": {
+    "se3.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.32.8": {
+    "de3.brightmetric.trade": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "45.59.124.39": {
       "status": "down",
       "rtt_ms": null
     },
-    "108.165.255.242": {
+    "103.173.179.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.247.28.103": {
+    "103.139.1.241": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,39 +40,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ru3.radiolumens.uk": {
+    "103.47.186.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "de2.dedushka.top": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "platform109.golnamakcert.top": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "de4.dedushka.top": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "uitestdfgrew-production.up.railway.app": {
+    "136.148.222.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "de6.dedushka.top": {
+    "2.26.5.200": {
       "status": "down",
       "rtt_ms": null
     },
-    "bg1.spacevpn.space": {
+    "9.247.24.137": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.mediaplotina.cc": {
+    "149.62.44.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.229.54.103": {
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.119.43.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "app-ss-64.ecom-ai-search.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "101.59.1.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "161.34.33.205": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "60.249.14.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.32.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.159.54.210": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +116,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.242.15.87": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "de8.dedushka.top": {
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.113.70.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.195.190.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de9465.work.gd": {
       "status": "down",
       "rtt_ms": null
     }
