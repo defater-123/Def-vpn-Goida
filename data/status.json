@@ -1,34 +1,14 @@
 {
-  "last_update": "2026-10-19T01:38:42.064345",
-  "total": 34,
+  "last_update": "2026-10-19T06:46:44.695315",
+  "total": 43,
   "up": 0,
-  "down": 34,
+  "down": 43,
   "results": {
-    "45.131.4.38": {
+    "122.8.45.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.135.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru3.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.103.168.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.24.92.70": {
+    "xray2-direct-mci1-fs-ce.freesocks.work": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,59 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "122.8.45.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.215.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se3.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.24.105.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl2.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "koisben.color-shop.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ksbemdmd.color-shop.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sdcdethyerft.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "35.246.185.109": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,11 +28,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.232.135.122": {
+    "vpsclouds.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "se1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,23 +40,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "94.103.168.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "146.75.32.8": {
       "status": "down",
       "rtt_ms": null
     },
-    "b58e68t.lt1.h1clayd.click": {
+    "154.211.8.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "m-vruvc.mvpstr.com": {
+    "212.24.105.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl1.dedushka.top": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "almaim.g44mozgh.ir": {
+    "it.applepie-recipe.ru": {
       "status": "down",
       "rtt_ms": null
     },
@@ -137,6 +69,110 @@
       "rtt_ms": null
     },
     "uk-d9ca48498a.shamanapp.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru1.radiolumens.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sdcdethyerft.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "34.94.125.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.226.221.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.242.189.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.92.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "9.247.24.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl2.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b58e68t.lt1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.135.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dggg.wsone.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "m-vruvc.mvpstr.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.36.71.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru3.radiolumens.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.241.241.236": {
       "status": "down",
       "rtt_ms": null
     }
