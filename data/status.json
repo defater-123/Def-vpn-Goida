@@ -1,42 +1,26 @@
 {
-  "last_update": "2026-10-20T06:46:43.960704",
-  "total": 32,
+  "last_update": "2026-10-20T12:21:11.190388",
+  "total": 16,
   "up": 0,
-  "down": 32,
+  "down": 16,
   "results": {
-    "27.50.49.154": {
+    "60.249.14.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "27.50.49.242": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.211.8.227": {
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
+    "47.237.74.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.116.7.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.181.197.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.211.8.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
+    "78.17.171.226": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +32,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.32.8": {
+    "188.164.248.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "167.68.4.131": {
+    "153.76.190.31": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.130.84.36": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.202.113.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -69,66 +65,6 @@
       "rtt_ms": null
     },
     "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl7.brightmetric.trade": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a0688bt.us4.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "60.249.14.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.50.48.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     }
