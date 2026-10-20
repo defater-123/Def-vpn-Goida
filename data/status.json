@@ -1,13 +1,9 @@
 {
-  "last_update": "2026-10-20T17:22:30.938513",
+  "last_update": "2026-10-20T20:43:44.952195",
   "total": 14,
   "up": 0,
   "down": 14,
   "results": {
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
@@ -16,11 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ghosts-spasm.quick-cdn.net": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "216.23.83.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.123.187.198": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,7 +28,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "lv1.dedushka.top": {
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,15 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tun2.w-ert.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,11 +52,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "dobisyf.color-shop.ir": {
+    "ru2.radiolumens.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "jsbsjdk.color-shop.ir": {
+    "lv1.dedushka.top": {
       "status": "down",
       "rtt_ms": null
     }
