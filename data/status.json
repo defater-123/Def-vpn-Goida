@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-10-20T12:21:11.190388",
-  "total": 16,
+  "last_update": "2026-10-20T17:22:30.938513",
+  "total": 14,
   "up": 0,
-  "down": 16,
+  "down": 14,
   "results": {
-    "60.249.14.95": {
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,19 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.237.74.17": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "161.34.33.205": {
+    "ghosts-spasm.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,11 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.164.248.216": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "153.76.190.31": {
+    "lv1.dedushka.top": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,27 +36,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.202.113.108": {
+    "ru2.radiolumens.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
+    "tun2.w-ert.org": {
       "status": "down",
       "rtt_ms": null
     },
     "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dobisyf.color-shop.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jsbsjdk.color-shop.ir": {
       "status": "down",
       "rtt_ms": null
     }
