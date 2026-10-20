@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-20T20:43:44.952195",
+  "last_update": "2026-10-20T23:24:45.803186",
   "total": 14,
   "up": 0,
   "down": 14,
@@ -8,27 +8,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.23.83.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.123.187.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
+    "78.17.171.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,15 +24,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "ru2.radiolumens.uk": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.23.83.153": {
       "status": "down",
       "rtt_ms": null
     },
     "lv1.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "szadi-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uiuxtestdfgh-production.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     }
