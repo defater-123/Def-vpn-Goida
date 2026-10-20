@@ -1,54 +1,14 @@
 {
-  "last_update": "2026-10-19T23:10:49.379601",
-  "total": 28,
+  "last_update": "2026-10-20T01:46:31.117201",
+  "total": 24,
   "up": 0,
-  "down": 28,
+  "down": 24,
   "results": {
-    "news.zoom.us": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.113.70.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.153.246.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "60.249.14.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.168.132.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.32.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.62.44.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.59.124.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.5.200": {
+    "161.34.33.205": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,55 +16,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.145.180": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.232.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.164.248.216": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.119.43.76": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "166.88.14.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.195.190.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.ataloqe.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "101.59.1.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.173.179.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.255.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.80.166": {
+    "60.249.14.95": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +28,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.47.186.8": {
+    "9.247.34.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "149.62.44.41": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.11.138.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a0688bt.us4.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "marzbanupdate-production-b655.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jsbsjdk.color-shop.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jrnkkm.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "9.247.34.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.164.248.216": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.32.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.195.190.134": {
       "status": "down",
       "rtt_ms": null
     }
