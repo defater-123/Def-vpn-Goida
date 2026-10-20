@@ -1,10 +1,42 @@
 {
-  "last_update": "2026-10-20T01:46:31.117201",
-  "total": 24,
+  "last_update": "2026-10-20T06:46:43.960704",
+  "total": 32,
   "up": 0,
-  "down": 24,
+  "down": 32,
   "results": {
-    "188.42.145.180": {
+    "27.50.49.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.49.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.181.197.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.211.8.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.139.189.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.155.125": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,51 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "60.249.14.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "9.247.34.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "149.62.44.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.11.138.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
+    "146.75.32.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.68.4.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.130.84.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.193": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a0688bt.us4.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,7 +72,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "marzbanupdate-production-b655.up.railway.app": {
+    "nl7.brightmetric.trade": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,15 +80,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "jsbsjdk.color-shop.ir": {
+    "a0688bt.us4.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "jrnkkm.de5.net": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "9.247.34.118": {
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.116.7.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "60.249.14.95": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +116,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.32.8": {
+    "27.50.48.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.195.190.134": {
+    "103.116.7.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "27.50.48.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     }
