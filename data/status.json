@@ -1,58 +1,14 @@
 {
-  "last_update": "2026-10-21T01:44:06.432611",
-  "total": 15,
+  "last_update": "2026-10-21T06:34:39.605663",
+  "total": 39,
   "up": 0,
-  "down": 15,
+  "down": 39,
   "results": {
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.94.67.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.94.65.138": {
+    "128.203.252.97": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,7 +16,147 @@
       "status": "down",
       "rtt_ms": null
     },
-    "faf318x.fi3.h1clayd.click": {
+    "47.88.23.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.158.81.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.130.84.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.92.74.108": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.133.117.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.219.249.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.133.79.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.175.34.232": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.254.251.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.82.155.79": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.15.19.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.75.125.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.42.145.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.239.241.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.101.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.59.103.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.189.58.222": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.9.74.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "263651t.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.91.15.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.111.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.187.7.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.103.4.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.56.91.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.135.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.139.189.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.249.132.107": {
       "status": "down",
       "rtt_ms": null
     }
