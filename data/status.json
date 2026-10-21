@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-10-21T17:24:56.011791",
-  "total": 16,
+  "last_update": "2026-10-21T20:44:00.827696",
+  "total": 26,
   "up": 0,
-  "down": 16,
+  "down": 26,
   "results": {
-    "185.22.172.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "174.136.204.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.96.192.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
+    "176.122.189.94": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,19 +12,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "165.99.222.161": {
+    "45.198.54.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "206.223.248.70": {
+    "faf318x.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "alb1337.zaebalsanoproxyklinus.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.36.69.180": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.122.158.11": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hu3.aiage.work": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,11 +60,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de5.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "grimness-backlogs.cdn-content.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "hu3.aiage.work": {
+    "dcc59f522e6a9537.tunvi.w-ert.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl1-tun.dnetopps.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.98.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.239.110.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "165.99.222.161": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "263651t.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl2-tun.dnetopps.ir": {
       "status": "down",
       "rtt_ms": null
     },
