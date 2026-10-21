@@ -1,21 +1,9 @@
 {
-  "last_update": "2026-10-20T23:24:45.803186",
-  "total": 14,
+  "last_update": "2026-10-21T01:44:06.432611",
+  "total": 15,
   "up": 0,
-  "down": 14,
+  "down": 15,
   "results": {
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
@@ -24,19 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "8.6.112.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.23.83.153": {
+    "78.17.171.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "lv1.dedushka.top": {
+    "8fc752g.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,19 +36,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "se1.h1cloud.net": {
+    "130.94.67.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "szadi-production.up.railway.app": {
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "uiuxtestdfgh-production.up.railway.app": {
+    "263651t.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.94.65.138": {
       "status": "down",
       "rtt_ms": null
     },
     "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faf318x.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     }
