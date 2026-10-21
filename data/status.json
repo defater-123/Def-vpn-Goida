@@ -1,94 +1,14 @@
 {
-  "last_update": "2026-10-21T12:21:43.418172",
-  "total": 39,
+  "last_update": "2026-10-21T17:24:56.011791",
+  "total": 16,
   "up": 0,
-  "down": 39,
+  "down": 16,
   "results": {
-    "45.80.111.7": {
+    "185.22.172.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.56.91.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.133.117.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.219.249.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.249.132.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.254.251.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.189.58.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "128.203.252.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.103.4.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.91.15.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "152.175.34.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.133.79.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.158.81.143": {
+    "174.136.204.23": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,43 +16,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "31.15.19.61": {
+    "172.96.192.167": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.245.135.191": {
+    "140.248.186.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.88.23.100": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.9.74.238": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.239.241.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.101.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.82.155.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.187.7.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.130.84.36": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,23 +40,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.209.111.225": {
+    "165.99.222.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "206.223.248.70": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.92.74.108": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.59.103.159": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.75.125.163": {
+    "grimness-backlogs.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hu3.aiage.work": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands02.azotvpn.xyz": {
       "status": "down",
       "rtt_ms": null
     }
