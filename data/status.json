@@ -1,18 +1,34 @@
 {
-  "last_update": "2026-10-22T12:27:58.211105",
-  "total": 13,
+  "last_update": "2026-10-22T17:26:30.570248",
+  "total": 14,
   "up": 0,
-  "down": 13,
+  "down": 14,
   "results": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "da0bcdc2133654d7.tunvi.w-ert.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "157.22.240.126": {
+    "de9.dedushka.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,23 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.60.237.28": {
+    "ba0229x.us4.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "36a466g.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.22.172.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.72.147.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.98.140": {
+    "9bc578g.us4.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,11 +52,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "a0688bt.us4.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "de9.dedushka.top": {
+    "uiuxtestsdcv-development-r6dg9.lucity.app": {
       "status": "down",
       "rtt_ms": null
     }
