@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-10-22T20:40:16.329252",
-  "total": 9,
+  "last_update": "2026-10-22T23:35:03.896960",
+  "total": 20,
   "up": 0,
-  "down": 9,
+  "down": 20,
   "results": {
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "74.82.196.93": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
+    "45.85.117.174": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,7 +12,39 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "140.248.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "111.90.143.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "116.49.85.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.171.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "da0bcdc2133654d7.tunvi.w-ert.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +52,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "alb1337.zaebalsanoproxyklinus.lol": {
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "forwarded.frnhk.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ac697733a52bdaba.tunvi.w-ert.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "525b1a38-tly2o0-tn5bnx-19xg1.nw4.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "a0688bt.us4.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "36a466g.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk.2ul.top": {
       "status": "down",
       "rtt_ms": null
     }
