@@ -1,178 +1,10 @@
 {
-  "last_update": "2026-10-22T06:44:23.073734",
-  "total": 51,
+  "last_update": "2026-10-22T12:27:58.211105",
+  "total": 13,
   "up": 0,
-  "down": 51,
+  "down": 13,
   "results": {
-    "168.113.252.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.252.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a0688bt.us4.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.22.240.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ba0229x.us4.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "35.246.185.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.212": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.22.172.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tttyder.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "test.xxee.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.mediaklenov.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "526.150333.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.58.134.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.255.82": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.23.209.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.77.114.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.171.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.171.226.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.94.125.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr1.dedushka.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "node-de.cloud-net-new.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "46.29.255.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.23.221.253": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.59.168.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finland02.azotvpn.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "proxyip.hk.cmliussss.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "proxyip.jp.cmliussss.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "media.vik.lalibobi.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.254.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,31 +12,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.228.169.140": {
+    "157.22.240.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.131.228.210": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.252.62": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.188.78.147": {
+    "217.60.237.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.252.128": {
+    "36a466g.fi1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "faf318x.fi3.h1clayd.click": {
+    "185.22.172.249": {
       "status": "down",
       "rtt_ms": null
     },
-    "uiuxtestsdcv-development-r6dg9.lucity.app": {
+    "185.72.147.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.98.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de9.dedushka.top": {
       "status": "down",
       "rtt_ms": null
     }
