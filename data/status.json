@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-23T17:00:55.214270",
-  "total": 16,
+  "last_update": "2026-10-23T20:24:04.100940",
+  "total": 10,
   "up": 0,
-  "down": 16,
+  "down": 10,
   "results": {
-    "146.75.35.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.80.19.173": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,15 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "45.128.78.183": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,31 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "su106.izzzzzi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "36a466g.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3f8efdt.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "ui108.pacemakere.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr2-tun.dnetopps.ir": {
+    "vd2.outlinevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     },
     "f1.greewebservices.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands02.azotvpn.xyz": {
       "status": "down",
       "rtt_ms": null
     }
