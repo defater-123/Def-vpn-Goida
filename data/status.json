@@ -1,86 +1,10 @@
 {
-  "last_update": "2026-10-23T06:39:31.827439",
-  "total": 31,
+  "last_update": "2026-10-23T12:04:34.154972",
+  "total": 9,
   "up": 0,
-  "down": 31,
+  "down": 9,
   "results": {
-    "13.140.56.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.90.63.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.94.125.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.179.249": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.249.210.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "140.248.186.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.46.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "36a466g.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "la.20066002.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uk.2ul.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "trend.eidoslab.link": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tttyder.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usa.vipvirtualnet.eu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dggg.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,27 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "35.246.185.109": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.139.189.225": {
+    "la.20066002.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.116.7.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "34.131.228.210": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "165.154.63.139": {
+    "8.6.112.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,15 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "faf318x.fi3.h1clayd.click": {
+    "f1.greewebservices.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "usernumb-production.up.railway.app": {
+    "uiuxtestsdcv-development-r6dg9.lucity.app": {
       "status": "down",
       "rtt_ms": null
     }
