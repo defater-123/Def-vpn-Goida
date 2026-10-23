@@ -1,22 +1,26 @@
 {
-  "last_update": "2026-10-23T20:24:04.100940",
-  "total": 10,
+  "last_update": "2026-10-23T23:15:24.778600",
+  "total": 41,
   "up": 0,
-  "down": 10,
+  "down": 41,
   "results": {
-    "45.80.111.7": {
+    "193.223.104.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "193.160.140.107": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.128.78.183": {
+    "36a466g.fi1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.88.173.186": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,11 +28,87 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ui108.pacemakere.com": {
+    "uiuxtestsdcv-development-r6dg9.lucity.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "vd2.outlinevpn.cc": {
+    "199.232.237.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.112.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.98.63.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "23.160.56.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.82.76.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itly.yandex-api.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk1.accessboy.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "reg2.gorodokmedia.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "su106.izzzzzi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands02.azotvpn.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.241.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr1.originmesh.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3f8efdt.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.223.104.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,11 +116,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "f1.greewebservices.ir": {
+    "79.98.37.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "netherlands02.azotvpn.xyz": {
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "113.30.154.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.241.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.46.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.241.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ui108.pacemakere.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo.betust.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iwt196.zxom.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.solomon-planet.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fu.color-shop.ir": {
       "status": "down",
       "rtt_ms": null
     }
