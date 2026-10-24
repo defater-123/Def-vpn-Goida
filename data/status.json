@@ -1,46 +1,10 @@
 {
-  "last_update": "2026-10-24T14:40:56.549386",
-  "total": 35,
+  "last_update": "2026-10-24T17:34:55.846720",
+  "total": 21,
   "up": 0,
-  "down": 35,
+  "down": 21,
   "results": {
-    "191.217.216.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "36a466g.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.111.248.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.98.63.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.252": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "itly.yandex-api.store": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.239": {
+    "179.255.190.43": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,43 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.211.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.190.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vd2.outlinevpn.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faf318x.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.129.182": {
+    "79.98.37.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,27 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.95.96.198": {
+    "193.111.248.80": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.45.47.73": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "213.182.201.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr1.originmesh.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.98.37.106": {
+    "191.217.216.24": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,11 +32,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.95.96.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-central.v8x2b.lol": {
+    "143.246.211.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,7 +68,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "3f8efdt.fi1.h1clayd.click": {
+    "nl-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itly.yandex-api.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr1.originmesh.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +84,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "promo3.betust.net": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     }
