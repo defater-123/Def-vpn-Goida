@@ -1,18 +1,14 @@
 {
-  "last_update": "2026-10-24T17:34:55.846720",
-  "total": 21,
+  "last_update": "2026-10-24T19:45:36.749319",
+  "total": 32,
   "up": 0,
-  "down": 21,
+  "down": 32,
   "results": {
-    "179.255.190.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.119.81.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "79.98.37.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.22.221.127": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,15 +16,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.111.248.80": {
+    "103.91.147.209": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.217.216.24": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,31 +36,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.91.147.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.211.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
+    "31.76.91.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +44,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "itly.yandex-api.store": {
+    "185.119.81.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.209.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se1.mycloud1.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "p2tun01.greewebservices.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnodtwx.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.225.83.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.211.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.239": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.93.63.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "113.30.154.230": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,11 +120,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl3.mycloud1.org": {
+    "faf318x.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "ne.zainet.tech": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo3.betust.net": {
       "status": "down",
       "rtt_ms": null
     }
