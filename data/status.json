@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-10-24T06:28:32.656192",
-  "total": 41,
+  "last_update": "2026-10-24T11:23:03.396658",
+  "total": 32,
   "up": 0,
-  "down": 41,
+  "down": 32,
   "results": {
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.205.242": {
+    "47.237.74.17": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,35 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.210.29.68": {
+    "179.255.190.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.211.163": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.137.175.214": {
+    "45.95.96.198": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "pl1.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.42.222.165": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.119.81.7": {
+    "103.91.147.253": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,67 +44,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "3f8efdt.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "noway.luxes.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hyfuuf6.wsone.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.solomon-planet.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl4.cryposikel.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.96.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.160.140.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.255.190.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.98.63.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.250": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "27.0.232.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sweden.luxes.network": {
+    "nl3.mycloud1.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,35 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "8fc752g.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "34.131.228.210": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "31.76.91.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk1.accessboy.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "promo.betust.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tttyder.wsone.icu": {
+    "video-balancer.7.8.advantage-a.cdnnow.xyz": {
       "status": "down",
       "rtt_ms": null
     },
@@ -160,11 +72,63 @@
       "status": "down",
       "rtt_ms": null
     },
+    "263651t.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo3.betust.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "netherlands02.azotvpn.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.91.98": {
+    "83.147.192.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.211.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.98.63.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faf318x.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.119.81.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vd2.outlinevpn.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fl.solomon-planet.ru": {
       "status": "down",
       "rtt_ms": null
     }
