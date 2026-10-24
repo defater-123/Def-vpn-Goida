@@ -1,22 +1,86 @@
 {
-  "last_update": "2026-10-23T23:15:24.778600",
+  "last_update": "2026-10-24T01:44:17.507605",
   "total": 41,
   "up": 0,
   "down": 41,
   "results": {
-    "193.223.104.117": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.160.140.107": {
+    "191.217.241.15": {
       "status": "down",
       "rtt_ms": null
     },
-    "36a466g.fi1.h1clayd.click": {
+    "199.232.78.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.241.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.241.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.116.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "su106.izzzzzi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "itly.yandex-api.store": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.91.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hk1.accessboy.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "167.82.76.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr1.originmesh.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ui108.pacemakere.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo.betust.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,15 +88,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "3f8efdt.fi1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "uiuxtestsdcv-development-r6dg9.lucity.app": {
+    "103.91.147.220": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.237.67": {
+    "146.75.35.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sweden.luxes.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.98.37.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,15 +124,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "23.160.56.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.82.76.27": {
+    "36a466g.fi1.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,103 +132,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ghosts-spasm.quick-cdn.net": {
+    "199.232.237.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "itly.yandex-api.store": {
+    "23.160.56.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "hk1.accessboy.com": {
+    "151.101.67.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "reg2.gorodokmedia.com": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "su106.izzzzzi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "netherlands02.azotvpn.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.241.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr1.originmesh.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3f8efdt.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.223.104.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.98.37.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "113.30.154.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.241.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.46.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.241.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ui108.pacemakere.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "promo.betust.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "iwt196.zxom.eu.org": {
+    "fu.color-shop.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,7 +156,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fu.color-shop.ir": {
+    "s3.lemvuno.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "netherlands02.azotvpn.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     }
