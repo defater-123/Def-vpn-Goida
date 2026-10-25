@@ -1,86 +1,78 @@
 {
-  "last_update": "2026-10-25T19:47:50.528610",
-  "total": 22,
+  "last_update": "2026-10-25T22:08:14.924106",
+  "total": 74,
   "up": 0,
-  "down": 22,
+  "down": 74,
   "results": {
-    "199.232.78.170": {
+    "108.162.194.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "104.17.72.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.198.97.155": {
+    "88.216.69.253": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "104.17.74.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "154.81.141.42": {
       "status": "down",
       "rtt_ms": null
     },
-    "v2.drsachi.com": {
+    "109.234.211.232": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "8.6.112.206": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.160.140.140": {
+    "162.159.133.152": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.24.57.225": {
+    "45.130.125.69": {
       "status": "down",
       "rtt_ms": null
     },
-    "196.247.163.10": {
+    "172.67.76.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "104.18.37.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "143.246.211.163": {
+    "45.130.125.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "ns.90909.club": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.90909.club": {
+    "104.27.203.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "hyst33sh.duckdns.org": {
+    "172.66.40.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.217.216.24": {
+    "104.17.121.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.235.250.19": {
+    "104.17.154.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.190.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faf318x.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "subs.wildvf.esal.cl": {
+    "centurylink.es": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,7 +80,223 @@
       "status": "down",
       "rtt_ms": null
     },
-    "bak.subaru-volga.com": {
+    "sinavm7.soft10.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.44.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chat.openai.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.25.108.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.245.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.121.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.128.76.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.73.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.244.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.36.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.32.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.6.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.pleadcourt.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.8.8.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uwu.blueknightnet.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cctvhikvision.center": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccc.010304.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.71.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.221.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.61.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.45.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.71.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.121.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ccs2g.pai50288.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hikvision-plus.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.221.158": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.217.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.1.36": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.172.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "panel.frojbrpibj124.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.130519.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.40.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.64.105": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.28": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.72.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.122.175": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.calmlunch.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
       "status": "down",
       "rtt_ms": null
     }
