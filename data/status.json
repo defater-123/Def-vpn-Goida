@@ -1,38 +1,14 @@
 {
-  "last_update": "2026-10-24T22:02:42.765190",
-  "total": 36,
+  "last_update": "2026-10-25T00:18:14.465423",
+  "total": 34,
   "up": 0,
-  "down": 36,
+  "down": 34,
   "results": {
-    "31.76.91.98": {
+    "188.225.83.133": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.242.228.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.221.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.216.24": {
+    "151.101.3.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,23 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.95.96.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.78.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "113.30.154.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
+    "31.76.91.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,23 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.91.147.209": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "gr1.originmesh.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fu.color-shop.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web.asasin4.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "p2tun01.greewebservices.ir": {
+    "143.246.211.163": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,51 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78.17.209.100": {
+    "se14-node.rumedia-cdn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.225.83.133": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.3.6": {
+    "45.144.221.169": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.241.107.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.223.104.152": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.78.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.247.163.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.235.249.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faf318x.fi3.h1clayd.click": {
+    "45.95.96.198": {
       "status": "down",
       "rtt_ms": null
     },
     "xnodtwx.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "gr1.originmesh.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.129.141.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3f8efdt.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     },
@@ -145,6 +81,62 @@
       "rtt_ms": null
     },
     "se1.mycloud1.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.209.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.163.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "36a466g.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.242.228.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.128.78.176": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.241.107.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se13-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web.asasin4.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fu.color-shop.ir": {
       "status": "down",
       "rtt_ms": null
     }
