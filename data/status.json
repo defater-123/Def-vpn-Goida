@@ -1,78 +1,14 @@
 {
-  "last_update": "2026-10-25T13:54:25.188989",
-  "total": 28,
+  "last_update": "2026-10-25T17:17:35.995297",
+  "total": 19,
   "up": 0,
-  "down": 28,
+  "down": 19,
   "results": {
-    "69.46.46.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.235.249.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.98.37.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.151.114.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ns.90909.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.216.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.58.180.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.211.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "196.247.163.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "69.46.46.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.129.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnodtwx.artemida.live": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,31 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ee-central.v8x2b.lol": {
+    "88.151.114.24": {
       "status": "down",
       "rtt_ms": null
     },
-    "69.46.46.240": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.221.169": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.90909.club": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.6.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.225.83.133": {
+    "216.24.57.225": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +36,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "promo3.betust.net": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.225.83.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.221.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faf318x.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.118.156.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.90909.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germanylanzrestik.site": {
       "status": "down",
       "rtt_ms": null
     }
