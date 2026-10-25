@@ -1,90 +1,10 @@
 {
-  "last_update": "2026-10-25T09:34:08.254541",
-  "total": 31,
+  "last_update": "2026-10-25T13:54:25.188989",
+  "total": 28,
   "up": 0,
-  "down": 31,
+  "down": 28,
   "results": {
-    "79.98.37.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.160.141.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.227.162": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.216.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.223.104.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.211.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.205.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.44.114.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.209.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.91.147.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.225.83.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "196.247.163.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.dostupnety.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se13-node.rumedia-cdn.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnodtwx.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.129.182": {
+    "69.46.46.208": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,15 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "217.12.204.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.91.147.211": {
+    "69.46.46.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "79.98.37.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,23 +28,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.144.221.169": {
+    "ns.90909.club": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.128.78.196": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.76.91.98": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "tjtw.m2k699.com": {
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.58.180.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.211.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.163.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.129.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnodtwx.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     },
     "ee-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "69.46.46.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.221.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.90909.club": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.6.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.225.83.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.dostupnety.website": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo3.betust.net": {
       "status": "down",
       "rtt_ms": null
     }
