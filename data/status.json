@@ -1,146 +1,14 @@
 {
-  "last_update": "2026-10-25T04:58:58.601574",
-  "total": 38,
+  "last_update": "2026-10-25T09:34:08.254541",
+  "total": 31,
   "up": 0,
-  "down": 38,
+  "down": 31,
   "results": {
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.144.221.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.58.199.144": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "79.98.37.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "196.247.163.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.88.174.181": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.233.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.216.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.223.104.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "xnodtwx.artemida.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.45.47.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swidenafterlanzerotte.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "web.asasin4.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "se1.mycloud1.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "promo3.betust.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.242.228.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.228.169.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "150.241.107.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.209.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.225.83.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.12.204.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.210.29.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tjtw.m2k699.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gr1.originmesh.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee-central.v8x2b.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru.dostupnety.website": {
+    "193.160.141.23": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,11 +16,115 @@
       "status": "down",
       "rtt_ms": null
     },
-    "se14-node.rumedia-cdn.com": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "proxyip.hk.cmliussss.net": {
+    "191.217.216.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.223.104.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.211.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.205.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.44.114.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.209.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.225.83.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.163.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-central.v8x2b.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru.dostupnety.website": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "se13-node.rumedia-cdn.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "xnodtwx.artemida.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.32.129.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "37.235.249.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "217.12.204.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.91.147.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "88.151.114.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.144.221.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.128.78.196": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.91.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tjtw.m2k699.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     }
