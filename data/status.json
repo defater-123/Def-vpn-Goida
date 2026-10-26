@@ -1,66 +1,14 @@
 {
-  "last_update": "2026-10-26T11:01:04.470394",
-  "total": 31,
+  "last_update": "2026-10-26T17:19:14.477730",
+  "total": 20,
   "up": 0,
-  "down": 31,
+  "down": 20,
   "results": {
-    "201.58.180.143": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.160.140.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "139.28.240.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "179.254.126.223": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tau1.freerunet.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.78.198": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "37.235.249.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faf318x.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.223.104.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nlll.obxodvpn.us": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,27 +16,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "friren.iki-servers.com": {
+    "263651t.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "piracy-android.video-streams.org": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee2.pad-sservice.lat": {
+    "faf318x.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "subs.wildvf.esal.cl": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "37.235.250.18": {
+    "ge-s-1.pythonmakemigreat.wiki": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.160.140.161": {
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,31 +48,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.129.182": {
+    "friren.iki-servers.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.11.111": {
+    "subs.wildvf.esal.cl": {
       "status": "down",
       "rtt_ms": null
     },
-    "132.243.173.212": {
+    "se3.shvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.19.143.218": {
+    "pl1.shvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.142.106.122": {
+    "de4.shvpn.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "play.murka.fun": {
+    "p1tun0.greewebservices.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "minimize-evenness.cdn-content.com": {
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s10.memqexa.ir": {
       "status": "down",
       "rtt_ms": null
     },
