@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-26T17:19:14.477730",
-  "total": 20,
+  "last_update": "2026-10-26T21:42:41.850206",
+  "total": 24,
   "up": 0,
-  "down": 20,
+  "down": 24,
   "results": {
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,7 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "faf318x.fi3.h1clayd.click": {
+    "168.113.172.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.172.128": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,7 +24,23 @@
       "status": "down",
       "rtt_ms": null
     },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.208.80.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3f8efdt.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "ge-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "263651t.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +48,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "de6.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys-eu.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "36a466g.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de2.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,31 +76,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "se3.shvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.shvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de4.shvpn.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "p1tun0.greewebservices.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
+    "tr.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "s10.memqexa.ir": {
+    "faf318x.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "promo3.betust.net": {
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.58.183.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de4.shvpn.ru": {
       "status": "down",
       "rtt_ms": null
     }
