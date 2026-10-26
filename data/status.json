@@ -1,46 +1,26 @@
 {
-  "last_update": "2026-10-26T00:17:02.834919",
-  "total": 66,
+  "last_update": "2026-10-26T05:02:43.927608",
+  "total": 42,
   "up": 0,
-  "down": 66,
+  "down": 42,
   "results": {
-    "191.217.216.24": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.125.112": {
+    "201.10.91.127": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.217.240": {
+    "31.76.89.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.8.83": {
+    "45.144.221.169": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.4.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.253.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.128.76.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.122.175": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,27 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "chat.openai.com": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.130.125.75": {
+    "179.254.115.193": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.73.206": {
+    "191.217.216.24": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.40.100": {
+    "217.60.35.146": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "122.10.117.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,27 +56,67 @@
       "status": "down",
       "rtt_ms": null
     },
+    "pl1.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "nl-central.v8x2b.lol": {
       "status": "down",
       "rtt_ms": null
     },
-    "ccs2g.pai50288.uk": {
+    "263651t.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.74.206": {
+    "pl2.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.229.21": {
+    "nl4.1.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.60": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.72.206": {
+    "nl2.pad-sservice.lat": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "196.247.163.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.188.66.181": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.254.115.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.46.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faf318x.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.38.3.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "friren.iki-servers.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,167 +124,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.206": {
+    "150.251.141.34": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.200.219": {
+    "103.228.169.140": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.7.70": {
+    "de10.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "nl7.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.20.17.210": {
+    "150.251.141.60": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.147.22": {
+    "de8.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.45.38": {
+    "tr3.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "ccc.010304.xyz": {
+    "subs.wildvf.esal.cl": {
       "status": "down",
       "rtt_ms": null
     },
-    "www.calmlunch.com": {
+    "ge-s-1.pythonmakemigreat.wiki": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.44.17": {
+    "nl9.pad-sservice.lat": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.37.228": {
+    "8fc752g.fi3.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.40.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "centurylink.es": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.9.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.71.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.152.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.204.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.121.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.234.211.232": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.64.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.131.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.148.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.32.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1server.rabstvo.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sinavm7.soft10.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.231.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uwu.blueknightnet.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.71.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.72.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.130519.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.121.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.221.158": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.76.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.130.125.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.6.134": {
+    "piracy-android.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     }
