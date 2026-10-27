@@ -1,14 +1,26 @@
 {
-  "last_update": "2026-10-27T11:09:38.849968",
-  "total": 12,
+  "last_update": "2026-10-27T16:33:11.738684",
+  "total": 23,
   "up": 0,
-  "down": 12,
+  "down": 23,
   "results": {
-    "ge-s-1.pythonmakemigreat.wiki": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.3.6": {
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.23.202.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.175.205.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,15 +28,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "media.embrofree.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "132.243.252.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "147.78.182.6": {
+    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "171.22.119.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.76.46.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "206.71.158.124": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,7 +56,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "2.26.6.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +72,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
+    "swidenafterlanzerotte.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "se1-cl3.vless-fiberstasis.top": {
+    "b-balance.avantage.7.s.cdnnow.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "promo.betust.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "222.167.245.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tau1.freerunet.online": {
       "status": "down",
       "rtt_ms": null
     }
