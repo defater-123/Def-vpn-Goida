@@ -1,10 +1,10 @@
 {
-  "last_update": "2026-10-27T00:49:50.860876",
-  "total": 24,
+  "last_update": "2026-10-27T05:45:47.784834",
+  "total": 35,
   "up": 0,
-  "down": 24,
+  "down": 35,
   "results": {
-    "168.113.171.68": {
+    "122.8.45.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,43 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.172.128": {
+    "pl1.obxodvpn.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.172.126": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "201.58.183.5": {
+    "151.101.3.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "13.143.189.104": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "31.210.43.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.76.147.34": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "friren.iki-servers.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys-eu.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
+    "94.183.197.40": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,27 +40,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8fc752g.fi3.h1clayd.click": {
+    "45.133.73.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "faf318x.fi3.h1clayd.click": {
+    "147.139.189.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "263651t.fi3.h1clayd.click": {
+    "168.113.171.68": {
       "status": "down",
       "rtt_ms": null
     },
-    "support.zoom.us": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "3f8efdt.fi1.h1clayd.click": {
+    "92.242.165.40": {
       "status": "down",
       "rtt_ms": null
     },
-    "de4.shvpn.ru": {
+    "nl1.obxodvpn.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee2.obxodvpn.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "friren.iki-servers.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "adheres-scruple.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,19 +80,67 @@
       "status": "down",
       "rtt_ms": null
     },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.20.141.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "36a466g.fi1.h1clayd.click": {
+    "146.75.35.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.105.219.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.147.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.251.141.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "flooraccount.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swe2.obxodvpn.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi1.obxodvpn.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
       "status": "down",
       "rtt_ms": null
     },
     "subs.wildvf.esal.cl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     }
