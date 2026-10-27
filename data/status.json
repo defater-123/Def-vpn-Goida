@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-27T05:45:47.784834",
-  "total": 35,
+  "last_update": "2026-10-27T11:09:38.849968",
+  "total": 12,
   "up": 0,
-  "down": 35,
+  "down": 12,
   "results": {
-    "122.8.45.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
+    "ge-s-1.pythonmakemigreat.wiki": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,75 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.189.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.210.43.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.197.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.133.73.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.171.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.242.165.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl1.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee2.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "friren.iki-servers.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adheres-scruple.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "piracy-android.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.20.141.53": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,47 +20,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.35.31": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
+    "147.78.182.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
+    "212.227.90.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "89.105.219.106": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.76.147.34": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.251.141.186": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "flooraccount.net": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "swe2.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi1.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "minimize-evenness.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "subs.wildvf.esal.cl": {
+    "se1-cl3.vless-fiberstasis.top": {
       "status": "down",
       "rtt_ms": null
     }
