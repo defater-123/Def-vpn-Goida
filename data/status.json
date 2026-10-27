@@ -1,90 +1,10 @@
 {
-  "last_update": "2026-10-26T21:42:41.850206",
+  "last_update": "2026-10-27T00:49:50.860876",
   "total": 24,
   "up": 0,
   "down": 24,
   "results": {
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.172.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.172.128": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.80.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3f8efdt.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "263651t.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8fc752g.fi3.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de6.pad-sservice.lat": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hys-eu.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "36a466g.fi1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de2.pad-sservice.lat": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "friren.iki-servers.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "subs.wildvf.esal.cl": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "p1tun0.greewebservices.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tr.pad-sservice.lat": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "faf318x.fi3.h1clayd.click": {
+    "168.113.171.68": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +12,91 @@
       "status": "down",
       "rtt_ms": null
     },
+    "168.113.172.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "168.113.172.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "201.58.183.5": {
       "status": "down",
       "rtt_ms": null
     },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.76.147.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "friren.iki-servers.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hys-eu.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8fc752g.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "faf318x.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "263651t.fi3.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3f8efdt.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "de4.shvpn.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "36a466g.fi1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "subs.wildvf.esal.cl": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     }
