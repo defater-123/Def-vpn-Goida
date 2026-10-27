@@ -1,90 +1,22 @@
 {
-  "last_update": "2026-10-27T16:33:11.738684",
-  "total": 23,
+  "last_update": "2026-10-27T20:57:52.955704",
+  "total": 22,
   "up": 0,
-  "down": 23,
+  "down": 22,
   "results": {
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.23.202.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.205.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "media.embrofree.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "132.243.252.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "171.22.119.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.46.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.71.158.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "212.227.90.142": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.6.1": {
+    "206.238.239.245": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.3.6": {
+    "209.206.51.236": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swidenafterlanzerotte.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b-balance.avantage.7.s.cdnnow.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "promo.betust.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "222.167.245.112": {
+    "206.238.237.25": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +24,71 @@
       "status": "down",
       "rtt_ms": null
     },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "198.202.24.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.145.30.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "tau1.freerunet.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "post.mailelo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fi1-cl3.core-mirvante.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "md-x3n8.youtub-arvelys.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finlandlanzarotte.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.23.202.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     }
