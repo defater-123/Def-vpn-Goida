@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-10-28T00:12:45.748114",
-  "total": 30,
+  "last_update": "2026-10-28T05:37:45.951560",
+  "total": 28,
   "up": 0,
-  "down": 30,
+  "down": 28,
   "results": {
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.145.30.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.23.202.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jap2.nexfile.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.166.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tau1.freerunet.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "151.101.3.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,15 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.166.87": {
+    "103.247.28.203": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,39 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "93.152.214.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "43.174.193.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "83.217.222.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pxpanel-production-8c47.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.letsconnectpoint.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bl2.nexfile.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.189.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.247.22.58": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
+    "47.251.95.178": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,27 +32,87 @@
       "status": "down",
       "rtt_ms": null
     },
-    "46.29.255.123": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "152.175.8.61": {
+    "13.143.189.71": {
       "status": "down",
       "rtt_ms": null
     },
-    "usa.letsconnectpoint.com": {
+    "199.232.239.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "piracy-android.video-streams.org": {
+    "154.86.119.121": {
       "status": "down",
       "rtt_ms": null
     },
-    "ar.vipsharifi.ir": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
+    "147.139.189.225": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.188.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.217.222.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl3.nexfile.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bl3.nexfile.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.188.154": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "192.145.30.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.155.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.23.202.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.16.141.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tau1.freerunet.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "derfderf.ru": {
       "status": "down",
       "rtt_ms": null
     }
