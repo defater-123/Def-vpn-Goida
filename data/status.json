@@ -1,14 +1,18 @@
 {
-  "last_update": "2026-10-28T17:21:29.593530",
-  "total": 27,
+  "last_update": "2026-10-28T21:46:32.615410",
+  "total": 19,
   "up": 0,
-  "down": 27,
+  "down": 19,
   "results": {
-    "8.47.69.0": {
+    "94.26.41.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "185.119.81.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "171.22.18.99": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,71 +20,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "13.140.93.138": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.156.180.111": {
+    "46.16.34.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "85.11.187.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.195.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.249.208.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "de7ddk.vault-connect.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "gym-hardstyle-music.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "filetransver-pro.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "req.apptrendv.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tau1.freerunet.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl1.nexfile.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "filesender-ultra.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ge-s-1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "areal3.greewebservices.ir": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,15 +36,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.95.96.210": {
+    "176.114.95.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,11 +44,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "nl5ddk.vault-connect.online": {
+    "146.75.35.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
     "akr187.moldscience.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ge-s-1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tau1.freerunet.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru2.radiolumens.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f1.greewebservices.ir": {
       "status": "down",
       "rtt_ms": null
     }
