@@ -1,66 +1,10 @@
 {
-  "last_update": "2026-10-27T20:57:52.955704",
-  "total": 22,
+  "last_update": "2026-10-28T00:12:45.748114",
+  "total": 30,
   "up": 0,
-  "down": 22,
+  "down": 30,
   "results": {
-    "212.227.90.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.238.239.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "209.206.51.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "206.238.237.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.202.24.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.145.30.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tau1.freerunet.online": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,19 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "post.mailelo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fi1-cl3.core-mirvante.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "md-x3n8.youtub-arvelys.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finlandlanzarotte.live": {
+    "192.145.30.27": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,7 +20,107 @@
       "status": "down",
       "rtt_ms": null
     },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jap2.nexfile.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.166.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tau1.freerunet.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.166.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.227.90.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.152.214.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "83.217.222.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pxpanel-production-8c47.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bl2.nexfile.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.189.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.247.22.58": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.86.119.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "46.29.255.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "152.175.8.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "usa.letsconnectpoint.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ar.vipsharifi.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network": {
       "status": "down",
       "rtt_ms": null
     }
