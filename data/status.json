@@ -1,22 +1,18 @@
 {
-  "last_update": "2026-10-28T05:37:45.951560",
-  "total": 28,
+  "last_update": "2026-10-28T11:37:03.815399",
+  "total": 11,
   "up": 0,
-  "down": 28,
+  "down": 11,
   "results": {
-    "151.101.3.6": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "support.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.247.28.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.227.90.142": {
+    "145.223.68.58": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,43 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.95.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.86.119.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.189.71": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.86.119.121": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.189.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.188.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.217.222.170": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,51 +28,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl3.nexfile.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bl3.nexfile.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.143.188.154": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.145.30.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.23.202.65": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.16.141.59": {
+    "199.232.239.239": {
       "status": "down",
       "rtt_ms": null
     },
-    "tau1.freerunet.online": {
+    "swidenafterlanzerotte.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "derfderf.ru": {
+    "here-we-go-soocer.keno.su": {
       "status": "down",
       "rtt_ms": null
     }
