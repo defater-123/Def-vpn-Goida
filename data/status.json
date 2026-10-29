@@ -1,18 +1,50 @@
 {
-  "last_update": "2026-10-29T07:17:12.468589",
-  "total": 22,
+  "last_update": "2026-10-29T14:31:06.044870",
+  "total": 19,
   "up": 0,
-  "down": 22,
+  "down": 19,
   "results": {
-    "2.26.86.188": {
+    "194.147.149.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.124.245.52": {
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.198.0.101": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.239.239": {
       "status": "down",
       "rtt_ms": null
     },
     "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.98.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,71 +56,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.7.24": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.76.78.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "176.114.95.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "154.86.119.102": {
+    "82.118.22.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.35.80": {
+    "adheres-scruple.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.26.85.45": {
+    "swidenafterlanzerotte.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.3.6": {
+    "finlandlanzarotte.live": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "support.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "store.blog-forme.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fl.solomon-planet.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.75.35.81": {
+    "s3.lemvuno.ir": {
       "status": "down",
       "rtt_ms": null
     }
