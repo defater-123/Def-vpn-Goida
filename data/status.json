@@ -1,30 +1,22 @@
 {
-  "last_update": "2026-10-29T19:50:39.831904",
-  "total": 8,
+  "last_update": "2026-10-29T23:40:40.026445",
+  "total": 13,
   "up": 0,
-  "down": 8,
+  "down": 13,
   "results": {
-    "194.147.149.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.114.95.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "43.174.193.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "194.147.149.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.129.242.56": {
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.249.186.64": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,7 +24,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.27.243.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     }
