@@ -1,38 +1,10 @@
 {
-  "last_update": "2026-10-29T14:31:06.044870",
-  "total": 19,
+  "last_update": "2026-10-29T19:50:39.831904",
+  "total": 8,
   "up": 0,
-  "down": 19,
+  "down": 8,
   "results": {
     "194.147.149.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.198.0.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.239.239": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,7 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78.17.98.89": {
+    "176.114.95.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,31 +24,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "45.129.242.56": {
       "status": "down",
       "rtt_ms": null
     },
-    "176.114.95.242": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "82.118.22.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adheres-scruple.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swidenafterlanzerotte.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finlandlanzarotte.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "s3.lemvuno.ir": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     }
