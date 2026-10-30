@@ -1,10 +1,18 @@
 {
-  "last_update": "2026-10-29T23:40:40.026445",
-  "total": 13,
+  "last_update": "2026-10-30T02:56:14.787202",
+  "total": 32,
   "up": 0,
-  "down": 13,
+  "down": 32,
   "results": {
-    "43.174.193.1": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.194.148.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.218.160.100": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,31 +20,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "8.6.112.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.249.186.64": {
+    "8.209.105.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "8.209.111.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "151.101.215.97": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.27.243.10": {
+    "91.185.215.214": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +48,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "87.232.116.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.34.52.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.133.166.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.187.4.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.172.65.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.135.191": {
       "status": "down",
       "rtt_ms": null
     },
     "ee.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "6.bmi.ir.asopardaz.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.211.134.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.114.95.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.139.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.131.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.83.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
       "status": "down",
       "rtt_ms": null
     },
