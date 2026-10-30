@@ -1,38 +1,10 @@
 {
-  "last_update": "2026-10-30T16:03:31.288704",
-  "total": 23,
+  "last_update": "2026-10-30T20:42:54.812492",
+  "total": 20,
   "up": 0,
-  "down": 23,
+  "down": 20,
   "results": {
-    "163.245.41.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.h1cloud.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.249.195.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "171.25.158.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "2.58.113.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.1.192.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "176.114.95.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,35 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "177.1.192.117": {
+    "176.114.95.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "177.1.192.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.141.65.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.11.87.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.118.209.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.154.155.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "a0688bt.us4.h1clayd.click": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,11 +32,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "185.255.95.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "ss.ll0ll.vip": {
+    "150.251.143.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.11.91.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "178.208.80.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "84.38.184.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.141.65.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swidenafterlanzerotte.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finlandlanzarotte.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "goodchinatour.qd.je": {
       "status": "down",
       "rtt_ms": null
     }
