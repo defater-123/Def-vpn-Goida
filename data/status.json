@@ -1,34 +1,14 @@
 {
-  "last_update": "2026-10-31T16:03:17.672180",
-  "total": 20,
+  "last_update": "2026-10-31T19:55:51.922910",
+  "total": 16,
   "up": 0,
-  "down": 20,
+  "down": 16,
   "results": {
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.114.95.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.69.169": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
+    "185.19.33.35": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,7 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,15 +24,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.141.65.98": {
+    "77.239.108.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "media.aava.lalibobi.online": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.131.6": {
+    "176.114.95.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "76.13.188.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,27 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "nl-modx-prime.storagedirectguide.com": {
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "us.huahua.wiki": {
+    "a736eb68-tmb1c0-tpkh0c-1r7od.hk2.hyhuawei.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "p1tun22.greewebservices.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f1.greewebservices.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru9.aimodelhub.top": {
+    "hk.huahua.wiki": {
       "status": "down",
       "rtt_ms": null
     }
