@@ -1,22 +1,38 @@
 {
-  "last_update": "2026-10-30T20:42:54.812492",
-  "total": 20,
+  "last_update": "2026-10-31T00:04:16.999068",
+  "total": 35,
   "up": 0,
-  "down": 20,
+  "down": 35,
   "results": {
-    "2.58.113.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.149.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "199.232.78.160": {
+    "140.225.209.150": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.35.210": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.245.41.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.165.205.22": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "134.195.101.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.1.192.67": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,39 +44,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.172": {
+    "5.1.40.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.255.95.226": {
+    "pl2.obxodvpn.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.251.143.86": {
+    "by-tls.fluxorvpn.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.47.69.0": {
+    "nl1.obxodvpn.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.11.91.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "178.208.80.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.38.184.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.141.65.98": {
+    "swe2.obxodvpn.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,19 +68,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "swidenafterlanzerotte.space": {
+    "promo3.goonars.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee.h1cloud.net": {
+    "gcore.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "finlandlanzarotte.live": {
+    "forshynewh.duckdns.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "goodchinatour.qd.je": {
+    "promo2.betust.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.255.103.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.141.65.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.158.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.158.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.181.158.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nlll.obxodvpn.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "by-tls.nerpvpn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.149.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dubai-cdn-keno.keno.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "blogs.blog-forme.ru": {
       "status": "down",
       "rtt_ms": null
     }
