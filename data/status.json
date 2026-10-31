@@ -1,22 +1,10 @@
 {
-  "last_update": "2026-10-31T11:03:21.257459",
-  "total": 11,
+  "last_update": "2026-10-31T16:03:17.672180",
+  "total": 20,
   "up": 0,
-  "down": 11,
+  "down": 20,
   "results": {
-    "194.147.149.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.131.4.38": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.141.65.98": {
+    "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,15 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "77.91.69.169": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.35.210": {
+    "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +36,51 @@
       "status": "down",
       "rtt_ms": null
     },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
+    "195.141.65.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "media.aava.lalibobi.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.131.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.149.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-modx-prime.storagedirectguide.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us.huahua.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "p1tun22.greewebservices.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "f1.greewebservices.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru9.aimodelhub.top": {
       "status": "down",
       "rtt_ms": null
     }
