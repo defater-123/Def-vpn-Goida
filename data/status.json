@@ -1,9 +1,13 @@
 {
-  "last_update": "2026-10-31T05:29:57.384429",
-  "total": 16,
+  "last_update": "2026-10-31T11:03:21.257459",
+  "total": 11,
   "up": 0,
-  "down": 16,
+  "down": 11,
   "results": {
+    "194.147.149.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "8.47.69.0": {
       "status": "down",
       "rtt_ms": null
@@ -12,31 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.131.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.147.149.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "177.1.192.60": {
+    "195.141.65.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,19 +28,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.141.65.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "146.75.35.210": {
       "status": "down",
       "rtt_ms": null
     },
-    "steel7.hadsvpn.com": {
+    "45.80.111.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "fi1.obxodvpn.us": {
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
