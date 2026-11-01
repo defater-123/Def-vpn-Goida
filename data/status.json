@@ -1,86 +1,18 @@
 {
-  "last_update": "2026-11-01T01:34:23.821130",
-  "total": 40,
+  "last_update": "2026-11-01T08:07:31.791397",
+  "total": 29,
   "up": 0,
-  "down": 40,
+  "down": 29,
   "results": {
-    "151.101.131.6": {
+    "piracy-android.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.147.149.54": {
+    "151.101.161.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.101.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.105.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.176.237.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.175.58.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.253.251.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.68.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.135.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.147.111.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.242.162.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.187.4.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.133.166.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.219.155.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.90.56.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.34.213.8": {
+    "151.101.1.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,43 +20,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.34.52.147": {
+    "5.1.40.50": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.131.4.38": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "176.114.95.242": {
+    "92.242.165.11": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.245.131.215": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.85.38.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.110.39.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.253.187.132": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.250.180.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "128.203.252.97": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.104.107.80": {
+    "5.1.40.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,11 +40,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "186.241.105.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
+    "141.193.213.172": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,23 +48,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "47.251.110.54": {
+    "199.232.78.160": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.11.78.211": {
+    "64.32.13.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.168.132.123": {
+    "43.174.193.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.67.6": {
+    "151.101.193.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "94.183.206.48": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grimness-backlogs.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bounded-crammed.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.114.95.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.131.4.38": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.58.71.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "179.43.170.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "auto.claudpath.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ch2.h1cloud.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "adheres-scruple.quick-cdn.net": {
       "status": "down",
       "rtt_ms": null
     }
