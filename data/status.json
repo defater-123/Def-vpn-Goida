@@ -1,50 +1,30 @@
 {
-  "last_update": "2026-10-31T22:54:51.720169",
-  "total": 16,
+  "last_update": "2026-11-01T01:34:23.821130",
+  "total": 40,
   "up": 0,
-  "down": 16,
+  "down": 40,
   "results": {
-    "112.120.123.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.67.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.80.111.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.114.95.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "151.101.131.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.147.149.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.101.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.209.105.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.176.237.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.175.58.196": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,7 +32,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "130.17.4.76": {
+    "47.253.251.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.68.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.135.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.80.111.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.147.111.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.242.162.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.187.4.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.133.166.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.219.155.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.90.56.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.34.213.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.34.52.147": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,11 +96,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com": {
+    "176.114.95.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
+    "47.245.131.215": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.85.38.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.110.39.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.253.187.132": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.250.180.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "128.203.252.97": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.104.107.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "186.241.105.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.251.110.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.11.78.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.168.132.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     }
