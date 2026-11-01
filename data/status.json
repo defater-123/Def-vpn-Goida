@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-11-01T19:37:04.563474",
-  "total": 30,
+  "last_update": "2026-11-01T23:03:19.395279",
+  "total": 23,
   "up": 0,
-  "down": 30,
+  "down": 23,
   "results": {
-    "ghosts-spasm.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.12.170": {
+    "216.24.57.15": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,19 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.131.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.173.242": {
+    "147.139.139.151": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,55 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.225.79": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "217.11.164.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.245.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "101.32.142.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adheres-scruple.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.1.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "minimize-evenness.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finlandlanzarotte.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "piracy-android.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.220.180.112": {
+    "195.141.65.98": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,11 +28,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "195.141.65.98": {
+    "43.174.193.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.163.86.187": {
+    "199.232.173.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.67.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,11 +48,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "147.139.139.151": {
+    "151.101.131.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "92.42.201.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "adheres-scruple.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sm.novexora.ir": {
       "status": "down",
       "rtt_ms": null
     },
     "bounded-crammed.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.1.242": {
       "status": "down",
       "rtt_ms": null
     },
@@ -117,10 +93,6 @@
       "rtt_ms": null
     },
     "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "p2tun02.greewebservices.ir": {
       "status": "down",
       "rtt_ms": null
     }
