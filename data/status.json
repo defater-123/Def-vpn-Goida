@@ -1,86 +1,10 @@
 {
-  "last_update": "2026-11-01T08:07:31.791397",
-  "total": 29,
+  "last_update": "2026-11-01T15:01:58.065673",
+  "total": 33,
   "up": 0,
-  "down": 29,
+  "down": 33,
   "results": {
-    "piracy-android.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.161.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.1.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.1.40.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.42.145.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.242.165.11": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.1.40.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.32.13.230": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.193.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.206.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grimness-backlogs.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "minimize-evenness.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ghosts-spasm.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bounded-crammed.video-streams.org": {
+    "104.237.250.97": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,15 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
+    "191.217.245.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "45.131.4.38": {
       "status": "down",
       "rtt_ms": null
     },
-    "194.58.71.117": {
+    "151.101.201.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "216.24.57.15": {
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.134.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.154.29.72": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,19 +40,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "179.43.170.84": {
+    "151.101.193.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "auto.claudpath.com": {
+    "188.42.145.180": {
       "status": "down",
       "rtt_ms": null
     },
-    "ch2.h1cloud.net": {
+    "151.101.65.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.129.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.21.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bounded-crammed.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.1.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "minimize-evenness.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test.wolf-moose.test-cdn-kkk.com": {
       "status": "down",
       "rtt_ms": null
     },
     "adheres-scruple.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.173.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "177.202.96.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.141.65.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.161.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.250.248.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.155.179.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ghosts-spasm.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "grimness-backlogs.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us3.shtil.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "piracy-android.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     }
