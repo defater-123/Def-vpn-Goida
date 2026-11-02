@@ -1,166 +1,18 @@
 {
-  "last_update": "2026-11-02T02:26:25.453587",
-  "total": 51,
+  "last_update": "2026-11-02T09:43:02.856187",
+  "total": 28,
   "up": 0,
-  "down": 51,
+  "down": 28,
   "results": {
-    "43.174.193.1": {
+    "151.101.67.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.245.131.215": {
+    "94.183.206.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.34.52.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.133.166.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.250.180.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "216.24.57.15": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.135.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.88.23.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.108.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.111.225": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.1.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.65.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.0.187.50": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.176.237.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grimness-backlogs.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ghosts-spasm.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bounded-crammed.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "piracy-android.video-streams.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.192.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.193.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.104.107.80": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.175.58.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.168.132.123": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.139.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.110.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.105.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.129.242": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.251.101.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.91.68.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.209.83.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.253.251.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4.232.64.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl.coffeconsulting.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.75.241.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "adheres-scruple.quick-cdn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "by-tls.nerpvpn.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.232.116.20": {
+    "212.43.152.62": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,7 +20,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "5.187.4.45": {
+    "151.101.131.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.84.109.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.141.65.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.177.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.139.139.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.165.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.193.242": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.11.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "216.24.57.15": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.128.130.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,23 +88,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.64.120.239": {
+    "151.101.1.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.77.201.227": {
+    "43.133.62.238": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.85.38.117": {
+    "72.56.11.99": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.36.143.71": {
+    "47.84.87.77": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.219.155.125": {
+    "ch2.h1cloud.net": {
       "status": "down",
       "rtt_ms": null
     },
@@ -200,11 +112,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "minimize-evenness.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.golangwikito.cfd": {
+    "api.ferrin.uk": {
       "status": "down",
       "rtt_ms": null
     }
