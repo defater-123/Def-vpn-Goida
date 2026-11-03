@@ -1,330 +1,162 @@
 {
-  "last_update": "2026-11-03T01:53:37.218933",
-  "total": 81,
-  "up": 73,
-  "down": 8,
+  "last_update": "2026-11-03T08:43:33.161983",
+  "total": 39,
+  "up": 0,
+  "down": 39,
   "results": {
-    "news.zoom.us": {
-      "status": "up",
-      "rtt_ms": 2.64
+    "101.32.142.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.17.39.129": {
+      "status": "down",
+      "rtt_ms": null
     },
     "151.241.88.81": {
-      "status": "up",
-      "rtt_ms": 52.1
+      "status": "down",
+      "rtt_ms": null
     },
-    "47.77.237.245": {
-      "status": "up",
-      "rtt_ms": 62.3
-    },
-    "130.49.177.193": {
-      "status": "up",
-      "rtt_ms": 95.7
-    },
-    "47.245.135.191": {
-      "status": "up",
-      "rtt_ms": 99.2
-    },
-    "47.245.134.84": {
-      "status": "up",
-      "rtt_ms": 97.7
-    },
-    "47.245.139.226": {
-      "status": "up",
-      "rtt_ms": 98.4
-    },
-    "80.211.134.75": {
-      "status": "up",
-      "rtt_ms": 110.0
-    },
-    "185.34.52.147": {
-      "status": "up",
-      "rtt_ms": 109.0
-    },
-    "95.133.166.163": {
-      "status": "up",
-      "rtt_ms": 132.0
-    },
-    "47.91.15.80": {
-      "status": "up",
-      "rtt_ms": 164.0
-    },
-    "43.155.165.247": {
-      "status": "up",
-      "rtt_ms": 189.0
-    },
-    "47.75.125.163": {
-      "status": "up",
-      "rtt_ms": 216.0
+    "130.49.219.99": {
+      "status": "down",
+      "rtt_ms": null
     },
     "43.135.6.72": {
-      "status": "up",
-      "rtt_ms": 210.0
-    },
-    "47.239.241.168": {
-      "status": "up",
-      "rtt_ms": 215.0
-    },
-    "8.219.155.125": {
-      "status": "up",
-      "rtt_ms": 232.0
-    },
-    "47.254.251.37": {
-      "status": "up",
-      "rtt_ms": 253.0
-    },
-    "141.193.213.21": {
-      "status": "up",
-      "rtt_ms": 2.49
-    },
-    "5.187.4.45": {
-      "status": "up",
-      "rtt_ms": 97.1
-    },
-    "47.245.139.99": {
-      "status": "up",
-      "rtt_ms": 97.0
-    },
-    "212.80.218.89": {
-      "status": "up",
-      "rtt_ms": 98.4
-    },
-    "43.174.193.1": {
-      "status": "up",
-      "rtt_ms": 2.5
-    },
-    "swidenafterlanzerotte.space": {
-      "status": "up",
-      "rtt_ms": 111.0
-    },
-    "213.145.72.93": {
-      "status": "up",
-      "rtt_ms": 93.5
-    },
-    "94.228.163.122": {
-      "status": "up",
-      "rtt_ms": 93.4
-    },
-    "47.242.162.186": {
-      "status": "up",
-      "rtt_ms": 216.0
-    },
-    "8.211.132.111": {
-      "status": "up",
-      "rtt_ms": 165.0
-    },
-    "47.239.237.237": {
-      "status": "up",
-      "rtt_ms": 217.0
-    },
-    "185.200.36.36": {
-      "status": "up",
-      "rtt_ms": 148.0
-    },
-    "api.ferrin.uk": {
-      "status": "up",
-      "rtt_ms": 90.0
-    },
-    "43.174.192.1": {
-      "status": "up",
-      "rtt_ms": 129.0
-    },
-    "47.77.201.227": {
-      "status": "up",
-      "rtt_ms": 71.5
-    },
-    "43.128.130.45": {
-      "status": "up",
-      "rtt_ms": 208.0
-    },
-    "31.56.227.253": {
-      "status": "up",
-      "rtt_ms": 109.0
-    },
-    "82.64.120.239": {
-      "status": "up",
-      "rtt_ms": 100.0
-    },
-    "47.251.101.248": {
-      "status": "up",
-      "rtt_ms": 76.5
-    },
-    "185.75.241.170": {
-      "status": "up",
-      "rtt_ms": 98.2
-    },
-    "8.209.111.225": {
-      "status": "up",
-      "rtt_ms": 97.1
-    },
-    "161.117.181.127": {
-      "status": "up",
-      "rtt_ms": 230.0
-    },
-    "8.209.105.99": {
-      "status": "up",
-      "rtt_ms": 97.0
-    },
-    "47.245.131.215": {
-      "status": "up",
-      "rtt_ms": 99.0
-    },
-    "proxyip.hk.cmliussss.net": {
-      "status": "up",
-      "rtt_ms": 199.0
-    },
-    "4.232.64.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.88.23.100": {
+    "195.123.189.217": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.95.164.150": {
+    "43.155.165.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.133.62.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.220.180.112": {
       "status": "down",
       "rtt_ms": null
     },
     "199.232.78.160": {
-      "status": "up",
-      "rtt_ms": 2.11
-    },
-    "185.175.58.196": {
-      "status": "up",
-      "rtt_ms": 108.0
-    },
-    "5.253.189.62": {
-      "status": "up",
-      "rtt_ms": 92.6
-    },
-    "8.209.108.3": {
-      "status": "up",
-      "rtt_ms": 96.5
-    },
-    "8.209.83.19": {
-      "status": "up",
-      "rtt_ms": 97.2
-    },
-    "78.17.39.129": {
-      "status": "up",
-      "rtt_ms": 107.0
-    },
-    "104.168.152.26": {
-      "status": "up",
-      "rtt_ms": 61.3
-    },
-    "mhzedir.qzz.io": {
-      "status": "up",
-      "rtt_ms": 111.0
-    },
-    "8.219.173.17": {
-      "status": "up",
-      "rtt_ms": 230.0
+      "status": "down",
+      "rtt_ms": null
     },
     "163.128.98.21": {
-      "status": "up",
-      "rtt_ms": 232.0
+      "status": "down",
+      "rtt_ms": null
     },
-    "188.239.19.57": {
-      "status": "up",
-      "rtt_ms": 230.0
+    "2.26.251.236": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "88.216.67.54": {
-      "status": "up",
-      "rtt_ms": 2.17
+    "47.245.139.226": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "47.85.38.117": {
-      "status": "up",
-      "rtt_ms": 3.03
-    },
-    "nl.coffeconsulting.uk": {
-      "status": "up",
-      "rtt_ms": 85.1
-    },
-    "119.28.150.233": {
-      "status": "up",
-      "rtt_ms": 193.0
+    "5.230.216.85": {
+      "status": "down",
+      "rtt_ms": null
     },
     "47.84.109.138": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.34.213.8": {
-      "status": "up",
-      "rtt_ms": 103.0
-    },
-    "185.36.143.71": {
+    "94.228.163.122": {
       "status": "down",
       "rtt_ms": null
     },
-    "77.91.68.117": {
-      "status": "up",
-      "rtt_ms": 143.0
-    },
-    "47.251.110.54": {
-      "status": "up",
-      "rtt_ms": 62.4
-    },
-    "87.232.116.20": {
-      "status": "up",
-      "rtt_ms": 110.0
-    },
-    "47.253.251.184": {
-      "status": "up",
-      "rtt_ms": 2.98
-    },
-    "143.246.62.134": {
-      "status": "up",
-      "rtt_ms": 57.9
-    },
-    "147.139.139.151": {
-      "status": "up",
-      "rtt_ms": 234.0
-    },
-    "118.109.40.183": {
-      "status": "up",
-      "rtt_ms": 192.0
-    },
-    "94.176.237.240": {
-      "status": "up",
-      "rtt_ms": 119.0
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
     },
     "sw.golangwikito.cfd": {
-      "status": "up",
-      "rtt_ms": 100.0
+      "status": "down",
+      "rtt_ms": null
     },
-    "47.237.78.5": {
-      "status": "up",
-      "rtt_ms": 230.0
-    },
-    "199.232.78.170": {
-      "status": "up",
-      "rtt_ms": 1.78
-    },
-    "104.168.132.123": {
-      "status": "up",
-      "rtt_ms": 59.0
-    },
-    "195.137.226.133": {
-      "status": "up",
-      "rtt_ms": 2.28
-    },
-    "5.104.107.80": {
-      "status": "up",
-      "rtt_ms": 97.2
+    "swidenafterlanzerotte.space": {
+      "status": "down",
+      "rtt_ms": null
     },
     "qtir1.dnetsolutions.ru": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.220.180.112": {
-      "status": "up",
-      "rtt_ms": 216.0
-    },
-    "147.139.189.225": {
+    "138.124.64.30": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.82.155.79": {
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.137.226.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.239.19.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.140.205.5": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.58.187.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.177.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.128.130.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.144.53.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.62.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.163.86.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.139.139.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "119.28.150.233": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mhzedir.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.134.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.23.107.7": {
       "status": "down",
       "rtt_ms": null
     }
