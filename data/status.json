@@ -1,70 +1,10 @@
 {
-  "last_update": "2026-11-03T08:43:33.161983",
-  "total": 39,
+  "last_update": "2026-11-03T16:34:21.928452",
+  "total": 38,
   "up": 0,
-  "down": 39,
+  "down": 38,
   "results": {
-    "101.32.142.168": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.17.39.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.241.88.81": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.219.99": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.135.6.72": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.123.189.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.165.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.133.62.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.220.180.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.98.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "2.26.251.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.139.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.230.216.85": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.84.109.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.228.163.122": {
+    "143.246.62.134": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,63 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "47.245.139.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.47.22.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "sw.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "swidenafterlanzerotte.space": {
+    "43.135.6.72": {
       "status": "down",
       "rtt_ms": null
     },
-    "qtir1.dnetsolutions.ru": {
+    "82.139.215.7": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.64.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.137.226.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.232.78.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.174.193.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.239.19.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.140.205.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "201.58.187.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.177.193": {
+    "163.128.98.21": {
       "status": "down",
       "rtt_ms": null
     },
     "43.128.130.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.144.53.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.62.134": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,15 +52,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "119.28.150.233": {
+    "182.16.62.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "mhzedir.qzz.io": {
+    "84.38.184.87": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.ferrin.uk": {
+    "2.27.210.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.239.19.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hw6.divarkhaghazi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sub.vanta-vpn.pro": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn-rum-n9kardx-q74mle.keno.su": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "berlin.zovip2.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -156,7 +96,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "89.23.107.7": {
+    "43.133.62.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.84.109.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.220.180.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "130.49.177.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.165.247": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.102.229.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.174.193.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "101.32.142.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.178.113.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.169.12.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz-3.movietop24.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.232.78.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mojtun.mlbaz.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "p1.xvanta.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ams.zovip2.ir": {
       "status": "down",
       "rtt_ms": null
     }
