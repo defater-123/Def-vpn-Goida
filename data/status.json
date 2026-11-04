@@ -1,54 +1,10 @@
 {
-  "last_update": "2026-11-03T21:58:11.542825",
-  "total": 33,
+  "last_update": "2026-11-04T01:51:25.803460",
+  "total": 38,
   "up": 0,
-  "down": 33,
+  "down": 38,
   "results": {
-    "hw6.divarkhaghazi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "163.128.98.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.133.62.238": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "anaconda-production-20be.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "etpl3.servertest.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "82.139.215.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "143.246.62.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.134.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.139.151": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.245.139.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.135.6.72": {
+    "47.84.109.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,15 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "119.28.150.233": {
+    "121.127.33.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.84.109.138": {
+    "79.141.164.83": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,23 +24,11 @@
       "status": "down",
       "rtt_ms": null
     },
+    "47.75.104.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slovarik.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.220.180.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.31.148.74": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,27 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "193.163.19.232": {
+    "119.28.150.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.128.130.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.239.19.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.161.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.178.113.224": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.163.86.187": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -124,7 +48,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "101.32.142.168": {
+    "8.220.180.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.103.118.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.86.119.55": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.139.226": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.239.19.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.frgcdn.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finlandlanzarotte.live": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hw6.divarkhaghazi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sw.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.12.75.64": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.103.4.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.88.12.119": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "78.109.16.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.87.220.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.245.134.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.91.68.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.36.143.71": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.135.6.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "163.128.98.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.176.237.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.139.139.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "82.139.215.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.178.113.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "143.246.62.134": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,7 +148,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "qtir1.dnetsolutions.ru": {
+    "47.84.87.77": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "swidenafterlanzerotte.space": {
       "status": "down",
       "rtt_ms": null
     }
