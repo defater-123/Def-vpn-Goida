@@ -1,30 +1,10 @@
 {
-  "last_update": "2026-11-04T01:51:25.803460",
+  "last_update": "2026-11-04T08:12:57.742106",
   "total": 38,
   "up": 0,
   "down": 38,
   "results": {
-    "47.84.109.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.81.75.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "121.127.33.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "79.141.164.83": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.155.165.247": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "47.75.104.211": {
+    "119.28.150.233": {
       "status": "down",
       "rtt_ms": null
     },
@@ -32,15 +12,35 @@
       "status": "down",
       "rtt_ms": null
     },
+    "82.139.215.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.128.130.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.133.62.238": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "82.139.215.245": {
       "status": "down",
       "rtt_ms": null
     },
-    "119.28.150.233": {
+    "195.58.46.17": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.21": {
+    "176.122.184.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "101.32.142.168": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.155.165.247": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,59 +48,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "8.220.180.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "146.103.118.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.86.119.55": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "47.245.139.226": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.239.19.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.frgcdn.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finlandlanzarotte.live": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hw6.divarkhaghazi.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sw.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.12.75.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.103.4.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.88.12.119": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "78.109.16.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.87.220.98": {
+    "47.84.109.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,23 +60,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.91.68.117": {
+    "103.173.179.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.36.143.71": {
+    "154.86.119.55": {
       "status": "down",
       "rtt_ms": null
     },
-    "43.135.6.72": {
+    "8.220.180.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "163.128.98.21": {
+    "185.174.137.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.176.237.240": {
+    "45.78.7.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test.wolf-moose.test-cdn-kkk.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -132,11 +88,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "82.139.215.7": {
+    "176.122.141.216": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.178.113.224": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -144,15 +100,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "185.212.62.17": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "136.0.197.99": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.178.113.224": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.81.75.207": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.161.253.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.119.43.76": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.243.31.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.232.95.178": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.25.202.25": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.239.19.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.168.132.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.163.86.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "47.84.87.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "swidenafterlanzerotte.space": {
+    "hw6.divarkhaghazi.com": {
       "status": "down",
       "rtt_ms": null
     }
