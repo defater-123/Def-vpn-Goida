@@ -1,58 +1,18 @@
 {
-  "last_update": "2026-11-05T17:20:07.613747",
-  "total": 33,
+  "last_update": "2026-11-05T22:43:42.031005",
+  "total": 41,
   "up": 0,
-  "down": 33,
+  "down": 41,
   "results": {
-    "104.16.186.130": {
+    "104.16.10.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.91.49": {
+    "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.28.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.104": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.239.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.160.44.254": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.184": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "help1.digikala-aparat-zula.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
+    "104.21.89.41": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,11 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.27.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.5.75": {
+    "104.16.10.116": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,15 +28,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "hkprto.5jkhsgwuesi.kdns.fr": {
+    "104.16.10.198": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.codex2api.com": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
@@ -88,11 +40,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.60.109": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.10.189": {
+    "104.21.70.228": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,11 +52,83 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "104.25.239.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.193": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.5.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.2": {
       "status": "down",
       "rtt_ms": null
     },
     "104.18.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "px2.5ibtc.cn": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.178.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.156.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.11.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.60.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.186.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.236.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.234": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,23 +140,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.3": {
+    "104.16.10.103": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.150.43": {
+    "104.16.3.98": {
       "status": "down",
       "rtt_ms": null
     },
-    "de3.japancase.site": {
+    "104.27.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "vpn.cintaku.qzz.io": {
+    "104.24.0.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "cf-cname.xingpingcn.top": {
+    "104.17.117.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.29.202": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.117": {
       "status": "down",
       "rtt_ms": null
     }
