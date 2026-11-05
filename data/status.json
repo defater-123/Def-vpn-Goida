@@ -1,10 +1,54 @@
 {
-  "last_update": "2026-11-05T09:01:26.468047",
-  "total": 7,
+  "last_update": "2026-11-05T17:20:07.613747",
+  "total": 33,
   "up": 0,
-  "down": 7,
+  "down": 33,
   "results": {
-    "43.156.62.218": {
+    "104.16.186.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.91.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.28.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.100": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.104": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.25.239.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.160.44.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.184": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "help1.digikala-aparat-zula.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -12,23 +56,83 @@
       "status": "down",
       "rtt_ms": null
     },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.5.75": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.32.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hkprto.5jkhsgwuesi.kdns.fr": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.codex2api.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "195.211.124.214": {
+    "104.21.60.109": {
       "status": "down",
       "rtt_ms": null
     },
-    "130.49.177.193": {
+    "104.16.10.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "172.67.199.126": {
       "status": "down",
       "rtt_ms": null
     },
-    "connect2.accessgate.link": {
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "de3.japancase.site": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpn.cintaku.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf-cname.xingpingcn.top": {
       "status": "down",
       "rtt_ms": null
     }
