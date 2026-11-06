@@ -1,14 +1,18 @@
 {
-  "last_update": "2026-11-06T02:49:53.567362",
-  "total": 88,
+  "last_update": "2026-11-06T10:00:19.209565",
+  "total": 19,
   "up": 0,
-  "down": 88,
+  "down": 19,
   "results": {
-    "172.66.45.42": {
+    "104.24.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "104.16.186.130": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.199.126": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,79 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.121.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cfnode-11ivy8.pages.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.47.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.13.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.141.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "russia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.74.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ld.235231.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.74.214": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.22.159": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.209.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.102.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "epam.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vless3.gem-audio2.us.ci": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.baipiao.eu.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.3.133": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.74.177": {
+    "104.19.235.15": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,263 +28,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.14.123": {
+    "104.18.51.110": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.70.92": {
+    "188.114.96.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.4.157": {
+    "mao.kipfelmao.de5.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.94": {
+    "k9-85j.pages.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.67.178": {
+    "fr.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.210.245": {
+    "lte-v2-ws.gacvpn.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.79.26": {
+    "msma-hfgetway.hf.space": {
       "status": "down",
       "rtt_ms": null
     },
-    "103.101.153.32": {
+    "www.speedtest.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "web-tomcat.pages.dev": {
+    "14f7f5f0.mrbl69black.pages.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.142.169": {
+    "fast.145779.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev": {
+    "www.agahiya.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "proxy-34l.pages.dev": {
+    "www.farahghanizadeh.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.44.124": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "one-for-all.levikogjgfdd.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "courses.mftplus.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "aslanbilit.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.134.136": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.25": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.5.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.152.233": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.128.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.73.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.100.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.207.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru2.radiolumens.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "floral-grass-aa1e.dianawpewpek1.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.40.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.77.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.glassdoor.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.75.194": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "time.is": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.137.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.208.235": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.4.57": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.222.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.gov.se": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.78.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.71.122": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.47.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.5.52": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.131.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.whatismyip.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "shopify.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.110.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "789156.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.79.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "singapore.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.153.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.39.125.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.184.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tn1r.eu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "icook.hk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nuclear.us.kg": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.155.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.174.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "liang92.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.130519.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.visa.com.sg": {
+    "www.sarzaminaryan.ir": {
       "status": "down",
       "rtt_ms": null
     }
