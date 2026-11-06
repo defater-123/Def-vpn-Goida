@@ -1,14 +1,10 @@
 {
-  "last_update": "2026-11-06T10:00:19.209565",
-  "total": 19,
+  "last_update": "2026-11-06T17:26:47.731912",
+  "total": 10,
   "up": 0,
-  "down": 19,
+  "down": 10,
   "results": {
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.186.130": {
+    "104.25.239.113": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,51 +12,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.25.239.113": {
+    "104.27.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.235.15": {
+    "104.24.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.3": {
+    "172.66.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.51.110": {
+    "104.18.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mao.kipfelmao.de5.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "k9-85j.pages.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lte-v2-ws.gacvpn.site": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "msma-hfgetway.hf.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "14f7f5f0.mrbl69black.pages.dev": {
+    "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
@@ -73,10 +41,6 @@
       "rtt_ms": null
     },
     "www.farahghanizadeh.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.sarzaminaryan.ir": {
       "status": "down",
       "rtt_ms": null
     }
