@@ -1,42 +1,14 @@
 {
-  "last_update": "2026-11-07T18:57:39.394586",
+  "last_update": "2026-11-07T22:27:48.843617",
   "total": 23,
   "up": 0,
   "down": 23,
   "results": {
-    "177.202.75.56": {
+    "104.24.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.34.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.153.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.53.124.191": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.58.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.118.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.186.130": {
+    "168.113.128.70": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,31 +16,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.0.1": {
+    "151.145.71.43": {
       "status": "down",
       "rtt_ms": null
     },
-    "45.143.94.91": {
+    "104.25.239.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "base.hosamobenl.co.uk": {
+    "188.114.96.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "49930ag.es8.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "230b29t.es8.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
+    "104.16.186.130": {
       "status": "down",
       "rtt_ms": null
     },
     "n04.jinggai.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.118.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.58.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dddz-3-z.473221.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "150.230.217.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.153.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dddz-1-x.473221.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.165.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.sarzaminaryan.ir": {
       "status": "down",
       "rtt_ms": null
     },
@@ -80,19 +84,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "www.sarzaminaryan.ir": {
+    "104.18.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "fast.145779.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.165.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.mo-chephosting.ir": {
+    "172.67.199.126": {
       "status": "down",
       "rtt_ms": null
     }
