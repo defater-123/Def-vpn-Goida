@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-07T14:27:41.436241",
+  "last_update": "2026-11-07T18:57:39.394586",
   "total": 23,
   "up": 0,
   "down": 23,
@@ -8,27 +8,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "176.122.142.140": {
+    "104.21.34.106": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.1.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
+    "104.18.153.10": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,15 +20,15 @@
       "status": "down",
       "rtt_ms": null
     },
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.10.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "176.122.188.184": {
+    "104.21.70.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,19 +36,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "150.230.217.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.50.227": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "104.16.186.130": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.254.3": {
+    "172.66.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.143.94.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "base.hosamobenl.co.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "49930ag.es8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "230b29t.es8.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "dddz-1-x.473221.xyz": {
+    "n04.jinggai.online": {
       "status": "down",
       "rtt_ms": null
     },
@@ -84,15 +80,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.143.94.91": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "www.sarzaminaryan.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "dddz-3-z.473221.xyz": {
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.165.32": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.mo-chephosting.ir": {
       "status": "down",
       "rtt_ms": null
     }
