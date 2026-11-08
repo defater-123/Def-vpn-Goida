@@ -1,34 +1,10 @@
 {
-  "last_update": "2026-11-08T14:39:34.747320",
-  "total": 28,
+  "last_update": "2026-11-08T19:07:02.466536",
+  "total": 26,
   "up": 0,
-  "down": 28,
+  "down": 26,
   "results": {
-    "pl1.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "167.82.76.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.242.113.75": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.173.179.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.239.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.cdn-space.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.0.1": {
+    "172.64.229.88": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,67 +12,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.58.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "whitepanel-ui-production-84c0.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.48.107": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.225.108": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.118.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg01.cf.sh-cloudflare.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.farahghanizadeh.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.agahiya.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d1.ge3.fluxora.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fxhub.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.sarzaminaryan.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "downloadchache1.song69.fun": {
+    "d0f7fax.ch5.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +20,39 @@
       "status": "down",
       "rtt_ms": null
     },
-    "n04.jinggai.online": {
+    "94.26.35.217": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.173.179.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "5.129.197.49": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.12.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.50.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "537df6t.ch5.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "49930ag.es8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pl1.obxodvpn.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,7 +60,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mahdroo.ir": {
+    "sg01.cf.sh-cloudflare.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru1.cdn-space.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jp01.cf.sh-cloudflare.sbs": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4okhrijuyjytflnvowhl3zfw5wsgi34o.pages.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.58.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "230b29t.es8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "90.156.230.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.186.24": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germany3.banovano.space": {
       "status": "down",
       "rtt_ms": null
     }
