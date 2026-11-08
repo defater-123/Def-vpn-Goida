@@ -1,102 +1,14 @@
 {
-  "last_update": "2026-11-08T19:07:02.466536",
-  "total": 26,
+  "last_update": "2026-11-08T22:50:06.836280",
+  "total": 13,
   "up": 0,
-  "down": 26,
+  "down": 13,
   "results": {
-    "172.64.229.88": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "d0f7fax.ch5.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.165.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.26.35.217": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.173.179.218": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.129.197.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.12.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.50.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "537df6t.ch5.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "49930ag.es8.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "pl1.obxodvpn.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sg01.cf.sh-cloudflare.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.cdn-space.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jp01.cf.sh-cloudflare.sbs": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4okhrijuyjytflnvowhl3zfw5wsgi34o.pages.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr.golangwikito.cfd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mao.kipfelmao.de5.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.58.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "230b29t.es8.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "90.156.230.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tr.0a0.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,7 +16,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "germany3.banovano.space": {
+    "49930ag.es8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.173.179.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.58.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr.golangwikito.cfd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru1.cdn-space.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.229.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "renderer-bridge-2-133.mirra.now": {
       "status": "down",
       "rtt_ms": null
     }
