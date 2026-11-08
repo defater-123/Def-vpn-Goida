@@ -1,38 +1,14 @@
 {
-  "last_update": "2026-11-07T22:27:48.843617",
-  "total": 23,
+  "last_update": "2026-11-08T01:40:08.173359",
+  "total": 16,
   "up": 0,
-  "down": 23,
+  "down": 16,
   "results": {
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.128.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.145.71.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "104.25.239.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.186.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "n04.jinggai.online": {
+    "172.67.199.126": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,11 +20,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "dddz-3-z.473221.xyz": {
+    "104.18.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "150.230.217.160": {
+    "172.66.0.1": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,35 +32,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.153.10": {
+    "104.27.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "dddz-1-x.473221.xyz": {
+    "104.24.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.165.32": {
+    "188.114.96.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.sarzaminaryan.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.agahiya.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.farahghanizadeh.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.0.1": {
+    "104.16.186.130": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,7 +52,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.199.126": {
+    "www.farahghanizadeh.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.agahiya.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fxhub.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.sarzaminaryan.ir": {
       "status": "down",
       "rtt_ms": null
     }
