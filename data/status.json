@@ -1,58 +1,442 @@
 {
-  "last_update": "2026-11-08T22:50:06.836280",
-  "total": 13,
+  "last_update": "2026-11-09T02:09:57.790707",
+  "total": 109,
   "up": 0,
-  "down": 13,
+  "down": 109,
   "results": {
+    "104.18.37.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.46.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.47.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.14.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.3.81": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "edge-relay-c9db.edge-edge-relay-be8e.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.153.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.visa.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.65.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "billing.konozura.space": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.1.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.125.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.2.138": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web-tomcat.pages.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "store.ubi.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.visa.com.sg": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.0sm.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sub.danfeng.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "saas.sin.fan": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.171.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.74.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.149.143": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.156.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "789156.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.140.85": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.35.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.52.70": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.158.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "japan.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.13.140": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.44.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.40.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "floral-grass-aa1e.dianawpewpek1.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.221.155": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.162.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.185.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.34.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.151.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.155.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.221.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.25.5.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.67.117": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.174.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "shopify.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mybb.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.ipaddress.my": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.6.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.baipiao.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.135.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "russia.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.hugedomains.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.137.19": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.130.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.145.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.3666888.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.30.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.141.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.153.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.229.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "epam.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "singapore.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.34.200": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.245.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.184.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ip.sb": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one-for-all.levikogjgfdd.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "tr.0a0.uk": {
+    "104.18.41.145": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.186.24": {
+    "104.17.167.185": {
       "status": "down",
       "rtt_ms": null
     },
-    "49930ag.es8.h1clayd.click": {
+    "www.zsu.gov.ua": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.173.179.218": {
+    "ld.235231.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.58.37": {
+    "4okhrijuyjytflnvowhl3zfw5wsgi34o.pages.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.199.126": {
+    "104.19.219.230": {
       "status": "down",
       "rtt_ms": null
     },
-    "fr.golangwikito.cfd": {
+    "104.26.4.157": {
       "status": "down",
       "rtt_ms": null
     },
-    "ru1.cdn-space.org": {
+    "xstack.mahanfixe.workers.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "fast.145779.xyz": {
+    "141.101.121.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.229.88": {
+    "medium.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
+    "172.67.131.125": {
       "status": "down",
       "rtt_ms": null
     },
-    "renderer-bridge-2-133.mirra.now": {
+    "172.64.158.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "icook.hk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "iplocation.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.39.125.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.8.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "quiz.int.vidio.com.ex33r.eu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.udacity.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wangcai.cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.142.169": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.105.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.147.91": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.144.198": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.150.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.100.185": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.124.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.26.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.75.194": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.69.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.78.191": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.165.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.1.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tn1r.eu.cc": {
       "status": "down",
       "rtt_ms": null
     }
