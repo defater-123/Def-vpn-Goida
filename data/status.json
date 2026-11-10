@@ -1,166 +1,10 @@
 {
-  "last_update": "2026-11-10T10:23:26.389085",
-  "total": 44,
+  "last_update": "2026-11-10T17:59:55.445500",
+  "total": 41,
   "up": 0,
-  "down": 44,
+  "down": 41,
   "results": {
-    "104.18.28.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.21.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.58.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.242.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.112.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.169.9.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.248.199": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.1.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.45.195": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.198.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.16.201.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.141.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.247.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.110.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "k9-85j.pages.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-relay-c9db.edge-edge-relay-be8e.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.31.4.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.241.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.236.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lp.astralweb.tech": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.99.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.173.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.244.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "singapore.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu90.cdn77.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lt.krevetkabs111.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yx.l110.us.ci": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vieee.observation.today": {
+    "138.16.249.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -168,7 +12,111 @@
       "status": "down",
       "rtt_ms": null
     },
-    "103.31.4.254": {
+    "104.24.21.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.45.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.110.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "9.163.235.73": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.169.9.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.99.157": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.236.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.112.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.173.179.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vv9bo423qfvc.cloudymedia.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eadd8612-tmm5c0-u2e9xs-2b2n.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fs.qicai99.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yx.l110.us.ci": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.74.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.244.47": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.198.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.247.95": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.25.242.200": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,7 +124,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.74.177": {
+    "103.31.4.254": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.46.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "s2317.gogocs.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfnew.hotpyp.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.58.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru1.cdn-space.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "web-production-a2735.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lt.krevetkabs111.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bd8d18d7-tmm5c0-tny186-4lg6.hk3.hyhuawei.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "103.31.4.160": {
       "status": "down",
       "rtt_ms": null
     }
