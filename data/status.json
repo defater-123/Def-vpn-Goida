@@ -1,26 +1,10 @@
 {
-  "last_update": "2026-11-11T17:26:35.389869",
-  "total": 27,
+  "last_update": "2026-11-11T23:34:16.567764",
+  "total": 45,
   "up": 0,
-  "down": 27,
+  "down": 45,
   "results": {
-    "mohsen13-production.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.45.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.61": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.74.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.169.9.125": {
+    "104.18.38.33": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +12,115 @@
       "status": "down",
       "rtt_ms": null
     },
-    "185.255.95.131": {
+    "190.93.247.95": {
       "status": "down",
       "rtt_ms": null
     },
-    "185.173.179.218": {
+    "151.101.36.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.112.134": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.21.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.236.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.152.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.217.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.248.199": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.196.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "176.53.253.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.61": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.153.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cucc.cloudflare.seeck.cn": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.198.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.13.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.88": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.217.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "95.85.231.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.197.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.39.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.253": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.41.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.244.47": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,11 +128,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "200.102.183.57": {
+    "172.67.110.86": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.36.246": {
+    "3.168.218.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "213.21.232.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.173.179.218": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yx.l110.us.ci": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.74.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mytubeproxy10.duckdns.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ru1.cdn-space.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.246": {
       "status": "down",
       "rtt_ms": null
     },
@@ -56,59 +176,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.198.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "saltmint.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lt.krevetkabs111.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lt.neuroblur.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "fs.qicai99.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cucc.cloudflare.seeck.cn": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.16.249.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.85.231.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ru1.cdn-space.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yx.l110.us.ci": {
+    "luminexorizon.ink": {
       "status": "down",
       "rtt_ms": null
     }
