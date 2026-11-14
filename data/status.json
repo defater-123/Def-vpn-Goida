@@ -1,34 +1,62 @@
 {
-  "last_update": "2026-11-14T08:13:10.595613",
-  "total": 42,
-  "up": 0,
-  "down": 42,
+  "last_update": "2026-11-14T15:01:57.476505",
+  "total": 33,
+  "up": 1,
+  "down": 32,
   "results": {
-    "188.114.99.137": {
+    "127.0.0.1": {
+      "status": "up",
+      "rtt_ms": 0.02
+    },
+    "153.52.255.46": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.74.177": {
+    "81.90.17.166": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.32.33": {
+    "5.59.204.26": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.6.171": {
+    "94.183.196.4": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.158.33": {
+    "45.151.70.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "3.168.217.190": {
+    "104.17.50.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.152.33": {
+    "130.49.163.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "170.114.46.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "194.58.60.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.84": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.125.42.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "49930ag.es8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "base.hosamobenl.co.uk": {
       "status": "down",
       "rtt_ms": null
     },
@@ -36,103 +64,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.196.20": {
+    "80.253.244.199": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.60.73": {
+    "3.174.189.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.28.234": {
+    "hk1t.wawojk.dpdns.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.151.231": {
+    "mao.kipfelmao.de5.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.38.33": {
+    "luminexorizon.ink": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.167.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.wto.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn0-01.cdn-vkvideo.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "saas.sin.fan": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cucc.cloudflare.seeck.cn": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.46.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.21.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.45.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.13.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.217.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.40.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.66.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.155.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.245.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.159.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.198.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.244.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fs.qicai99.com": {
+    "f0f0bet.fi2.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,35 +92,47 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.153.33": {
+    "45.10.217.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.39.33": {
+    "94.183.196.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "yx.l110.us.ci": {
+    "230b29t.es8.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.41.243": {
+    "170.114.45.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.37.228": {
+    "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "3.168.218.14": {
+    "eu79.cdn77.icu": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.197.20": {
+    "96.62.224.129": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.34.33": {
+    "194.58.60.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu113.cdn77.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "eu90.cdn77.icu": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
       "status": "down",
       "rtt_ms": null
     }
