@@ -1,62 +1,10 @@
 {
-  "last_update": "2026-11-14T15:01:57.476505",
-  "total": 33,
-  "up": 1,
-  "down": 32,
+  "last_update": "2026-11-14T19:53:43.356873",
+  "total": 26,
+  "up": 0,
+  "down": 26,
   "results": {
-    "127.0.0.1": {
-      "status": "up",
-      "rtt_ms": 0.02
-    },
-    "153.52.255.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "81.90.17.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.59.204.26": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.183.196.4": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.151.70.116": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.50.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "130.49.163.188": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "170.114.46.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.58.60.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.125.42.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "49930ag.es8.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "base.hosamobenl.co.uk": {
+    "104.19.48.107": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,27 +12,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "80.253.244.199": {
+    "3.168.217.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "3.174.189.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk1t.wawojk.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mao.kipfelmao.de5.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "luminexorizon.ink": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f0f0bet.fi2.h1clayd.click": {
+    "3.168.218.9": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,19 +24,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.10.217.5": {
+    "3.168.217.188": {
       "status": "down",
       "rtt_ms": null
     },
-    "94.183.196.20": {
+    "172.64.190.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "230b29t.es8.h1clayd.click": {
+    "153.56.228.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "170.114.45.6": {
+    "104.19.12.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.8": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b6d267t.es10.h1clayd.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.174.189.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.210.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.6.186": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.34.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.51.182": {
       "status": "down",
       "rtt_ms": null
     },
@@ -112,27 +104,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "eu79.cdn77.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "96.62.224.129": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.58.60.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu113.cdn77.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "eu90.cdn77.icu": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
+    "104.16.10.56": {
       "status": "down",
       "rtt_ms": null
     }
