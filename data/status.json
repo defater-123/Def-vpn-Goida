@@ -1,114 +1,10 @@
 {
-  "last_update": "2026-11-14T01:46:36.073955",
-  "total": 46,
+  "last_update": "2026-11-14T08:13:10.595613",
+  "total": 42,
   "up": 0,
-  "down": 46,
+  "down": 42,
   "results": {
-    "188.114.96.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.218.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.167.207": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.197.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.39.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.99.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.244.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.38.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "173.245.49.114": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.102.183.226": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.40.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.21.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.34.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.37.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.31.4.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.217.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.247.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.25.242.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cucc.cloudflare.seeck.cn": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.152.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.158.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.218.8": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.32.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.218.14": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.153.33": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.112.134": {
+    "188.114.99.137": {
       "status": "down",
       "rtt_ms": null
     },
@@ -116,19 +12,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.58.37": {
+    "104.18.32.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.155.33": {
+    "104.26.6.171": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.236.61": {
+    "172.64.158.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.248.199": {
+    "3.168.217.190": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.152.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.219.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,27 +40,59 @@
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.198.1": {
+    "104.21.60.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.199.126": {
+    "104.18.28.234": {
       "status": "down",
       "rtt_ms": null
     },
-    "3.168.217.188": {
+    "104.18.151.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.99.137": {
+    "104.18.38.33": {
       "status": "down",
       "rtt_ms": null
     },
-    "pl.krabvpn.pro": {
+    "172.67.167.207": {
       "status": "down",
       "rtt_ms": null
     },
-    "yx.l110.us.ci": {
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn0-01.cdn-vkvideo.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "saas.sin.fan": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cucc.cloudflare.seeck.cn": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.46.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.21.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.45.42": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,7 +100,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.21.163": {
+    "3.168.217.188": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.40.33": {
       "status": "down",
       "rtt_ms": null
     },
@@ -172,7 +112,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.41.243": {
+    "172.64.155.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.245.187": {
       "status": "down",
       "rtt_ms": null
     },
@@ -180,11 +124,51 @@
       "status": "down",
       "rtt_ms": null
     },
+    "162.159.198.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.244.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "fs.qicai99.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "fast.145779.xyz": {
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.153.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.39.33": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yx.l110.us.ci": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.41.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.37.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.168.218.14": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.197.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.34.33": {
       "status": "down",
       "rtt_ms": null
     }
