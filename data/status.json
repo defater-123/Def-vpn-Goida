@@ -1,46 +1,10 @@
 {
-  "last_update": "2026-11-15T17:01:47.762023",
-  "total": 18,
+  "last_update": "2026-11-15T21:43:51.731958",
+  "total": 28,
   "up": 0,
-  "down": 18,
+  "down": 28,
   "results": {
-    "3.168.219.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.169.218.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.71.216.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.192.106.192": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
+    "104.17.70.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -48,23 +12,51 @@
       "status": "down",
       "rtt_ms": null
     },
-    "3.174.189.0": {
+    "151.101.36.88": {
       "status": "down",
       "rtt_ms": null
     },
-    "151.101.36.246": {
+    "www.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "railway-bermuda-portal-production-17051877.up.railway.app": {
+    "3.168.219.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "91.188.237.14": {
       "status": "down",
       "rtt_ms": null
     },
-    "ws137.mydosss.ccwu.cc": {
+    "104.16.111.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.213.186.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35295cx.us8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.50.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.169.218.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,7 +64,55 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
+    "104.16.10.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ujp.xn--ghqu5fm27b67w.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.246": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3.174.189.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.183.149": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.36.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws137.mydosss.ccwu.cc": {
       "status": "down",
       "rtt_ms": null
     }
