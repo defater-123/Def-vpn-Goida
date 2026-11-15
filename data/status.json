@@ -1,42 +1,10 @@
 {
-  "last_update": "2026-11-15T10:02:17.680341",
-  "total": 35,
+  "last_update": "2026-11-15T17:01:47.762023",
+  "total": 18,
   "up": 0,
-  "down": 35,
+  "down": 18,
   "results": {
-    "104.18.45.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.197.172": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.58.37": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.231.28.130": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.46.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.219.189": {
+    "3.168.219.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,83 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "russia.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "mali.www-fifaweb.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.13.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-relay-c9db.edge-edge-relay-be8e.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hk1t.wawojk.dpdns.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "zfapi.zalolink.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "proxyip.jp.cmliussss.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.10.217.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.246": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.36.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.228.255": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "3.169.218.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "108.156.65.62": {
+    "185.71.216.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "5.175.211.248": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.168.219.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.80.1": {
+    "104.21.70.228": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,7 +28,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "167.17.179.175": {
+    "151.101.36.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.192.106.192": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
@@ -136,11 +52,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
+    "151.101.36.246": {
       "status": "down",
       "rtt_ms": null
     },
-    "singapore.com": {
+    "railway-bermuda-portal-production-17051877.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws137.mydosss.ccwu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mao.kipfelmao.de5.net": {
       "status": "down",
       "rtt_ms": null
     }
