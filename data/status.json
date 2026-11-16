@@ -1,92 +1,216 @@
 {
-  "last_update": "2026-11-16T01:23:55.936922",
-  "total": 21,
-  "up": 21,
-  "down": 0,
+  "last_update": "2026-11-16T08:06:46.846837",
+  "total": 52,
+  "up": 0,
+  "down": 52,
   "results": {
-    "104.17.70.206": {
-      "status": "up",
-      "rtt_ms": 6.36
-    },
-    "151.101.3.6": {
-      "status": "up",
-      "rtt_ms": 6.98
-    },
-    "151.101.36.246": {
-      "status": "up",
-      "rtt_ms": 6.92
-    },
-    "104.21.51.182": {
-      "status": "up",
-      "rtt_ms": 6.46
-    },
-    "151.101.36.201": {
-      "status": "up",
-      "rtt_ms": 8.59
-    },
-    "www.zoom.us": {
-      "status": "up",
-      "rtt_ms": 5.55
-    },
     "104.21.58.37": {
-      "status": "up",
-      "rtt_ms": 6.52
+      "status": "down",
+      "rtt_ms": null
     },
-    "151.101.36.111": {
-      "status": "up",
-      "rtt_ms": 7.97
+    "191.101.8.41": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "151.101.36.2": {
-      "status": "up",
-      "rtt_ms": 8.2
+    "45.194.66.177": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "151.101.36.88": {
-      "status": "up",
-      "rtt_ms": 8.27
+    "91.214.190.127": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "151.101.36.128": {
-      "status": "up",
-      "rtt_ms": 6.71
+    "191.217.205.138": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "151.101.36.227": {
-      "status": "up",
-      "rtt_ms": 6.86
+    "104.16.80.1": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "ws137.mydosss.ccwu.cc": {
-      "status": "up",
-      "rtt_ms": 6.74
+    "edge-relay-c9db.edge-edge-relay-be8e.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "fast.145779.xyz": {
-      "status": "up",
-      "rtt_ms": 6.63
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "mao.kipfelmao.de5.net": {
-      "status": "up",
-      "rtt_ms": 6.04
-    },
-    "ws.liuzedong.ltd": {
-      "status": "up",
-      "rtt_ms": 6.39
-    },
-    "3.169.218.0": {
-      "status": "up",
-      "rtt_ms": 72.3
+    "104.26.6.171": {
+      "status": "down",
+      "rtt_ms": null
     },
     "3.174.189.0": {
-      "status": "up",
-      "rtt_ms": 133.0
+      "status": "down",
+      "rtt_ms": null
     },
-    "3.168.219.0": {
-      "status": "up",
-      "rtt_ms": 144.0
+    "45.91.93.47": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "englandddtun.whooisthebest.ir": {
-      "status": "up",
-      "rtt_ms": 224.0
+    "www.canva.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "199.245.176.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.245.187": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl40.homelab-cdn.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.173.68": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.72.62.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "153.52.255.65": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ujp.xn--ghqu5fm27b67w.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cdn.b3h.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.223.171.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "190.93.244.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.141.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.255.157.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.220.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.46.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.101.8.40": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "159.194.210.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "186.246.20.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.147.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.6.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.86.228.39": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "202.61.73.243": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.71.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl41.homelab-cdn.cloud": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws137.mydosss.ccwu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.249.91.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nd.bazzay.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "64.6.65.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.45.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.132.176.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "120.89.61.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "90.98.0.3": {
+      "status": "down",
+      "rtt_ms": null
     },
     "172.67.199.126": {
-      "status": "up",
-      "rtt_ms": 6.14
+      "status": "down",
+      "rtt_ms": null
+    },
+    "72.56.19.142": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "85.237.207.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.151.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.23.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ip13.shabkhosh.sbs": {
+      "status": "down",
+      "rtt_ms": null
     }
   }
 }
