@@ -1,42 +1,18 @@
 {
-  "last_update": "2026-11-16T08:06:46.846837",
-  "total": 52,
+  "last_update": "2026-11-16T18:26:28.154315",
+  "total": 23,
   "up": 0,
-  "down": 52,
+  "down": 23,
   "results": {
+    "104.21.0.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "191.101.8.41": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.194.66.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.214.190.127": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.205.138": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.80.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge-relay-c9db.edge-edge-relay-be8e.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.171": {
+    "104.21.34.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,163 +20,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "45.91.93.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.canva.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "199.245.176.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.245.187": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl40.homelab-cdn.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.173.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.72.62.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.52.255.65": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ujp.xn--ghqu5fm27b67w.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cdn.b3h.qzz.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.223.171.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "190.93.244.166": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.141.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.53": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "151.101.3.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "144.31.220.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.46.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.101.8.40": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "159.194.210.102": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "186.246.20.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.147.208": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.86.228.39": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "202.61.73.243": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.71.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl41.homelab-cdn.cloud": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ws137.mydosss.ccwu.cc": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.249.91.115": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nd.bazzay.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "64.6.65.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.45.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.132.176.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "120.89.61.213": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "90.98.0.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.199.126": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "72.56.19.142": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.237.207.221": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
+    "104.17.70.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -208,7 +28,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ip13.shabkhosh.sbs": {
+    "162.159.254.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "151.101.3.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.208.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "35295cx.us8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "0592efg.us8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mr-production-6f6f999e.up.railway.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "04535dt.us8.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ujp.xn--ghqu5fm27b67w.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "luminexorizon.ink": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws137.mydosss.ccwu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "7aa271t.es1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38917fx.es1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.199.126": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.31.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.56": {
       "status": "down",
       "rtt_ms": null
     }
