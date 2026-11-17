@@ -1,22 +1,18 @@
 {
-  "last_update": "2026-11-17T09:49:21.505872",
-  "total": 46,
+  "last_update": "2026-11-17T18:49:18.615083",
+  "total": 16,
   "up": 0,
-  "down": 46,
+  "down": 16,
   "results": {
-    "80.47.10.106": {
+    "104.21.25.112": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.58.37": {
+    "138.16.249.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "2.27.40.46": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "83.171.241.238": {
+    "172.67.208.118": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,55 +20,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "190.93.245.187": {
+    "104.21.58.37": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.83.197": {
+    "104.21.23.29": {
       "status": "down",
       "rtt_ms": null
     },
-    "64.6.65.6": {
+    "ujp.xn--ghqu5fm27b67w.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.96.120": {
+    "subgift.gcorecdn.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "84.32.98.212": {
+    "fr-free.fastestrelay.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.124.63.65": {
+    "folio.basterdym.asia": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.130.234": {
+    "fast.145779.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "slot1.ipoxxo.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.45.42": {
+    "8a2e72t.nl20.h1clayd.shop": {
       "status": "down",
       "rtt_ms": null
     },
     "chess.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.opencode.ai": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "382218.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "luminexorizon.ink": {
       "status": "down",
       "rtt_ms": null
     },
@@ -81,110 +65,6 @@
       "rtt_ms": null
     },
     "78ec29x.fi2.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "nl-s-2-b1.pythonmakemigreat.wiki": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "153.76.122.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.150.108.180": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.13.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.3.223.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "84.32.54.237": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "108.156.65.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "138.16.249.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app.streamru4.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.251.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.vmware.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ujp.xn--ghqu5fm27b67w.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.225.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "folio.basterdym.asia": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ip3.ipspanel.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.173.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.visa.com.sg": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "saas.sin.fan": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "187.52.45.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.177.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.52.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.216.70.125": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.23.29": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "app.streamru8.net": {
       "status": "down",
       "rtt_ms": null
     }
