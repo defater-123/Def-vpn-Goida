@@ -1,18 +1,14 @@
 {
-  "last_update": "2026-11-17T18:49:18.615083",
-  "total": 16,
+  "last_update": "2026-11-18T01:24:42.816483",
+  "total": 30,
   "up": 0,
-  "down": 16,
+  "down": 30,
   "results": {
-    "104.21.25.112": {
+    "91.217.10.237": {
       "status": "down",
       "rtt_ms": null
     },
-    "138.16.249.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.208.118": {
+    "92.223.84.254": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,7 +16,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "172.67.208.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.60.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.25.112": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.21.58.37": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.99.137": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "138.16.249.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.143.239.148": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.253.208": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,11 +64,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ujp.xn--ghqu5fm27b67w.com": {
+    "folio.basterdym.asia": {
       "status": "down",
       "rtt_ms": null
     },
-    "subgift.gcorecdn.com": {
+    "fi-b2.golangwikito.cfd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,23 +76,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "folio.basterdym.asia": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fast.145779.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slot1.ipoxxo.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8a2e72t.nl20.h1clayd.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chess.com": {
+    "www.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,7 +84,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "78ec29x.fi2.h1clayd.click": {
+    "13.140.17.121": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nl-s-2-b1.pythonmakemigreat.wiki": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "2.26.2.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.158.219.248": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "linen.gerqix.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "193.233.199.94": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "pebble.gerqix.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free.fugui.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fast.145779.xyz": {
       "status": "down",
       "rtt_ms": null
     }
