@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-11-19T13:42:46.911136",
+  "last_update": "2026-11-19T21:48:49.789454",
   "total": 33,
   "up": 0,
   "down": 33,
   "results": {
-    "8.6.112.0": {
+    "104.18.140.67": {
       "status": "down",
       "rtt_ms": null
     },
-    "chess.com": {
+    "144.31.215.218": {
       "status": "down",
       "rtt_ms": null
     },
@@ -16,35 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.10.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "whitepanel-ui-production-2831b28a.up.railway.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.79.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.160.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.141.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.34.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.173.68": {
+    "168.113.254.183": {
       "status": "down",
       "rtt_ms": null
     },
@@ -52,47 +24,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.67.89": {
+    "harbor.gerqix.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.143.5": {
+    "172.64.79.163": {
       "status": "down",
       "rtt_ms": null
     },
-    "quay.gerqix.online": {
+    "185.151.243.186": {
       "status": "down",
       "rtt_ms": null
     },
-    "kuruish.org": {
+    "168.113.254.247": {
       "status": "down",
       "rtt_ms": null
     },
-    "willow.filnex.baby": {
+    "8a2e72t.nl20.h1clayd.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "rsk3.betust.net": {
+    "chess.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "linen.filnex.baby": {
+    "31.59.169.225": {
       "status": "down",
       "rtt_ms": null
     },
-    "f0f0bet.fi2.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.237.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.140.67": {
+    "82.40.63.138": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,27 +60,59 @@
       "status": "down",
       "rtt_ms": null
     },
+    "104.18.141.67": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kuruish.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-free.fastestrelay.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "djj.zjlo.top": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free.fugui.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "488e167c4c27.vps.myjino.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.50.53": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "104.18.63.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.6.186": {
+    "191.217.204.101": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.139.67": {
+    "172.67.67.89": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "162.159.160.117": {
       "status": "down",
       "rtt_ms": null
     },
-    "sunfield.moltex.click": {
+    "195.161.55.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "bookend.filnex.baby": {
+    "87.121.112.83": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.58.117.133": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,11 +120,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "orchard.elvano.website": {
+    "www.zoom.us": {
       "status": "down",
       "rtt_ms": null
     },
-    "free.fugui.lol": {
+    "7aa271t.es9.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "skk.moe": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "staticxfastline.taymaztest.ir": {
       "status": "down",
       "rtt_ms": null
     }
