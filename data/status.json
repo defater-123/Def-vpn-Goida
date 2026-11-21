@@ -1,90 +1,14 @@
 {
-  "last_update": "2026-11-20T18:43:09.147217",
-  "total": 32,
+  "last_update": "2026-11-21T00:15:13.105503",
+  "total": 28,
   "up": 0,
-  "down": 32,
+  "down": 28,
   "results": {
-    "195.161.55.25": {
+    "ujp.xn--ghqu5fm27b67w.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "8a2e72t.nl20.h1clayd.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.151.243.186": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.31.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.237.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.160.117": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "orchard.elvano.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.137.67": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.254.183": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.190.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.154.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.79.163": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.67.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4935e4t.de25.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free.fugui.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "willow.filnex.baby": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "jdxl.cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.140.67": {
+    "sunfield.moltex.click": {
       "status": "down",
       "rtt_ms": null
     },
@@ -92,27 +16,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.138.67": {
+    "172.67.67.89": {
       "status": "down",
       "rtt_ms": null
     },
-    "vellum.merlano.monster": {
+    "zynerio.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.141.67": {
+    "orchard.elvano.website": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.180.169": {
+    "nursery.elvano.website": {
       "status": "down",
       "rtt_ms": null
     },
-    "chess.com": {
+    "8a2e72t.nl20.h1clayd.shop": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.254.247": {
+    "www.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.79.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.160.117": {
       "status": "down",
       "rtt_ms": null
     },
@@ -120,15 +52,67 @@
       "status": "down",
       "rtt_ms": null
     },
-    "yngrfnubcecn.hostc.app": {
+    "95.163.2.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "ujp.xn--ghqu5fm27b67w.com": {
+    "104.18.63.135": {
       "status": "down",
       "rtt_ms": null
     },
-    "488e167c4c27.vps.myjino.ru": {
+    "104.17.145.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.21.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sshwug.g44mozgh.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "irlanm.g44mozgh.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "free.fugui.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "jdxl.cf.090227.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.220.223.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "47.84.226.221": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vellum.merlano.monster": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "201.24.122.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.153.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ledger.filnex.baby": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "willow.filnex.baby": {
       "status": "down",
       "rtt_ms": null
     }
