@@ -1,62 +1,14 @@
 {
-  "last_update": "2026-11-21T20:57:09.783334",
-  "total": 35,
+  "last_update": "2026-11-22T00:50:07.226547",
+  "total": 24,
   "up": 0,
-  "down": 35,
+  "down": 24,
   "results": {
-    "141.193.213.20": {
+    "5.180.145.53": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.154.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-free.fastestrelay.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ad6ea328-ace0-45e1-8b69-e698536fa709.67dc6e59-0fd8-4ca5-ba29-26a8817e203b.byteprivatelink.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "notified-rendered-moore-consideration.trycloudflare.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sub.100054.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "92.223.124.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.95.35.27": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.31.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.210.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.197.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "tachu37.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "birchbark.gerqix.online": {
+    "104.18.11.153": {
       "status": "down",
       "rtt_ms": null
     },
@@ -64,43 +16,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "wildflower.elvano.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cedar.filnex.baby": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "rainwater.elvano.website": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "clearing.moltex.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f0d7aft.nl17.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.253.178": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "grovewood.moltex.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.185.83.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.107.51.32": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lowland.moltex.click": {
+    "104.21.94.203": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,31 +24,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "news.zoom.us": {
+    "172.67.197.170": {
       "status": "down",
       "rtt_ms": null
     },
-    "yngrfnubcecn.hostc.app": {
+    "185.36.144.228": {
       "status": "down",
       "rtt_ms": null
     },
-    "reedbank.moltex.click": {
+    "151.101.1.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "ujp.xn--ghqu5fm27b67w.com": {
+    "179.254.94.184": {
       "status": "down",
       "rtt_ms": null
     },
-    "cabinet.filnex.baby": {
+    "191.217.241.41": {
       "status": "down",
       "rtt_ms": null
     },
-    "fresco.merlano.monster": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "free.fugui.lol": {
+    "77.232.40.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.155.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "158.101.195.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,7 +68,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "jdxl.cf.090227.xyz": {
+    "ujp.xn--ghqu5fm27b67w.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "sparkling-gadabout.quick-cdn.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-free.fastestrelay.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "barbered-mattocks.video-streams.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "60.248.221.27": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "107.150.93.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.139.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vpn.parsvisit.org": {
       "status": "down",
       "rtt_ms": null
     }
