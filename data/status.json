@@ -1,66 +1,26 @@
 {
-  "last_update": "2026-11-22T07:35:22.500728",
-  "total": 59,
+  "last_update": "2026-11-22T15:39:50.512777",
+  "total": 46,
   "up": 0,
-  "down": 59,
+  "down": 46,
   "results": {
-    "4935e4t.de25.h1clayd.click": {
+    "172.64.154.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.217.240": {
+    "95.128.157.245": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.123.58.178": {
+    "104.16.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.4": {
+    "85.209.231.48": {
       "status": "down",
       "rtt_ms": null
     },
-    "189.24.82.30": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.139.197.200": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "notified-rendered-moore-consideration.trycloudflare.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.52.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "198.200.37.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "23.144.68.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.108.109.112": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.18.250.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.197.170": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
+    "77.232.40.206": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,39 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.242.124": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.42.89.118": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.45.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "45.135.235.90": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.220.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.39.125.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "158.179.203.218": {
+    "104.21.0.87": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,31 +44,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.3": {
+    "104.17.50.227": {
       "status": "down",
       "rtt_ms": null
     },
-    "107.150.93.43": {
+    "191.217.244.190": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.151.231": {
+    "107.150.93.5": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.10.48": {
+    "961ec0g.nl13.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.0": {
+    "yngrfnubcecn.hostc.app": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "f0d7aft.nl13.h1clayd.click": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "7aa271t.es9.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "win2loxfde0203.gggrelay.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b3cd32g.es1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uuyjnfbv.localip.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.94.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "154.40.36.220": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.63": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.164.155": {
       "status": "down",
       "rtt_ms": null
     },
@@ -140,19 +108,75 @@
       "status": "down",
       "rtt_ms": null
     },
-    "fr-free.fastestrelay.com": {
+    "91.132.190.161": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.177.160": {
+    "94.141.102.196": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.153.10": {
+    "free.fugui.lol": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "4935e4t.de25.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "germanyafterpool.fun": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "94.103.168.62": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38917fx.es9.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
       "status": "down",
       "rtt_ms": null
     },
     "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.197.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "b3cd32g.es9.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "38917fx.es1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.37.127": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "7aa271t.es1.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.139.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.97.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "13.214.25.153": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.190.13": {
       "status": "down",
       "rtt_ms": null
     },
@@ -161,82 +185,6 @@
       "rtt_ms": null
     },
     "jdxl.cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "103.252.91.140": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.43.179.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.173.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.30.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.251.179": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "3.169.218.2": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.111.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "114.129.43.105": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.128.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.155.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.34.106": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.225.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "89.116.46.150": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.88.98": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "vless.cloudxzw2027.ccwu.cc": {
       "status": "down",
       "rtt_ms": null
     }
