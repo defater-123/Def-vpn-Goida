@@ -1,192 +1,144 @@
 {
-  "last_update": "2026-11-22T15:39:50.512777",
-  "total": 46,
-  "up": 0,
-  "down": 46,
+  "last_update": "2026-11-22T21:15:03.730426",
+  "total": 34,
+  "up": 34,
+  "down": 0,
   "results": {
-    "172.64.154.113": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "95.128.157.245": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "85.209.231.48": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "77.232.40.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
+    "104.16.10.56": {
+      "status": "up",
+      "rtt_ms": 1.83
     },
     "104.21.0.87": {
-      "status": "down",
-      "rtt_ms": null
+      "status": "up",
+      "rtt_ms": 2.17
     },
-    "104.16.10.135": {
-      "status": "down",
-      "rtt_ms": null
+    "104.16.10.185": {
+      "status": "up",
+      "rtt_ms": 2.06
     },
-    "104.17.50.227": {
-      "status": "down",
-      "rtt_ms": null
+    "104.24.0.1": {
+      "status": "up",
+      "rtt_ms": 1.98
     },
-    "191.217.244.190": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "107.150.93.5": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "961ec0g.nl13.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "yngrfnubcecn.hostc.app": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "f0d7aft.nl13.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "7aa271t.es9.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "win2loxfde0203.gggrelay.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "b3cd32g.es1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "uuyjnfbv.localip.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.94.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "154.40.36.220": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.63": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.164.155": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "5.175.221.251": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "91.132.190.161": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.141.102.196": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "free.fugui.lol": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "4935e4t.de25.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "germanyafterpool.fun": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "94.103.168.62": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "38917fx.es9.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
+    "104.27.46.35": {
+      "status": "up",
+      "rtt_ms": 2.21
     },
     "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
+      "status": "up",
+      "rtt_ms": 1.87
     },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
+    "172.67.156.147": {
+      "status": "up",
+      "rtt_ms": 2.09
     },
-    "172.67.197.170": {
-      "status": "down",
-      "rtt_ms": null
+    "104.16.10.2": {
+      "status": "up",
+      "rtt_ms": 2.16
     },
-    "b3cd32g.es9.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
+    "104.21.70.228": {
+      "status": "up",
+      "rtt_ms": 1.83
     },
-    "38917fx.es1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
+    "104.17.210.74": {
+      "status": "up",
+      "rtt_ms": 3.45
     },
-    "104.18.37.127": {
-      "status": "down",
-      "rtt_ms": null
+    "172.67.217.240": {
+      "status": "up",
+      "rtt_ms": 2.79
     },
-    "7aa271t.es1.h1clayd.click": {
-      "status": "down",
-      "rtt_ms": null
+    "104.21.6.186": {
+      "status": "up",
+      "rtt_ms": 1.82
     },
     "172.67.139.189": {
-      "status": "down",
-      "rtt_ms": null
+      "status": "up",
+      "rtt_ms": 2.11
     },
-    "104.27.97.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "13.214.25.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.190.13": {
-      "status": "down",
-      "rtt_ms": null
+    "chatgpt.com": {
+      "status": "up",
+      "rtt_ms": 2.5
     },
     "tachu37.top": {
-      "status": "down",
-      "rtt_ms": null
+      "status": "up",
+      "rtt_ms": 2.23
     },
-    "jdxl.cf.090227.xyz": {
-      "status": "down",
-      "rtt_ms": null
+    "91.185.83.43": {
+      "status": "up",
+      "rtt_ms": 121.0
+    },
+    "71b840t.de7.h1clayd.click": {
+      "status": "up",
+      "rtt_ms": 121.0
+    },
+    "free.fugui.lol": {
+      "status": "up",
+      "rtt_ms": 187.0
+    },
+    "germanyafterpool.fun": {
+      "status": "up",
+      "rtt_ms": 95.2
+    },
+    "sinavm3.soft10.ir": {
+      "status": "up",
+      "rtt_ms": 2.14
+    },
+    "172.64.190.13": {
+      "status": "up",
+      "rtt_ms": 2.08
+    },
+    "172.67.197.170": {
+      "status": "up",
+      "rtt_ms": 2.26
+    },
+    "172.64.155.209": {
+      "status": "up",
+      "rtt_ms": 2.25
+    },
+    "188.114.98.0": {
+      "status": "up",
+      "rtt_ms": 2.27
+    },
+    "185.16.110.62": {
+      "status": "up",
+      "rtt_ms": 1.5
+    },
+    "104.27.97.42": {
+      "status": "up",
+      "rtt_ms": 1.87
+    },
+    "104.16.10.48": {
+      "status": "up",
+      "rtt_ms": 1.87
+    },
+    "141.193.213.20": {
+      "status": "up",
+      "rtt_ms": 2.84
+    },
+    "172.64.152.19": {
+      "status": "up",
+      "rtt_ms": 5.01
+    },
+    "fr-free.fastestrelay.com": {
+      "status": "up",
+      "rtt_ms": 2.12
+    },
+    "152.232.62.84": {
+      "status": "up",
+      "rtt_ms": 56.8
+    },
+    "43.110.39.161": {
+      "status": "up",
+      "rtt_ms": 73.0
+    },
+    "45.129.8.204": {
+      "status": "up",
+      "rtt_ms": 170.0
+    },
+    "77.93.89.2": {
+      "status": "up",
+      "rtt_ms": 250.0
     }
   }
 }
