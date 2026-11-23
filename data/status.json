@@ -1,144 +1,84 @@
 {
-  "last_update": "2026-11-22T21:15:03.730426",
-  "total": 34,
-  "up": 34,
-  "down": 0,
+  "last_update": "2026-11-23T01:43:23.478172",
+  "total": 19,
+  "up": 0,
+  "down": 19,
   "results": {
-    "104.16.10.56": {
-      "status": "up",
-      "rtt_ms": 1.83
-    },
-    "104.21.0.87": {
-      "status": "up",
-      "rtt_ms": 2.17
-    },
-    "104.16.10.185": {
-      "status": "up",
-      "rtt_ms": 2.06
-    },
-    "104.24.0.1": {
-      "status": "up",
-      "rtt_ms": 1.98
-    },
-    "104.27.46.35": {
-      "status": "up",
-      "rtt_ms": 2.21
-    },
     "104.17.70.206": {
-      "status": "up",
-      "rtt_ms": 1.87
-    },
-    "172.67.156.147": {
-      "status": "up",
-      "rtt_ms": 2.09
-    },
-    "104.16.10.2": {
-      "status": "up",
-      "rtt_ms": 2.16
-    },
-    "104.21.70.228": {
-      "status": "up",
-      "rtt_ms": 1.83
-    },
-    "104.17.210.74": {
-      "status": "up",
-      "rtt_ms": 3.45
-    },
-    "172.67.217.240": {
-      "status": "up",
-      "rtt_ms": 2.79
-    },
-    "104.21.6.186": {
-      "status": "up",
-      "rtt_ms": 1.82
+      "status": "down",
+      "rtt_ms": null
     },
     "172.67.139.189": {
-      "status": "up",
-      "rtt_ms": 2.11
+      "status": "down",
+      "rtt_ms": null
     },
-    "chatgpt.com": {
-      "status": "up",
-      "rtt_ms": 2.5
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "tachu37.top": {
-      "status": "up",
-      "rtt_ms": 2.23
+    "144.31.150.6": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "91.185.83.43": {
-      "status": "up",
-      "rtt_ms": 121.0
-    },
-    "71b840t.de7.h1clayd.click": {
-      "status": "up",
-      "rtt_ms": 121.0
-    },
-    "free.fugui.lol": {
-      "status": "up",
-      "rtt_ms": 187.0
-    },
-    "germanyafterpool.fun": {
-      "status": "up",
-      "rtt_ms": 95.2
-    },
-    "sinavm3.soft10.ir": {
-      "status": "up",
-      "rtt_ms": 2.14
-    },
-    "172.64.190.13": {
-      "status": "up",
-      "rtt_ms": 2.08
+    "168.113.254.3": {
+      "status": "down",
+      "rtt_ms": null
     },
     "172.67.197.170": {
-      "status": "up",
-      "rtt_ms": 2.26
+      "status": "down",
+      "rtt_ms": null
     },
-    "172.64.155.209": {
-      "status": "up",
-      "rtt_ms": 2.25
+    "212.102.227.131": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "188.114.98.0": {
-      "status": "up",
-      "rtt_ms": 2.27
+    "13.143.179.17": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "185.16.110.62": {
-      "status": "up",
-      "rtt_ms": 1.5
+    "91.211.27.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.56.179.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "43.255.157.222": {
+      "status": "down",
+      "rtt_ms": null
     },
     "104.27.97.42": {
-      "status": "up",
-      "rtt_ms": 1.87
+      "status": "down",
+      "rtt_ms": null
     },
-    "104.16.10.48": {
-      "status": "up",
-      "rtt_ms": 1.87
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "141.193.213.20": {
-      "status": "up",
-      "rtt_ms": 2.84
+    "tachu37.top": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "172.64.152.19": {
-      "status": "up",
-      "rtt_ms": 5.01
+    "api.ferrin.uk": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "71b840t.de7.h1clayd.click": {
+      "status": "down",
+      "rtt_ms": null
     },
     "fr-free.fastestrelay.com": {
-      "status": "up",
-      "rtt_ms": 2.12
+      "status": "down",
+      "rtt_ms": null
     },
-    "152.232.62.84": {
-      "status": "up",
-      "rtt_ms": 56.8
-    },
-    "43.110.39.161": {
-      "status": "up",
-      "rtt_ms": 73.0
-    },
-    "45.129.8.204": {
-      "status": "up",
-      "rtt_ms": 170.0
-    },
-    "77.93.89.2": {
-      "status": "up",
-      "rtt_ms": 250.0
+    "sinavm3.soft10.ir": {
+      "status": "down",
+      "rtt_ms": null
     }
   }
 }
