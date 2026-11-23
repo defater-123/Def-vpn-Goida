@@ -1,70 +1,14 @@
 {
-  "last_update": "2026-11-23T09:47:48.011485",
-  "total": 41,
+  "last_update": "2026-11-23T21:46:57.768202",
+  "total": 26,
   "up": 0,
-  "down": 41,
+  "down": 26,
   "results": {
-    "172.64.155.209": {
+    "172.67.139.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.32.47": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.225.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "191.217.215.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "168.113.254.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.254.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.19": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.12.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.220.84": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.169.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.228": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.197.170": {
+    "104.24.31.89": {
       "status": "down",
       "rtt_ms": null
     },
@@ -72,91 +16,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ws.liuzedong.ltd": {
+    "193.111.248.54": {
       "status": "down",
       "rtt_ms": null
     },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "sinavm3.soft10.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.217.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.39.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.13.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "212.102.227.131": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.94.203": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.153.10": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1.1.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "folio.basterdym.asia": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "157.228.163.23": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "kz.x8lab.org": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "der.substituteme.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-free.fastestrelay.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.visa.com.sg": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,7 +28,83 @@
       "status": "down",
       "rtt_ms": null
     },
+    "104.17.145.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.33.237": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "slot4.ipoxxo.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-free.fastestrelay.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8a2e72t.nl20.h1clayd.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "slot1.ipoxxo.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "slot5.ipoxxo.online": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws.liuzedong.ltd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.33.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.45.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.197.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.94.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ad6ea328-ace0-45e1-8b69-e698536fa709.67dc6e59-0fd8-4ca5-ba29-26a8817e203b.byteprivatelink.com": {
       "status": "down",
       "rtt_ms": null
     }
