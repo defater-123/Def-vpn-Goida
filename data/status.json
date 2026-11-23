@@ -1,22 +1,26 @@
 {
-  "last_update": "2026-11-23T01:43:23.478172",
-  "total": 19,
+  "last_update": "2026-11-23T09:47:48.011485",
+  "total": 41,
   "up": 0,
-  "down": 19,
+  "down": 41,
   "results": {
-    "104.17.70.206": {
+    "172.64.155.209": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.139.189": {
+    "104.18.32.47": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.21": {
+    "104.24.0.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.150.6": {
+    "104.24.225.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "191.217.215.228": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,35 +28,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.197.170": {
+    "162.159.254.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "212.102.227.131": {
+    "188.114.97.19": {
       "status": "down",
       "rtt_ms": null
     },
-    "13.143.179.17": {
+    "104.18.12.229": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.211.27.231": {
+    "104.18.220.84": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.56.179.171": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "43.255.157.222": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.97.42": {
+    "104.17.169.7": {
       "status": "down",
       "rtt_ms": null
     },
@@ -60,7 +52,27 @@
       "status": "down",
       "rtt_ms": null
     },
-    "tachu37.top": {
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.197.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.97.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws.liuzedong.ltd": {
       "status": "down",
       "rtt_ms": null
     },
@@ -68,7 +80,71 @@
       "status": "down",
       "rtt_ms": null
     },
-    "71b840t.de7.h1clayd.click": {
+    "sinavm3.soft10.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.139.189": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.217.240": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.39.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.13.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "212.102.227.131": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.94.203": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.153.10": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "1.1.1.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "folio.basterdym.asia": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "157.228.163.23": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kz.x8lab.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "der.substituteme.space": {
       "status": "down",
       "rtt_ms": null
     },
@@ -76,7 +152,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "sinavm3.soft10.ir": {
+    "www.visa.com.sg": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "www.speedtest.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
       "status": "down",
       "rtt_ms": null
     }
