@@ -1,22 +1,14 @@
 {
-  "last_update": "2026-11-23T21:46:57.768202",
-  "total": 26,
+  "last_update": "2026-11-24T05:38:58.581809",
+  "total": 45,
   "up": 0,
-  "down": 26,
+  "down": 45,
   "results": {
-    "172.67.139.189": {
+    "162.159.254.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.31.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.97.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "193.111.248.54": {
+    "172.66.45.42": {
       "status": "down",
       "rtt_ms": null
     },
@@ -24,71 +16,23 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "188.114.97.9": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.145": {
+    "188.114.97.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.43": {
+    "8.39.125.64": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.33.237": {
+    "api.ferrin.uk": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.254.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slot4.ipoxxo.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-free.fastestrelay.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8a2e72t.nl20.h1clayd.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slot1.ipoxxo.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "slot5.ipoxxo.online": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "news.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ws.liuzedong.ltd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.33.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.45.195": {
+    "188.114.96.3": {
       "status": "down",
       "rtt_ms": null
     },
@@ -96,15 +40,147 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.94.203": {
+    "172.67.74.90": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.254.3": {
+    "172.67.219.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "ad6ea328-ace0-45e1-8b69-e698536fa709.67dc6e59-0fd8-4ca5-ba29-26a8817e203b.byteprivatelink.com": {
+    "104.25.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.30.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.225.89": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "146.75.32.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.134.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "03e488t.es12.h1clayd.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yd.2.hhhhh.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.89.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.22.159": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "144.31.128.13": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.93.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.75.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.204.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.47.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.151.231": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.109.16": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.65.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.79.160": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dimu-vz7e.ezaccess1717bbf.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.56.173": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.141.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.6.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "win2loxfde0303.gggrelay.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.45.195": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.6.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.88.98": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ws.liuzedong.ltd": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "fr-free.fastestrelay.com": {
       "status": "down",
       "rtt_ms": null
     }
