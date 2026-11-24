@@ -1,38 +1,14 @@
 {
-  "last_update": "2026-11-24T05:38:58.581809",
-  "total": 45,
+  "last_update": "2026-11-24T16:22:26.383383",
+  "total": 27,
   "up": 0,
-  "down": 45,
+  "down": 27,
   "results": {
-    "162.159.254.201": {
+    "104.19.70.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.45.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.39.125.64": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.3": {
+    "104.25.211.29": {
       "status": "down",
       "rtt_ms": null
     },
@@ -40,123 +16,79 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.74.90": {
+    "168.113.187.116": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.219.189": {
+    "177.202.68.217": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.25.0.1": {
+    "46.28.69.123": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "172.64.154.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.20.30.179": {
+    "177.177.215.45": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.24.225.89": {
+    "104.16.26.10": {
       "status": "down",
       "rtt_ms": null
     },
-    "146.75.32.177": {
+    "195.123.213.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.43": {
+    "62.210.24.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.134.139": {
+    "2.59.183.167": {
       "status": "down",
       "rtt_ms": null
     },
-    "03e488t.es12.h1clayd.shop": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "yd.2.hhhhh.eu.org": {
+    "82.118.16.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.89.52": {
+    "195.123.245.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.20.22.159": {
+    "82.118.16.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "144.31.128.13": {
+    "slot5.ipoxxo.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.93.170": {
+    "1c.hlclub.tech": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.75.172": {
+    "leviko-ru2753.shopingggg.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.145": {
+    "uuyjnfbv.localip.ir": {
       "status": "down",
       "rtt_ms": null
     },
-    "8.6.112.0": {
+    "alderbloom.gerqix.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.27.204.44": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.47.18": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.151.231": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.109.16": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.3": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.65.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.79.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "dimu-vz7e.ezaccess1717bbf.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.56.173": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.141.182": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.6.109": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "win2loxfde0303.gggrelay.org": {
+    "45.88.176.223": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,23 +96,19 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.6.60": {
+    "172.64.150.28": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.88.98": {
+    "slot4.ipoxxo.online": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "ams2.shtil.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "ws.liuzedong.ltd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-free.fastestrelay.com": {
+    "leviko-us9528.shopingggg.ir": {
       "status": "down",
       "rtt_ms": null
     }
