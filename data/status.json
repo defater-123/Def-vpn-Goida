@@ -1,102 +1,14 @@
 {
-  "last_update": "2026-11-25T09:20:16.865645",
-  "total": 47,
+  "last_update": "2026-11-25T19:28:09.307752",
+  "total": 39,
   "up": 0,
-  "down": 47,
+  "down": 39,
   "results": {
-    "104.16.244.34": {
+    "179.43.156.121": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.14.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "185.247.224.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.52.70": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.163.154.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "158.220.96.149": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "148.253.212.135": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.9.103": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.145": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.177.160": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.228.110.60": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "copilot.microsoft.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "folio.basterdym.asia": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hawthorn.falmero.store": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "guessable-turnpikes.cdn-content.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ip4.ipspanel.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.44.185": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "192.9.250.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.13": {
+    "fr-free.fastestrelay.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -104,23 +16,35 @@
       "status": "down",
       "rtt_ms": null
     },
-    "77.237.246.20": {
+    "172.67.139.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.152.118": {
+    "104.26.14.111": {
       "status": "down",
       "rtt_ms": null
     },
-    "92.223.124.62": {
+    "172.66.47.74": {
       "status": "down",
       "rtt_ms": null
     },
-    "155.181.37.142": {
+    "188.114.97.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "81.49.182.202": {
+    "104.16.10.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.43": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.0.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.31.89": {
       "status": "down",
       "rtt_ms": null
     },
@@ -128,35 +52,47 @@
       "status": "down",
       "rtt_ms": null
     },
+    "172.64.155.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.156.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.145.145": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.34.106": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.220.198.29": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.152.118": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "80.71.232.52": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "172.67.74.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.124.56.100": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.139.189": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ws.liuzedong.ltd": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "edge03.tunnely.space": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ee.prosetupvideo.shop": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "axe.mastopen14.ir": {
+    "162.159.254.3": {
       "status": "down",
       "rtt_ms": null
     },
@@ -164,31 +100,63 @@
       "status": "down",
       "rtt_ms": null
     },
-    "188.214.37.231": {
+    "172.64.150.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.155.209": {
+    "151.101.193.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "168.113.142.192": {
+    "104.16.10.185": {
       "status": "down",
       "rtt_ms": null
     },
-    "193.168.140.175": {
+    "162.159.254.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "31.57.28.169": {
+    "141.193.213.21": {
       "status": "down",
       "rtt_ms": null
     },
-    "91.142.79.131": {
+    "104.19.12.94": {
       "status": "down",
       "rtt_ms": null
     },
-    "windflower.elvano.website": {
+    "104.17.210.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.9.103": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.234": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.154.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "news.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "guessable-turnpikes.cdn-content.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "wryly-messiest.video-streams.org": {
       "status": "down",
       "rtt_ms": null
     }
