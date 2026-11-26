@@ -1,106 +1,14 @@
 {
-  "last_update": "2026-11-26T11:10:36.952430",
-  "total": 50,
-  "up": 0,
-  "down": 50,
+  "last_update": "2026-11-26T20:07:53.108487",
+  "total": 41,
+  "up": 1,
+  "down": 40,
   "results": {
-    "162.159.254.201": {
-      "status": "down",
-      "rtt_ms": null
+    "127.0.0.1": {
+      "status": "up",
+      "rtt_ms": 0.01
     },
-    "31.58.234.101": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "chatgpt.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "88.119.176.49": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.19.12.94": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.33.176": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.155.209": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "lingering-fire-1fe9.vpnetwork3567.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.155.153": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.97.42": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.80.241": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.74.177": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.152.118": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "1.1.1.1": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "italy.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "belgium.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "usfl.stealthtunnel.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "axe.mastopen14.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.13": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.66.47.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.111.202": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "200.234.112.37": {
+    "104.21.34.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,67 +16,19 @@
       "status": "down",
       "rtt_ms": null
     },
+    "104.21.70.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "172.64.154.113": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.94.203": {
+    "104.21.68.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.14.111": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bitter-math-4364.vpnetwork3567.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ancient-haze-d203.vpnetwork3567.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.217.240": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "api.ferrin.uk": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "194.87.224.137": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "48.102.207.167": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "31.56.229.22": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "n49.neproxy.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "hongkong.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "finland.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.145.43": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "48.102.207.172": {
+    "201.58.133.77": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,7 +36,11 @@
       "status": "down",
       "rtt_ms": null
     },
-    "152.234.248.165": {
+    "104.16.10.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.70.21": {
       "status": "down",
       "rtt_ms": null
     },
@@ -184,11 +48,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.145.145": {
+    "104.21.94.203": {
       "status": "down",
       "rtt_ms": null
     },
-    "finland.claudpath.com": {
+    "172.66.47.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.46.35": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "195.208.123.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "denmark.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "belgium.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,11 +80,91 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ws.liuzedong.ltd": {
+    "x.m-90.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "n42.neproxy.net": {
+    "104.21.33.59": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.156.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.10.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.24.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.97.42": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "122.118.135.139": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.111.102": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.0.87": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.155.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.50.227": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.19.48.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "hongkong.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "italy.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ukr.stealthtunnel.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "uk-tube-01.stre4m.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "leviko-us4350.shopingggg.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "n49.neproxy.net": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.6.186": {
       "status": "down",
       "rtt_ms": null
     }
