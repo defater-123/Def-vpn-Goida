@@ -1,26 +1,26 @@
 {
-  "last_update": "2026-11-26T20:07:53.108487",
-  "total": 41,
-  "up": 1,
-  "down": 40,
+  "last_update": "2026-11-27T02:48:50.358451",
+  "total": 45,
+  "up": 0,
+  "down": 45,
   "results": {
-    "127.0.0.1": {
-      "status": "up",
-      "rtt_ms": 0.01
-    },
-    "104.21.34.106": {
+    "104.21.94.203": {
       "status": "down",
       "rtt_ms": null
     },
-    "141.193.213.20": {
+    "200.96.109.197": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.70.228": {
+    "185.86.155.25": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.154.113": {
+    "ee.prosetupvideo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "135.126.21.106": {
       "status": "down",
       "rtt_ms": null
     },
@@ -28,79 +28,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "201.58.133.77": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.97.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.9": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.70.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
     "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.94.203": {
+    "3.219.184.102": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.66.47.74": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.27.46.35": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "195.208.123.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "denmark.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "belgium.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "fr-free.fastestrelay.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "x.m-90.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.21.33.59": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.156.147": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.10.56": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.0.1": {
+    "108.158.198.2": {
       "status": "down",
       "rtt_ms": null
     },
@@ -108,39 +44,99 @@
       "status": "down",
       "rtt_ms": null
     },
-    "122.118.135.139": {
+    "xinnusvpn.duckdns.org": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.111.102": {
+    "172.67.139.189": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.16.0.1": {
+    "ws.dhafhdtjdti.site": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.0.87": {
+    "141.193.213.20": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.155.209": {
+    "x.m-90.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.50.227": {
+    "estonia.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.254.201": {
+    "fr-free.fastestrelay.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.48.107": {
+    "n50.neproxy.net": {
       "status": "down",
       "rtt_ms": null
     },
-    "hongkong.astroapps.io": {
+    "api.ggssstreaming.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ggssstreaming.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lingering-fire-1fe9.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "93.184.169.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "89.44.80.204": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.47.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.13.54": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.67.80": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "200.96.109.82": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "147.45.63.72": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "finland.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "belgium.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "185.86.155.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -148,23 +144,43 @@
       "status": "down",
       "rtt_ms": null
     },
-    "ukr.stealthtunnel.com": {
+    "dddz-1-x.473221.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "uk-tube-01.stre4m.net": {
+    "162.159.160.73": {
       "status": "down",
       "rtt_ms": null
     },
-    "leviko-us4350.shopingggg.ir": {
+    "hongkong.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "n49.neproxy.net": {
+    "denmark.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.6.186": {
+    "172.64.155.209": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "135.126.21.107": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bg.stealthtunnel.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ca.stealthtunnel.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "test04.electrowizard.ir": {
       "status": "down",
       "rtt_ms": null
     }
