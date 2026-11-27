@@ -1,262 +1,130 @@
 {
-  "last_update": "2026-11-27T11:31:09.849080",
-  "total": 64,
-  "up": 58,
-  "down": 6,
+  "last_update": "2026-11-27T20:17:16.521246",
+  "total": 31,
+  "up": 1,
+  "down": 30,
   "results": {
-    "188.114.97.6": {
-      "status": "up",
-      "rtt_ms": 5.95
+    "201.58.178.236": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "188.114.98.0": {
-      "status": "up",
-      "rtt_ms": 6.35
+    "104.17.70.206": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "8.6.112.0": {
-      "status": "up",
-      "rtt_ms": 6.38
-    },
-    "ancient-haze-d203.vpnetwork3567.workers.dev": {
-      "status": "up",
-      "rtt_ms": 6.31
-    },
-    "dry-snowflake-b29f.vpnetwork3567.workers.dev": {
-      "status": "up",
-      "rtt_ms": 6.19
-    },
-    "www.visa.com": {
-      "status": "up",
-      "rtt_ms": 6.29
+    "172.64.154.113": {
+      "status": "down",
+      "rtt_ms": null
     },
     "ws.dhafhdtjdti.site": {
-      "status": "up",
-      "rtt_ms": 5.95
+      "status": "down",
+      "rtt_ms": null
     },
-    "bulgaria.astroapps.io": {
-      "status": "up",
-      "rtt_ms": 6.07
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "belgium.astroapps.io": {
-      "status": "up",
-      "rtt_ms": 6.36
+    "chatgpt.com": {
+      "status": "down",
+      "rtt_ms": null
     },
-    "147.182.156.112": {
-      "status": "up",
-      "rtt_ms": 95.0
-    },
-    "202.133.89.8": {
-      "status": "up",
-      "rtt_ms": 144.0
-    },
-    "95.179.140.212": {
-      "status": "up",
-      "rtt_ms": 148.0
-    },
-    "185.34.52.147": {
-      "status": "up",
-      "rtt_ms": 163.0
-    },
-    "5.101.114.177": {
-      "status": "up",
-      "rtt_ms": 181.0
-    },
-    "62.212.79.76": {
-      "status": "up",
-      "rtt_ms": 183.0
-    },
-    "193.37.71.95": {
-      "status": "up",
-      "rtt_ms": 187.0
-    },
-    "xinnusvpn.duckdns.org": {
-      "status": "up",
-      "rtt_ms": 136.0
-    },
-    "velaroorts.ir": {
-      "status": "up",
-      "rtt_ms": 166.0
-    },
-    "ip13.shabkhosh.sbs": {
-      "status": "up",
-      "rtt_ms": 7.36
+    "108.130.27.29": {
+      "status": "down",
+      "rtt_ms": null
     },
     "104.27.97.42": {
-      "status": "up",
-      "rtt_ms": 6.47
-    },
-    "172.66.47.74": {
-      "status": "up",
-      "rtt_ms": 6.06
-    },
-    "104.168.142.4": {
-      "status": "up",
-      "rtt_ms": 8.4
-    },
-    "denmark.astroapps.io": {
-      "status": "up",
-      "rtt_ms": 5.94
-    },
-    "109.172.8.73": {
-      "status": "up",
-      "rtt_ms": 154.0
-    },
-    "179.255.191.82": {
-      "status": "up",
-      "rtt_ms": 166.0
-    },
-    "wryly-messiest.video-streams.org": {
-      "status": "up",
-      "rtt_ms": 7.63
-    },
-    "194.76.154.230": {
-      "status": "up",
-      "rtt_ms": 160.0
-    },
-    "185.153.180.9": {
-      "status": "up",
-      "rtt_ms": 182.0
-    },
-    "104.248.84.93": {
-      "status": "up",
-      "rtt_ms": 165.0
-    },
-    "217.60.3.98": {
-      "status": "up",
-      "rtt_ms": 161.0
-    },
-    "80.211.205.61": {
-      "status": "up",
-      "rtt_ms": 192.0
-    },
-    "ggssstreaming.ru": {
-      "status": "up",
-      "rtt_ms": 184.0
-    },
-    "n50.neproxy.net": {
-      "status": "up",
-      "rtt_ms": 166.0
-    },
-    "194.36.190.2": {
-      "status": "up",
-      "rtt_ms": 144.0
-    },
-    "guessable-turnpikes.cdn-content.com": {
-      "status": "up",
-      "rtt_ms": 7.44
-    },
-    "104.168.133.207": {
-      "status": "up",
-      "rtt_ms": 8.24
-    },
-    "ukr.stealthtunnel.com": {
-      "status": "up",
-      "rtt_ms": 6.34
-    },
-    "195.85.19.136": {
-      "status": "up",
-      "rtt_ms": 196.0
-    },
-    "195.133.81.231": {
-      "status": "up",
-      "rtt_ms": 135.0
-    },
-    "104.21.67.80": {
-      "status": "up",
-      "rtt_ms": 6.35
-    },
-    "104.248.107.186": {
-      "status": "up",
-      "rtt_ms": 92.8
-    },
-    "94.177.8.10": {
-      "status": "up",
-      "rtt_ms": 239.0
-    },
-    "141.193.213.20": {
-      "status": "up",
-      "rtt_ms": 7.17
-    },
-    "147.45.170.176": {
-      "status": "up",
-      "rtt_ms": 137.0
-    },
-    "188.253.26.143": {
-      "status": "up",
-      "rtt_ms": 135.0
-    },
-    "64.176.68.73": {
-      "status": "up",
-      "rtt_ms": 166.0
-    },
-    "162.159.254.201": {
-      "status": "up",
-      "rtt_ms": 8.07
-    },
-    "83.228.240.71": {
-      "status": "up",
-      "rtt_ms": 161.0
-    },
-    "84.246.215.90": {
-      "status": "up",
-      "rtt_ms": 162.0
+      "status": "down",
+      "rtt_ms": null
     },
     "ee.prosetupvideo.shop": {
       "status": "down",
       "rtt_ms": null
     },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.98.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "still-bar-5702.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.62.113": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ancient-haze-d203.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bulgaria.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "belgium.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "3x-sub.linzhonghong.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "us-tube-01.funky-monkey.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "denmark.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ggssstreaming.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "127.0.0.1": {
+      "status": "up",
+      "rtt_ms": 0.03
+    },
+    "172.66.47.74": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "48.102.174.147": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "141.193.213.21": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "204.138.145.163": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "lingering-fire-1fe9.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bridge.funky-monkey.app": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "dry-snowflake-b29f.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "hongkong.astroapps.io": {
-      "status": "up",
-      "rtt_ms": 6.44
-    },
-    "www.wto.org": {
-      "status": "up",
-      "rtt_ms": 6.34
-    },
-    "134.209.19.88": {
-      "status": "up",
-      "rtt_ms": 147.0
-    },
-    "italy.astroapps.io": {
-      "status": "up",
-      "rtt_ms": 6.42
-    },
-    "46.250.246.11": {
-      "status": "up",
-      "rtt_ms": 230.0
-    },
-    "104.17.70.206": {
-      "status": "up",
-      "rtt_ms": 6.63
-    },
-    "169.58.91.180": {
-      "status": "up",
-      "rtt_ms": 250.0
-    },
-    "134.209.184.156": {
-      "status": "up",
-      "rtt_ms": 155.0
-    },
-    "62.182.198.85": {
-      "status": "up",
-      "rtt_ms": 155.0
-    },
-    "155.248.175.201": {
       "status": "down",
       "rtt_ms": null
     },
-    "95.111.226.161": {
+    "muddy-frost-4e2d.vpnetwork3567.workers.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "djj.zjlo.top": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "87.120.106.95": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "147.93.171.8": {
+    "leviko-us4350.shopingggg.ir": {
       "status": "down",
       "rtt_ms": null
     }
