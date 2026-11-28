@@ -1,18 +1,10 @@
 {
-  "last_update": "2026-11-28T10:59:50.590146",
-  "total": 52,
+  "last_update": "2026-11-28T18:41:22.526348",
+  "total": 43,
   "up": 0,
-  "down": 52,
+  "down": 43,
   "results": {
-    "104.16.148.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.153.205": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.4": {
+    "172.64.154.113": {
       "status": "down",
       "rtt_ms": null
     },
@@ -20,23 +12,15 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.18.41.190": {
+    "188.114.98.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.154.113": {
+    "48.102.202.183": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.254.201": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.24.196.20": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.47.69.0": {
+    "172.64.155.209": {
       "status": "down",
       "rtt_ms": null
     },
@@ -44,131 +28,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "104.19.39.229": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.0.89": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "leviko-us6278.shopingggg.ir": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.64.150.28": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.68.157": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.96.6": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.vmware.com": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.12.31": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ev.zoom.us": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "saas.sin.fan": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.99.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "141.193.213.21": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "162.159.130.234": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.33.45": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "188.114.98.0": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.21.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.5.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.20.69": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.18.45.236": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.169.7": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.16.149.244": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "109.172.87.68": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.17.70.206": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.26.12.54": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "still-bar-5702.vpnetwork3567.workers.dev": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "bulgaria.astroapps.io": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "8.6.112.86": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "ggssstreaming.ru": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "cf.877774.xyz": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "www.speedtest.net": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "104.20.6.134": {
-      "status": "down",
-      "rtt_ms": null
-    },
-    "172.67.75.172": {
+    "8.6.112.4": {
       "status": "down",
       "rtt_ms": null
     },
@@ -176,19 +36,31 @@
       "status": "down",
       "rtt_ms": null
     },
-    "172.67.66.177": {
+    "104.20.0.89": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "104.20.5.134": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.13.54": {
+    "172.64.154.211": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.26.13.31": {
+    "ee-b1.prosetupvideo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.148.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "still-bar-5702.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "guessable-turnpikes.cdn-content.com": {
       "status": "down",
       "rtt_ms": null
     },
@@ -196,7 +68,7 @@
       "status": "down",
       "rtt_ms": null
     },
-    "belgium.astroapps.io": {
+    "bulgaria.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
@@ -204,11 +76,103 @@
       "status": "down",
       "rtt_ms": null
     },
+    "leviko-us4350.shopingggg.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ggssstreaming.ru": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.6.112.86": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "31.77.13.166": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.194.66.30": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.12.31": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.75.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.66.177": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "108.158.198.2": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.99.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
     "denmark.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "leviko-us4350.shopingggg.ir": {
+    "104.24.196.20": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "bitter-math-4364.vpnetwork3567.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "91.92.47.57": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kuruish.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "belgium.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "id1vpn.jagoanip.my.id": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cf.877774.xyz": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.16.149.244": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.21.69": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "leviko-us6278.shopingggg.ir": {
       "status": "down",
       "rtt_ms": null
     }
