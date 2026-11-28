@@ -1,98 +1,218 @@
 {
-  "last_update": "2026-11-27T20:17:16.521246",
-  "total": 31,
-  "up": 1,
-  "down": 30,
+  "last_update": "2026-11-28T02:49:47.529629",
+  "total": 104,
+  "up": 0,
+  "down": 104,
   "results": {
-    "201.58.178.236": {
+    "104.18.153.182": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.17.70.206": {
+    "172.67.70.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "172.64.154.113": {
+    "8.6.112.242": {
       "status": "down",
       "rtt_ms": null
     },
-    "ws.dhafhdtjdti.site": {
+    "172.66.47.202": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.97.6": {
+    "188.114.97.3": {
       "status": "down",
       "rtt_ms": null
     },
-    "chatgpt.com": {
+    "104.18.1.1": {
       "status": "down",
       "rtt_ms": null
     },
-    "108.130.27.29": {
+    "172.67.217.241": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.27.97.42": {
+    "172.67.74.177": {
       "status": "down",
       "rtt_ms": null
     },
-    "ee.prosetupvideo.shop": {
+    "188.114.96.6": {
       "status": "down",
       "rtt_ms": null
     },
-    "162.159.254.201": {
+    "104.25.5.52": {
       "status": "down",
       "rtt_ms": null
     },
-    "188.114.98.0": {
+    "104.26.4.57": {
       "status": "down",
       "rtt_ms": null
     },
-    "still-bar-5702.vpnetwork3567.workers.dev": {
+    "104.20.22.159": {
       "status": "down",
       "rtt_ms": null
     },
-    "104.21.62.113": {
+    "172.67.78.150": {
       "status": "down",
       "rtt_ms": null
     },
-    "ancient-haze-d203.vpnetwork3567.workers.dev": {
+    "104.18.152.233": {
       "status": "down",
       "rtt_ms": null
     },
-    "bulgaria.astroapps.io": {
+    "172.67.209.13": {
       "status": "down",
       "rtt_ms": null
     },
-    "belgium.astroapps.io": {
+    "172.67.67.89": {
       "status": "down",
       "rtt_ms": null
     },
-    "3x-sub.linzhonghong.com": {
+    "8.6.112.0": {
       "status": "down",
       "rtt_ms": null
     },
-    "us-tube-01.funky-monkey.app": {
+    "proxy-34l.pages.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "denmark.astroapps.io": {
+    "fool.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "ggssstreaming.ru": {
+    "wangcai.cf.877774.xyz": {
       "status": "down",
       "rtt_ms": null
     },
-    "127.0.0.1": {
-      "status": "up",
-      "rtt_ms": 0.03
-    },
-    "172.66.47.74": {
+    "172.67.130.187": {
       "status": "down",
       "rtt_ms": null
     },
-    "48.102.174.147": {
+    "172.66.44.78": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.208.235": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.47.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.184.45": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.74.90": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.14.111": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.69.152": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.6.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.44.211": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.47.18": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.17.236": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "mybb.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.249.92": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "nhl.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "floral-grass-aa1e.dianawpewpek1.workers.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "aslanbilit.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "kclx.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "japan.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "45.130.125.151": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.134.136": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.141.182": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.93.170": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.6.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.131.125": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.3.133": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.9": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.75.172": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.0.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.65.56": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.7.96": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cambridge.org": {
       "status": "down",
       "rtt_ms": null
     },
@@ -100,31 +220,203 @@
       "status": "down",
       "rtt_ms": null
     },
-    "204.138.145.163": {
+    "k9-85j.pages.dev": {
       "status": "down",
       "rtt_ms": null
     },
-    "lingering-fire-1fe9.vpnetwork3567.workers.dev": {
+    "172.67.178.143": {
       "status": "down",
       "rtt_ms": null
     },
-    "bridge.funky-monkey.app": {
+    "epam.com": {
       "status": "down",
       "rtt_ms": null
     },
-    "dry-snowflake-b29f.vpnetwork3567.workers.dev": {
+    "www.visa.com.sg": {
       "status": "down",
       "rtt_ms": null
     },
-    "hongkong.astroapps.io": {
+    "104.18.151.231": {
       "status": "down",
       "rtt_ms": null
     },
-    "muddy-frost-4e2d.vpnetwork3567.workers.dev": {
+    "denmark.astroapps.io": {
       "status": "down",
       "rtt_ms": null
     },
-    "leviko-us4350.shopingggg.ir": {
+    "www.wto.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.26": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.45.141": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.6.109": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.0": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "118.151.222.66": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.74.214": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.169.34": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.97.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ev.zoom.us": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.43.115": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.47.69.6": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.66.44.124": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "londonstockexchange.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "vless3.gem-audio2.us.ci": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.204.44": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "ee.prosetupvideo.shop": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "spacex.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.27.207.122": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.26.4.60": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.20.30.179": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "8.39.125.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.108.4": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.73.135": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.73.213": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "77.232.140.7": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "cfnode-11ivy8.pages.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "162.159.254.201": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.121.228": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "singapore.com": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.64.80.1": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "172.67.76.128": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "belgium.astroapps.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "one-for-all.levikogjgfdd.ir": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "188.114.96.3": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.13.229": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "support.zoom.us.vltj.qzz.io": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.14.123": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "yd.2.hhhhh.eu.org": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "quiz.int.vidio.com.ex33r.eu.cc": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.21.71.249": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "104.18.40.171": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "14f7f5f0.mrbl69black.pages.dev": {
+      "status": "down",
+      "rtt_ms": null
+    },
+    "tn1r.eu.cc": {
       "status": "down",
       "rtt_ms": null
     }
